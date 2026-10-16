@@ -1,13 +1,6 @@
 {
   "name": "superphysics",
   "version": "1.0.0",
-  // "scripts": {
-  //   "dev": "concurrently \"npm run dev:css\" \"npm run dev:hugo\"",
-  //   "dev:hugo": "hugo server --buildDrafts --renderToMemory",
-  //   "build": "npm run build:css && hugo --gc --minify --cleanDestinationDir",
-  //   "build:css": "npx @tailwindcss/cli@4 -i assets/css/main.css -o static/css/tailwind.css --minify",
-  //   "dev:css": "npx @tailwindcss/cli@4 -i assets/css/main.css -o static/css/tailwind.css --watch"
-  // },
   "scripts": {
     "dev": "concurrently \"bun run dev:css\" \"bun run dev:hugo\"",
     "dev:hugo": "hugo server --buildDrafts --renderToMemory",

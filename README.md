@@ -7,6 +7,15 @@ A multilingual science website built with Hugo and Tailwind CSS 4.2.1.
 
 {{- $hasImage := and .Params.image (not .Params.icon) -}}
 
+  // "scripts": {
+  //   "dev": "concurrently \"npm run dev:css\" \"npm run dev:hugo\"",
+  //   "dev:hugo": "hugo server --buildDrafts --renderToMemory",
+  //   "build": "npm run build:css && hugo --gc --minify --cleanDestinationDir",
+  //   "build:css": "npx @tailwindcss/cli@4 -i assets/css/main.css -o static/css/tailwind.css --minify",
+  //   "dev:css": "npx @tailwindcss/cli@4 -i assets/css/main.css -o static/css/tailwind.css --watch"
+  // },
+
+
 
 npx @tailwindcss/cli -i ./assets/css/main.css -o ./static/css/styles.css --watch
 
