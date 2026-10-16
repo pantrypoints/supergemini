@@ -1,0 +1,48 @@
+---
+title: "The Rupture (al-Inshiqaq)"
+heading: "Sura 84a "
+weight: 236
+c: "maroon"
+description: "We replace Allah with Anu, to represent the Anunnaki Gods who created man"
+---
+
+
+{{< s v="1" >}}  When:
+- the sky is ruptured and hearkens to its Lord, as it must.
+- {{< s v="3" >}} the earth is leveled out and casts out what is in it, becomes empty and hearkens to its Lord, as it must.
+
+O mankind! You are laboring towards your Lord, and you will meet Him.
+
+
+<sup>7-8</sup> He who is given his book in his right hand, he will be judged with an easy account. <sup>9</sup> and will return to his family delighted.
+
+{{< s v="10-12" >}} But he who is given his book behind his back, he will:
+- cry out for death and
+- enter the Blaze.
+
+He:
+- used to be happy among his family.
+- thought he would never return.
+
+
+{{< s v="15" >}} In fact, his Lord was watching him. 
+
+{{< s v="16-19" >}} I swear:
+- by the twilight
+- by the night
+- by the moon as it grows full.
+
+I swear that you will experience this stage after stage. 
+
+<sup>20</sup> So why do they not:
+- believe when the QurÕŒn is recited to them and
+- prostrate to Anu?
+
+<!-- 22. The disbelievers deny,
+23. And AllŒh is most knowing of what they keep within themselves. -->
+
+<sup>24</sup> So give them tidings of a painful punishment
+
+<!-- 25. Except for those who believe and do righteous deeds. For them
+is a reward uninterrupted.
+ -->

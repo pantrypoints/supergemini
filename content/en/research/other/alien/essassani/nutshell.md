@@ -1,0 +1,186 @@
+---
+title: "The Sassani in a Nutshell"
+weight: 91
+c: "darkslategray"
+image: "/photos/alien/forest.jpg"
+description: "This is for people who have no knowledge of aliens or vibrations or spirit mediums"
+---
+
+
+
+
+The Sassani are an advanced 4th density alien species that come from the planet Essassani with a green star called *Shah* near the Orion's belt in a parallel reality (Humans are 3rd density, animals are 2nd density, rocks are 1st density, spirits are 5th density). 
+
+## Part Gray
+
+They are similar to humans in the sense that they have eyes, ears, arms, and legs just like us. This is because they are half gray and half human, being a creation of the Gray aliens in order to continue the extinct Gray culture. 
+
+
+{{< b >}}
+### The Gray Inconsistency of the Sassani
+
+Before 2000's the Sassani explained that the Grays were related to humans via the Anunnaki and are from Zeta Reticulum in our same dimension just like the Pleaideans. 
+
+But from the 2000's onwards, they change the Gray story saying that they are mutated humans from a parallel reality Earth (not Zeta Reticulum). 
+
+This is the only glaring inconsistency that we have found from the Sassani. The Grays being mutated humans is quite unbelievable especially since the Grays are described consistently by other groups as coming from Zeta Reticulum. We assume that the Sassani will defend this inconsistency by saying there are many factions of Grays. 
+{{< /b >}}
+
+
+The Sassani are much more advanced in intelligence and spirituality than humans, to the point that they are psychic and can perform telepathy. 
+
+They are able to talk to humans through the phenomenon called "channeling" (Giao tiếp với sinh vật ngoài hành tinh qua người truyền tin). 
+
+This is how we are able to learn about their civilization and technologies. 
+
+Since 1983, they have been communicating with an American named Darryl Anka via Bashar. They have also channeled through:
+- [Ayako Sekino](https://www.youtube.com/c/AyakoSekinoClass) (Bashar)
+- [Andrew Bayuk](https://www.youtube.com/@ElanInteractions) (Elan)
+- [Tyler Ellison](https://www.youtube.com/@thegalacticguide111) (Ryokah, Shikoi)
+- etc 
+
+The internet and Youtube have allowed their communications to be known by more people.
+
+
+## Their Agenda: Anuhet and Hybrid Colonization 
+
+Their goal is to help humans advance mentally and spiritually by explaining how the universe works in order to create the new race called the **Anuhet** which will aid our quadrant of the galaxy as it merges with the higher vibration [Andromeda galaxy](https://en.wikipedia.org/wiki/Andromeda%E2%80%93Milky_Way_collision). 
+
+To achieve this long term goal, they have a short-medium term goal of positively colonizing Earth with hybrids. The Sassani Bashar does this by channeling a hybrid called Willa. 
+
+Unlike European colonization which was destructive and negative, Hybrid colonization is positive similar to how the Indian Gupta empire colonized and bootstrapped Sri Lanka, Indonesia, Thailand, Cambodia, and the Philippines as proven by them being Hindu such as Bali, spreading Dharma in the process.
+
+
+{{< n n="The Sassani call dharma as 'excitement' -- their formula is their way to make people follow or find their Dharma or True Nature. We classify the Sassani philosophy under path of action (karma yoga) instead of the traditional path of love (bhakti yoga). In the Sassani system, love is realized after action. But in the Hindu system, action is done because of love or devotion." >}}
+
+
+
+## The Formula
+
+And so they spread their philosophy of acting on your highest passion, which is very similar to **The Law of Attraction**. Their difference with the Law of Attraction is that their philosophy is done through a specific formula:
+
+
+### Step 1. Act on your HIGHEST Excitement or Passion
+
+In every moment, out of a series of choices, find out the one that you are most passionate or excited about.
+
+In Hinduism, acting on your true passion means being in line with your dharma.
+
+
+### Step 2. Do that act to the best of your ability. 
+
+Once you find something to do, do it to the best that you can. 
+
+
+### Step 3. While doing that action or activity, absolutely do not expect what the outcome should be
+
+Whenever we do something, we often expect it to succeed. We get disappointed and sad when it fails to match our expectation. 
+
+The Sassani instruct to NOT have expectation of the outcome. 
+
+In Hinduism, this is called Karma Yoga, where we act but do not expect specific results.
+
+
+### Step 4. Be Positive regardless of what happens
+
+Whatever the results of your actions may be, stay in a positive state.
+
+
+### Step 5. Observe your mind and its beliefs
+
+After doing the action, you will get results. Observe how your mind reacts to those results. Then find out why it acted in a certain way. 
+
+For example, let's say you did your best to apply for your dream job. You took the company's test and went for the interview. But you still did not get the job. 
+
+If you become negative, then you might blame yourself and become discouraged, or you might sourgrape against the company that you applied to. 
+
+But if you stay positive, then you might get an idea of which company to apply to, or you might get offered a different position in that company.
+
+Being positive and unattached in Hinduism is known as "renouncing the fruits of one's actions or karma". 
+
+
+Note that a very different formula was first given by Bashar on May 1990 as the 1-3-5 No Risk Formula. But it didn't seem to get traction. And so by December 1997, Bashar gives the current formula. 
+
+
+
+## Historical Sassani and Other Sassani 
+
+The earliest recorded interaction of humans with Sassani was the Sassanid empire. 
+
+The founder of the Sassanid Empire met or encountered a Sassani alien whom the Persians called a god. So he named his child [Sassan](https://en.wikipedia.org/wiki/Sasan) after that Sassani god or alien. 
+
+Historically, Sassan reintroduced the divine (alien) right of rule by introducing the Shah system of rule, since Shah is the star of the Sassani.
+
+<!-- , as opposed to system of Cyrus that caused the invasion of Greece.  -->
+
+<!-- the khshayathiya -->
+
+Bashar does the general work of introducing 4th and 5th density concepts. The other Sassani give the details. 
+
+
+<!-- For example, Elan is  -->
+
+
+## Common Effects of Sassani Teachings
+
+The most commmon effect is for people to liberate themselves, which they do by quitting their jobs. This puts them into financial trouble and so many questions are about [Abundance](/tags/abundance/) 
+
+
+{{< b >}}
+### Clear Example: June 1985 Transmission
+
+**Poor Woman:** 6 months ago, my husband and I lost our income. We embarked on an adventure of doing what we wanted to do and seeing if we could survive. Now I've got about $7 left and 2 days worth of food. My son only has about one day. He has to skimp. On one hand, I have an impulse to work real fast to get a little cash. But I also have another impulse to just ride it out, see what happens. Now I get mad at my husband because he isn't doing anything. 
+
+**Bashar:** You know that everything will be all right. Some people will just sit around and do nothing at all even when they know they can act, because they know everything will be all right.
+
+**Poor Woman:** Yes I just sit around and do nothing. But I also feel like, "Go do something."
+
+**Bashar:** If you are in touch with yourself, you will know the difference between when it is "go do something" because you have fear or "go do something" because that is your instinct.
+
+**Another Woman:** Why can't you do something and create opportunity?
+
+**Poor Woman:** I feel that getting a job is the old idea. But I don't really want to go knocking on somebody's door you know say: please give me money! I feel that my imagination can create something better.. something like making money come in the door.
+
+**Bashar:** So I would suggest that there those in this room each throw $1 at her.
+
+**Another Woman:** I would.
+
+[they throw money at her, everyone happily cheering]
+
+**Bashar:** Now you have created a flow of abundance that will create a vacuum which will be filled. How do you all feel about creating that idea together? Cost you nothing. Made you feel good. Made her feel good. 
+
+**Poor Woman:** I just doubled my net worth!
+
+**Bashar:** You always have more in that way than you need. There is no reason to feel that anything has been parted with. You have set up a flow which will now be contained within the unit of the mass consciousness here and now. To initiate the flow, you demonstrated that you do not need to spend much of your money. From having one portion that is non-abundant, you are now all abundant. You have set up a flow, the momentum of which will now increase because you have allowed a space for that momentum to flow into.
+{{< /b >}}
+
+
+There are some low vibration high ego people who get attracted by the liberation idea and so they follow Sassani teachings only to get themselves into trouble and even ask about suicide. 
+
+We only recommend Sassani Teachings to high vibration people who:
+- already have inherent psychic ability or occult powers
+- are practicing Buddhists, Hindus, Taoists as a way to step up faster while being grounded on tried-and-tested systems
+
+This is because we classify the synchronicity that comes from following the formula as an **occult power** that separates 4th density beings from 3rd density i.e. 3rd density only has reason, but 4th density has subtler reason that leads to power and therefore liberation. 
+
+4th density people are **rare** and so another common effect is isolation, loneliness, and being seen as crazy (which the Sassani regard as a good thing as crazy-good). 
+
+<!-- There are many cases of Western New Age people going crazy or committing suicide or dying of terrible diseases becuse they went for spirituality or the higher densities by themselves:
+- Don Elkins of the Law of One committed suicide
+- Ron Hubbard of Scientology attempted suicide
+- Jane Roberts of Seth Material died painfully -->
+
+
+## Sassani Technology
+
+Unlike channelers of spirits and other aliens which teach no practical technologies, the Sassani actually teach their advanced technologies like:
+- spacetime antenna free energy device
+- earthquake disruptor
+- crystal fusion reactor
+- orbitting AI
+- time crystal ships
+- indestructible metals
+- health detox formulations
+
+This is why we use their principles to check those of our Material Superphysics to make sure we are on the right track. 
+

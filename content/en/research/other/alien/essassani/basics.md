@@ -1,0 +1,298 @@
+---
+title: "Basic Beliefs of the Sassani"
+weight: 2
+image: "/covers/essassani.jpg"
+description: "The Metaphysics followed by the Sassani"
+author: Consolidated from Bashar
+featured: true
+---
+
+
+The Sassani are an advanced 4th density alien species from the planet Sassani in the Shah star system near Orion's belt in a parallel reality.
+
+They are a hybrid of human and Gray DNA created by the Gray aliens. This means they are even closer to humans than the Grays. This is proven by them being able to procreate whereas the Grays could not.   
+
+{{< i s="/graphics/bio/essassani.jpg" a="Sassani" c="This symbol is the Sassani phone number that you meditate on before you sleep while thinking of the Orion system so hopefully you will dream about them i.e meet them in the astral dimension" >}}
+
+
+<!-- Even the Pleiadians look up to the Sassani civilization as being exceptionally spiritually-advanced*. -->
+
+{{< d t="Superphysics Note" >}}
+Superphysics is based on David Hume's maxim that **mentality creates reality**. This is how the Sassani maxims, such as 'believing is seeing' caught our attention. We primarily use Sassani information for 'technology-checking' to see whether our hypothesis on Descartes' mechanics will match the technology of the Sassani. This is both Descartes and Sassani Physics give huge importance to **spinning vortices**. Prior to this, we mainly checked whether our proposed [moneyless system](https://www.pantrypoints.com) would match their skills-based synchronicity economic system which matches those who have skills to those who need those skills in real-time.)
+
+However, no one seems to be keen enough to notice that **their principles are designed for 4th and 5th density beings and not 3rd density ones like humans**.
+
+Unlike the Sassani, we humans are still very much bound by the Negative force as Maya, just like cats and dogs are even more bound than us. 
+
+Even if you say that the Sassani are just mirroring our higher minds, the human species is still so low-minded as to vote for Trump and let Russia and Israel invade and kill Ukrainians and Gazans. 
+
+We can think of the Sassani as the latest iPhones capable of playing EXCITING games like Call of Duty Mobile. While humans are low tech Nokia 3310s capable only of single-player Snake. Humans who totally follow Sassani principles will likely find themselves disappointed when their excitement fails to procure them the reality that they desire, just as a Nokia cannot play Call of Duty.
+
+![Game](/photos/stuff/game.jpg)
+
+Proof of this is the many questions of people using the formula but **STILL** unable to get the money they need. Some even quit their jobs, being drawn by the powerful Sassani high vibration to chase their dreams, and end up miserable when they realize they are still stuck in low vibration, with bad finances. 
+
+This is because low density minds easily get confused by high density ideas:
+
+**Questioner:** The more I search for answers the more I come here and the more I get confused about everything.
+
+**Bashar:** Confusion to us is not negative.
+
+---
+
+Instead of diving in suddenly into Sassani teachings, it would be better if humans *generally* observed their principles in order to maximize practical human excitement, as opposed to  out-of-this-world excitement. It would be like upgrading a Nokia 3310 to play multiplayer Snake in full color -- it's less exciting that Call of Duty, but more exciting than single player Snake. This is why Bashar emphasizes to **make sure your beliefs can support you** as you chase your dreams. Evolution has a **natural rate**. Do not be tempted to take shortcuts or bite more than you can chew.
+
+We suggest that only those who can "do a Buddha" -- those who can willingly reject wealth, pleasures, fame, comfort in order to embrace the unknown -- should really go into the Sassani system. If you are not as strong-minded or determined as Buddha, then just grab what ideas resonate with you, not the whole 4th density system. 
+
+The critical ingredient that makes the Sassani principles fail in the human frame is **the hardened negative ego that is in all humans**. 
+
+Their solution to this are the mantras: 'so what?' and 'let it go' and 'relax your definitions'.
+
+Humans can upgrade themselves to Sassani by evolving genetically with each generation while following such general principles. We assume that this is what hybrids are for. 
+{{< /d >}}
+
+
+
+## Basic Beliefs: Signature Vibration and Synchronicity
+
+Every individual is a self-aware, self-reflective, free-will entity, a holographic representation of the Infinite Creation.
+
+Every individual is always as powerful as they need to be to create whatever reality they desire, without having to hurt anyone else or them self, in order to get it.
+
+All "things" are the same one thing vibrating at different rates
+
+Just as water and steam and ice are all the same thing vibrating at different frequencies, likewise, matter and energy are the same substance vibrating at different frequencies.
+
+Frequency | Type | Analogy
+---| --- |---
+Highest | Consciousness | Steam
+Medium | Spirit | Water
+Lowest | Matter | Ice
+
+
+### Frequencies
+
+All things are Spirit vibrating at different frequencies. 
+
+Matter is solidified energy.
+- Matter is spirit-energy vibrating at a slower frequency.
+
+Your body is solidified, crystallized Spirit. 
+- Your body is in your Spirit. Your Spirit is NOT in your body. 
+
+As you raise your vibrations, you become more Spirit-like, moving closer towards fluid-like Spirit. This makes your reality creation more malleable and easily changeable.
+
+All "things" are the same one thing vibrating at different rates.
+
+
+## You Create Your Reality
+
+Physical reality is *YOUR* perspective of reality. Your perspective becomes reality. 
+
+This mirrors the quantum mechanics discovery that there is no observation without an observer.
+- Observer and observation create each other simultaneously because time is not real. 
+
+The observation of reality creates reality. Observer needs the observed.
+
+
+### You Support Your Reality. Your Reality Reflects Your Support Back to You
+
+Your reality does not support you. Instead, **you support your reality**.
+
+If you support your reality, your reality will **reflect** the support that you give it back to you.
+
+
+<!-- 3 Phases for receiving the "version" of reality you prefer
+
+You ALREADY have everything you desire!
+
+2 quick Techniques for Manifesting your preferred Reality
+ -->
+<!-- Visualization - how to do it effectively
+Shifting between Parallel Realities
+Handling challenging situations
+Feelings & Beliefs
+Changing your Beliefs
+Neutral Props
+Follow your excitement!  Finding your "Purpose" in Life
+Trusting your Timing
+Positive Synchronicity
+All beliefs are equally valid.
+Making it Easy to Change your Beliefs
+The PRESENT is not the result of the PAST
+How FEAR can serve you
+The Uniqueness of Each Incarnation
+Abundance
+Unified Society
+The Meaning of Life, and The Purpose of Existence
+Judgment and Preference
+Love,  Guilt,  and  Hate
+Co-Creating an Experience
+The "Death" Transition
+Personality
+Time
+Actual Belief?  or what you think you Believe?
+External Reality = Holographic Illusion
+Visualization
+ -->
+
+
+## The 5 Laws of Existence 
+
+<!-- The Basic Blueprint of the Structure of Existence  -->
+
+The 5 Basic Laws of Creation which are true Everywhere/Everywhen in the universe - including ALL dimensions.
+
+1. You exist
+2. Everything is Here/Now [Time and Space are illusions]
+3. The All is one, and the One is all. [everything is connected]
+4. What you put out is what you get back
+5. The only constant in the universe is change -  except for the first 4 postulates, which never change*.
+
+
+{{< n n="This was added by the Sassani later on. We prefer having only 4 laws" >}}
+
+
+
+<!-- Initially I was confused at how the 7 densities of the Sassani didn't match up to the 7 chakras of Hinduism. Metaphysical principles are supposed to be consistent in all dimensions and all perspectives. But the Sassani metaphysics is strange as it assigns the thoughts and feelings as 3rd density, when in Hindu metaphysics, these apply to all densities and originates from the 7th density. 
+
+I realized it's because the Sassani are already unified and based on 4th density, making it their frame of reference. On the contrary, humans are still dis-integrated and based on matter (i.e. we need to eat material food instead of getting the pranah from the aether like the Esssassani do). This makes the 1st density as our frame of reference. We are still struggling to discover gravitation and have compassion for all, just as the Sassani are struggling to settle in non-physicality. The massacres in Ukraine and mass extinction are proofs that humans are still far from leaving 1st density. Their theory is that we can rubber band from 1st to 4th, but never explain how it might happen. -->
+
+
+## The Sassani Formula
+
+1. **Act on your HIGHEST Excitement, your HIGHEST Passion**
+
+This is whatever is most exciting to you at the moment, in the highest* sense.  Do this every moment that you can.
+
+
+{{< n n="Highest here means dharmic. Unfortunately, the channel Darryl does not know Sanskrit and so the best English word is 'highest'. However, 'highest' does not automatically imply spirituality. This is why Bashar has to clarify that 'highest' will automatically be integrative and self-supporting." >}}
+
+
+2. Do this to the best of your ability. 
+
+Take it as far as you can go until you can not take it any further. Make sure your beliefs are not causing you to dampen your excitement ahead of time.
+
+
+3. Absolutely have no insistence or assumption or expectation of what the outcome should be.
+
+Very often the ideal outcome will not be what your lower mind expect or intend. Only your Higher Self knows the ideal outcome. If you expect, then you let the lower mind overrule the higher.
+
+
+4. Choose to remain in a positive state regardless of what happens.  
+
+Stay in a positive state, but take perceptions neutrally. If you remain in a positive state, you can discover HOW it can serve you in a beneficial manner.
+
+<!-- If something undesireable happens, by remaining in a positive state even then, you are able to gain some positive benefit from that situation. -->
+
+Any circumstance is actually neutral, with no built-in meaning. You determine whether it has a positive or negative effect, based on the MEANING that you PROJECT into that fundamentally-neutral situation.
+
+5. Constantly investigate your belief systems.
+
+Release & replace the unpreferred beliefs:
+- The fear-based beliefs you might have.
+- The beliefs that are not in alignement with who you prefer to be.
+
+This activates synchronicity which is the organizing principle of the entire universe. Synchronicity is the "networking" and coordination of all parts of the universe with each other - through the one Universal Mind.
+
+By activating this synchronicity, things in your life flow more naturally, pleasantly, and desirably for you automatically, in perfect timing.
+
+<!-- n n="Our acronym is APEnPI or Act, Push, Expect-none, Positive, Investigate" >}} -->
+
+
+## Short Version of the Formula
+
+1. Act on your Excitement (act at every given moment that you can on the thing that contains the highest amount of excitement)
+2. Take it as far as you can (To the best of your ability taking it as far as you can until you can take it no further)
+3. Have **ZERO insistence** on what the outcome should be (or how you should get there. You **must stay in positive state**!!!)
+
+
+This leads to the complete kit as tools:
+
+1. Driving engine -- this motivates you
+2. Organizing Principle of synchronicity -- this shows what order and when 
+3. Path of least resistantce -- makes things effortless
+4. Path that connects to other excitements
+5. Reflective mirror -- reveals non aligned beleiefs
+
+These will support you and leave nothing relevant out
+
+
+## Abundance
+
+Abundance is the **ABILITY** to do *what* you **need** to do *when* you **need** to do it. 
+
+
+## Most Powerful Mantra
+
+**"I am who I am, and that is enough"**
+
+- Repeat 3 times as you wake up or go to sleep
+- See what synchronicity brings
+- Let go of all limitations, assumptions, insistences that don't align with your true core
+
+
+
+## Success
+
+If at first you don't succeed, redefine success. [and of course don't have any insistence]
+
+
+
+
+{{< d t="Superphysics Note" >}}
+## Same Metaphysics, Different Words: Common Cause of Confusion
+
+The common cause of confusion with Sassani principles is that the channels use ENGLISH words such as **highest excitement** and **beliefs** for metaphysical concepts like **dharma** and **samskara**. 
+
+**Dharma** is a fundamental and established spiritual concept in Asian Metaphysics. It represents your True Nature. 
+
+Dharma is never negative and always positive. This is why acting on your highest excitement can never be negative. 
+
+The problem is that the english word of "highest excitement" does not imply spirituality nor is equivalent to Dharma. 
+- This is proven by some people asking if robbing a bank or killing people can be their highest excitement.
+
+This dharma is clouded by **samskara** which is the effect of actions in the world. 
+
+**Samskaras** are like metaphysical imprints or dents that warp the sphere of your soul making it imperfect. Some dents are deeper than others. 
+
+Permission slips are personal ways to get rid of personal dents to be the True Undented Self.
+
+This is why the Sassani tell people to get rid of their **negative** beliefs but never mention anything about **positive** beliefs. The Sassani are really saying to burn your samskaras or fix the dents in your soul-sphere. So physical life is just the soul denting itself to experience the undenting process.
+
+Actions are based on beliefs and so the Sassani use the word *belief system*. When the more accurate expression is karma (actions) create samskara (imprints) that must be smoothed out.
+
+So instead of `Beliefs ➜ Emotions ➜ Actions` we say more accurately: `Samskara ➜ Feelings ➜ Karma`
+
+![Samskara](/graphics/super/samskara.jpg)
+
+So the Sassani are saying to choose your dharma instead of your samskara. 
+
+The Buddhist and Hindu way is to avoid getting dents in the first place. This is done by non-attachment while remembering one's dharma every second through constant mantra repetition. For example, they use mala beads as permission slips. 
+
+## Proof
+
+This is easily seen in Bashar commenting on how death experiences are "exciting": 
+
+**Questioner:** When I was about 9 years old, I had a **near drowning experience**.
+
+**Bashar:**  How **exciting**!
+
+---
+
+Of course, "exciting" is a totally wrong word since no one is ever excited to drown. Instead, they are shocked and horrified when drowning. But drowning is a **natural** event or feeling, which matches the word dharma or nature i.e. it is natural to drown. 
+
+This changes the meaning:
+
+**Questioner:** When I was about 9 years old, I had a **near drowning experience**.
+
+**Bashar:** What an experience of **All-That-Is**!
+
+
+In Buddhism, Hinduism, death is not negative, but is part of the dharma of life. Even Socrates pushes people to not fear death:
+
+*For those who practice philosophy in the right way are-unconsciously to themselves-practicing dying and being dead.* Socrates Phaedo, 64a
+
+Only Christianity puts so much emphasis on physical life as to treat death as a negative. This is because the Christian, Jewish, and Islamic religions have been corrupted by Orion Energy, as explained by Ra in the Law of One.
+{{< /d >}}
+

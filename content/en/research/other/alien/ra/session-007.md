@@ -1,0 +1,190 @@
+---
+heading: Session 7
+title: "The Orion Group"
+description: ""
+c: "indigo"
+image: /covers/ra.jpg
+weight: 16
+date: 1981-01-24
+tags: ['confederation of planets', 'orion group']
+---
+
+
+
+{{< r a="Don Elkins" >}}What avenues of service, or types of service, are available to members of the Confederation?{{< /r >}}
+
+{{< l a="Ra" >}}I am assuming that you intend the service which we of the Confederation can offer, rather than the service which is available to our use.
+
+The service available for our offering to those who call us is equivalent to the square of the distortion/need of that calling divided by, or integrated with, the basic Law of One in its distortion indicating the free will of those who are not aware of the unity of creation.{{< /l >}}
+
+{{< r a="Don Elkins" >}}From this, I am assuming that the difficulty you have contacting this planet at this time is the mixture of people here, some being aware of the unity, some not, and for this reason you cannot come openly or give any proof of your contact.{{< /r >}}
+
+{{< l a="Ra" >}}We must integrate all of the portions of your social memory complex in its illusory disintegration form. Then the product of this can be seen as the limit of our ability to serve.
+
+We are fortunate that the Law of Service squares the desires of those who call. Otherwise, we would have no beingness in this time/space at this present continuum of the illusion.
+
+The thought of not being able is not a part of our basic thought-form complex towards your peoples but rather is a maximal consideration of what is possible.{{< /l >}}
+
+{{< r a="Don Elkins" >}}By squared, do you mean that if ten people call you can count that, when comparing it to the planetary ratio of people, as 100 people, squaring ten, getting 100? Is that correct?{{< /r >}}
+
+{{< l a="Ra" >}}This is incorrect. The square is sequential — one, two, three, four, each squared by the next number.{{< /l >}}
+
+{{< r a="Don Elkins" >}}[Inaudible] use an example. If ten, only ten, entities on earth required your services how would you compute their call using this square rule?{{< /r >}}
+
+{{< l a="Ra" >}}We would square one ten sequential times, raising the number to the tenth square.{{< /l >}}
+
+{{< r a="Don Elkins" >}}What would be the result of this calculation?{{< /r >}}
+
+{{< l a="Ra" >}}[24-second pause] The result is difficult to transmit. It is one thousand and twelve [1,012], approximately. The entities who call are sometimes not totally unified in their calling and, thus, the squaring is slightly less. Thus, there is a statistical loss over a period of call. However, perhaps you may see by this statistically corrected information the squaring mechanism.{{< /l >}}
+
+{{< r a="Don Elkins" >}}About how many entities at present are calling from planet Earth for your services?{{< /r >}}
+
+{{< l a="Ra" >}}I am called personally by 352,000.
+
+The Confederation, in its entire spectrum of entity-complexes, is called by 632,000,000 of your mind/body/spirit complexes. These numbers have been simplified.{{< /l >}}
+
+{{< r a="Don Elkins" >}}Can you tell me what the result of the application of the Law of Squares is to those figures?{{< /r >}}
+
+{{< l a="Ra" >}}The number is approximately meaningless in the finite sense as there are many, many digits.
+
+It, however, constitutes a great calling which we of all creation feel and hear as if our own entities were distorted towards a great and overwhelming sorrow. It demands our service.{{< /l >}}
+
+{{< r a="Don Elkins" >}}At what point would this calling be enough for you to openly come among the people on Earth? How many entities on Earth would have to call the Confederation?{{< /r >}}
+
+{{< l a="Ra" >}}We do not calculate the possibility of coming among your peoples by the numbers of calling, but by a consensus among an entire societal-memory complex which has become aware of the infinite consciousness of all things.
+
+This has been possible among your peoples only in isolated instances.
+
+In the case wherein a social memory complex which is servant of the Creator sees this situation and has an idea for the appropriate aid which can only be done among your peoples, the social memory complex desiring this project lays it before the Council of Saturn. If it is approved, quarantine is lifted.{{< /l >}}
+
+{{< r a="Don Elkins" >}}Who are the members, and how does the Council function?{{< /r >}}
+
+{{< l a="Ra" >}}The members of the Council are representatives from the Confederation and from those vibratory levels of your inner planes bearing responsibility for your 3rd density.
+
+The names are not important because there are no names.
+
+Your mind/body/spirit complexes request names and so, in many cases, the vibratory sound complexes which are consonant with the vibratory distortions of each entity are used.
+
+However, the name concept is not part of the Council.
+
+In number, the Council that sits in constant session, though varying in its members by means of balancing, which takes place, what you would call irregularly, is nine.
+
+That is the Session Council.
+
+To back up this Council, there are 24 entities which offer their services as requested. These entities faithfully watch and have been called the Guardians.
+
+The Council operates by telepathic contact with the oneness or unity of the 9, the distortions blending harmoniously so that the Law of One prevails with ease.
+
+When a need for thought is present, the Council retains the distortion-complex of this need, balancing it as described, and then recommends what it considers as appropriate action.
+
+This includes:
+1. The duty of admitting social memory complexes to the Confederation
+2. Offering aid to those who are unsure how to aid the social memory complex requesting aid in a way consonant with both the call, the Law, and the number of those calling (that is to say, sometimes the resistance of the call)
+3. Internal questions in the Council are determined.
+
+These are the prominent duties of the Council.
+
+They are, if in any doubt, able to contact the 24 who then offer consensus/judgment/thinking to the Council. The Council then may reconsider any question.{{< /l >}}
+
+{{< r a="Don Elkins" >}}Is the Council of Nine the same nine that was mentioned in this book? [Questioner gestures to Uri.]{{< /r >}}
+
+{{< l a="Ra" >}}The Council of Nine has been retained in semi-undistorted form by Mark Probert and Henry Puharich.
+
+In one case, the channel became the scribe. In the other, the channel was not the scribe. However, without the aid of the scribe, the energy would not have come to the channel.{{< /l >}}
+
+{{< r a="Don Elkins" >}}I am interested in the application of the Law of One as it pertains to free will and what I would call the advertising done by UFO contact with the planet. The Council has allowed the quarantine to be lifted many times over the past 30 years. This seems to me to be a form of advertising for what we are doing right now, so that more people will be awakened.{{< /r >}}
+
+{{< l a="Ra" >}}1. The Council of Saturn has not allowed the breaking of quarantine in the past 30 years.
+
+There is a certain amount of landing taking place.
+- Some of these landings are of your peoples.
+- Some are of the entities known as the Orion group.
+
+2. Permission was granted, not to break quarantine by dwelling among you, but to appear in thought-form for those who can see.
+
+3. Permission was granted at the time/space in which your first nuclear device was developed and used for Confederation members to minister unto your peoples in such a way as to cause mystery to occur.
+
+This is what you mean by advertising and is correct.
+
+The mystery and unknown quality of the occurrences we are allowed to offer have the hoped-for intention of making your peoples aware of infinite possibility.
+
+When your peoples grasp infinity, then and only then, can the gateway be opened to the Law of One.{{< /l >}}
+
+{{< r a="Don Elkins" >}}You mentioned Orion as a source of some of the contacts of UFOs. What is its purpose?{{< /r >}}
+
+{{< l a="Ra" >}}An example is Adolf Hitler.
+
+His intention was to unify by choosing the distortion complex called elite from a social memory complex.
+
+Then the elites would enslave those with the distortion of not-elite.
+
+Thus, the Orion group had the distortion thought as an empire.
+
+The social memory complex would thus be weeded and added onto this empire.
+
+The problem is that this separation released a lot of random energy.
+
+This caused them to be vulnerable just as the distortions amongst their own members are not harmonized.{{< /l >}}
+
+{{< r a="Don Elkins" >}}What is the density of the Orion group?{{< /r >}}
+
+{{< l a="Ra" >}}Like the Confederation, the densities of the mass consciousnesses which comprise that group are varied.
+
+There are a very few third density, a larger number of fourth density, a similarly large number of fifth density, and very few sixth-density entities comprising this organization.
+
+Their numbers are perhaps one-tenth of ours at any point in the space/time continuum as the problem of spiritual entropy causes them to experience constant disintegration of their social memory complexes.
+
+Their power is the same as ours.
+
+**The Law of One blinks neither at the light or the darkness.**
+
+But is available for service to others and service to self.
+
+However, service to others results in service to self, thus preserving and further harmonizing the distortions of those entities seeking intelligent infinity through these disciplines.
+
+Those seeking intelligent infinity through the use of service to self create the same amount of power but, as we said, have constant difficulty because of the concept of separation which is implicit in the manifestations of the service to self which involve power over others.
+
+This weakens and eventually disintegrates the energy collected by such mind/body/spirit complexes who call the Orion group and the social memory complexes which comprise the Orion group.
+
+The Law of One is available to any social memory complex which has decided to strive together for any seeking of purpose, be it service to others or service to self.
+
+The laws, which are the primal distortions of the Law of One, then are placed into operation and the illusion of space/time is used as a medium for the development of the results of those choices freely made.
+
+Thus all entities learn, no matter what they seek. All learn the same, some rapidly, some slowly.{{< /l >}}
+
+{{< r a="Don Elkins" >}}Using as an example a fifth-density group or social memory complex of the Orion group, what was their previous density before they became fifth density?{{< /r >}}
+
+{{< l a="Ra" >}}The progress through densities is sequential.
+
+A fifth-density social memory complex would be comprised of mind/body/spirit complexes harvested from fourth density.
+
+Then the conglomerate or mass mind/body/spirit complex does its melding and the results are due to the infinitely various possibilities of combination of distortions.{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+How would the Orion group progress? 
+
+A closer understanding of the Law of One created the condition of acceptability moving from our 3rd density to the 4th in our transition now.
+
+If you were in the Orion group pointed toward self-service, how you would progress, from the 3rd to 4th?{{< /r >}}
+
+
+{{< l a="Ra" >}}
+Those not oriented towards seeking service for others can still use the gateway to intelligent infinity.
+
+This is true at all densities in our octave.
+
+We cannot speak for those above us in the next quantum or octave of beingness.
+
+**The beings are harvested because they can see and enjoy the light/love of the appropriate density.**
+
+Those who have found this light/love, love/light without benefit of a desire for service nevertheless, by the Law of Free Will, have the right to the use of that light/love for whatever purpose.
+
+There are systems of study which enable the seeker of separation to gain these gateways.
+{{< /l >}}
+
+
+{{< n n="In Buddhism, the evil people will flip their polarity and become positive just before they are harvested. An example is Angulimala who healed in 3rd density">}}
+
+
+
+<!-- This study is as difficult as the one which we have described to you, but there are those with the perseverance to pursue the study just as you desire to pursue the difficult path of seeking to know in order to serve. The distortion lies in the fact that those who seek to serve the self are seen by the Law of One as precisely the same as those who seek to serve others, for are all not one? To serve yourself and to serve other is a dual method of saying the same thing, if you can understand the essence of the Law of One. -->

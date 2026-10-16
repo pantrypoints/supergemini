@@ -1,0 +1,28 @@
+---
+title: "Positions of the Sassani"
+weight: 41
+c: "darkslategray"
+image: "/photos/meta/justice.jpg"
+description: ""
+---
+
+
+Pro or Supportive | Anti or Not Supportive
+--- | ---
+Republic | Democracy
+Kamala Harris | Donald Trump
+Bahai | Osho
+Atlanteans | Negative Orion
+Ra, Seth | Scientology, Keylontic Science, Ruth Montogmery (an egotistic Ruth Montgomery-follower woman got angry at Bashar)
+Crypto | AI (The true AI path)
+Chromium | Fluoride
+panspermia | primordial soup theory
+Telling positive stories | Telling ghost or horror stories
+Detox | Herbalife
+
+
+### Bashar's Recommendations
+
+Wishcraft
+Conversations with God
+The Heart's Code

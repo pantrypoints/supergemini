@@ -1,0 +1,74 @@
+---
+title: "Dimensions and Densitites"
+weight: 30
+image: "/photos/physics/ai.jpg"
+description: "The Sassani has various Dimensions and Densitites"
+---
+
+The Sassani has various Dimensions and Densitites that are usually opposite of what humans think dimensions and densities to be.
+
+Name | Manifestation
+--- | ---
+Oversoul | Multiple Soul Perspectives
+Soul | Spirit Realm
+Higher Mind | Parallel Reality
+Template Reality | Physical Reality
+Collective Automatic Mind | Collective Agreements  
+Individual Automatic Mind | Individual Themes
+Physical Mind Unconscious | Beliefs
+Physical Mind Subconscious | Emotions
+Physical Mind Conscious | Thoughts
+
+
+A dimension is like a country 
+
+A density is like a state within country
+
+
+## Big Bang
+
+{{< r a="Asker" >}}
+Who created the universe and multiverses?
+{{< /r >}}
+
+{{< l a="Elan" >}}
+Physical reality is finite, it has a beginning, middle, and ending. 
+
+Nonphysical reality is infinite, it has no beginning, middle, and ending. 
+
+All There Is created you. You created your reality.
+{{< /l >}}
+
+
+
+## Cycles per second
+
+The electrons of each person spins per second. 
+
+Entity | Cycles per second
+--- | ---
+Normal humans | 40k-60k
+Spiritual people | 135k
+4th density and world peace | above 200k
+Sassani |  290k
+Threshold for physical reality and spirit | 333k 
+
+
+There is no more spins at 5th density and up.
+
+(We assume that the 333k is related to the speed of light which is 300k km/second)
+
+
+
+## Densities (Elan)
+
+Density | Examples and Notes
+--- | ---
+1st | Minerals as dense consciousness
+2nd | Plans and animals - no self reflection
+3rd | humans = physical relity as self imposed limitation to experience a reality
+4th | be less limited in physicality 
+5th | non physical -- loses the need for physical acts 
+
+
+

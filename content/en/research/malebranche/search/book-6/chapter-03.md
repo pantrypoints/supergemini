@@ -1,0 +1,66 @@
+---
+heading: Chapter 3
+title: "How to Use the passions and the senses to sustain the mind’s attention"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 7
+date: 2026-06-20
+---
+
+
+
+The passions that are useful for stirring us to seek truth are those that give us the strength and courage to overcome the effort we find required to focus our thoughts.
+
+Some are good, others bad or dangerous.
+
+Good passions include the desire to:
+- discover truth
+- gain enough insight to guide ourselves rightly
+- be of service to others
+
+Bad or dangerous ones include the desire to:
+- win reputation
+- advance one’s standing, or to rise above others — and other even more disordered impulses, which need not be discussed here.
+
+In our present imperfect state, it often happens that the less reasonable passions drive us more vigorously toward the search for truth and console us more readily in its difficulties than the most just and reasonable desires. 
+
+Vanity, for instance, stirs us far more than the love of truth itself. We see every day how people apply themselves constantly to their studies as long as there is someone to listen to what they have learned — yet abandon them entirely the moment they no longer have an audience. The vague prospect of glory that surrounds them when they share their opinions sustains their courage even through the most tedious and unrewarding work. But if chance or circumstance removes them from the small circle of admirers who applaud them, their enthusiasm immediately cools. 
+
+Even the most solid subjects lose their appeal; weariness, boredom, and discouragement take over, and they give up entirely.
+
+Vanity overcomes our natural laziness, but laziness in turn overcomes the love of truth; for vanity may sometimes resist indolence, yet indolence almost always triumphs over the pure desire for knowledge.
+
+Still, the passion for glory can be directed toward a good end: we may use our reputation to serve God’s glory and the good of others. In certain cases, it may therefore be permissible to use this passion as a support to sharpen our attention — but only when the reasonable desires mentioned earlier are not enough, and duty compels us to focus on subjects that repel us. We must be very cautious, however: first, because this passion poses great risk to our conscience; second, because it leads us imperceptibly into studies that are more showy than useful or true; and finally, because it is extremely difficult to moderate. We easily become its victims, and while we intend to enlighten our minds, we may only strengthen the pride and self‑love that corrupt the heart and cast such deep darkness over the intellect that it becomes nearly impossible to dispel.
+
+For this passion grows, strengthens, and takes root in the soul without our noticing. When it becomes too strong, instead of helping us find truth, it blinds us and makes us believe that things are exactly as we wish them to be. Undoubtedly, there would be far fewer false inventions and imaginary discoveries if men did not let themselves be carried away by an eager desire to appear original thinkers. The firm and stubborn conviction many have held — for example, that they had found perpetual motion, a way to square the circle, or to double the cube using ordinary geometry — clearly arose from their overwhelming wish to succeed where so many others had failed.
+
+It is therefore far better to awaken those passions that become more useful the stronger they grow, and where excess is less to be feared: such as the desire to make good use of our intellect, to free ourselves from prejudice and error, to gain enough understanding to guide our lives, and other similar impulses. These do not lead us into useless inquiries or push us to form hasty judgments.
+
+Once we have tasted the satisfaction of using our mind, recognized its value, and freed ourselves from those strong passions and attachment to sensory pleasures — which, if we yield to them without restraint, become masters or rather tyrants over reason — we need no other incentives than these to focus our attention on what we wish to consider.
+
+But most people are not in this state. They find pleasure, interest, and appreciation only in what appeals to the senses. Their imagination is corrupted by countless deep impressions that awaken only false ideas; they cling to everything that can be seen or imagined, and always judge according to how it affects them — that is, in relation to themselves. Pride, indulgence, worldly commitments, and the restless pursuit of gain — all so common among people of the world — obscure their vision of truth just as they stifle their sense of piety, separating them from God, who alone can enlighten and guide us. For we cannot draw closer to things of sense without weakening our connection to intelligible truths; we cannot be closely united at the same time to things so different and opposed.
+
+Those with a pure and uncluttered imagination — whose brains are not filled with deep impressions binding them to visible things — can easily unite themselves to God and give their attention to the truth that speaks to them. They do not need the help of passions. But those immersed in worldly affairs, attached to so many things, and whose imagination is clouded by false and confused ideas aroused by sensory objects, cannot turn their minds toward truth unless supported by a passion strong enough to counteract the weight of the body that drags them downward, and to form in their brains impressions powerful enough to redirect the flow of the animal spirits. Yet because every passion by its very nature only confuses ideas, it should be used only when absolutely necessary. Everyone must study themselves carefully, so as to match the strength of their motives to their own weakness.
+
+It is not difficult to awaken within ourselves the passions we need. The account we have already given in earlier books of the union between soul and body shows us how: in short, it is enough to focus our attention on those objects that, according to the laws of nature, are capable of stirring such feelings. We can almost always call forth the passions we require — but while we can awaken them, we cannot always dismiss them or undo the disorder they cause in the imagination. They must therefore be used with great moderation.
+
+Above all, we must be careful not to judge things through the lens of passion, but only through the clear light of truth — something almost impossible to do once feelings become even slightly intense. Passion should serve only to awaken attention; yet it always brings its own ideas, and urges the will to judge according to what it feels, rather than by the pure and abstract ideas of truth that do not stir the senses. This is why the judgments we form often last only as long as the passion itself: they are shaped not by the unchanging vision of truth, but by the movement of our blood and spirits.
+
+It is true that men can cling stubbornly to their errors and defend them for a lifetime — but this happens either because those errors have causes other than passion, or because they are sustained by permanent impulses rooted in bodily constitution, self‑interest, or other enduring factors. Self‑interest, for example, never fades; it creates a passion that never dies, and the judgments it produces are therefore long‑lasting. But all other feelings dependent on particular passions are as changeable as the shifting balance of our bodily humors. Men say one thing one moment and something else the next, often sincerely believing what they say. As they are driven from one apparent good to another by the force of their desires, and grow weary of each when the feeling subsides, they also pass from one false system to another. They embrace a mistaken view with enthusiasm while passion makes it seem plausible, only to abandon it once the feeling fades. Through passion they taste every kind of good, yet find nothing truly good; through passion they see every kind of truth, yet see nothing truly true — even though, while the feeling lasts, what they desire seems to them the highest good, and what they believe appears as an undeniable certainty.
+
+The second source of support for sharpening attention is the senses. Sensations are direct modifications of the soul itself, whereas the mind’s pure ideas remain distinct from it. Sensations therefore awaken our attention far more vividly than abstract ideas. It follows that we can remedy our difficulty in focusing on truths that do not naturally move us by expressing them through sensible things that do.
+
+This is why geometers use visible lines to represent the proportions between the magnitudes they study. By drawing these lines on paper, they inscribe the corresponding ideas in their minds; they make those ideas more familiar, because they both perceive them and understand them at the same time. This is also how we can teach many difficult subjects to children, who are not yet capable of grasping abstract truths because the fibers of their brains are still delicate. With their eyes they see only colors, shapes, and images; but with their minds they understand the ideas that correspond to those visible objects.
+
+We must take great care, however, not to clothe the subjects we consider or wish to explain to others in so much sensory detail that the mind becomes more occupied with the outward form than with the truth itself. This is one of the most common and serious faults. We see people every day who appeal only to what pleases the senses, and express themselves in such vivid, ornate language that the truth itself seems buried beneath the weight of empty eloquence. As a result, their listeners are more impressed by the rhythm of their speech and the liveliness of their delivery than by the reasoning they hear — and are persuaded without understanding either the argument or why they have accepted it.
+
+We must therefore temper the sensory quality of our expressions so that they only serve to focus attention. Nothing is more beautiful than truth; we cannot make it more beautiful by covering it with superficial adornments that have no real substance and will only charm for a short time. Such decorations may give it a certain grace, but they also weaken its force. Truth should never be dressed in such splendor and brilliance that the mind dwells more on its trappings than on its essence — as happens when people are loaded with so much gold and jewelry that they themselves become the least remarkable part of their appearance. Truth ought to be clothed like the magistrates of Venice, who wear only simple robes and caps that distinguish them from ordinary citizens, so that we look at their faces with attention and respect, and not at their footwear. Finally, we must avoid surrounding truth with so many pleasing details that they distract the mind and prevent it from recognizing what is true — lest we give the honor due to truth to something else, as sometimes happens to princes who are lost in the crowd of courtiers around them, each adopting the grand manner that belongs only to their sovereign.
+
+To give a greater example: we should present truth just as Truth itself has presented itself. Because since the fall of man our vision is too weak to contemplate truth in its pure form, the supreme Truth made itself visible by taking on our human nature — to draw our gaze, to enlighten us, and to make itself lovable to our eyes. Following this example, we may clothe the truths we wish to understand or teach in something sensible, to capture the attention of minds that naturally prefer what appeals to the senses and are easily engaged only by what pleases them. Eternal Wisdom became visible, but not in outward splendor; it became visible not to hold us fixed on sensory things, but to raise us toward the intelligible; it became visible in order to condemn and, in its own person, offer up all that belongs to the senses.
+
+In our search for truth, we should therefore use sensible representations that have little outward show and do not detain us too long at the level of the senses, but only sustain our mental vision as we contemplate purely intelligible truths. We should use images and forms that we can later set aside, discard, and gladly let go once they have led us to the truth they represent.
+
+Eternal Wisdom presented itself to us in a visible form, not to keep us focused on what is outside ourselves, but to draw us inward, so that with our inner understanding we might contemplate it in its true, intelligible nature. In the same way, when seeking truth, we should use sensible means that do not dazzle us with their appearance and hold our attention outward, but rather lead us back into ourselves, sharpen our focus, and unite us to the eternal truth — which alone guides the mind and can enlighten it in every subject we consider.
+
+

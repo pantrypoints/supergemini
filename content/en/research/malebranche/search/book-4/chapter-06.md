@@ -1,0 +1,89 @@
+---
+heading: Chapter 6
+title: "The inclination we have for everything that elevates us above others"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 13
+date: 2026-06-20
+---
+
+
+
+## The inclination we have for everything that elevates us above others
+
+All the things that give us a certain elevation above others, either by rendering us more perfect, such as knowledge and virtue, or by giving us some authority over them, by rendering us more powerful, such as dignities and riches, seem to make us in some way independent. All those who are below us revere and fear us; they are always ready to do what pleases us for our preservation, and they dare not harm us nor resist us in our desires. Thus men always try to possess these advantages that elevate them above others. For they do not reflect that their being and their well-being depend, according to truth, only on God, and not on men; and that the true greatness that will make them eternally happy does not consist in that rank they hold in the imagination of other men, as weak and as miserable as themselves; but in the honorable rank they hold in the divine reason, in that all-powerful reason that will render eternally to each according to his works.
+
+But men not only desire actually to possess knowledge and virtue, dignities and riches; they also make every effort so that at least it be believed that they truly possess them. And if one can say that they are less concerned to appear rich than to be so effectively, one can also say that they are often less concerned to be virtuous than to appear so; for, as the author of the *Moral Reflections* pleasantly says: "Virtue would not go far if vanity did not keep it company." The reputation of being rich, learned, virtuous, produces in the imagination of those who surround us, or who touch us more closely, dispositions very convenient for us. It prostrates them at our feet; it agitates them in our favor; it inspires in them all the movements that tend to the preservation of our being and the increase of our greatness. Thus men preserve their reputation as a good they need to live comfortably in the world.
+
+All men therefore have an inclination for virtue, knowledge, dignities and riches, and for the reputation of possessing these advantages. We will show by some examples how these inclinations can engage them in error. Let us begin with the inclination for virtue or for the appearance of virtue.
+
+Persons who work seriously to make themselves virtuous hardly employ their mind or their time except to know religion, and to exercise themselves in good works. They wish to know, like Saint Paul, only Jesus Christ crucified, the remedy for the disease and corruption of their nature. They desire no other light than that which is necessary for them to live as Christians, and to recognize their duties; and afterwards they apply themselves only to fulfill them with fervor and exactness. Thus they hardly amuse themselves with sciences that appear vain and sterile for their salvation.
+
+
+## The false judgments of some pious persons
+
+There is nothing to criticize in this conduct; it is infinitely esteemed; one would consider oneself happy to follow it exactly, and one even repents of not having followed it enough. But what one cannot approve is that, since it is certain that there are purely human sciences, very certain and useful enough, which detach the mind from sensible things, and which accustom it or prepare it little by little to taste the truths of the Gospel, some pious persons, without having examined them, condemn them too freely, either as useless or as uncertain.
+
+It is true that most sciences are very uncertain and very useless. One is not much mistaken in believing that they contain only truths of little use. It is permissible never to study them, and it is better to despise them altogether than to let oneself be charmed and dazzled by them. Nevertheless one can assure that it is very necessary to know some truths of metaphysics. The knowledge of the universal cause or of the existence of a God is absolutely necessary, since even the certainty of faith depends on the knowledge that reason gives of the existence of a God. One must know that it is His will that makes and rules nature, that the force or power of natural causes is only His will; in a word, that all things depend on God in all ways.
+
+It is also necessary to know what truth is, the means of discerning it from error, the distinction that is found between spirits and bodies, the consequences that can be drawn from it, such as the immortality of the soul, and several other similar things that can be known with certainty.
+
+The science of man or of oneself is a science that one cannot reasonably despise; it is filled with an infinity of things that it is absolutely necessary to know to have some justness and penetration of mind; and one can say that if a coarse and stupid man is infinitely above matter, because he knows that he is, and matter does not know it; those who know man are much above coarse and stupid persons, because they know what they are, and the others do not know it.
+
+But the science of man is not only estimable because it elevates us above others; it is much more so because it abases us and humiliates us before God. This science makes us perfectly know the dependence we have on Him in all things, and even in our most ordinary actions; it manifestly discovers to us the corruption of our nature; it disposes us to have recourse to Him who alone can heal us, to attach ourselves to Him, to distrust and detach ourselves from ourselves; and it thus gives us several dispositions of mind very proper for submitting us to the grace of the Gospel.
+
+One can hardly do without having at least a coarse tint and a general knowledge of mathematics and of nature. One should have learned these sciences in one's youth; they detach the mind from sensible things, and prevent it from becoming soft and effeminate; they are of enough use in life; they even lead us to God, the knowledge of nature doing it by itself, and that of mathematics by the disgust they inspire in us for the false impressions of our senses.
+
+Persons of virtue must not despise these sciences, nor regard them as uncertain or useless, unless they are assured of having studied them enough to judge them solidly. There are enough others that they can boldly despise. Let them condemn to the fire the poets and pagan philosophers, the rabbis, some historians, and a great number of authors who make the glory and erudition of some scholars; no one will be much concerned. But let them not condemn the knowledge of nature as contrary to religion; since nature being ruled by the will of God, the true knowledge of nature makes us know and admire the power, greatness, and wisdom of God. For finally it seems that God formed the universe so that spirits might study it, and that by this study they might be led to know and revere its author. So that those who condemn the study of nature seem to oppose the will of God; unless they pretend that since sin the human mind is no longer capable of this study.
+
+Let them not say either that the knowledge of man only puffs him up and gives him vanity, because those who pass in the world for having a perfect knowledge of man, although often they know him very badly, are ordinarily full of an insupportable pride; for it is evident that one cannot know oneself well without feeling one's weaknesses and miseries.
+
+
+
+## The false judgments of the superstitious and hypocrites
+
+Also, it is not persons of true and solid piety who ordinarily condemn what they do not understand; it is rather the superstitious and the hypocrites. The superstitious, by a servile fear and by a baseness and weakness of mind, are frightened as soon as they see some lively and penetrating mind. For example, one has only to give them natural reasons for thunder and its effects, to be an atheist in their mind. But the hypocrites, by a demonic malice, transform themselves into angels of light. They use the appearances of holy truths revered by everyone, to oppose by particular interests truths little known and little esteemed. They combat truth by the image of truth; and, sometimes mocking in their hearts what everyone respects, they establish in the minds of men a reputation all the more solid and formidable as the thing they have abused is more holy.
+
+These persons are therefore the strongest, most powerful, and most formidable enemies of truth. It is true that they are rather rare, but few are needed to do much harm. The appearance of truth and virtue often does more harm than truth and virtue do good; for only one adroit hypocrite is needed to overturn what several truly wise and virtuous persons have built with much pains and labor.
+
+
+## Voët, enemy of Mr. Descartes
+
+Descartes demonstratively proved:
+- the existence of a God
+- the immortality of our souls
+- several other metaphysical questions
+- many questions of physics
+
+
+Our century owes him infinite obligations for the truths he has discovered to us.
+
+Here, however, arises a little man, an ardent and vehement declaimer, respected by the people because of the zeal he appears to have for their religion; he composes books full of insults against him, and accuses him of the greatest crimes. 
+
+Descartes is a Catholic; he studied under the Jesuit Fathers, he has often spoken of them with esteem. That suffices for this malicious spirit to persuade peoples enemies of our religion, and easy to excite on things as delicate as those of religion, that he is an emissary of the Jesuits, and that he has dangerous designs, because the least appearances of truth on matters of faith have more force on minds than the real and effective truths of physics or metaphysics, of which they are very little concerned. 
+
+Descartes wrote of the existence of God. That is enough for this calumniator to exercise his false zeal and to oppress all the truths defended by his enemy. He accuses him of being an atheist, and even of finely and secretly teaching atheism, like that infamous atheist named Vanini, who was burned at Toulouse, who covered his malice and impiety by writing for the existence of a God; for one of the reasons he gives that his enemy is an atheist is that he wrote against atheists, as Vanini did, who to cover his impiety wrote against atheists.
+
+Thus truth is oppressed when it is supported by appearances of truth, and when one has acquired much authority over weak minds. Truth loves gentleness and peace, and as strong as it is, it sometimes yields to the pride and haughtiness of falsehood which adorns itself and arms itself with its appearances. 
+
+It knows well that error can do nothing against it; and if it remains for some time as proscribed and in obscurity, it is only to await more favorable occasions to show itself in the light; for finally it appears almost always stronger and more brilliant than ever in the very place of its oppression.
+
+Voët was an enemy of Mr. Descartes.
+
+He was:
+- of a different religion
+- an ambitious man who thinks only of raising himself on the ruins of persons who are above him, a declaimer without judgment, that  speaks with contempt of what he does not understand and does not wish to understand.
+
+But one has reason to be astonished that people who are neither enemies of Mr. Descartes nor of his religion have taken sentiments of aversion and contempt against him, because of the insults they have read in books composed by the enemy of his person and of his religion.
+
+The book of this heretic, which has for title *Desperata causa papatus*, shows enough his impudence, his ignorance, his transport, and the desire he has to appear zealous to acquire by this means some reputation among his own. Thus he is not a man to be believed on his word. For just as one must not believe all the fables he has collected in this book against our religion, so one must not believe on his word the atrocious and injurious accusations he has invented against his enemy.
+
+Reasonable men must not therefore allow themselves to be persuaded that Mr. Descartes is a dangerous man, because they have read it in some book, or because they have heard it said by some persons whose piety they respect.
+
+It is not permitted to believe men on their word when they accuse others of the greatest crimes. It is not a sufficient proof to believe a thing to have heard it said by a man who speaks with zeal and with gravity; for finally can one never say falsehoods and stupidities in the same manner as one says good things, especially if one has allowed oneself to be persuaded of them by simplicity and weakness?
+
+It is easy to inform oneself of the truth or falsity of the accusations made against Mr. Descartes; his writings are easy to find and quite easy to understand when one is capable of attention. 
+
+Let one therefore read his works; so that one may have other proofs against him than a simple hearsay; and I hope that after having read them and well meditated on them, one will no longer accuse him of atheism, and that one will have on the contrary all the respect one ought to have for a man who has demonstrated in a very simple and very evident manner, not only the existence of a God and the immortality of the soul, but also an infinity of other truths that had been unknown until his time.
+

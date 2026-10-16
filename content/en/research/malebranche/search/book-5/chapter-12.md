@@ -1,0 +1,54 @@
+---
+heading: Chapter 12
+title: "Passions directed toward evil are the most dangerous and unjust"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 36
+date: 2026-06-20
+---
+
+
+
+### The Passions least accompanied by understanding are the most intense and vivid
+
+Of all the passions, those whose judgments are farthest removed from reason and most to be feared are the various forms of aversion. No passions corrupt reason more thoroughly in their own favor than hatred and fear — hatred especially in those of a choleric temperament or whose spirits are in constant agitation; and fear in the melancholy, or those whose spirits are coarse and sluggish, so that they are neither easily roused nor easily calmed. But when hatred and fear join forces to corrupt reason — which happens very often — there is no judgment so unjust or absurd that we are not capable of forming it and defending it with unshakable obstinacy.
+
+The reason for this is that the evils of this life affect the soul far more strongly than its benefits. The feeling of pain is sharper than the feeling of pleasure; insults and contempt are felt much more keenly than praise and applause. And while there are people who remain indifferent enough to enjoy certain pleasures or accept certain honors, it is hard to find anyone who can endure pain and scorn without distress.
+
+Thus hatred, fear, and all other forms of aversion directed toward evil are extremely violent passions. They strike the mind with sudden shocks that daze and confuse it; they soon penetrate to the inmost depths of the soul, dethrone reason from its proper place, and pronounce judgments of error and injustice on every subject — all to serve their own folly and tyranny.
+
+These are the cruelest and most distrustful of all passions, the most opposed to charity and social harmony, and at the same time the most ridiculous and irrational. They produce judgments so unreasonable and absurd that they arouse both laughter and indignation in everyone.
+
+It was these passions that put such outrageous words into the mouths of the Pharisees: “What shall we do? This man performs many signs. If we let him go on, everyone will believe in him, and the Romans will come and destroy both our city and our nation.” They agreed that Jesus Christ had worked many miracles — the raising of Lazarus was undeniable. Yet what judgment did their passions produce? To put Jesus Christ to death, and even to kill Lazarus, whom he had brought back to life. Why put Jesus to death? “Because if we let him continue, everyone will believe in him, and the Romans will come and destroy our city and our nation.” And why kill Lazarus? “Because many of the Jews were turning away from them and believing in Jesus.” Cruel and absurd judgments at once: cruel through hatred, and absurd through fear of the Romans coming to destroy their city and nation.
+
+These same passions led a council consisting of Annas the high priest, Caiaphas, John, Alexander, and all the members of the priestly line to say: “What shall we do with these men? For they have performed a miracle that is known to everyone in the city; we cannot deny it. But to keep this teaching from spreading further among the people, let us threaten them with punishment if they continue to speak in the name of Jesus.”
+
+All these eminent men pronounced a judgment both unjust and unreasonable, because their passions stirred them and their false zeal blinded them. They dared not punish the apostles openly because of the people, and because the man who had been miraculously healed was over forty years old and standing right there before them. Instead, they threatened them to stop them from teaching in Jesus’ name. They imagined they must condemn a doctrine because they had put its author to death. “You intend,” they said to the apostles, “to bring this man’s blood upon us.”
+
+When false zeal joins with hatred, it shields hatred from the reproaches of reason and justifies it so completely that we may even feel guilty for not following its impulses. And when ignorance and weakness accompany fear, they extend that fear to countless things, and intensify its force so that the slightest suspicion alarms and confuses reason.
+
+Those driven by false zeal imagine they are serving God when they obey their passions. They blindly follow the inner promptings of their hatred as if they were revelations of inner truth; and finding satisfaction in the emotional “proofs” that justify their excesses, they become fixed in their errors with unshakable stubbornness.
+
+As for the ignorant and weak‑minded, they invent imaginary and ridiculous objects of fear. They are like children walking in darkness without a guide or a light: they conjure up terrifying phantoms, become frightened, and cry out as if all were lost. If they are merely ignorant, light will calm them; but if their minds are weak, their imagination remains permanently wounded. The slightest thing that reminds them of what once frightened them reawakens the same impressions and sets in motion the flow of spirits that produces their fear. It is nearly impossible to cure them or bring them lasting peace.
+
+But when false zeal, hatred, and fear come together in a weak mind, they produce judgments so unjust and violent that one cannot think of them without horror. To change a mind possessed by such passions would require a greater miracle than the conversion of Saint Paul; and their healing would be impossible if we could set limits to the power and mercy of God.
+
+Those who walk in darkness rejoice at the sight of light; but this person cannot bear it. It hurts them, because it opposes their passion. Their fear is in a sense voluntary, because it is produced by their hatred; yet they take a strange pleasure in being disturbed by it — just as people sometimes enjoy being moved by passions directed toward evil when the evil is imaginary, or when they know, as in the theater, that it cannot actually harm them.
+
+The phantoms imagined by those walking in darkness vanish when a candle is lit; but the phantoms of this person do not disappear in the light of truth. That light cannot easily penetrate the darkness of their mind; it only irritates their imagination. Because they focus entirely on the object of their passion, the light is reflected back, and their phantoms seem to take on real substance, as if they push back the faint rays of truth that strike them.
+
+Even if we suppose such people possess enough willingness and reflection to listen to and understand sound arguments that could dispel their errors, their imagination is already deranged by fear, and their heart corrupted by hatred and false zeal. No matter how solid those reasons may be in themselves, they cannot long hold back the impetuous force of these violent passions, nor prevent the passions from quickly finding their own emotional and seemingly convincing justifications.
+
+We must note that some passions are fleeting and do not return, while others are constant and endure for a long time. Those that are not sustained by understanding or any plausible reasoning, but arise only from the sight of some visible object and the agitation of the blood, do not last — they usually die out almost as soon as they begin. But passions accompanied by insight and reflection are enduring, because their cause is not subject to change like the blood and bodily humors. Thus hatred, fear, and all other passions that arise and persist through understanding rather than through the sensory perception of some harm are likely to continue for a long time. They are therefore the most lasting, the most violent, and the most unjust — yet not the most intense or vivid, as we shall now explain.
+
+Our awareness of good and evil, which stirs the passions, occurs in three ways: through the senses, through the imagination, and through the understanding. Perception of good and evil through the senses — that is, direct feeling — produces passions that are very quick and very vivid. Perception through the imagination alone produces far weaker passions. And perception through the understanding alone produces true passions only because such understanding is always accompanied by some movement of the animal spirits.
+
+Passions were given to us only for the good of the body, and to unite us through the body to all sensible objects. Although material things can be neither good nor bad for the mind itself, they are good or bad in relation to the body to which the mind is joined. Since the senses and imagination perceive far more clearly than the understanding the relationship between external objects and our body, these faculties naturally stir passions far more intensely than clear and certain knowledge. Yet because every act of understanding is accompanied by some movement of the spirits, a clear and certain awareness of a great good or great evil — even one not perceived by the senses — always arouses some hidden passion.
+
+Still, not every clear and certain judgment about good and evil brings a noticeable or felt passion, just as not every passion is accompanied by understanding. We sometimes think of good or evil without feeling moved; and we often feel stirred by a passion without knowing, or even sensing, its cause. A person breathing fresh air may feel joy without knowing why, or understanding the benefit that produces it. If some invisible substance enters the blood and disturbs its balance, they may feel sad, and even blame their sadness on something visible that happens to be present at the time.
+
+Of all passions, none are more immediate, more vivid, and consequently less accompanied by understanding than horror and aversion, liking and attraction. A man sleeping in the shade may suddenly start awake if a fly bites him or a leaf brushes his skin, as if bitten by a serpent. A vague sense of something as terrible as death alarms him, and without any conscious thought, he is seized by a strong, violent passion — a form of fearful repulsion.
+
+Conversely, a person in need may happen upon some small comfort whose sweetness surprises them; they cling to this trifle as if it were the greatest good, without stopping to reflect. The same happens with feelings of attraction and repulsion. In a gathering, we may meet someone whose appearance and manner seem to harmonize mysteriously with our present bodily state. The mere sight of them affects and moves us, and we are drawn without thinking to like them and wish them well. It is some indefinable quality that stirs us, for reason plays no part. The opposite happens with those whose bearing and manner seem to spread a sense of distaste and dread. They possess some vague, unnameable quality that repels and frightens us; yet the mind perceives nothing definite, because only the senses truly judge outward beauty and ugliness — and these are the proper objects of such passions.
+

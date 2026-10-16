@@ -1,0 +1,176 @@
+---
+heading: Chapter 14
+title: "Penalties for Those who smite the water dogs"
+description: "We interpret Ahura Mazda as Anu or Enlil of the Anunnaki"
+c: "indigo"
+icon: "Zoroaster"
+writer:
+  name: Zoroaster
+  url: https://en.wikipedia.org/wiki/Zoroaster
+weight: 44
+---
+
+
+
+{{< r a="Zarathustra" >}}
+<sup>1</sup> O Ahura Mazda, Maker of the material world! 
+
+What is the penalty of a person who smites one of those water dogs that are born one from a thousand dogs and a thousand she-dogs so that he gives up the ghost and the soul parts from the body?
+{{< /r >}}
+
+
+{{< l a="Ahura Mazda" >}}
+2 (4). He shall pay 10,000 stripes with the Aspahê-astra, 10,000 stripes with the Sraoshô-karana 
+
+5. ‘He shall godly and piously bring unto the fire of Ahura Mazda 10,000 loads of hard, well dried, well examined wood, as an atonement unto the soul (of the water dog).
+
+3 (6). ‘He shall godly and piously bring unto the fire of Ahura Mazda 10,000 loads of soft wood, of Urvâsna, Vohu-gaona, Vohu-kereti, Hadhâ-naêpata, or any sweet-scented plant, as an atonement unto the soul (of the water dog).
+
+4 (7). ‘He shall godly and piously tie and consecrate 10,000 bundles of baresma.
+
+He shall offer up to the good waters 10,000 Zaothra libations with the Haoma and the sacred meat, cleanly prepared and well strained, cleanly prepared and well strained by a pious man, as an atonement unto the soul (of the water dog).
+
+5 (9). ‘He shall kill:
+- 10,000 snakes of those that go upon the belly
+- 10,000 snakes of those that have the shape of a dog
+- 10,000 tortoises
+- 10,000 land frogs
+- 10,000 water frogs
+- 10,000 corn-carrying ants
+- 10,000 ants of those that bite and dig holes and work mischief
+- 6 (16) 10,000 earth worms
+- 10,000 horrid flies
+
+‘He shall fill up 10,000 holes for the unclean.
+
+‘He shall godly and piously give to godly men twice seven sets of implements for the fire, as an atonement unto the soul (of the water dog), namely:
+
+- 7 (20). ‘Two (loads of the) proper materials for fire
+- a broom
+- a pair of tongs
+- a pair of round bellows extended at the bottom, contracted at the top
+- an adze with a sharp edge and a sharp-pointed handle
+- a saw with sharp teeth and a sharp-pointed handle, by means of which the worshippers of Mazda procure wood for the fire of Ahura Mazda.
+{{< /l >}}
+
+
+
+{{< l a="Ahura Mazda" >}}
+8 (26). ‘He shall godly and piously give to godly men a set of the priestly instruments of which the priests make use, as an atonement unto the soul (of the water dog), namely: 
+
+- The Astra
+- the meat-vessel
+- the Paitidâna
+- the Khrafstraghna
+- the Sraoshô-karana
+- the cup for the Myazda
+- the cups for the juice
+- the mortar made according to the rules
+- the Haoma cups
+- the baresma
+
+9 (32). ‘He shall godly and piously give to godly men a set of all the war implements of which the warriors make use 5, as an atonement unto the soul (of the water dog):
+
+1. a javelin
+2. a knife
+3. a club
+4. a bow
+5. a quiver with shoulder-belt and 30 brass-headed arrows
+6. a sling with arm-string and with 30 sling stones
+7. a cuirass
+8. a hauberk
+9. a tunic
+10. a helmet
+11. a girdle
+12. a pair of greaves
+
+
+10 (41). ‘He shall godly and piously give to godly men a set of all the implements of which the husbandmen make use, as an atonement unto the soul (of the water dog), namely: A plough with share and yoke 1, an ox whip 2, a mortar of stone, a hand-mill for grinding corn,
+
+11 (48). 'A spade for digging and tilling; one measure of silver and one measure of gold.'
+{{< /l >}}
+
+
+{{< r a="Zarathustra" >}}
+O Holy One! How much silver?
+{{< /r >}}
+
+{{< l a="Ahura Mazda" >}}
+The price of a stallion.
+{{< /l >}}
+
+{{< r a="Zarathustra" >}}
+O Holy One! How much gold?
+{{< /r >}}
+
+
+{{< l a="Ahura Mazda" >}}
+The price of a camel.
+
+<sup>12</sup> (54). 'He shall godly and piously procure a rill of running water for godly husbandmen, as an atonement unto the soul (of the water dog).'
+{{< /l >}}
+
+
+{{< r a="Zarathustra" >}}
+O Holy One! How large is the rill?
+{{< /r >}}
+
+
+{{< l a="Ahura Mazda" >}}
+The depth of a dog, and the breadth of a dog.
+
+<sup>13</sup> (57). 'He shall godly and piously give a piece of arable land to godly men, as an atonement unto the soul (of the water dog).'
+{{< /l >}}
+
+
+{{< r a="Zarathustra" >}}
+O Holy One! How large is the piece of land?
+{{< /r >}}
+
+
+{{< l a="Ahura Mazda" >}}
+As much as can be watered with such a rill on both sides.
+
+14 (60). 'He shall godly and piously procure for godly men a house with ox-stalls, with 9 hâthras and 9 nematas, as an atonement unto the soul (of the water dog).'
+{{< /l >}}
+
+
+{{< r a="Zarathustra" >}}
+O Holy One I How large is the house?
+{{< /r >}}
+
+
+{{< l a="Ahura Mazda" >}}
+Twelve Vîtâras 3 in the largest part of the house, nine Vîtâras in the middle part, six Vîtâras in the smallest part.
+
+‘He shall godly and piously give to godly men godly beds with cushions, as an atonement unto the soul (of the water dog),
+
+15 (64). 'He shall godly and piously give to a godly man a virgin maid, whom no man has known, as an atonement unto the soul (of the water dog).'
+{{< /l >}}
+
+
+{{< r a="Zarathustra" >}}
+O Holy One! What maid?
+{{< /r >}}
+
+
+{{< l a="Ahura Mazda" >}}
+A sister or a daughter of his, at the age of puberty, with ear-rings in her ears, and past her fifteenth year.
+  
+16 (67). ‘He shall godly and piously give to holy men twice seven head of small cattle, as an atonement unto the soul (of the water dog).
+
+‘He shall bring up twice seven whelps.
+
+‘He shall throw twice seven bridges over canals.
+
+17 (70). ‘He shall put into repair twice nine stables that are out of repair.
+
+‘He shall cleanse twice nine dogs from skin humours, hair wax, vermin 4, and all the diseases that are produced on the body of a dog.
+
+‘He shall treat twice nine godly men to their fill of meat, bread, strong, drink, and wine.
+
+18 (73). ‘This is the atonement, this is the penalty that he shall undergo to atone for the deed that he has done.
+
+'If he shall undergo it, he shall enter the world of the holy ones: if he shall not undergo it, he shall fall down into the world of the wicked, into that dark world, made of darkness, the offspring of darkness 1.'
+{{< /l >}}
+

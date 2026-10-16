@@ -1,0 +1,96 @@
+---
+heading: Chapter 6
+title: "We see all things in God"
+description: ""
+a: "Malebranche"
+c: "indigo"
+weight: 16
+date: 2026-06-20
+---
+
+
+
+We have examined in the preceding chapters four different ways in which the mind can see external objects, which do not appear to us plausible. 
+
+There remains only the fifth, which alone seems conformable to reason, and the most suitable for making known the dependence that minds have on God in all their thoughts.
+
+It is absolutely necessary that:
+- God have in Himself the ideas of all the beings He has created, since otherwise He could not have produced them
+- He thus sees all these beings by considering the perfections He contains to which they have relation.
+- God is very closely united to our souls by His presence, so that one can say that He is the place of spirits, just as spaces are in a sense the place of bodies
+
+The mind thus can see what is in God that represents created beings, since that is very spiritual, very intelligible, and very present to the mind.
+
+Thus, the mind can see in God the works of God, provided that God wishes to disclose to it what is in Him that represents them. Now, here are the reasons that seem to prove that He wishes this rather than to create an infinite number of ideas in each mind.
+
+This also appears from the economy of all nature, that God never does by very difficult ways what can be done by very simple and very easy ways; for God does nothing uselessly and without reason. What marks His wisdom and His power is not to do small things by great means; that is contrary to reason and indicates a limited intelligence. 
+
+But on the contrary, it is to do great things by very simple and very easy means. It is thus that with extension alone He produces all that we see that is admirable in nature, and even what gives life and motion to animals; for those who absolutely want substantial forms, faculties, and souls in animals, different from their blood and the organs of their bodies to perform all their functions, wish at the same time that God lack intelligence or that He cannot do these admirable things with extension alone. 
+
+They measure the power of God and His sovereign wisdom by the smallness of their mind. Since then God can show all things to minds by simply willing that they see what is in their midst—that is to say, what is in Himself that has relation to these things and represents them—there is no appearance that He does it otherwise, and that He produces for that as many infinities of infinite numbers of ideas as there are created minds.
+
+But one cannot conclude that minds see the essence of God from the fact that they see all things in God in this manner. The essence of God is His absolute being; and minds do not see the divine substance taken absolutely, but only insofar as it is related to creatures or participable by them.
+
+What they see in God is very imperfect, and God is very perfect. They see divisible, figured matter, etc., and in God there is nothing that is divisible or figured; for God is all being, because He is infinite and comprehends all; but He is no particular being. 
+
+However, what we see is only one or several particular beings; and we do not comprehend this perfect simplicity of God which contains all beings. Besides, one can say that one does not so much see the ideas of things as the things themselves that the ideas represent; for when one sees a square, for example, one does not say that one sees the idea of this square which is united to the mind, but only the square that is outside.
+
+The second reason that can make us think that we see all beings because God wills that what is in Him that represents them be disclosed to us, and not because we have as many created ideas with us as we can see things, is that this places created minds in an entire dependence on God, and the greatest that can be; for this being so, not only could we see nothing unless God wished us to see it, but we could see nothing unless God Himself made us see it. *Non sumus sufficientes cogitare aliquid a nobis tanquam ex nobis, sed sufficientia nostra ex Deo est*
+[19]. It is God Himself who enlightens philosophers in the knowledge that ungrateful men call natural, although it comes to them only from heaven: *Deus enim illis manifestavit*
+[20]. It is He who is properly the light of the mind and the Father of lights: *Pater luminum*
+[21]; it is He who teaches knowledge to men: *Qui docet hominem scientiam*
+[22]. In a word, it is the true light that enlightens all who come into this world: *Lux vera quae illuminat omnem hominem venientem in hunc mundum*
+[23].
+
+It is rather difficult to distinctly understand the dependence that our minds have on God in all their particular actions, supposing that they have everything that we distinctly know is necessary for their being to act, or all the ideas of things present to their mind. And this general and confused word "concourse," by which one pretends to explain the dependence that creatures have on God, awakens in an attentive mind no distinct idea; and yet it is good that men know very distinctly how they can do nothing without God.
+
+But the strongest of all reasons is how the mind perceives all things. 
+
+When we wish to think of something, we first cast our view over all beings. Then we apply ourselves to the object we wish to think of.
+
+We could not desire to see a particular object unless we already saw it, although confusedly and in general; so that, being able to desire to see all beings, now one, now another, it is certain that all beings are present to our mind, and it seems that all beings could not be present to our mind except because God is present to it—that is to say, He who contains all things in the simplicity of His being.
+
+The mind would not be capable of representing to itself universal ideas of genus, species, etc., if it did not see all beings contained in one. For every creature being a particular being, one cannot say that one sees something created when one sees, for example, a triangle in general. 
+
+Finally, I do not believe that one can well account for the manner in which the mind knows many abstract and general truths, except by the presence of Him who can enlighten the mind in an infinity of different ways.
+
+Finally, the most beautiful [24], the most elevated, the most solid, and the first proof of the existence of God—or that which supposes the fewest things—is the idea we have of the infinite. For it is certain that the mind perceives the infinite, although it does not comprehend it; and that it has a very distinct idea of God, which it can have only through the union it has with Him; since one cannot conceive that the idea of an infinitely perfect being, which is that which we have of God, is something created.
+
+But not only does the mind have the idea of the infinite; it has it even before that of the finite. For we conceive the infinite being, from this alone that we conceive being, without thinking whether it is finite or infinite. 
+
+But in order that we conceive a finite being, it is necessary necessarily to retrench something from this general notion of being, which consequently must precede. Thus the mind perceives nothing except in the idea it has of the infinite: and far from this idea being formed from the confused assemblage of all the ideas of particular beings, as philosophers think, on the contrary all these particular ideas are only participations of the general idea of the infinite, just as God does not hold His being from creatures, but all creatures are only imperfect participations of the divine being.
+
+Here is a proof that will perhaps be a demonstration for those who are accustomed to abstract reasonings. It is certain that ideas are efficacious, since they act in the mind and enlighten it, since they make it happy or unhappy by the agreeable or disagreeable perceptions with which they affect it.
+
+Nothing can act immediately in the mind unless it is superior to it; nothing can do so but God alone; for only the author of our being can change its modifications. Therefore it is necessary that all our ideas be found in the effectual substance of the divinity, which alone is intelligible or capable of enlightening us only because it alone can affect intelligences. *Insinuavit nobis Christus*, says Saint Augustine
+[25], *animam humanam et mentem rationalem non vegetari, non beatificari, non illuminari, nisi ab ipsa substantia Dei*.
+
+Finally, it is not possible that God have any other principal end of His actions than Himself; this is a notion common to every man capable of some reflection, and Holy Scripture does not permit us to doubt that God made all things for Himself. It is therefore necessary that not only our natural love—I mean the movement He produces in our mind—tend toward Him, but also that the knowledge and the light He gives it make us know something that is in Him; for everything that comes from God can only be for God. If God made a mind and gave it for idea, or for the immediate object of its knowledge, the sun, God would seem to make this mind, and the idea of this mind for the sun and not for Himself.
+
+God cannot therefore make a mind to know His works, unless this mind sees in some way God in seeing His works. So that one can say that if we did not see God in some manner, we would see nothing
+[26]; just as if we did not love God—I mean if God did not incessantly imprint in us the love of good in general—we would love nothing. For this love being our will, we cannot love anything nor will anything without it, since we can love particular goods only by determining toward these goods the movement of love that God gives us for Himself. Thus, as we love nothing except by the necessary love we have for God, we see nothing except by the natural knowledge we have of God; and all the particular ideas we have of creatures are only participations of the idea of the creator, just as all the movements of the will toward creatures are only determinations of the movement toward the creator.
+
+I do not believe that there are two theologians who do not agree that the impious love God with this natural love of which I speak; and Saint Augustine and some other Fathers affirm as an indubitable thing that the impious see in God the rules of morals and the eternal truths. So that the opinion I explain should not trouble anyone
+[27]. Here is how Saint Augustine speaks
+[28]:
+
+*Ab illa incommutabili luce veritatis, etiam impius, dum ab ea avertitur, quodammodo tangitur: hinc est quod etiam impii cogitans aeternitatem, et multa recte reprehendunt recteque laudant in hominum moribus. Quibus ea tandem regulis judicant, nisi in quibus vident, quemadmodum quisque vivere debeat, etiam si nec ipsi eodem modo vivunt? Ubi autem eas vident? Neque enim in sua natura. Nam cum procul dubio mente ista videantur, eorumque mentes constet esse mutabiles, has vero regulas immutabiles videat quisquis in eis et hoc videre potuerit... ubinam ergo sunt istae regulae scriptae, nisi in libro lucis illius quae veritas dicitur, unde lex omnis justa describitur... in qua videt quid operandum sit etiam qui operatur injustitiam; et ipse est qui ab illa luce avertitur, a qua tamen tangitur?*
+
+There are in Saint Augustine an infinity of passages similar to this one, by which he proves that we see God in this life by the knowledge we have of eternal truths. Truth is uncreated, immutable, immense, eternal, above all things. It is true by itself; it holds its perfection from nothing; it renders creatures more perfect, and all minds naturally seek to know it. There is nothing that can have all these perfections but God. Therefore truth is God. We see immutable and eternal truths. Therefore we see God. These are the reasons of Saint Augustine; ours are little different, and we do not wish to use unjustly the authority of so great a man to support our sentiment.
+
+We think therefore that truths, even those that are eternal, such as that two times two make four, are not only absolute beings; far from it, we believe that they are God Himself. For it is visible that this truth consists only in a relation of equality which is between two times two and four. Thus we do not say that we see God in seeing the truths, as Saint Augustine says, but in seeing the ideas of these truths; for the ideas are real; but the equality between the ideas, which is the truth, is nothing real. When, for example, one says that the cloth one measures at three ells, the cloth and the ells are real. But the equality between three ells and the cloth is not a real being; it is only a relation that is found between the three ells and the cloth. When one says that two times two make four, the ideas of the numbers are real, but the equality between them is only a relation. Thus according to our sentiment, we see God when we see eternal truths: not that these truths are God, but because the ideas on which these truths depend are in God; perhaps even Saint Augustine understood it thus. We also believe that one knows in God changeable and corruptible things, although Saint Augustine speaks only of immutable and incorruptible things, because it is not necessary for that to place some imperfection in God; since it suffices, as we have already said, that God make us see what is in Him that has relation to these things.
+
+But although I say that we see in God material and sensible things, one must take good heed that I do not say that we have sensations of them in God, but only that it is from God who acts in us; for God knows sensible things well, but He does not sense them. When we perceive something sensible, there is found in our perception sensation and pure idea. Sensation is a modification of our soul, and it is God who causes it in us; and He can cause it although He does not have it, because He sees, in the idea He has of our soul, that it is capable of it. For the idea that is joined with the sensation, it is in God, and we see it because it pleases Him to disclose it to us, and God joins the sensation to the idea when objects are present, so that we believe it thus and that we enter into the sentiments and passions that we ought to have with respect to them.
+
+We believe finally that all minds see the eternal laws as well as other things in God, but with some difference. They know order and eternal truths, and even the beings that God has made according to His truths or according to order, by the union that these minds necessarily have with the Word, or the wisdom of God which enlightens them, as has just been explained. But it is by the impression they receive incessantly from the will of God, which bears them toward Him, and tries, so to speak, to render their will entirely like His, that they know that immutable order is their indispensable law; an order which thus comprehends all eternal laws, such as that one must love good and flee evil; that one must love justice more than all riches; that it is better to obey God than to command men, and an infinity of other natural laws. For the knowledge of all these laws or of the obligation they have to conform to immutable order is not different from the knowledge of this impression, which they always feel in themselves, although they do not always follow it by the free choice of their will; and which they know to be common to all minds, although it is not equally strong in all minds.
+
+It is by this dependence, by this relation, by this union of our mind with the Word of God, and of our will with His love, that we are made in the image and likeness of God; and although this image is much effaced by sin, however it is necessary that it subsist as long as we exist.
+
+But if we bear the image of the Word humbled on earth, and if we follow the movements of the Holy Spirit, this primitive image of our first creation, this union of our mind with the Word of the Father and with the love of the Father and the Son, will be restored and rendered ineffaceable. We shall be like God if we are like the God-man. Finally, God will be all in us and we all in God in a manner far more perfect than that by which it is necessary, in order that we subsist, that we be in Him and that He be in us
+[29].
+
+These are some reasons that can make one believe that minds perceive all things by the intimate presence of Him who comprehends all in the simplicity of His being. Each will judge according to the interior conviction he will receive from it after having seriously thought about it. But one believes that there is no plausibility in all the other ways of explaining these things, and that this last will appear more than plausible; thus our souls depend on God in all ways. For just as it is He who makes them feel pain, pleasure, and all other sensations, by the natural union He has placed between them and our body, which is nothing other than His decree and His general will; thus it is He who, by the natural union He has also placed between the will of man and the representation of the ideas contained in the immensity of the divine being, makes them know everything they know, and this natural union is also only His general will. So that there is only He who can enlighten us by representing all things to us; just as there is only He who can make us happy by making us taste all kinds of pleasures.
+
+Let us remain then in this sentiment: that God is the intelligible world or the place of spirits, just as the material world is the place of bodies; that it is from His power that they receive all their modifications; that it is in His wisdom that they find all their ideas, and that it is by His love that they are agitated by all their regulated movements; and because His power and His love are only Himself, let us believe with Saint Paul that He is not far from each of us, and that it is in Him that we have life, movement, and being. *Non longe est ab unoquique nostrum; in ipso enim vivimus, movemur et sumus*
+[30].
+
