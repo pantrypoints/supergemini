@@ -1,0 +1,120 @@
+<!-- ganalytics, adsense, taws -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KK1Q2RRQLM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KK1Q2RRQLM');
+</script>
+
+
+<!-- super.pages.dev -->
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-TDYG4RK7BV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TDYG4RK7BV');
+</script>
+ -->
+
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>{{ if .IsHome }}{{ i18n "site_name" }} — {{ i18n "site_tagline" }}{{ else }}{{ .Title }} | {{ i18n "site_name" }}{{ end }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ i18n "site_description" }}{{ end }}"/>
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ .Title }}"/>
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ i18n "site_description" }}{{ end }}"/>
+
+<meta property="og:image" content="{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ "/graphics/sp.jpg" | absURL }}{{ end }}"/>
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}"/>
+<meta property="og:url" content="{{ .Permalink }}"/>
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="{{ .Title }}"/>
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ i18n "site_description" }}{{ end }}"/>
+
+
+
+
+<!-- Canonical -->
+<link rel="canonical" href="{{ .Permalink }}"/>
+
+<!-- Multilingual alternates -->
+{{ range .AllTranslations }}
+<link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}"/>
+{{ end }}
+
+
+<!-- For Google/Bing search results (PNG required) -->
+<link rel="icon" type="image/png" sizes="32x32" href="/icons/sp-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/icons/sp-16.png">
+
+<!-- For Apple devices -->
+<link rel="apple-touch-icon" sizes="180x180" href="/icons/sp-180.png">
+
+<link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
+
+
+<!-- Fonts: Noto Sans TC + Noto Serif TC -->
+<!-- <link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;600;700 rel="stylesheet"/> -->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Varela+Round&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+
+
+<!-- Tailwind v4 CDN -->
+<!-- <link rel="stylesheet" href="/css/styles.css" /> -->
+<link rel="stylesheet" href="/css/tailwind.css">
+<!-- <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script> -->
+<!-- Custom styles -->
+<link rel="stylesheet" href="/css/custom.css"/>
+
+
+<!-- Dark mode init (before render to prevent flash) -->
+<script>
+  (function() {
+    var stored = localStorage.getItem('sp-theme');
+    var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    if (stored === 'dark' || (!stored && prefersDark)) {
+      document.documentElement.classList.add('dark');
+    }
+  })();
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{{ if .IsPage }}Article{{ else }}WebSite{{ end }}",
+  "headline": "{{ .Title }}",
+  "url": "{{ .Permalink }}",
+  "description": "{{ with .Description }}{{ . }}{{ else }}{{ i18n "site_description" }}{{ end }}",
+  "author": {
+    "@type": "Organization",
+    "name": "Superphysics"
+  }
+}
+</script>
+
+
+
+<!-- Search index JSON -->
+{{ if .IsHome }}
+<link rel="alternate" type="application/json" href="{{ "index.json" | relURL }}"/>
+{{ end }}
+
+<!-- RSS -->
+{{ range .AlternativeOutputFormats }}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ $.Site.Title }}"/>
+{{ end }}
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2557957536703477"
+     crossorigin="anonymous"></script>

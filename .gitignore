@@ -1,0 +1,27 @@
+# Hugo build output
+public/
+resources/
+.hugo_build.lock
+
+# Dependencies
+node_modules/
+
+# Generated CSS (rebuilt by `npm run build:css`)
+static/css/tailwind.css
+assets/css/dist.css
+
+# Secrets and local env files
+.env
+.env.*
+.dev.vars
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+npm-debug.log*

@@ -1,0 +1,40 @@
+{{- $color := .color | default "black" -}}
+
+<div class="group flex flex-col w-full hover:scale-110 overflow-hidden rounded-2xl border border-sp-border bg-sp-card shadow hover:shadow-lg transition-all duration-300 cursor-pointer"
+     onclick="window.location='{{ .url }}'">
+  
+  <div class="relative w-full aspect-[16/9] overflow-hidden bg-slate-900">
+    {{ with .img }}
+    <img src="{{ . }}" alt="{{ $.title }}"
+         class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700 ease-out"
+         onerror="this.parentElement.style.display='none'"/>
+    {{ end }}
+    
+    {{ with .cat }}
+    <div class="absolute top-3 left-3 z-10">
+      <span class="text-[10px] uppercase tracking-wider font-display font-bold px-2.5 py-1 rounded-lg text-white shadow-lg" 
+            style="background-color: {{ $color }};">
+        {{ . }}
+      </span>
+    </div>
+    {{ end }}
+  </div>
+  
+  <div class="p-5 flex flex-col flex-1">
+    <h2 class="text-sp-text font-display font-bold text-lg leading-tight mb-2 group-hover:text-teal-500 transition-colors break-words">
+      {{ .title }}
+    </h2>
+    
+    {{ with .sub }}
+    <p class="text-sp-muted text-sm line-clamp-3 leading-relaxed break-words">
+      {{ . }}
+    </p>
+    {{ end }}
+    
+    <div class="mt-auto pt-4">
+       <span class="text-teal-500 text-xs font-bold uppercase tracking-tighter group-hover:translate-x-1 inline-block transition-transform">
+         Read More →
+       </span>
+    </div>
+  </div>
+</div>

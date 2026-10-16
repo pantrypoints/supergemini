@@ -1,0 +1,314 @@
+{{ define "main" }}
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 1rem;
+        }
+        
+        .container {
+            max-width: 600px;
+            width: 100%;
+            text-align: center;
+            padding: 3rem 2rem;
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            border-radius: 2rem;
+            border: 1px solid rgba(45, 212, 191, 0.2);
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+        }
+        
+        h1 {
+            font-size: 8rem;
+            font-weight: 700;
+            line-height: 1;
+            background: linear-gradient(135deg, #2dd4bf 0%, #3b82f6 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 0.5rem;
+            letter-spacing: -0.02em;
+        }
+        
+        h2 {
+            font-size: 2rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            letter-spacing: -0.01em;
+        }
+        
+        p {
+            font-size: 1.125rem;
+            color: #94a3b8;
+            margin-bottom: 2.5rem;
+            line-height: 1.6;
+        }
+        
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.875rem 2rem;
+            font-size: 1rem;
+            font-weight: 500;
+            text-decoration: none;
+            color: white;
+            background: linear-gradient(135deg, #2dd4bf, #3b82f6);
+            border-radius: 9999px;
+            transition: all 0.2s ease;
+            box-shadow: 0 10px 15px -3px rgba(45, 212, 191, 0.2);
+        }
+        
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 20px 25px -5px rgba(45, 212, 191, 0.3);
+        }
+        
+        .btn svg {
+            width: 1.25rem;
+            height: 1.25rem;
+            transition: transform 0.2s ease;
+        }
+        
+        .btn:hover svg {
+            transform: translateX(4px);
+        }
+        
+        .btn-large {
+            padding: 1.25rem 3rem;
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin: 1.5rem 0;
+        }
+        
+        .error-details {
+            margin-top: 2rem;
+            font-size: 0.875rem;
+            color: #64748b;
+        }
+        
+        /* Floating orbs animation */
+        .orb {
+            position: absolute;
+            border-radius: 50%;
+            filter: blur(60px);
+            z-index: -1;
+        }
+        
+        .orb-1 {
+            width: 300px;
+            height: 300px;
+            background: rgba(45, 212, 191, 0.15);
+            top: -100px;
+            left: -100px;
+            animation: float 20s ease-in-out infinite;
+        }
+        
+        .orb-2 {
+            width: 400px;
+            height: 400px;
+            background: rgba(59, 130, 246, 0.15);
+            bottom: -150px;
+            right: -150px;
+            animation: float 25s ease-in-out infinite reverse;
+        }
+        
+        @keyframes float {
+            0%, 100% { transform: translate(0, 0); }
+            50% { transform: translate(30px, 20px); }
+        }
+
+        /* Hide/show panels based on JS detection (default: generic 404 shows,
+           economics redirect is hidden until/unless JS says otherwise) */
+        #economics-404 { display: none; }
+        #text-file-404 { display: none; }
+    </style>
+    <!-- Background orbs -->
+    <div class="orb orb-1"></div>
+    <div class="orb orb-2"></div>
+
+    <div class="container">
+        <h1>404</h1>
+
+
+
+        <div id="generic-404">
+            <h2>That page is missing!</h2>
+
+            <p>We are reorganizing the content so we suggest to search for that topic or browse the index.</p>
+
+            <p>Search for that topic here:
+                <!-- Search button in content area -->
+                <button id="contentSearchBtn"
+                        aria-label="Search"
+                        class="inline-flex items-center gap-2 p-4 p-2 bg-teal-600 hover:bg-teal-500 text-white rounded-xl transition-colors shadow-sm hover:shadow-md">
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+                  </svg>
+                  <span>Search articles</span>
+                </button>
+            </p>
+
+            <p>Or browse the <b><a href="https://www.superphysics.org/tags/">tags</a></b></p>
+
+            <p>In view of <b>public safety</b>, we have removed cult content about Blavatsky (Theosophy), PR Sarkar, Hare Krishna, Osho, Keylontic Science, Happy Science, Scientology, Church of Satan.</p>
+
+            <p><b>Sassani Transmissions</b> are now arranged by year <a href="https://www.superphysics.org/research/other/alien/essassani/transmissions/"><b>here</b></a></p>
+
+            <p>You can contact us at pantrypoints@gmail.com for content that you want simplified or translated to English or interpreted using Superphysics principles</p>
+
+            <a href="{{ "/" | relLangURL }}" class="btn">
+                Return Home
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-house-icon lucide-house"><path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"/><path d="M3 10a2 2 0 0 1 .709-1.528l7-6a2 2 0 0 1 2.582 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg>
+            </a>
+        </div>
+
+        <div id="economics-404">
+            <h2>We have moved Supereconomics content to econ.pantrypoints.com</h2>
+            <p>Please click on this link to redirect to the new site:</p>
+
+            <a id="economics-link" href="#" class="btn btn-large">
+                Go to econ.pantrypoints.com
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+                    <polyline points="15 3 21 3 21 9"/>
+                    <line x1="10" y1="14" x2="21" y2="3"/>
+                </svg>
+            </a>
+        </div>
+
+        <div id="text-file-404">
+            <h2>Text file detected</h2>
+            <p>This appears to be a .txt file. You can view it below or download it:</p>
+            <a id="text-file-link" href="#" class="btn btn-large" download>
+                Download .txt File
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                    <polyline points="7 10 12 15 17 10"/>
+                    <line x1="12" y1="15" x2="12" y2="3"/>
+                </svg>
+            </a>
+            <div id="text-file-content" class="text-left mt-4 p-4 bg-gray-900/50 rounded-lg max-h-96 overflow-y-auto" style="display: none;">
+                <pre id="text-file-preview" class="text-sm text-gray-300 whitespace-pre-wrap"></pre>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+    (function () {
+        var path = window.location.pathname;
+        var newUrl = null;
+
+        // Check if path ends with .txt (case insensitive)
+        if (path.toLowerCase().endsWith('.txt')) {
+            // Show text file panel
+            document.getElementById("generic-404").style.display = "none";
+            document.getElementById("economics-404").style.display = "none";
+            var panel = document.getElementById("text-file-404");
+            panel.style.display = "block";
+            
+            // Set download link to the current URL
+            var link = document.getElementById("text-file-link");
+            link.href = window.location.href;
+            
+            // Try to fetch and display the text file content
+            fetch(window.location.href)
+                .then(function(response) {
+                    if (response.ok) {
+                        return response.text();
+                    }
+                    throw new Error('Could not fetch text file');
+                })
+                .then(function(text) {
+                    var contentDiv = document.getElementById("text-file-content");
+                    var preview = document.getElementById("text-file-preview");
+                    contentDiv.style.display = "block";
+                    preview.textContent = text;
+                })
+                .catch(function(error) {
+                    console.log('Could not preview text file:', error);
+                });
+            
+            return; // Stop execution after handling text file
+        }
+
+        // Economics redirects (specific prefixes)
+        function rewrite(prefix, replacement) {
+            if (path.indexOf(prefix) === 0) {
+                return "https://econ.pantrypoints.com" + replacement + path.slice(prefix.length);
+            }
+            return null;
+        }
+
+        // Check for economics research paths
+        var economicsResearchers = [
+            '/research/barbon',
+            '/research/child',
+            '/research/friedman',
+            '/research/hayek',
+            '/research/keynes',
+            '/research/marshall',
+            '/research/maslow',
+            '/research/mun',
+            '/research/piketty',
+            '/research/quesnay',
+            '/research/rand',
+            '/research/ricardo',
+            '/research/rousseau',
+            '/research/say',
+            '/research/schumacher',
+            '/research/schumpeter',
+            '/research/sismondi',
+            '/research/smith',
+            '/research/xenophon'
+        ];
+
+        // Check if path starts with any of the economics researcher paths
+        for (var i = 0; i < economicsResearchers.length; i++) {
+            if (path.indexOf(economicsResearchers[i]) === 0) {
+                // Extract the rest of the path after the researcher name
+                var rest = path.slice(economicsResearchers[i].length);
+                // Remove trailing slash if present
+                if (rest.startsWith('/')) {
+                    rest = rest.slice(1);
+                }
+                // Build the new URL: econ.pantrypoints.com/research/{researcher}/{rest}
+                var researcherName = economicsResearchers[i].replace('/research/', '');
+                newUrl = 'https://econ.pantrypoints.com/research/' + researcherName + '/' + rest;
+                break;
+            }
+        }
+
+        // If no match, try the other economics prefixes
+        if (!newUrl) {
+            newUrl =
+                rewrite("/social/economics/principles", "/principles") ||
+                rewrite("/social/economics/solutions", "/solutions") ||
+                rewrite("/social/economics/fallacies", "/fallacies") ||
+                rewrite("/social/cycles/", "/cycles/") ||
+                rewrite("/social/economics/", "/articles");
+        }
+
+        if (newUrl) {
+            document.getElementById("generic-404").style.display = "none";
+            var panel = document.getElementById("economics-404");
+            panel.style.display = "block";
+            var link = document.getElementById("economics-link");
+            link.href = newUrl;
+            // Optional: auto-redirect after a short delay
+            // setTimeout(function () { window.location.href = newUrl; }, 3000);
+        }
+    })();
+    </script>
+
+{{ end }}

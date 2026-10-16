@@ -1,0 +1,487 @@
+{{ define "main" }}
+{{- $hasVideo := .Params.v -}}
+{{- $youtube := .Params.youtube -}}
+{{- $color := .Params.c | default "darkslategray" -}}
+{{- $hasImage := .Params.image -}}
+{{- $svgBanner := .Params.s -}} {{/* NEW: SVG from front matter */}}
+{{- $heading := .Params.heading -}}
+{{- $iconName := .Params.icon -}}
+{{- $sicon := .Params.sicon -}}
+{{- $showDate := .Params.showdate -}}
+{{- $description := .Description -}}
+
+{{- /* --- DOCUMENTATION ROUTE CHECK --- */ -}}
+{{- $isDoc := false -}}
+{{- $currentPart := . -}}
+{{- $isAtRoot := false -}}
+
+{{- $validPaths := slice "/superphysics/principles/" "/spiritual/principles/" "/supermath/principles/" "/bio/principles/" "/material/principles/" "/social/economics/principles/" "/social/supersociology/principles/" -}}
+
+{{- range $validPaths -}}
+    {{- if in $.RelPermalink . -}}
+        {{- $isDoc = true -}}
+    {{- end -}}
+{{- end -}}
+
+{{- /* Find the specific "Part" the user is currently in */ -}}
+{{- if $isDoc -}}
+    {{- if hasSuffix .RelPermalink "/principles/" -}}
+        {{- $isAtRoot = true -}}
+    {{- else -}}
+        {{- /* Check if the current page ITSELF is the Part */ -}}
+        {{- if and .Parent (hasSuffix .Parent.RelPermalink "/principles/") -}}
+            {{- $currentPart = . -}}
+        {{- else -}}
+            {{- /* Check ancestors to find the Part */ -}}
+            {{- range .Ancestors -}}
+                {{- if and .Parent (hasSuffix .Parent.RelPermalink "/principles/") -}}
+                    {{- $currentPart = . -}}
+                {{- end -}}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+
+<section class="relative w-full min-h-[520px] flex items-stretch overflow-hidden" style="background-color: {{ $color }};">
+    {{ if $hasVideo }}
+    <video autoplay muted loop playsinline class="w-full h-full object-cover absolute inset-0 opacity-50">
+        <source src="{{ $hasVideo }}" type="video/mp4"/>
+    </video>
+    {{ else if $svgBanner }}
+    <div class="w-full h-full absolute inset-0 flex items-center justify-center opacity-60">
+        {{ $svgBanner | safeHTML }}
+    </div>
+    {{ else if $hasImage }}
+    <img src="{{ $hasImage }}" alt="{{ .Title }}" class="w-full h-full object-cover absolute inset-0 opacity-60"/>
+    {{ end }}
+    <div class="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/40 to-transparent"></div>
+    <div class="relative flex flex-col justify-end flex-1 pt-32 pb-16 px-6 max-w-[1400px] mx-auto w-full">
+        <div class="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-12 w-full">
+            <div class="flex-1 w-full">
+                <nav class="flex flex-wrap items-center gap-1.5 text-xs md:text-sm text-slate-300 mb-6 {{ if or $hasImage $svgBanner }}bg-black{{ else }}bg-transparent{{ end }} font-display uppercase tracking-wider p-2 w-fit" aria-label="Breadcrumb">
+                    {{- /* Use 'after 1' to skip the first ancestor (the home/root page) */ -}}
+                    {{- $ancestors := .Ancestors.Reverse | after 1 -}}
+                    {{- range $ancestors }}
+                      <span class="opacity-50">/</span>
+                      <a href="{{ .RelPermalink }}" class="hover:text-teal-400 transition-colors">
+                        {{- with .Params.linkTitle -}}{{ . }}{{- else -}}{{ .Title }}{{- end -}}
+                      </a>
+                    {{ end }}
+
+                    {{ if not .IsHome }}
+                      <span class="opacity-50">/</span>
+                      <span class="text-teal-400">
+                        {{- with .Params.linkTitle -}}{{ . }}{{- else -}}{{ .Title }}{{- end -}}
+                      </span>
+                    {{ end }}
+                </nav>
+                {{ if $heading }}
+                <p class="font-display text-teal-400 font-semibold text-sm mb-3 tracking-widest uppercase p-2 w-fit {{ if or $hasImage $svgBanner }}bg-black{{ else }}bg-transparent{{ end }}">{{ $heading }}</p>
+                {{ end }}
+                <h1 class="font-display font-bold text-3xl md:text-6xl text-white max-w-5xl leading-tight mb-4 p-2 {{ if or $hasImage $svgBanner }}bg-black{{ else }}bg-transparent{{ end }}">
+                    {{ .Title }}
+                </h1>
+                {{ if $description }}
+                <p class="text-lg md:text-xl text-slate-300 max-w-3xl mb-8 leading-relaxed font-light italic p-2 {{ if or $hasImage $svgBanner }}bg-black{{ else }}bg-transparent{{ end }}">
+                    {{ $description }}
+                </p>
+                {{ end }}
+                <div class="flex flex-wrap items-center gap-y-4 gap-x-6 pt-8 border-t border-white/10 text-sm text-slate-300">
+                    <div class="flex items-center gap-2">
+                        {{ if $sicon }}
+                        <div class="w-6 h-6 rounded-full ring-1 ring-white/20 overflow-hidden bg-white">
+                            {{ $sicon | safeHTML }}
+                        </div>
+                        {{ else if $iconName }}
+                        <img src="/icons/{{ $iconName }}.jpg" class="w-6 h-6 rounded-full ring-1 ring-white/20" alt="{{ $iconName }}">
+                        {{ end }}
+                        {{- $displayName := .Params.writer.name | default $iconName | default .Params.author -}}
+                        <span class="font-semibold text-white">
+                            {{ if .Params.writer.url }}
+                            <a href="{{ .Params.writer.url }}" target="_blank" rel="noopener noreferrer" class="hover:text-teal-400 transition-colors">
+                                {{ $displayName }}
+                            </a>
+                            {{ else }}
+                            {{ $displayName }}
+                            {{ end }}
+                        </span>
+                    </div>
+                    {{ if or $showDate .Date }}
+                    <div class="flex items-center gap-1.5">
+                        <svg class="w-4 h-4 text-teal-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+                        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+                    </div>
+                    {{ end }}
+                    <div class="flex items-center gap-1.5">
+                        <svg class="w-4 h-4 text-teal-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                        <span>{{ math.Round (div (len (split .Content " ")) 200) }} {{ i18n "read_time" }}</span>
+                    </div>
+                    {{ with .Params.tags }}
+                    <div class="flex items-center gap-2">
+                        {{ range . }}
+                        <a href="{{ "tags/" | relLangURL }}{{ . | urlize }}" class="text-teal-400 hover:text-white transition-colors">#{{ . }}</a>
+                        {{ end }}
+                    </div>
+                    {{ end }}
+                    {{ if .IsTranslated }}
+                    <div class="flex items-center gap-2 sm:ml-auto">
+                        {{ range .Translations }}
+                        <a href="{{ .RelPermalink }}" class="px-2 py-0.5 rounded border border-white/20 hover:bg-white/10 transition-colors text-xs font-bold uppercase">{{ .Lang }}</a>
+                        {{ end }}
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+            {{ if $youtube }}
+            <div class="w-full lg:w-[450px] xl:w-[550px] shrink-0">
+                <div class="aspect-video rounded-xl overflow-hidden shadow-2xl border border-white/10 bg-black/40">
+                    <iframe class="w-full h-full" src="https://www.youtube.com/embed/{{ $youtube }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="max-w-[1400px] mx-auto px-4 sm:px-6 py-12">
+        <div class="flex flex-col lg:flex-row gap-12">
+            
+            {{/* 1. LEFT SIDEBAR: Doc Menu OR Regular TOC */}}
+            {{ if $isDoc }}
+                <aside class="hidden lg:block w-72 flex-shrink-0">
+                    <div class="sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto scrollbar-none pr-2">
+                        <h4 class="font-display font-bold text-xs uppercase tracking-widest text-sp-muted mb-4 px-2">Navigation</h4>
+                        <div class="text-sm">
+                            <a href="{{ $currentPart.RelPermalink }}" class="block font-bold text-sp-text mb-2 px-2 hover:text-teal-400">{{ $currentPart.Title }}</a>
+                            <ul class="mt-1 space-y-1">
+                                {{- $currPage := . -}}
+                                {{- if $isAtRoot -}}
+                                    {{- range .Pages.ByWeight -}}
+                                        <li><a href="{{ .RelPermalink }}" class="block py-1.5 px-3 text-sm rounded-lg transition-all text-slate-400 hover:text-slate-200 hover:bg-white/5">{{ .LinkTitle | default .Title }}</a></li>
+                                    {{- end -}}
+                                {{- else -}}
+                                    {{- /* Loop ONLY through the Chapters of the current Part */ -}}
+                                    {{- range $currentPart.Pages.ByWeight -}}
+                                        {{- $isActive := eq . $currPage -}}
+                                        <li>
+                                            <a href="{{ .RelPermalink }}" class="block py-1.5 px-3 text-sm rounded-lg transition-all {{ if $isActive }}text-teal-400 bg-teal-500/10 font-semibold{{ else }}text-slate-400 hover:text-slate-200 hover:bg-white/5{{ end }}">
+                                                {{ .LinkTitle | default .Title }}
+                                            </a>
+                                            {{- if .IsSection -}}
+                                                {{- template "doc-menu-tree" dict "currentPage" $currPage "pages" .Pages -}}
+                                            {{- end -}}
+                                        </li>
+                                    {{- end -}}
+                                {{- end -}}
+                            </ul>
+                        </div>
+                    </div>
+                </aside>
+            <!-- else if and (eq .Params.toc true) (gt (len .TableOfContents) 100) -->
+            {{ else if gt (len .TableOfContents) 100 }}
+                <aside class="hidden lg:block w-64 flex-shrink-0">
+                    <div class="sticky top-24">
+                        <h4 class="font-display font-bold text-xs uppercase tracking-widest text-sp-muted mb-4 px-2">{{ i18n "toc" }}</h4>
+                        <nav class="toc-sidebar text-sm border-l-2 border-sp-border">
+                            {{ .TableOfContents }}
+                        </nav>
+                    </div>
+                </aside>
+            {{ end }}
+
+            {{/* 2. MAIN CONTENT AREA */}}
+            <article class="flex-1 min-w-0">
+                
+                {{/* Mobile Doc Menu */}}
+                {{ if $isDoc }}
+                    <div class="lg:hidden mb-6">
+                        <details class="bg-sp-card border border-sp-border rounded-2xl overflow-hidden shadow-sm">
+                            <summary class="flex items-center justify-between px-5 py-4 font-display font-semibold text-sm text-sp-text cursor-pointer hover:text-teal-600 list-none">
+                                <span class="flex items-center gap-2">
+                                    <svg class="w-4 h-4 text-teal-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/></svg>
+                                    Menu
+                                </span>
+                                <svg class="w-4 h-4 transition-transform details-arrow" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+                            </summary>
+                            <div class="px-2 pb-6 pt-2 border-t border-sp-border max-h-96 overflow-y-auto scrollbar-none">
+                                <a href="{{ $currentPart.RelPermalink }}" class="block font-bold text-sp-text mb-2 px-3 pt-2 hover:text-teal-400">{{ $currentPart.Title }}</a>
+                                <ul class="mt-1 space-y-1">
+                                    {{- $currPage := . -}}
+                                    {{- if $isAtRoot -}}
+                                        {{- range .Pages.ByWeight -}}
+                                            <li><a href="{{ .RelPermalink }}" class="block py-1.5 px-3 text-sm rounded-lg transition-all text-slate-400 hover:text-slate-200 hover:bg-white/5">{{ .LinkTitle | default .Title }}</a></li>
+                                        {{- end -}}
+                                    {{- else -}}
+                                        {{- range $currentPart.Pages.ByWeight -}}
+                                            {{- $isActive := eq . $currPage -}}
+                                            <li>
+                                                <a href="{{ .RelPermalink }}" class="block py-1.5 px-3 text-sm rounded-lg transition-all {{ if $isActive }}text-teal-400 bg-teal-500/10 font-semibold{{ else }}text-slate-400 hover:text-slate-200 hover:bg-white/5{{ end }}">
+                                                    {{ .LinkTitle | default .Title }}
+                                                </a>
+                                                {{- if .IsSection -}}
+                                                    {{- template "doc-menu-tree" dict "currentPage" $currPage "pages" .Pages -}}
+                                                {{- end -}}
+                                            </li>
+                                        {{- end -}}
+                                    {{- end -}}
+                                </ul>
+                            </div>
+                        </details>
+                    </div>
+                {{ end }}
+
+                {{/* Mobile TOC */}}
+                {{ if eq .Params.toc true }}
+                <div class="lg:hidden mb-10">
+                    <details class="bg-sp-card border border-sp-border rounded-2xl overflow-hidden shadow-sm">
+                        <summary class="flex items-center justify-between px-5 py-4 font-display font-semibold text-sm text-sp-text cursor-pointer hover:text-teal-600 list-none">
+                            <span class="flex items-center gap-2">
+                                <svg class="w-4 h-4 text-teal-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 10h16M4 14h8M4 18h8"/></svg>
+                                {{ i18n "toc" }}
+                            </span>
+                            <svg class="w-4 h-4 transition-transform details-arrow" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+                        </summary>
+                        <div class="px-5 pb-6 pt-2 border-t border-sp-border">
+                            <nav class="toc-list text-sm prose-sm">{{ .TableOfContents }}</nav>
+                        </div>
+                    </details>
+                </div>
+                {{ end }}
+
+                <div class="prose-sp max-w-none sm:text-base">
+                    {{ .Content }}
+                </div>
+
+                <nav class="mt-16 grid grid-cols-1 sm:grid-cols-2 gap-4 border-t border-sp-border pt-10">
+                    {{ with .NextInSection }}
+                    <a href="{{ .RelPermalink }}" class="group p-5 rounded-2xl bg-gradient-to-br from-teal-600 to-teal-700 hover:from-teal-800 hover:to-teal-900 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-xl flex items-center gap-4">
+                        <svg class="w-5 h-5 text-blue-100 transform group-hover:-translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M15 19l-7-7 7-7"/>
+                        </svg>
+                        <div>
+                            <p class="text-xs text-blue-100 font-display mb-1 uppercase tracking-tighter">
+                                {{ .Params.heading | default (i18n "next_article" | default "Next") }}
+                            </p>
+                            <p class="font-display font-bold text-white group-hover:text-white/90 transition-colors">{{ .Title }}</p>
+                        </div>
+                    </a>
+                    {{ else }}
+                    <div class="hidden sm:block"></div>
+                    {{ end }}
+
+                    {{ with .PrevInSection }}
+                    <a href="{{ .RelPermalink }}" class="group p-5 rounded-2xl bg-gradient-to-bl from-teal-600 to-teal-700 hover:from-teal-800 hover:to-teal-900 transition-all duration-300 text-right transform hover:-translate-y-1 hover:shadow-xl flex items-center justify-end gap-4">
+                        <div>
+                            <p class="text-xs text-blue-100 font-display mb-1 uppercase tracking-tighter">
+                                {{ .Params.heading | default (i18n "prev_article" | default "Previous") }}
+                            </p>
+                            <p class="font-display font-bold text-white group-hover:text-white/90 transition-colors">{{ .Title }}</p>
+                        </div>
+                        <svg class="w-5 h-5 text-blue-100 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"/>
+                        </svg>
+                    </a>
+                    {{ else }}
+                    <div class="hidden sm:block"></div>
+                    {{ end }}
+                </nav>
+                {{ partial "comments.html" . }}
+            </article>
+            
+            {{/* 3. RIGHT SIDEBAR: Move TOC to the right if in Doc mode */}}
+            {{ if and $isDoc (eq .Params.toc true) (gt (len .TableOfContents) 100) }}
+                <aside class="hidden xl:block w-64 flex-shrink-0">
+                    <div class="sticky top-24">
+                        <h4 class="font-display font-bold text-xs uppercase tracking-widest text-sp-muted mb-4 px-2">{{ i18n "toc" }}</h4>
+                        <nav class="toc-sidebar text-sm border-l-2 border-sp-border">
+                            {{ .TableOfContents }}
+                        </nav>
+                    </div>
+                </aside>
+            {{ end }}
+
+        </div>
+    </div>
+</section>
+
+<style>
+details[open] .details-arrow { transform: rotate(180deg); }
+.toc-sidebar nav ul { list-style: none; padding-left: 0; }
+.toc-sidebar nav ul li a { display: block; padding: 6px 16px; color: var(--tw-text-sp-muted); transition: all 0.2s; border-left: 2px solid transparent; margin-left: -2px; }
+.toc-sidebar nav ul li a:hover { color: #0d9488; }
+.scrollbar-none {-ms-overflow-style: none; scrollbar-width: none; }
+.scrollbar-none::-webkit-scrollbar {display: none; }
+</style>
+{{ end }}
+
+{{ define "doc-menu-tree" }}
+    {{ $currentPage := .currentPage }}
+    {{ $pages := .pages }}
+    
+    {{ if $pages }}
+    <ul class="pl-4 mt-1 space-y-1 border-l border-white/10">
+        {{ range $pages.ByWeight }}
+            {{ $isActive := eq . $currentPage }}
+            <li>
+                <a href="{{ .RelPermalink }}" class="block py-1.5 px-3 text-sm rounded-lg transition-all {{ if $isActive }}text-teal-400 bg-teal-500/10 font-semibold{{ else }}text-slate-400 hover:text-teal-400 hover:drop-shadow-[0_0_8px_rgba(45,212,191,0.6)] hover:bg-white/5{{ end }}">
+                    {{ .LinkTitle | default .Title }}
+                </a>
+                
+                {{/* Render children recursively if it's a nested section/bundle */}}
+                {{ if .IsSection }}
+                    {{ template "doc-menu-tree" dict "currentPage" $currentPage "pages" .Pages }}
+                {{ end }}
+            </li>
+        {{ end }}
+    </ul>
+    {{ end }}
+
+
+
+<!-- Gemini Chat Widget -->
+<div id="gemini-chat-widget" class="fixed bottom-6 right-6 z-50 font-sans">
+  <!-- Chat Button -->
+  <button id="chat-toggle-btn" class="flex items-center justify-center w-14 h-14 bg-teal-600 hover:bg-teal-500 text-white rounded-full shadow-2xl transition-transform hover:scale-105 focus:outline-none">
+    <svg id="chat-icon-open" class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 10h.01M12 10h.01M16 10h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"/></svg>
+    <svg id="chat-icon-close" class="w-6 h-6 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+  </button>
+
+  <!-- Chat Box -->
+  <div id="chat-window" class="hidden absolute bottom-18 right-0 w-[90vw] sm:w-[380px] h-[520px] bg-slate-900 border border-slate-700/80 rounded-2xl shadow-2xl flex flex-col overflow-hidden backdrop-blur-md">
+    <!-- Header -->
+    <div class="bg-slate-800/90 border-b border-slate-700/80 px-4 py-3 flex items-center justify-between">
+      <div class="flex items-center gap-2.5">
+        <div class="w-2.5 h-2.5 rounded-full bg-teal-400 animate-pulse"></div>
+        <span class="font-semibold text-sm text-slate-100">Site Assistant</span>
+      </div>
+      <span class="text-[10px] text-slate-400 uppercase tracking-widest bg-slate-700/50 px-2 py-0.5 rounded">Powered by Gemini</span>
+    </div>
+
+    <!-- Message Area -->
+    <div id="chat-messages" class="flex-1 p-4 overflow-y-auto space-y-3 text-sm text-slate-200">
+      <div class="bg-slate-800/80 p-3 rounded-xl rounded-tl-none border border-slate-700/50 max-w-[85%] text-slate-300">
+        Hello! How can I help you with this page or topic?
+      </div>
+    </div>
+
+    <!-- Input Area -->
+    <div class="p-3 border-t border-slate-700/80 bg-slate-800/50 flex gap-2">
+      <input id="chat-input" type="text" placeholder="Ask a question..." class="flex-1 bg-slate-950 border border-slate-700 rounded-xl px-3 py-2 text-sm text-slate-100 placeholder-slate-500 focus:outline-none focus:border-teal-500 transition-colors" />
+      <button id="chat-send-btn" class="bg-teal-600 hover:bg-teal-500 text-white rounded-xl px-4 py-2 text-sm font-medium transition-colors focus:outline-none flex items-center justify-center">
+        Send
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+  (function () {
+    // Replace with your Google Gemini API key
+    const HUGO_GEMINI_KEY = "{{ getenv "HUGO_GEMINI_KEY" }}";
+
+    const toggleBtn = document.getElementById("chat-toggle-btn");
+    const chatWindow = document.getElementById("chat-window");
+    const iconOpen = document.getElementById("chat-icon-open");
+    const iconClose = document.getElementById("chat-icon-close");
+    const messagesContainer = document.getElementById("chat-messages");
+    const chatInput = document.getElementById("chat-input");
+    const sendBtn = document.getElementById("chat-send-btn");
+
+    // Extract Page Context
+    const pageTitle = {{ .Title | jsonify }};
+    const pageDesc = {{ .Description | jsonify }};
+    const pageContent = document.querySelector(".prose-sp")?.innerText?.slice(0, 4000) || "";
+
+    const systemPrompt = `You are an AI assistant helping a site visitor. Answer questions using the provided page context. Be clear, concise, and helpful. If the answer isn't in the context, give a general helpful response based on the page's topic.
+
+        Page Title: ${pageTitle}
+        Page Description: ${pageDesc}
+        Page Content:
+        ${pageContent}`;
+
+    let conversationHistory = [];
+
+    // Toggle Chat Window
+    toggleBtn.addEventListener("click", () => {
+      chatWindow.classList.toggle("hidden");
+      iconOpen.classList.toggle("hidden");
+      iconClose.classList.toggle("hidden");
+      if (!chatWindow.classList.contains("hidden")) {
+        chatInput.focus();
+      }
+    });
+
+    async function handleSend() {
+      const text = chatInput.value.trim();
+      if (!text || !HUGO_GEMINI_KEY || HUGO_GEMINI_KEY === "YOUR_HUGO_GEMINI_KEY") {
+        if (HUGO_GEMINI_KEY === "YOUR_HUGO_GEMINI_KEY") {
+          appendMessage("bot", "Please set a valid Gemini API Key in the widget script.");
+        }
+        return;
+      }
+
+      appendMessage("user", text);
+      chatInput.value = "";
+      sendBtn.disabled = true;
+
+      // Add user message to history
+      conversationHistory.push({ role: "user", parts: [{ text: text }] });
+
+      const loadingBubble = appendMessage("bot", "Thinking...");
+
+      try {
+        const response = await fetch(
+          `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${HUGO_GEMINI_KEY}`,
+          {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+              system_instruction: {
+                parts: [{ text: systemPrompt }]
+              },
+              contents: conversationHistory
+            })
+          }
+        );
+
+        const data = await response.json();
+        const reply = data?.candidates?.[0]?.content?.parts?.[0]?.text || "Sorry, I couldn't process that.";
+
+        // Update history with bot response
+        conversationHistory.push({ role: "model", parts: [{ text: reply }] });
+
+        loadingBubble.innerText = reply;
+      } catch (err) {
+        loadingBubble.innerText = "Error connecting to AI service. Please try again.";
+      } finally {
+        sendBtn.disabled = false;
+        messagesContainer.scrollTop = messagesContainer.scrollHeight;
+      }
+    }
+
+    function appendMessage(sender, text) {
+      const msg = document.createElement("div");
+      msg.className = sender === "user"
+        ? "bg-teal-600/90 text-white p-3 rounded-xl rounded-tr-none ml-auto max-w-[85%] text-sm"
+        : "bg-slate-800/80 text-slate-200 p-3 rounded-xl rounded-tl-none border border-slate-700/50 max-w-[85%] text-sm";
+      msg.innerText = text;
+      messagesContainer.appendChild(msg);
+      messagesContainer.scrollTop = messagesContainer.scrollHeight;
+      return msg;
+    }
+
+    sendBtn.addEventListener("click", handleSend);
+    chatInput.addEventListener("keydown", (e) => {
+      if (e.key === "Enter") handleSend();
+    });
+  })();
+</script>
+
+{{ end }}
+
+
+
+
+

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}"{{ if .Site.Language.Params.rtl }} dir="rtl"{{ end }} class="scroll-smooth">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body class="bg-sp-bg text-sp-text transition-colors duration-300 min-h-screen flex flex-col">
+  {{ partialCached "navbar.html" . }}
+
+  <main class="flex-1">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  {{ partial "footer.html" . }}
+
+  <!-- Scroll to top button -->
+  <button id="scrollTopBtn"
+    aria-label="{{ i18n "back_to_top" }}"
+    class="fixed bottom-6 left-6 z-50 w-12 h-12 rounded-full bg-teal-600 text-white shadow-lg
+           flex items-center justify-center opacity-0 pointer-events-none transition-all duration-300
+           hover:bg-teal-500 hover:scale-110 focus:outline-none focus:ring-2 focus:ring-teal-400">
+    <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="18 15 12 9 6 15"/>
+    </svg>
+  </button>
+
+  <!-- Search overlay -->
+  <div id="searchOverlay" class="fixed inset-0 z-[100] bg-black/70 backdrop-blur-sm hidden items-start justify-center pt-20 px-4">
+  <!-- <div id="searchOverlay" class="fixed inset-0 z-[100] bg-black/70 backdrop-blur-sm hidden items-center justify-start pt-20 px-4"> -->
+    <div class="w-full max-w-2xl mx-auto">
+      <div class="bg-sp-card rounded-2xl shadow-2xl overflow-hidden border border-sp-border">
+        <div class="flex items-center gap-3 px-5 py-4 border-b border-sp-border">
+          <svg class="w-5 h-5 text-teal-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+          <input id="searchInput" type="text" placeholder="{{ i18n "nav_search_placeholder" }}"
+            class="flex-1 bg-transparent text-sp-text text-lg outline-none placeholder-sp-muted"/>
+          <button id="closeSearch" class="text-sp-muted hover:text-sp-text p-1 rounded">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+          </button>
+        </div>
+        <div id="searchResults" class="max-h-[60vh] overflow-y-auto divide-y divide-sp-border"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="/js/main.js" defer></script>
+
+
+<script>
+  // tawkto
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+  var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+  s1.async=true;
+  s1.src='https://embed.tawk.to/6306798e37898912e964f594/default';
+  s1.charset='UTF-8';
+  s1.setAttribute('crossorigin','*');
+  s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+
+
+<script>
+  // for fly in 
+
+  document.addEventListener("DOMContentLoaded", () => {
+  const observerOptions = {
+    threshold: 0.15, // Trigger when 15% of the element is visible
+    rootMargin: "0px 0px -50px 0px" // Slight offset so it feels like it triggers 'late'
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add("show");
+        // Optional: Unobserve after showing to prevent repeat animations
+        observer.unobserve(entry.target);
+      }
+    });
+  }, observerOptions);
+
+  // Select all elements with our hook class
+  const hiddenElements = document.querySelectorAll(".reveal-on-scroll");
+  hiddenElements.forEach((el) => observer.observe(el));
+});
+</script>
+
+
+
+<!-- ========================================== -->
+<!-- CLOSING NOTICE POPUP                       -->
+<!-- ========================================== -->
+<!-- <div id="closing-popup" class="fixed inset-0 z-[100] flex items-center justify-center bg-black/80 backdrop-blur-sm p-4">
+  <div class="relative bg-slate-900 border border-teal-500/30 rounded-2xl p-8 max-w-md w-full text-center shadow-2xl shadow-teal-500/10 animate-fade-in">
+    <button id="close-popup" class="absolute top-4 right-4 text-gray-400 hover:text-white transition-colors" aria-label="Close popup">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+      </svg>
+    </button>
+    <svg xmlns="http://www.w3.org/2000/svg" class="mx-auto" viewBox="0 0 200 200" width="200" height="200">
+      <defs>
+        <filter id="drop-shadow" x="-10%" y="-10%" width="130%" height="130%">
+          <feDropShadow dx="0" dy="6" stdDeviation="4" flood-color="#000" flood-opacity="0.35"/>
+        </filter>  
+        <linearGradient id="board-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stop-color="#2a2a2a"/>
+          <stop offset="100%" stop-color="#141414"/>
+        </linearGradient>
+        <linearGradient id="gold-border" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#e6c875"/>
+          <stop offset="50%" stop-color="#ffd700"/>
+          <stop offset="100%" stop-color="#b38f38"/>
+        </linearGradient>
+      </defs>
+      <circle cx="55" cy="22" r="3" fill="none" stroke="#666" stroke-width="2.5"/>
+      <circle cx="145" cy="22" r="3" fill="none" stroke="#666" stroke-width="2.5"/>
+      <path d="M 55 24 L 70 65" stroke="#777" stroke-width="2" stroke-linecap="round"/>
+      <path d="M 145 24 L 130 65" stroke="#777" stroke-width="2" stroke-linecap="round"/>
+      <g transform="rotate(-3 100 115)" filter="url(#drop-shadow)">
+        <rect x="15" y="65" width="170" height="100" rx="14" fill="url(#board-grad)"/>
+        <rect x="22" y="72" width="156" height="86" rx="9" fill="none" stroke="url(#gold-border)" stroke-width="2" stroke-dasharray="none"/>
+        <rect x="25" y="75" width="150" height="80" rx="7" fill="none" stroke="#333" stroke-width="1"/>
+        <circle cx="28" cy="78" r="1.5" fill="#888"/>
+        <circle cx="172" cy="78" r="1.5" fill="#888"/>
+        <circle cx="28" cy="152" r="1.5" fill="#888"/>
+        <circle cx="172" cy="152" r="1.5" fill="#888"/>
+        <text x="100" y="123" 
+              font-family="Arial, Helvetica, sans-serif" 
+              font-size="28" 
+              font-weight="900" 
+              letter-spacing="3.5" 
+              fill="#dc2626" 
+              text-anchor="middle"
+              dominant-baseline="central">
+          CLOSING!
+        </text>
+      </g>
+    </svg>
+
+    <h3 class="text-2xl font-display font-bold text-white mb-4">
+      Superphysics is closing! Superphysics 即将关闭! Superphysics बंद हो रहा है!
+    </h3>
+    <p class="text-gray-300 mb-6 leading-relaxed">
+      We have moved this site to free hosting at <br>
+      <a id="new-site-link" href="https://superphysics.pages.dev" class="text-teal-400 hover:text-teal-300 font-semibold underline decoration-teal-400/50 hover:decoration-teal-300 transition-all break-all">superphysics.pages.dev</a>
+    </p>
+    <p class="text-gray-400 text-sm mb-6">So please go there instead. 请改为访问我们的新网站. कृपया इसके बजाय हमारी नई वेबसाइट पर जाएं</p>
+    
+    <a id="new-site-button" href="https://superphysics.pages.dev" class="inline-block w-full px-6 py-3 bg-teal-500 hover:bg-teal-400 text-white font-bold rounded-xl transition-all hover:scale-105 shadow-[0_0_20px_rgba(20,184,166,0.4)]">
+      Go to New Site
+    </a>
+  </div>
+</div>
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const popup = document.getElementById('closing-popup');
+  const closeBtn = document.getElementById('close-popup');
+  
+  // Get current path and preserve it
+  const currentPath = window.location.pathname + window.location.search + window.location.hash;
+  const newBaseUrl = 'https://superphysics.pages.dev';
+  const newUrl = newBaseUrl + currentPath;
+  
+  // Update both links
+  document.getElementById('new-site-link').href = newUrl;
+  document.getElementById('new-site-button').href = newUrl;
+  
+  // Make sure popup is visible on page load
+  popup.style.display = 'flex'; // or 'block' depending on your CSS
+  
+  closeBtn.addEventListener('click', function() {
+    popup.style.display = 'none';
+    // No localStorage - it will show again on next page load
+  });
+  
+  // Close when clicking outside the modal box
+  popup.addEventListener('click', function(e) {
+    if (e.target === popup) {
+      popup.style.display = 'none';
+      // No localStorage - it will show again on next page load
+    }
+  });
+});
+</script> -->
+
+
+</body>
+</html>
