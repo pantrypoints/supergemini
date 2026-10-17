@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1660"
+   width="1400"
    height="810"
-   viewBox="0 0 1660 810"
+   viewBox="0 0 1400 810"
    version="1.1"
    id="svg1"
-   sodipodi:docname="operative2.svg"
+   sodipodi:docname="15layers.svg"
    inkscape:version="1.4 (e7c3feb, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="1.2702364"
-     inkscape:cx="963.20654"
-     inkscape:cy="418.03242"
+     inkscape:zoom="0.44909639"
+     inkscape:cx="789.36284"
+     inkscape:cy="1128.9336"
      inkscape:window-width="2160"
      inkscape:window-height="1404"
      inkscape:window-x="0"
@@ -152,7 +152,16 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     style="display:inline"
+     transform="translate(-267.20321,-42.307176)">
+    <rect
+       style="fill:#1a1a1a;stroke:#c56700;-inkscape-stroke:none"
+       id="rect2"
+       width="1812.5284"
+       height="926.3045"
+       x="-73.480881"
+       y="-35.627094" />
     <rect
        style="fill:#8d0900;fill-opacity:1;stroke:#9f00d3;stroke-width:10.7388;stroke-dasharray:none;stroke-opacity:1"
        id="rect1-06-6"
@@ -534,7 +543,7 @@
        id="text2-5-6"><tspan
          sodipodi:role="line"
          id="tspan2-3-8"
-         x="1007.1319"
+         x="1007.1318"
          y="591.34448"
          style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Water 士 </tspan></text>
     <text
@@ -721,17 +730,17 @@
          id="tspan6" /><tspan
          sodipodi:role="line"
          x="381.02414"
-         y="548.38654"
+         y="548.38647"
          style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:none"
          id="tspan5">2</tspan><tspan
          sodipodi:role="line"
          x="381.02414"
-         y="595.05316"
+         y="595.0531"
          style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:none"
          id="tspan8" /><tspan
          sodipodi:role="line"
          x="381.02414"
-         y="641.71979"
+         y="641.71973"
          style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:none"
          id="tspan3">1</tspan></text>
   </g>

@@ -15,8 +15,6 @@ A multilingual science website built with Hugo and Tailwind CSS 4.2.1.
   //   "dev:css": "npx @tailwindcss/cli@4 -i assets/css/main.css -o static/css/tailwind.css --watch"
   // },
 
-
-
 npx @tailwindcss/cli -i ./assets/css/main.css -o ./static/css/styles.css --watch
 
 BUN_VERSION 1.3.3
