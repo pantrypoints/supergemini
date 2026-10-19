@@ -137,7 +137,7 @@ Visualization
  -->
 
 
-## The 5 Laws of Existence 
+## The 5 Laws of Existence
 
 <!-- The Basic Blueprint of the Structure of Existence  -->
 
@@ -147,11 +147,10 @@ The 5 Basic Laws of Creation which are true Everywhere/Everywhen in the universe
 2. Everything is Here/Now [Time and Space are illusions]
 3. The All is one, and the One is all. [everything is connected]
 4. What you put out is what you get back
-5. The only constant in the universe is change -  except for the first 4 postulates, which never change*.
+5. The only constant in the universe is change -  except for the first 4 postulates, which never change
 
 
-{{< n n="This was added by the Sassani later on. We prefer having only 4 laws" >}}
-
+{{< n n="This began as 1 Absolute on Feb 1987, then 3 Absolutes on May 1991, then they added the last one as 'change' on Dec 1992 which was established through a later poll. Somehow Law 2 gets added on Aug 2014. This was the One expanding into the Trinity and so on. We prefer having only 4 laws" >}}
 
 
 <!-- Initially I was confused at how the 7 densities of the Sassani didn't match up to the 7 chakras of Hinduism. Metaphysical principles are supposed to be consistent in all dimensions and all perspectives. But the Sassani metaphysics is strange as it assigns the thoughts and feelings as 3rd density, when in Hindu metaphysics, these apply to all densities and originates from the 7th density. 
