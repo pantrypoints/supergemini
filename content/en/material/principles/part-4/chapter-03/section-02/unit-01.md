@@ -1,42 +1,73 @@
 ---
-heading: "Unit 1"
-title: "Proto-Aetherspace (Weak Force)"
-date: 2025-09-10
-image: /photos/physics/nuke.jpg
-description: "The Convertible Layer handles decay and Chemical Change"
+heading: "Section 4"
+title: "Intermolecular Forces"
+date: 2024-12-28
+image: /photos/objects/water.jpg
+description: "Intermolecular Forces come from the Inter-aetherspace of the Convertible Layer"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 3
+weight: 11
 icon: "Juan"
 toc: false
 ---
 
 
 
-The Proto-Aetherspace is the upper part of the media of the Convertible Layer and is called the Weak Force by Physics.
-
-This facilitates changes in the atomic level of the material layer below it. This uses 3 submedia or forces:
+In Material Superphysics, which is based on Descartes' Physics, Intermolecular Forces are caused by the Inter-aetherspace which is the Convertible Layer of the Micro-Aethersace (atomic space). 
 
 
-Force of Quantum of Media | Physics Name
---- | ---
-Anticlockwise Proto-Aetherspace | W- Boson
-Neutral Proto-Aetherspace  | Z Boson
-Clockwise Proto-Aetherspace | W+ Boson
- 
-
-The Convertible Layer creates instability in matter in the atomic level through neutrons and the proto-aetherspace (weak force), just as the intra- and inter- aetherspaces create instability in the chemical level. 
+{{< i s="/graphics/physics/msq.svg" a="MSQ" >}}
 
 
-This instability leads to the decay action which is explained by Convertible Relationality, as how the Convertible Layer changes particles. In Physics, this is done by the Feynman diagrams. 
+These are weak attractions such as hydrogen bonds that keep molecules together.
 
-
-<!-- Proto Aetherspace | Weak Force
-Intra Aetherspace | Intramolecular Bonds
-Inter Aetherspace | Intermolecular Bonds -->
+Sublayer | Name | Examples
+--- | --- | ---
+Upper or Outer | Outer Inter-aetherspace (London Dispersion Forces) | Protein folding
+Mid | Middle Inter-aetherspace (Dipole–Dipole Forces) | Hydrogen Bonding 
+Lower or Inner | Inner Inter-aetherspace (Ion–Dipole Forces) | boiling point
 
 
 
 
-<!-- The Weak Force is most known by Modern Physics for particle decay.  -->
+Physics organizes them into:
+
+| Force | Present In | Relative Strength | Example Pair | Energy Range (kJ/mol) |
+|-------|------------|-------------------|--------------|----------------------|
+| London dispersion | All molecules | Weakest | Ar···Ar | 0.05–40 |
+| Dipole-dipole | Polar molecules | Moderate | HCl···HCl | 5–50 |
+| Hydrogen bonding | N–H, O–H, F–H bonds | Strong | H₂O···H₂O | 5–65 |
+| Ion-dipole | Ions + polar molecules | Strongest | Na⁺···H₂O | 40–600 |
+
+
+**Order of Boiling Points (for similar molecular masses):**
+
+Ionic compounds > Hydrogen bonding > Dipole-dipole > London dispersion
+
+
+
+<!-- ## London Dispersion Forces
+
+This is the weakest type, but very important in nonpolar substances (e.g., liquid O₂, noble gases).
+
+
+## Dipole–Dipole Forces
+
+Between molecules that have permanent dipoles (polar molecules). Example: HCl–HCl
+
+An example is hydrogen bonds.
+
+
+## Ion-Dipole
+
+This is between an ion and a polar molecule.
+
+Example: Na⁺ ions interacting with water molecules in saltwater.
+ -->
+
+
+<!-- Polar
+
+Non polar
+ -->

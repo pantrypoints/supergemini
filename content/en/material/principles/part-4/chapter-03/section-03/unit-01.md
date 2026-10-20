@@ -1,6 +1,6 @@
 ---
 heading: "Unit 1"
-title: "Intramolecular Forces"
+title: "Intra-aetherspace"
 date: 2025-09-10
 image: /photos/physics/neutronstar.jpg
 description: "Intramolecular Forces."
@@ -11,9 +11,6 @@ weight: 4
 icon: "Juan"
 toc: false
 ---
-
-
-
 
 
 These manifest as strong chemical bonds leading to specific chemical behavior such as acid-base reactions.

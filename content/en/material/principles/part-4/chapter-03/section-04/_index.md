@@ -1,12 +1,11 @@
 ---
-heading: Chapter 4
-linkTitle: Inter-Aetherspace
-title: "Intermolecular Forces"
-date: 2025-09-10
-image: /graphics/physics/intra.jpg
-description: "Intermolecular Forces are between molecules"
+heading: Section 2
+linkTitle: "Intro"
+title: "Intro-Aetherspace (Weak Force)"
+date: 2026-01-07
+image: /photos/physics/neutrino.jpg
+description: "We call the Weak Force as Intro-Aetherspace"
 icon: "Juan"
-weight: 16
+weight: 11
 ---
-
 
