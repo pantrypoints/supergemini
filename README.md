@@ -700,3 +700,158 @@ details[open] .details-arrow { transform: rotate(180deg); }
     </ul>
     {{ end }}
 {{ end }}
+
+
+
+
+
+
+
+
+
+
+--------
+
+
+
+<!-- Gemini Chat Widget -->
+<div id="gemini-chat-widget" class="fixed bottom-6 right-6 z-50 font-sans">
+  <!-- Chat Button -->
+  <button id="chat-toggle-btn" class="flex items-center justify-center w-14 h-14 bg-teal-600 hover:bg-teal-500 text-white rounded-full shadow-2xl transition-transform hover:scale-105 focus:outline-none">
+    <svg id="chat-icon-open" class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 10h.01M12 10h.01M16 10h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"/></svg>
+    <svg id="chat-icon-close" class="w-6 h-6 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+  </button>
+
+  <!-- Chat Box -->
+  <div id="chat-window" class="hidden absolute bottom-18 right-0 w-[90vw] sm:w-[380px] h-[520px] bg-slate-900 border border-slate-700/80 rounded-2xl shadow-2xl flex flex-col overflow-hidden backdrop-blur-md">
+    <!-- Header -->
+    <div class="bg-slate-800/90 border-b border-slate-700/80 px-4 py-3 flex items-center justify-between">
+      <div class="flex items-center gap-2.5">
+        <div class="w-2.5 h-2.5 rounded-full bg-teal-400 animate-pulse"></div>
+        <span class="font-semibold text-sm text-slate-100">Site Assistant</span>
+      </div>
+      <span class="text-[10px] text-slate-400 uppercase tracking-widest bg-slate-700/50 px-2 py-0.5 rounded">Powered by Gemini</span>
+    </div>
+
+    <!-- Message Area -->
+    <div id="chat-messages" class="flex-1 p-4 overflow-y-auto space-y-3 text-sm text-slate-200">
+      <div class="bg-slate-800/80 p-3 rounded-xl rounded-tl-none border border-slate-700/50 max-w-[85%] text-slate-300">
+        Hello! How can I help you with this page or topic?
+      </div>
+    </div>
+
+    <!-- Input Area -->
+    <div class="p-3 border-t border-slate-700/80 bg-slate-800/50 flex gap-2">
+      <input id="chat-input" type="text" placeholder="Ask a question..." class="flex-1 bg-slate-950 border border-slate-700 rounded-xl px-3 py-2 text-sm text-slate-100 placeholder-slate-500 focus:outline-none focus:border-teal-500 transition-colors" />
+      <button id="chat-send-btn" class="bg-teal-600 hover:bg-teal-500 text-white rounded-xl px-4 py-2 text-sm font-medium transition-colors focus:outline-none flex items-center justify-center">
+        Send
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+  (function () {
+    // Replace with your Google Gemini API key
+    const HUGO_GEMINI_KEY = "{{ getenv "HUGO_GEMINI_KEY" }}";
+
+    const toggleBtn = document.getElementById("chat-toggle-btn");
+    const chatWindow = document.getElementById("chat-window");
+    const iconOpen = document.getElementById("chat-icon-open");
+    const iconClose = document.getElementById("chat-icon-close");
+    const messagesContainer = document.getElementById("chat-messages");
+    const chatInput = document.getElementById("chat-input");
+    const sendBtn = document.getElementById("chat-send-btn");
+
+    // Extract Page Context
+    const pageTitle = {{ .Title | jsonify }};
+    const pageDesc = {{ .Description | jsonify }};
+    const pageContent = document.querySelector(".prose-sp")?.innerText?.slice(0, 4000) || "";
+
+    const systemPrompt = `You are an AI assistant helping a site visitor. Answer questions using the provided page context. Be clear, concise, and helpful. If the answer isn't in the context, give a general helpful response based on the page's topic.
+
+        Page Title: ${pageTitle}
+        Page Description: ${pageDesc}
+        Page Content:
+        ${pageContent}`;
+
+    let conversationHistory = [];
+
+    // Toggle Chat Window
+    toggleBtn.addEventListener("click", () => {
+      chatWindow.classList.toggle("hidden");
+      iconOpen.classList.toggle("hidden");
+      iconClose.classList.toggle("hidden");
+      if (!chatWindow.classList.contains("hidden")) {
+        chatInput.focus();
+      }
+    });
+
+    async function handleSend() {
+      const text = chatInput.value.trim();
+      if (!text || !HUGO_GEMINI_KEY || HUGO_GEMINI_KEY === "YOUR_HUGO_GEMINI_KEY") {
+        if (HUGO_GEMINI_KEY === "YOUR_HUGO_GEMINI_KEY") {
+          appendMessage("bot", "Please set a valid Gemini API Key in the widget script.");
+        }
+        return;
+      }
+
+      appendMessage("user", text);
+      chatInput.value = "";
+      sendBtn.disabled = true;
+
+      // Add user message to history
+      conversationHistory.push({ role: "user", parts: [{ text: text }] });
+
+      const loadingBubble = appendMessage("bot", "Thinking...");
+
+      try {
+        const response = await fetch(
+          `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${HUGO_GEMINI_KEY}`,
+          {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+              system_instruction: {
+                parts: [{ text: systemPrompt }]
+              },
+              contents: conversationHistory
+            })
+          }
+        );
+
+        const data = await response.json();
+        const reply = data?.candidates?.[0]?.content?.parts?.[0]?.text || "Sorry, I couldn't process that.";
+
+        // Update history with bot response
+        conversationHistory.push({ role: "model", parts: [{ text: reply }] });
+
+        loadingBubble.innerText = reply;
+      } catch (err) {
+        loadingBubble.innerText = "Error connecting to AI service. Please try again.";
+      } finally {
+        sendBtn.disabled = false;
+        messagesContainer.scrollTop = messagesContainer.scrollHeight;
+      }
+    }
+
+    function appendMessage(sender, text) {
+      const msg = document.createElement("div");
+      msg.className = sender === "user"
+        ? "bg-teal-600/90 text-white p-3 rounded-xl rounded-tr-none ml-auto max-w-[85%] text-sm"
+        : "bg-slate-800/80 text-slate-200 p-3 rounded-xl rounded-tl-none border border-slate-700/50 max-w-[85%] text-sm";
+      msg.innerText = text;
+      messagesContainer.appendChild(msg);
+      messagesContainer.scrollTop = messagesContainer.scrollHeight;
+      return msg;
+    }
+
+    sendBtn.addEventListener("click", handleSend);
+    chatInput.addEventListener("keydown", (e) => {
+      if (e.key === "Enter") handleSend();
+    });
+  })();
+</script>
+
+
+
