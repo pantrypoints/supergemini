@@ -4,7 +4,7 @@ linkTitle: Media
 title: "The Medium of Convertibility: Decay and Chemical Forces"
 date: 2025-09-10
 image: /photos/physics/bonds.jpg
-description: "W and Z Bosons and intramolecular and intramolecular forces are the media for the convertible layer"
+description: "Intro-Aetherspace, intra-aetherspace and inter-aetherspace are the media for the convertible layer"
 icon: "Juan"
 weight: 4
 writer:
@@ -19,27 +19,27 @@ The Media of Convertibility facilitates the changes in the material layer most c
 
 Sublayer | Example
 --- | ---
-Upper | Proto-aetherspace (W Z Bosons)
+Upper | Intro-aetherspace (W Z Bosons)
 Mid | Intra-aetherspace (Intramolecular Bonds)
 Lower | Inter-aetherspace (Intramolecular Bonds)
 
 
 Since the aetherspace is really just space, we can think of:
-- the Proto-aetherspace as the area occupied by the sun
+- the Intro-aetherspace as the area occupied by the sun
 - the Intra-aetherspace as the area occupied by the planets in the solar system
 - the Inter-aetherspace as the area beyond the Oort cloud until the edge of the sun's territory
 
 
 
-### Proto-aetherspace (Weak Bosons)
+### Intro-aetherspace (Weak Bosons)
 
-Weak bosons facilitate the decay of particles. 
+Intro-aetherspace facilitate the decay of particles. 
 
 Sublayer | Name | Used in 
 --- | --- | ---
-Upper | Gamma | sterilization  
-Mid | Beta | medical imaging
-Lower | Alpha | smoke detectors
+Upper | Downward | sterilization  
+Mid | Upward| medical imaging
+Lower | Full | smoke detectors
 
 
 ### Intra-aetherspace (intramolecular Forces)

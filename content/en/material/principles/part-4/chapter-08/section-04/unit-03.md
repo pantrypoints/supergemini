@@ -1,6 +1,6 @@
 ---
-heading: "Section 1"
-title: "Convertible Relationalities"
+heading: "Unit 1"
+title: "Beta Decay"
 date: 2024-11-17
 image: /graphics/physics/feynman.jpg
 description: ""
@@ -11,5 +11,11 @@ writer:
 weight: 3
 icon: "Juan"
 toc: false
+draft: true
 ---
 
+## Beta - Decay
+
+
+
+## Beta + Decay

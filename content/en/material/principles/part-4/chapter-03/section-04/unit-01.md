@@ -38,10 +38,6 @@ This instability leads to the decay action which is explained by Convertible Rel
 The Intro-Aetherspace facilitates the following phenomena:
 
 ## 1. Radioactive Decay
-- **Beta decay (β⁻)**: A neutron converts to a proton, emitting an electron and an electron antineutrino (n → p + e⁻ + ν̄ₑ). Mediated by the W⁻ boson.
-- **Positron emission (β⁺)**: A proton converts to a neutron, emitting a positron and an electron neutrino (p → n + e⁺ + νₑ). Mediated by the W⁺ boson.
-- **Electron capture**: A proton captures an orbital electron to become a neutron, emitting a neutrino (p + e⁻ → n + νₑ).
-- **Inverse beta decay**: An antineutrino interacts with a proton to produce a neutron and positron (ν̄ₑ + p → n + e⁺). Important in neutrino detection.
 
 ## 2. Neutrino Interactions
 - **Neutrino scattering** off electrons and nucleons (both charged-current and neutral-current interactions).
@@ -49,21 +45,21 @@ The Intro-Aetherspace facilitates the following phenomena:
 - **Solar neutrino capture** (e.g., Cl-37 + νₑ → Ar-37 + e⁻ in the Homestake experiment).
 - **Coherent elastic neutrino-nucleus scattering (CEνNS)**.
 
-## 3. Quark Flavor-Changing Processes
+<!-- ## 3. Quark Flavor-Changing Processes
 - **Strange particle decays**: e.g., Λ → p + π⁻, K⁺ → π⁺ + π⁰ (strangeness-changing weak decays).
 - **Charm and bottom quark decays**: e.g., D⁰ → K⁻ + π⁺, B⁰ → J/ψ + K⁰.
 - **Top quark decay**: t → b + W⁺ (the top quark decays almost exclusively via the weak force).
-- **CP violation** in neutral kaon and B-meson systems (observed in weak decays).
+- **CP violation** in neutral kaon and B-meson systems (observed in weak decays). -->
 
 ## 4. Nuclear Fusion in Stars
 - **Proton-proton (pp) chain**: The first step, p + p → deuteron + e⁺ + νₑ, is a weak process (converts a proton to a neutron).
 - **CNO cycle**: Involves beta decays (e.g., ¹³N → ¹³C + e⁺ + νₑ).
 - **Solar hydrogen burning** overall depends on the weak force to convert protons into neutrons.
 
-## 5. Big Bang Nucleosynthesis
+<!-- ## 5. Big Bang Nucleosynthesis
 - **Neutron-proton interconversion**: n + νₑ ↔ p + e⁻ and p + ν̄ₑ ↔ n + e⁺ during the early universe.
 - **Free neutron decay** (n → p + e⁻ + ν̄ₑ) with a lifetime of ~880 s.
-- **Deuterium formation**: p + n → D + γ, where the available neutron abundance is set by weak interactions.
+- **Deuterium formation**: p + n → D + γ, where the available neutron abundance is set by weak interactions. -->
 
 ## 6. Supernova Processes
 - **Neutronization burst**: p + e⁻ → n + νₑ during core collapse.

@@ -1,5 +1,5 @@
 ---
-heading: Section 2
+heading: Section 4
 linkTitle: "Intro"
 title: "Intro-Aetherspace (Weak Force)"
 date: 2026-01-07

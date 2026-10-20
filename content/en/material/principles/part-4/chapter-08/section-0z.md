@@ -15,7 +15,7 @@ draft: true
 ---
 
 
-
+<!-- 
 Part 3 explained that a particle's gender (male for negative charge, female for positive) stands for its rotation direction. This assumes that the particle is staying still while rotating. 
 
 Spin is another concept that shows the orientation direction. This was explained by Descartes as corkscrewing striated particles which are now called virtual photons"
@@ -37,7 +37,7 @@ Charge, Spin, and Helicity are all revealed when the particle is put through an 
 
 - A particle can either be right-handed or left-handed
 - Particles of the same charge must have opposite-handed spins while those of different charges can have the same-handed spins per energy level
-
+ -->
 
 
 <!-- But spin does not take into the account of the relational movement between the spin direction of the particle and its forward movement. 

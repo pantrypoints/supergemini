@@ -11,9 +11,12 @@ weight: 11
 
 
 
-Metallic bonding occurs when valence electrons are **delocalized** and free to move throughout a lattice of metal cations. 
+Metallic bonding occurs when atoms have a thick outer shell or intra-aetherspace that coheres with those of other atoms. This is called a  "sea of electrons".
 
-This is often described as the "sea of electrons" model: positive metal ions are surrounded by a cloud of mobile valence electrons that are not attached to any single nucleus.
+  <!-- the inter valence electrons are **delocalized** and free to move throughout a lattice of metal cations.  -->
+
+ <!-- positive metal ions are surrounded by a cloud of mobile valence electrons that are not attached to any single nucleus. -->
+
 
 ### Key Characteristics
 

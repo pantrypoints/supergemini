@@ -1,5 +1,5 @@
 ---
-heading: Chapter 2
+heading: Section 2
 linkTitle: Inter-Aetherspace
 title: "Intermolecular Forces"
 date: 2025-09-10
