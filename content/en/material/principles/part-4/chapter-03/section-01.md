@@ -65,7 +65,7 @@ Lower | Ion–Dipole Forces | boiling poin
 
 
 
-## Comparative Strengths of Intramolecular
+<!-- ## Comparative Strengths of Intramolecular
 
 Bond strength is the energy required to *break* the bond completely.
 
@@ -95,3 +95,4 @@ Bond strength is the energy required to *break* the bond completely.
 | Mid Inter-aetherspace with Void (Hydrogen bonding) | 10 – 40 |
 | Inner Inter-aetherspace (Ion-dipole, e.g. salt dissolving) | 40 – 600 |
 
+ -->
