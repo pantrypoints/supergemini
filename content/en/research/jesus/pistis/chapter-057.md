@@ -1,6 +1,6 @@
 ---
 heading: Chapters 57
-title: "12th repentance of Sophia" 
+title: "13th repentance of Sophia" 
 description: ""
 weight: 14
 a: "Jesus"

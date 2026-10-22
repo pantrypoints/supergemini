@@ -1,8 +1,8 @@
 ---
 heading: Chapters 71
-title: "The emanations of Sell-willed cry aloud to him for help" 
+title: "Matthew" 
 description: ""
-weight: 14
+weight: 61
 a: "Jesus"
 c: "indigo"
 ---
@@ -37,7 +37,6 @@ Matthew interpreteth the song of Sophia from the Odes of Solomon."'1. He who hat
 
 "'11. Thou hast piled thy riches upon them and they have become a holy dwelling-place.'
 
-p. 132
 
 "This then, my Lord, is the solution of the song which Pistis Sophia hath uttered. Hearken, therefore, that I may say it in openness.
 
@@ -86,11 +85,9 @@ Thy way is become indestructibleness, and thy face [also],'--it is the word whic
 
 CHAPTER 72
 
-p. 135
+When the First Mystery had heard Matthew speak these words, that he said: "Well said, Matthew, and finely, beloved. This is the solution of the song which Pistis Sophia hath uttered."
 
-It came to pass then, when the First Mystery had heard Matthew speak these words, that he said: "Well said, Matthew, and finely, beloved. This is the solution of the song which Pistis Sophia hath uttered."
-
-And the First Mystery continued again and said:
+The First Mystery continued again and said:
 
 Sophia continueth to sing."'1. I will declare: Thou art the higher Light, for that hast saved me and led me unto thee, and thou hast not let the emanations of Self-willed, which are hostile unto me, take my light.
 
@@ -113,4 +110,3 @@ Mary interpreteth the song of Sophia from Psalm xxix."'1. I will exalt thee, O L
 "'2. O Lord, my God, I cried up unto thee, and thou hast healed me.
 
 "'3. O Lord, thou hast led up my soul out of hell; thou hast saved me from them which have gone down into the pit.'"
-

@@ -1,8 +1,8 @@
 ---
 heading: Chapters 63
-title: "Mary Magdalene" 
+title: "John" 
 description: ""
-weight: 14
+weight: 49
 a: "Jesus"
 c: "indigo"
 ---

@@ -2,7 +2,7 @@
 heading: Chapter 47
 title: "Eighth Repentance of Sophia" 
 description: ""
-weight: 23
+weight: 35
 a: "Jesus"
 c: "indigo"
 ---

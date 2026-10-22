@@ -1,8 +1,8 @@
 ---
 heading: Chapter 49
-title: "Eighth Repentance of Sophia" 
+title: "Jesus Commends Matthew" 
 description: ""
-weight: 23
+weight: 38
 a: "Jesus"
 c: "indigo"
 ---

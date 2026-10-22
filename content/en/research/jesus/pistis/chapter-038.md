@@ -1,6 +1,6 @@
 ---
 heading: Chapters 38
-title: "Second Repentance of Sophia" 
+title: "3rd Repentance of Sophia" 
 description: ""
 weight: 23
 a: "Jesus"

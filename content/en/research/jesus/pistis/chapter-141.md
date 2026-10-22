@@ -1,6 +1,6 @@
 ---
 heading: Chapters 141
-title: "Yahweh's 5 Great Rulers" 
+title: "The mystic offering" 
 description: ""
 weight: 240
 a: "Jesus"

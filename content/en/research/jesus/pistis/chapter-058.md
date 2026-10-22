@@ -1,8 +1,8 @@
 ---
 heading: Chapters 59
-title: "Mary Magdalene" 
+title: "The commandment of the First Mystery" 
 description: ""
-weight: 14
+weight: 41
 a: "Jesus"
 c: "indigo"
 ---

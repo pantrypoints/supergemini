@@ -1,8 +1,8 @@
 ---
 heading: Chapter 51
-title: "Eighth Repentance of Sophia" 
+title: "9th Repentance of Sophia" 
 description: ""
-weight: 23
+weight: 41
 a: "Jesus"
 c: "indigo"
 ---

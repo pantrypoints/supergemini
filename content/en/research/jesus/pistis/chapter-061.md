@@ -1,8 +1,8 @@
 ---
 heading: Chapters 62
-title: "Mary Magdalene" 
+title: "Mary Mother" 
 description: ""
-weight: 14
+weight: 46
 a: "Jesus"
 c: "indigo"
 ---

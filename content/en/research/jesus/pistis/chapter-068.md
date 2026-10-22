@@ -1,8 +1,8 @@
 ---
 heading: Chapters 68
-title: "The emanations of Sell-willed cry aloud to him for help" 
+title: "Thomas" 
 description: ""
-weight: 14
+weight: 58
 a: "Jesus"
 c: "indigo"
 ---
@@ -43,7 +43,7 @@ of thy stream and purged from me all my evil matters; and I shall be relieved of
 
 CHAPTER 69
 
-It came to pass then, when the First Mystery had finished saying these words unto his disciples, that Thomas came forward, and said: "My Lord, my light-dweller hath ears and my mind hath understood the words which thou hast said. Now, therefore, give commandment unto me to set forth clearly the solution of the words."
+When the First Mystery had finished saying these words unto his disciples, that Thomas came forward, and said: "My Lord, my light-dweller hath ears and my mind hath understood the words which thou hast said. Now, therefore, give commandment unto me to set forth clearly the solution of the words."
 
 And the First Mystery answered and said unto Thomas: "I give thee commandment to set forth the solution of the song which Pistis Sophia sang unto me."
 

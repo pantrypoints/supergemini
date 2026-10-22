@@ -1,6 +1,6 @@
 ---
 heading: Chapters 147-
-title: "The chastisement of the curser" 
+title: "Bartholomew" 
 description: ""
 weight: 240
 a: "Jesus"

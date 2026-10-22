@@ -2,7 +2,7 @@
 heading: Chapters 66
 title: "The emanations of Sell-willed cry aloud to him for help" 
 description: ""
-weight: 14
+weight: 53
 a: "Jesus"
 c: "indigo"
 ---

@@ -1,8 +1,8 @@
 ---
 heading: Chapter 46
-title: "Fourth and Fifth Repentance of Sophia" 
+title: "7th Repentance of Sophia" 
 description: ""
-weight: 23
+weight: 33
 a: "Jesus"
 c: "indigo"
 ---

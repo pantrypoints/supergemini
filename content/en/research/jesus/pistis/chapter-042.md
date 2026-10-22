@@ -1,6 +1,6 @@
 ---
 heading: Chapters 42
-title: "Fourth and Fifth Repentance of Sophia" 
+title: "Philip the scribe complains" 
 description: ""
 weight: 23
 a: "Jesus"
