@@ -7,8 +7,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: Juan
-aliases:
-  /social/supersociology/bronze-age
 ---
 
 

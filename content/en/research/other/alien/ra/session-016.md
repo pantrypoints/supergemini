@@ -1,6 +1,6 @@
 ---
 heading: Session 16
-title: "Fourth Density"
+title: "The Quarantine and Fourth Density"
 description: ""
 c: "indigo"
 image: /covers/ra.jpg
@@ -14,93 +14,162 @@ tags: ['10 Commandments', 'Yahweh']
 January 31, 1981
 
 
-{{< r a="Don Elkins" >}}Considering the free will distortion of the Law of One, how can the Guardians quarantine the Earth? Is this quarantine within the free will distortion?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Considering the free will distortion of the Law of One, how can the Guardians quarantine the Earth? Is this quarantine within the free will distortion?{{< /r >}}
 
-{{< l a="Ra" >}}The Guardians guard the free will distortion of the mind/body/spirit complexes of third density on Earth. The events which require activation of quarantine were interfering with the free will distortion of mind/body/spirit complexes.{{< /l >}}
+{{< l a="Ra" >}}
+The Guardians guard the free will distortion of the mind/body/spirit complexes of 3rd density on Earth. The events which require activation of quarantine were interfering with the free will distortion of mind/body/spirit complexes.
+{{< /l >}}
 
-{{< r a="Don Elkins" >}}But it seems to me that it would be the free will of, say the Orion group, to interfere. How is this balanced against the other concept you just gave?{{< /r >}}
+{{< r a="Don Elkins" >}}
+But it seems to me that it would be the free will of, say the Orion group, to interfere. How is this balanced against the other concept you just gave?
+{{< /r >}}
 
-{{< l a="Ra" >}}The balancing is from dimension to dimension. The attempts of the so-called Crusaders to interfere with free will are acceptable upon the dimension of their understanding. 
+{{< l a="Ra" >}}
+The balancing is from dimension to dimension. The attempts of the so-called Crusaders to interfere with free will are acceptable to them.  However, the mind/body/spirit complexes of this 3rd dimension form a dimension of free will which is not able to recognize the manipulation fully. 
 
-However, the mind/body/spirit complexes of this dimension you call third form a dimension of free will which is not able to, shall we say, recognize in full, the distortions towards manipulation. 
+Thus, in order to balance the dimensional variances in vibration, a quarantine was set up. This was a balancing situation whereby the free will of the Orion group is not stopped but given a challenge. Meanwhile, the 3rd density group is not hindered from free choice.
+{{< /l >}}
 
-Thus, in order to balance the dimensional variances in vibration, a quarantine was set up, this being a balancing situation whereby the free will of the Orion group is not stopped but given a challenge. 
+{{< r a="Don Elkins" >}}
+Could these windows that occur… let the Orion group come through once in a while… does this have anything to do with this free will distortion?
+{{< /r >}}
 
-Meanwhile, the 3rd density group is not hindered from free choice.{{< /l >}}
+{{< l a="Ra" >}}
+Yes. The closest analogy would be a random number generator within certain limits.
+{{< /l >}}
 
-{{< r a="Don Elkins" >}}Could these windows that occur… let the Orion group come through once in a while… does this have anything to do with this free will distortion?{{< /r >}}
+{{< r a="Don Elkins" >}}
+What is the source of this random number generator? Is it created by the Guardians to balance their guarding? Or is it a source other than the Guardians?
+{{< /r >}}
 
-{{< l a="Ra" >}}This is correct. The closest analogy would be a random number generator within certain limits.{{< /l >}}
+{{< l a="Ra" >}}
+All sources are one. The window phenomenon is an other-self phenomenon from the Guardians. 
 
-{{< r a="Don Elkins" >}}What is the source of this random number generator? Is it created by the Guardians to balance their guarding? Or is it a source other than the Guardians?{{< /r >}}
+It operates from the dimensions beyond space/time as intelligent energy.
 
-{{< l a="Ra" >}}All sources are one. The window phenomenon is an other-self phenomenon from the Guardians. It operates from the dimensions beyond space/time in what you may call the area of intelligent energy. Like your cycles, such balancing, such rhythms are as a clock striking. In the case of the windows, no entities have the clock. Therefore, it seems random. It is not random in the dimension which produces this balance. That is why we stated the analogy was within certain limits.{{< /l >}}
+Like your cycles, such balancing, such rhythms are as a clock striking.
 
-{{< r a="Don Elkins" >}}Then this window balancing prevents the Guardians from reducing their positive polarization by totally eliminating the Orion contact through shielding. Is this correct?{{< /r >}}
+In the case of the windows, no entities have the clock. Therefore, it seems random.
 
-{{< l a="Ra" >}}This is partially correct. In effect, the balancing allows an equal amount of positive and negative influx, this balanced by the mind/body/spirit distortions of the social complex. Thus on Earth, less negative information or stimulus is necessary than positive due to the negative orientation of your social complex distortion.{{< /l >}}
+It is not random in the dimension which produces this balance. That is why we stated the analogy was within certain limits.
+{{< /l >}}
 
-{{< r a="Don Elkins" >}}In this way, total free will is balanced so that the individual may have an equal opportunity to choose service to others or service to self. Is this correct?{{< /r >}}
 
-{{< l a="Ra" >}}This is correct.{{< /l >}}
+{{< r a="Don Elkins" >}}
+Then this window balancing prevents the Guardians from reducing their positive polarization by totally eliminating the Orion contact through shielding. Is this correct?
+{{< /r >}}
 
-{{< r a="Don Elkins" >}}If the Confederation landed on Earth, they would be taken as gods, breaking the Law of Free Will and thus reducing their polarization towards service to all. I assume that the same thing would happen if the Orion group landed. How would this affect their polarization towards service to self if they were able to land and became known as gods?{{< /r >}}
 
-{{< l a="Ra" >}}In the event of mass landing of the Orion group, the effect of polarization would be strongly towards an increase in the service to self, precisely the opposite of the former opportunity which you mentioned.{{< /l >}}
+{{< l a="Ra" >}}
+This is partially correct. In effect, the balancing allows an equal amount of positive and negative influx. This is balanced by the mind/body/spirit distortions of the social complex.
 
-{{< r a="Don Elkins" >}}If the Orion group was able to land, would this increase their polarization? Is it better for them to work behind the scenes and get recruits, shall we say, from our planet, the person on our planet going towards service to self strictly on his own using his free will, or is it just as good for the Orion group to land upon our planet and demonstrate remarkable powers and get people like that?{{< /r >}}
+Thus on Earth, less negative information or stimulus is necessary than positive due to the negative orientation of your social complex distortion.
+{{< /l >}}
 
-{{< l a="Ra" >}}The first instance is in the long run more salubrious for the Orion group in that it does not infringe upon the Law of One by landing and, thus, does its work through those of this planet. In the second circumstance, a mass landing would create a loss of polarization due to the infringement upon the free will of the planet. However, it would be a gamble. If the planet then were conquered and became part of the Empire, the free will would then be re-established. This is restrained in action due to the desire of the Orion group to progress towards the One Creator. This desire to progress inhibits the group from breaking the Law of Confusion.{{< /l >}}
+{{< r a="Don Elkins" >}}
+In this way, total free will is balanced so that the individual may have an equal opportunity to choose service to others or service to self. Is this correct?
+{{< /r >}}
 
-{{< r a="Don Elkins" >}}You mentioned the word “Empire” in relation to the Orion group. I have thought for some time that the movie *Star Wars* was somehow an allegory, in part, for what is actually happening. Is this correct?{{< /r >}}
+{{< l a="Ra" >}}Yes.
+{{< /l >}}
 
-{{< l a="Ra" >}}This is correct in the same way that a simple children’s story is an allegory for physical/philosophical/social complex distortion/understanding.{{< /l >}}
+{{< r a="Don Elkins" >}}
+If the Confederation landed on Earth, they would be taken as gods. This would break the Law of Free Will and thus reduce their polarization towards service to all.
 
-{{< r a="Don Elkins" >}}Is there a harvest of entities oriented towards service to self like there is a harvest here of entities oriented towards service to others?{{< /r >}}
+I assume that the same thing would happen if the Orion group landed. How would this affect their polarization towards service to self if they were able to land and became known as gods?
+{{< /r >}}
 
-{{< l a="Ra" >}}There is one harvest. Those able to enter fourth density through vibrational complex levels may choose the manner of their further seeking of the One Creator.{{< /l >}}
+{{< l a="Ra" >}}
+In the event of mass landing of the Orion group, the effect of polarization would be strongly towards an increase in the service to self, precisely the opposite of the former opportunity which you mentioned.
+{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then as we enter the fourth density there will be a split. Part of the individuals who go into the fourth density will go to planets or places where there is service to others and the other part will go into places where there is service to self. The Confederation established its quarantine 75,000 years ago. Has the Orion group been attempting to contact any part of this planet prior to that or… did they… how long have they been attempting contacting this planet?{{< /r >}}
+{{< r a="Don Elkins" >}}
+If the Orion group was able to land, would this increase their polarization? 
 
-{{< l a="Ra" >}}Approximately 45,000 years ago an attempt was made. It was not successful. Approximately 2,600 years ago the group sent an entity of social memory complex to Earth. This effort met with some success but was in the space/time continuum lessened in impact. Since approximately 2,300 years ago this group has constantly been working upon the harvest just as the Confederation.{{< /l >}}
+Is it better for them to work behind the scenes and get recruits from our planet, the person on our planet going towards service to self strictly on his own using his free will?
+
+Or is it just as good for the Orion group to land upon our planet and demonstrate remarkable powers and get people like that?
+{{< /r >}}
+
+
+{{< l a="Ra" >}}
+The first instance is in the long run more salubrious for the Orion group in that it does not infringe upon the Law of One by landing and, thus, does its work through those of this planet. 
+
+In the second circumstance, a mass landing would create a loss of polarization due to the infringement upon the free will of the planet. 
+
+However, it would be a gamble. If the planet then were conquered and became part of the Empire, the free will would then be re-established. 
+
+This is restrained in action due to the desire of the Orion group to progress towards the One Creator. This desire to progress inhibits the group from breaking the Law of Confusion.
+{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+You mentioned the word “Empire” in relation to the Orion group. I have thought for some time that the movie *Star Wars* was somehow an allegory, in part, for what is actually happening. Is this correct?
+{{< /r >}}
+
+{{< l a="Ra" >}}
+This is correct in the same way that a simple children’s story is an allegory for physical/philosophical/social complex distortion/understanding.
+{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+Is there a harvest of entities oriented towards service to self like there is a harvest here of entities oriented towards service to others?
+{{< /r >}}
+
+{{< l a="Ra" >}}
+There is one harvest. Those able to enter 4th density through vibrational complex levels may choose the manner of their further seeking of the One Creator.
+{{< /l >}}
+
+{{< n n="This is the black hand or avidya path in Asian spirituality" >}}
+
+{{< r a="Don Elkins" >}}
+Then as we enter the 4th density there will be a split. 
+
+Part of the people who go into the 4th density will go to planets or places where there is service to others and the other part will go into places where there is service to self.
+
+The Confederation established its quarantine 75,000 years ago. 
+
+Has the Orion group been attempting to contact any part of this planet prior to that or… did they… how long have they been attempting contacting this planet?
+{{< /r >}}
+
+
+{{< l a="Ra" >}}
+Approximately 45,000 years ago an attempt was made. It was not successful. 
+
+Approximately 2,600 years ago the group sent an entity of social memory complex -- Yahweh -- to Earth. This effort met with some success but in time it lessened in impact. Since approximately 2,300 years ago this group has constantly been working on the harvest like the Confederation.
+{{< /l >}}
+
 {{< n n="Ra corrected these dates in Session 17: they should be 3,600 and 3,300 years ago, respectively." >}}
 
-{{< r a="Don Elkins" >}}Can you name the entity that they sent here 2,600 years ago…?{{< /r >}}
-{{< n n="The correct time frame is 3,600 years ago; see Ra’s opening statement in Session 17." >}}
+{{< r a="Don Elkins" >}}
+Can you tell me the origin of the Ten Commandments?{{< /r >}}
 
-{{< l a="Ra" >}}It was Yahweh.{{< /l >}}
+{{< l a="Ra" >}}
+They follow the law of negative entities impressing information on positively oriented mind/body/spirit complexes. The information attempted to copy positivity while retaining negative characteristics. This was done by the Orion group.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Can you tell me the origin of the Ten Commandments?{{< /r >}}
+{{< r a="Don Elkins" >}}
+What was their purpose in doing this?{{< /r >}}
 
-{{< l a="Ra" >}}The origin of these commandments follows the law of negative entities impressing information upon positively oriented mind/body/spirit complexes. The information attempted to copy or ape positivity while retaining negative characteristics.{{< /l >}}
+{{< l a="Ra" >}}
+The purpose of the Orion group is conquest and enslavement. This is done by finding and establishing an elite and causing others to serve the elite through various devices such as The 10 Commandments.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Was this done by the Orion group?{{< /r >}}
-
-{{< l a="Ra" >}}Yes.{{< /l >}}
-
-{{< r a="Don Elkins" >}}What was their purpose in doing this?{{< /r >}}
-
-{{< l a="Ra" >}}The purpose of the Orion group is conquest and enslavement. This is done by finding and establishing an elite and causing others to serve the elite through various devices such as the laws you mention and others given by this entity.{{< /l >}}
-
-{{< r a="Don Elkins" >}}Was the recipient of the laws… of the Ten Commandments positively or negatively oriented?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Was the recipient of the laws… of the Ten Commandments positively or negatively oriented?{{< /r >}}
 
 {{< l a="Ra" >}}
 The recipient was of extreme positivity, thus accounting for some of the pseudo-positive characteristics of the information received. 
 
-As with contacts which are not successful, Moishe did not remain a credible influence among those who had first heard the philosophy of One.
-
-He was removed from this 3rd density vibratory level in a lessened or saddened state, having lost the honor and faith with which he had begun the conceptualization of the Law of One and the freeing of those who were of his tribes.{{< /l >}}
+As with contacts which are not successful, Moishe did not remain a credible influence among those who had first heard the philosophy of One. He was removed from this 3rd density vibratory level in a lessened or saddened state, having lost the honor and faith with which he had begun the conceptualization of the Law of One and the freeing of those who were of his tribes.
+{{< /l >}}
 
 
 {{< r a="Don Elkins" >}}
 If Moses was positively oriented, how was the Orion group able to contact him?{{< /r >}}
 
 
-{{< l a="Ra" >}}This was an intensive battleground between positively oriented forces of Confederation origin and negatively oriented sources. 
+{{< l a="Ra" >}}
+This was an intensive battleground between positively oriented forces of Confederation origin and negatively oriented sources. 
 
-Moishe was open to impression and received the Law of One in its simplest form. 
-
-However, the information became negatively oriented due to his people’s pressure to do specific physical things in the 3rd density planes.
+Moishe was open to impression and received the Law of One in its simplest form.  However, the information became negatively oriented due to his people’s pressure to do specific physical things in the 3rd density planes.
 
 This left him open for the type of information and philosophy of a self-service nature.{{< /l >}}
 
@@ -108,12 +177,15 @@ This left him open for the type of information and philosophy of a self-service 
 {{< r a="Don Elkins" >}}
 It would be unlike an entity fully aware of the knowledge of the Law of One to ever say “Thou shalt not.”{{< /r >}}
 
-{{< l a="Ra" >}}Yes.{{< /l >}}
+{{< l a="Ra" >}}
+Yes.{{< /l >}}
+
 
 {{< n n="The Sassani confirm that the Anunnaki’s Ten Commandments were later corrupted by scribes." >}}
 
 
-{{< r a="Don Elkins" >}}Can you give me some kind of history of your social memory complex and how you became aware of the Law of One?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Can you give me some kind of history of your social memory complex and how you became aware of the Law of One?{{< /r >}}
 
 {{< l a="Ra" >}}
 The path of our learning is graven in the present moment. There is no history, as we understand your concept. 
@@ -177,13 +249,16 @@ How many inhabited planets are there in our galaxy?{{< /r >}}
 
 The other information must be withheld. The free will of your future is not making this available. We shall speak on one item. Approximately 35% of the intelligent planets do not fit in the percentiles. These mysteries are of sixth and seventh density and are not available for our speaking.{{< /l >}}
 
-{{< r a="Don Elkins" >}}These first five densities, have all of them progressed from third density by knowledge and application of the Law of One?{{< /r >}}
+{{< r a="Don Elkins" >}}These first 5 densities, have all of them progressed from third density by knowledge and application of the Law of One?{{< /r >}}
 
-{{< l a="Ra" >}}This is correct.{{< /l >}}
+{{< l a="Ra" >}}
+Correct.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then the only way for a planet to get out of the situation that we are in, or the only way for the population is to become aware of and start practicing the Law of One. Is this correct?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Then the only way for a planet to get out of the situation that we are in, or the only way for the population is to become aware of and start practicing the Law of One. Is this correct?{{< /r >}}
 
-{{< l a="Ra" >}}This is correct.{{< /l >}}
+{{< l a="Ra" >}}
+Correct.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Can you tell me what percentage of third-, fourth-, and fifth-density planets which you have spoken of here are negatively polarized, polarized towards service for self?{{< /r >}}
 
@@ -279,7 +354,8 @@ This Confederation works with the planetary spheres of seven of your galaxies an
 
 {{< l a="Ra" >}}Firstly, they come from the Creator. Secondly, they come from what you may call lower astral plane thought. Thirdly, in construct visualization complex they reside in part beneath the crust of your planet.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Are these one form in particular?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Are these one form in particular?{{< /r >}}
 
 {{< l a="Ra" >}}These entities may take any thought-form associated with an emotion of fear or terror.{{< /l >}}
 

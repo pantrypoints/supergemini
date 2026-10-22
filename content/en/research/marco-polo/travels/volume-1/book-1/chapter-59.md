@@ -14,7 +14,7 @@ weight: 38
 
 Tenduc is a province which lies towards the east, and contains numerous towns and villages; among which is the chief city, also called Tenduc. 
 
-The king of the province is of the lineage of Prester John, George by name, and he holds the land under the Great Kaan; not that he holds anything like the whole of what Prester John possessed.{1} It is a custom, I may tell you, that these kings of the lineage of Prester John always obtain to wife either daughters of the Great Kaan or other princesses of his family.{2}
+The king of the province is of the lineage of Prester John, George by name, and he holds the land under the Great Khan; not that he holds anything like the whole of what Prester John possessed.{1} It is a custom, I may tell you, that these kings of the lineage of Prester John always obtain to wife either daughters of the Great Khan or other princesses of his family.{2}
 
 In this province is found the stone from which Azure is made. It is obtained from a kind of vein in the earth, and is of very fine quality.{3} There is also a great manufacture of fine camlets of different colours from camel’s hair. The people get their living by their cattle and tillage, as well as by trade and handicraft.
 
@@ -30,15 +30,15 @@ They get their living by trade and manufactures; weaving those fine cloths of go
 
 For just as we have cloths of wool in our country, manufactured in a great variety of kinds, so in those regions they have stuffs of silk and gold in like variety.{6}
 
-All this region is subject to the Great Kaan. There is a city you come to called Sindachu, where they carry on a great many crafts such as provide for the equipment of the Emperor’s troops. In a mountain of the province there is a very good silver mine, from which much silver is got: the place is called Ydifu. The country is well stocked with game, both beast and bird.{7}
+All this region is subject to the Great Khan. There is a city you come to called Sindachu, where they carry on a great many crafts such as provide for the equipment of the Emperor’s troops. In a mountain of the province there is a very good silver mine, from which much silver is got: the place is called Ydifu. The country is well stocked with game, both beast and bird.{7}
 
 
 <!-- Mr. Ney Elias favours me with a curious but tantalising communication on this subject: “An old man called on me at Kwei-hwa Ch’eng (Tenduc), who said he was neither Chinaman, Mongol, nor Mahomedan, and lived on ground a short distance to the north of the city, especially allotted to his ancestors by the Emperor, and where there now exist several families of the same origin. He then mentioned the connection of his family with that of the Emperor, but in what way I am not clear, and said that he ought to be, or had been, a prince. Other people coming in, he was interrupted and went away.... He was not with me more than ten minutes, and the incident is a specimen of the difficulty in obtaining interesting information, except by mere chance.... The idea that struck me was, that he was perhaps a descendant of King George of Tenduc; for I had your M. P. before me, and had been inquiring as much as I dared about subjects it suggested.... At Kwei-hwa Ch’eng I was very closely spied, and my servant was frequently told to warn me against asking too many questions.” -->
 
 
-## CHAPTER 60. The Kaan’s Palace of Chagannor
+## CHAPTER 60. The Khan’s Palace of Chagannor
 
-At the end of those 3 days you find a city called Chagan Nor which is as much as to say White Pool, at which there is a great Palace of the Grand Kaan’s.
+At the end of those 3 days you find a city called Chagan Nor which is as much as to say White Pool, at which there is a great Palace of the Grand Khan’s.
 
 He likes much to reside there on account of the Lakes and Rivers in the neighbourhood, which are the haunt of swans{2} and of a great variety of other birds. The adjoining plains too abound with cranes, partridges, pheasants, and other game birds, so that the Emperor takes all the more delight in staying there, in order to go a-hawking with his gerfalcons and other falcons, a sport of which he is very fond.
 
@@ -56,19 +56,19 @@ Its wings are really beautiful, for they are adorned with round eyes like those 
 
 Near this city there is a valley in which the Emperor has had several little houses erected in which he keeps in mew a huge number of cators, which are what we call the Great Partridge.
 
-You would be astonished to see what a quantity there are, with men to take charge of them. So whenever the Kaan visits the place he is furnished with as many as he wants.
+You would be astonished to see what a quantity there are, with men to take charge of them. So whenever the Khan visits the place he is furnished with as many as he wants.
 
 
 
-## CHAPTER 61. The City of Chandu, and the Kaan’s Palace there.
+## CHAPTER 61. The City of Chandu, and the Khan’s Palace there.
 
-And when you have ridden three days from the city last mentioned, between north-east and north, you come to a city called Chandu,{1} which was built by the Kaan now reigning.
+And when you have ridden three days from the city last mentioned, between north-east and north, you come to a city called Chandu,{1} which was built by the Khan now reigning.
 
 There is at this place a very fine marble Palace, the rooms of which are all gilt and painted with figures of men and beasts and birds, and with a variety of trees and flowers, all executed with such exquisite art that you regard them with delight and astonishment.{2}
 
 Round this Palace a wall is built, inclosing a compass 299of 16 miles, and inside the Park there are fountains and rivers and brooks, and beautiful meadows, with all kinds of wild animals (excluding such as are of ferocious nature), which the Emperor has procured and placed there to supply food for his gerfalcons and hawks, which he keeps there in mew.
 
-Of these there are more than 200 gerfalcons alone, without reckoning the other hawks. The Kaan himself goes every week to see his birds sitting in mew, and sometimes he rides through the park with a leopard behind him on his horse’s croup; and then if he sees any animal that takes his fancy, he slips his leopard at it,{3} and the game when taken is made over to feed the hawks in mew. This he does for diversion.
+Of these there are more than 200 gerfalcons alone, without reckoning the other hawks. The Khan himself goes every week to see his birds sitting in mew, and sometimes he rides through the park with a leopard behind him on his horse’s croup; and then if he sees any animal that takes his fancy, he slips his leopard at it,{3} and the game when taken is made over to feed the hawks in mew. This he does for diversion.
 
 Moreover [at a spot in the Park where there is a charming wood] he has another Palace built of cane, of which I must give you a description. It is gilt all over, and most elaborately finished inside. 
 
@@ -84,13 +84,13 @@ The Lord abides at this Park of his, dwelling sometimes in the Marble Palace and
 
 But I must tell you what happens when he goes away from this Palace every year on the 28th of the August [Moon].
 
-The Kaan keeps over 10,000 white horses and mares all pure white without a speck. The milk of these mares is drunk by himself and his family, and by none else, except by those of one great tribe the Horiad. 
+The Khan keeps over 10,000 white horses and mares all pure white without a speck. The milk of these mares is drunk by himself and his family, and by none else, except by those of one great tribe the Horiad. 
 
-This privilege was granted them by Genghis Kaan, on account of a certain victory that they helped him to win long ago.{6}
+This privilege was granted them by Genghis Khan, on account of a certain victory that they helped him to win long ago.{6}
 
 When these mares are passing across the country, and any one falls in with them, be he the greatest lord in the land, he must not presume to pass until the mares have gone by; he must either tarry where he is, or go a half-day’s journey round if need so be, so as not to come nigh them; for they are to be treated with the greatest respect. 
 
-When the Lord sets out from the Park on the 28th of August, as I told you, the milk of all those mares is taken and sprinkled on the ground. And this is done on the injunction of the Idolaters and Idol-priests, who say that it is an excellent thing to sprinkle that milk on the ground every 28th of August, so that the Earth and the Air 301and the False Gods shall have their share of it, and the Spirits likewise that inhabit the Air and the Earth. And thus those beings will protect and bless the Kaan and his children and his wives and his folk and his gear, and his cattle and his horses, his corn and all that is his. 
+When the Lord sets out from the Park on the 28th of August, as I told you, the milk of all those mares is taken and sprinkled on the ground. And this is done on the injunction of the Idolaters and Idol-priests, who say that it is an excellent thing to sprinkle that milk on the ground every 28th of August, so that the Earth and the Air 301and the False Gods shall have their share of it, and the Spirits likewise that inhabit the Air and the Earth. And thus those beings will protect and bless the Khan and his children and his wives and his folk and his gear, and his cattle and his horses, his corn and all that is his. 
 
 After this is done, the Emperor is off and away.{7}
 
@@ -112,7 +112,7 @@ But if any one die a natural death then they will not eat the body.{9}
 
 There is another marvel performed by those Bacsi, of whom I have been speaking as knowing so many enchantments.{10} 
 
-When the Great Kaan is at his great Palace, seated at his table, which stands on a platform some eight cubits above the ground, his cups are set before him [on a great buffet] in the middle of the hall pavement 10 paces from his table, and filled with wine, or other good spiced liquor such as they use.
+When the Great Khan is at his great Palace, seated at his table, which stands on a platform some eight cubits above the ground, his cups are set before him [on a great buffet] in the middle of the hall pavement 10 paces from his table, and filled with wine, or other good spiced liquor such as they use.
 
 When the Lord desires to drink, these enchanters by the power of their enchantments cause the cups to move from their place without being touched by anybody, and to present themselves to the Emperor!
 
@@ -128,7 +128,7 @@ naming whatever number they please.
 
 “And we beg also, good my lord, that we may have such a quantity of incense, and such a quantity of lignaloes, and”—so much of this, so much of that, and so much of t’other, according to their fancy—“that we may perform a solemn service and a great sacrifice to our Idols, and that so they may be induced to protect us and all that is ours.”
 
-The Bacsi say these things to the Barons entrusted with the Stewardship, who stand around the Great Kaan. These repeat them to the Kaan, and he then orders the Barons to give everything that the Bacsi have asked for.
+The Bacsi say these things to the Barons entrusted with the Stewardship, who stand around the Great Khan. These repeat them to the Khan, and he then orders the Barons to give everything that the Bacsi have asked for.
 
 When they have got the articles they go and make a great feast in honour of their god, and hold great ceremonies of worship with grand illuminations and quantities of incense of a variety of odours, which they make up from different aromatic spices.
 

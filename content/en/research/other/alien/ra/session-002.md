@@ -60,13 +60,11 @@ This distortion, called “Aten,” was a close distortion to our reality.
 
 However, it does not come totally into alignment with the intended teach/learning which was sent. 
 
-This entity, **Akhenaten**, became convinced that the vibration of One was the true spiritual vibration and thus decreed the Law of One.
+This entity, **Akhenaten**, became convinced that the vibration of One was the true spiritual vibration and thus decreed the Law of One. However, his beliefs were accepted by very few.
 
-However, this entity’s beliefs were accepted by very few. His priests gave lip service only, without the spiritual distortion towards seeking. 
+His priests gave lip service only, without the spiritual distortion towards seeking.  The peoples continued in their beliefs. 
 
-The peoples continued in their beliefs. 
-
-When this entity was no longer in this density, again the polarized beliefs in the many gods came into their own.
+When he was no longer in this density, again the polarized beliefs in the many gods came into their own.
 
 This continued until the Prophet Muhammad delivered the peoples into a more intelligible distortion of mind/body/spirit relationships.
 

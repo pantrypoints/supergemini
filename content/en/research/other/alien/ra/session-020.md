@@ -14,15 +14,18 @@ tags: ['densities', 'Dewey Larson']
 February 9, 1981
 
 
-{{< r a="Don Elkins" >}}What happened to the 2nd density entities who were on this planet who were unharvestable— I assume there were some that didn’t make the harvest into the 3rd density.{{< /r >}}
+{{< r a="Don Elkins" >}}
+What happened to the 2nd density entities who were on this planet who were unharvestable— I assume there were some that didn’t make the harvest into the 3rd density.{{< /r >}}
 
-{{< l a="Ra" >}}The 2nd density is able to repeat during 3rd density a portion of its cycle.{{< /l >}}
+{{< l a="Ra" >}}
+The 2nd density is able to repeat during 3rd density a portion of its cycle.{{< /l >}}
 
 {{< r a="Don Elkins" >}}
 Then the 2nd density entities that did not get harvested at the beginning of this 75,000-year period, some are still in 2nd density on this planet. Were any of these who remained in 2nd density harvested into third density in the past 75,000 years?
 {{< /r >}}
 
-{{< l a="Ra" >}}This has been increasingly true.{{< /l >}}
+{{< l a="Ra" >}}
+This has been increasingly true.{{< /l >}}
 
 {{< r a="Don Elkins" >}}
 So more and more 2nd density entities are making it into third density. Can you give me an example of a 2nd density entity coming into third density, say, in the recent past?
@@ -50,7 +53,8 @@ Yes.
 {{< /l >}}
 
 
-{{< r a="Don Elkins" >}}Speaking of the rapid change that occurred in the physical vehicle; the change from second to third density: this, you said, occurred in approximately a generation and a half. Body hair was lost and there were structural changes.
+{{< r a="Don Elkins" >}}
+Speaking of the rapid change that occurred in the physical vehicle; the change from second to third density: this, you said, occurred in approximately a generation and a half. Body hair was lost and there were structural changes.
 
 Physicist Dewey B. Larson states that all is motion or vibration. 
 
@@ -116,65 +120,101 @@ The charge is provided by individualized consciousness. Is this correct?
 **The charge is provided by the individualized entity using the inpourings and instreamings of energy by the choices of free will.**
 {{< /l >}} 
 
-{{< r a="Don Elkins" >}}Thank you. As soon as the third density started 75,000 years ago and we have incarnate third density entities, what was the average human life span at that time?{{< /r >}}
+{{< r a="Don Elkins" >}}
+As soon as the third density started 75,000 years ago and we have incarnate third density entities, what was the average human life span at that time?{{< /r >}}
 
 {{< l a="Ra" >}}
-At the beginning of this particular portion of your space/time continuum the average lifetime was approximately nine hundred of your years.
+At the beginning of that time, the average lifespan was approximately 900 years.
 {{< /l >}}
 
 {{< r a="Don Elkins" >}}
-Did the average life span grow longer or shorter as we progress on into third density experience?{{< /r >}}
+Did the average life span grow longer or shorter as we progress on into 3rd density experience?{{< /r >}}
 
 {{< l a="Ra" >}}
-There is a particular use for this span of life in this density and, given the harmonious development of the learning/teachings of this density, the life span of the physical complex would remain the same throughout the cycle. However, your particular planetary sphere developed vibrations by the second major cycle which shortened the life span dramatically.
+There is a particular use for this span of life in this density and, given the harmonious development of the learning/teachings of this density, the life span of the physical complex would remain the same throughout the cycle. 
+
+However, your planet developed vibrations by the 2nd major cycle which shortened the life span dramatically.
 {{< /l >}}
 
-{{< r a="Don Elkins" >}}Assuming a major cycle is 25,000 years, at the end of the first 25,000-year cycle, how long was the life span?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Assuming a major cycle is 25,000 years, at the end of the first 25,000-year cycle, how long was the life span?
+{{< /r >}}
 
-{{< l a="Ra" >}}The life span at the end of the first cycle which you call major was approximately seven hundred of your years.{{< /l >}}
-
-{{< r a="Don Elkins" >}}Then in 25,000 years we lost two hundred years of life span. Is this correct?{{< /r >}}
-
-{{< l a="Ra" >}}This is correct.{{< /l >}}
+{{< l a="Ra" >}}The life span at the end of the 1st major cycle was approximately 700 years.
+{{< /l >}}
 
 {{< r a="Don Elkins" >}}
-Can you tell me the reason for this shortening of life span?
+Then in 25,000 years we lost 200 years of life span?{{< /r >}}
+
+{{< l a="Ra" >}}
+Yes.
+{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+Why did this happen?
 {{< /r >}}
 
 {{< l a="Ra" >}}
-The causes of this shortening are always an ineuphonious or inharmonious relational vibration between other-selves. In the first cycle this was not severe, but due to the dispersion of peoples and the growing feeling complex/distortions towards separateness from other-selves.
+The causes of this shortening are always an ineuphonious or inharmonious relational vibration between other-selves. 
+
+In the 1st cycle this was not severe, but due to the dispersion of peoples and the growing feeling complex/distortions towards separateness from other-selves.
 {{< /l >}}
 
-{{< r a="Don Elkins" >}}I’m assuming at the start of one of these cycles there could have been either a positive polarization that would generally occur over the 25,000 years or a negative polarization. Is the reason for the negative polarization and the shortening of the cycle the influx of entities from Mars who had already polarized somewhat negatively?{{< /r >}}
+{{< r a="Don Elkins" >}}
+I’m assuming at the start of one of these cycles there could have been either a positive polarization that would generally occur over the 25,000 years or a negative polarization. 
+
+Is the reason for the negative polarization and the shortening of the cycle the influx of entities from Mars who had already polarized somewhat negatively?
+{{< /r >}}
 
 {{< l a="Ra" >}}
-This is incorrect. There was not a strong negative polarization due to this influx. The lessening of the life span was due primarily to the lack of the building up of positive orientation. When there is no progress those conditions which grant progress are gradually lost. This is one of the difficulties of remaining unpolarized. The chances, shall we say, of progress become steadily less.{{< /l >}}
+No. There was not a strong negative polarization due to this influx. 
 
-{{< r a="Don Elkins" >}}The way I understand it, at the beginning of this 75,000-year cycle, then, we have a mixture of entities— those who have graduated from 2nd density on Earth to become third density and then a group of entities transferred from the planet Mars to incarnate into third density here. Is this correct?{{< /r >}}
+The lessening of the lifespan was due primarily to the lack of positive orientation.
 
-{{< l a="Ra" >}}This is correct.{{< /l >}}
+When there is no progress, those conditions which grant progress are gradually lost.
 
-{{< r a="Don Elkins" >}}What— Continue.{{< /r >}}
+This is one of the difficulties of remaining unpolarized. The chances of progress become steadily less.
+{{< /l >}}
 
-{{< l a="Ra" >}}You must remember that those transferred to this sphere were in the middle of their third density so that this third density was an adaptation rather than a beginning.{{< /l >}}
+{{< r a="Don Elkins" >}}
+So at the beginning of this 75,000-year cycle, we have a mixture of entities:
+- those who have graduated from 2nd density on Earth to become 3rd density
+- a group of entities transferred from Mars to incarnate into 3rd density here
+{{< /r >}}
 
-{{< r a="Don Elkins" >}}Thank you. What percentage of the entities, roughly, were— who were in third density here at that time were Martian and what percentage were harvested out of Earth’s 2nd density?{{< /r >}}
+{{< l a="Ra" >}}
+Yes. Those transferred to this planet were in the middle of their 3rd density so that this 3rd density was an adaptation rather than a beginning.
+{{< /l >}}
 
-{{< l a="Ra" >}}There were perhaps one-half of the third density population being entities from the Red Planet, Mars, as you call it. Perhaps one-quarter from 2nd density of your planetary sphere. Approximately one-quarter from other sources, other planetary spheres whose entities chose this planetary sphere for third density work.{{< /l >}}
+{{< r a="Don Elkins" >}}
+What percentage of the entities, roughly, were— who were in third density here at that time were Martian and what percentage were harvested out of Earth’s 2nd density?{{< /r >}}
 
-{{< r a="Don Elkins" >}}When they incarnated here did they mix— did all three of these types mix together in societies or groups or were they separated by group or society?{{< /r >}}
+{{< l a="Ra" >}}
+- 50% were of the 3rd density population from Mars.
+- 25% were perhaps from 2nd density of Earth.
+- Approximately 25% were from other sources, other planets whose entities chose this planet for 3rd density work.
+{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+When they incarnated here did they mix— did all three of these types mix together in societies or groups or were they separated by group or society?
+{{< /r >}}
 
 {{< l a="Ra" >}}They remained largely unmixed.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Then did this unmixing lend to a possibility of separation of group, then, or the possibility of warlike attitude between groups?{{< /r >}}
 
-{{< l a="Ra" >}}This is correct.{{< /l >}}
+{{< l a="Ra" >}}
+Yes.
+{{< /l >}}
 
 {{< r a="Don Elkins" >}}Did this then help to reduce the life span?{{< /r >}}
 
-{{< l a="Ra" >}}This did reduce the life span, as you call it.{{< /l >}}
+{{< l a="Ra" >}}
+This did reduce the life span.
+{{< /l >}}
 
-{{< r a="Don Elkins" >}}Can you tell me why nine hundred years is the optimum life span?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Why is 900 years the optimum life span?{{< /r >}}
 
 {{< l a="Ra" >}}
 The mind/body/spirit complex of 3rd density has perhaps 100 times as intensive a program of catalytic action from which to distill distortions and learn/teachings than any other of the densities. 
@@ -189,21 +229,20 @@ Thus, the remaining time span is given to optimize the understandings which resu
 {{< /l >}}
 
 
-{{< r a="Don Elkins" >}}Then at present our lifespan is too short for those who are new to 3rd density lessons.{{< /r >}}
+{{< r a="Don Elkins" >}}
+So our lifespan is too short for those who are new to 3rd density lessons.{{< /r >}}
 
 {{< l a="Ra" >}}
-Yes. 
-
-Those entities which have, in some way, learned/taught themselves the appropriate distortions for rapid growth can now work within the confines of the shorter life span. 
-
-However, most people find themselves in a perpetual childhood.
+Yes.  Those entities which have, in some way, learned/taught themselves the appropriate distortions for rapid growth can now work within the confines of the shorter life span. However, most people find themselves in a perpetual childhood.
 {{< /l >}}
 
+
 {{< r a="Don Elkins" >}}
-in the first 25,000-year period, or major cycle, what aid was given by the Confederation to the entities who were in this 25,000-year period so that they could have the opportunity to grow?
+In the first 25,000-year period, or major cycle, what aid was given by the Confederation to the entities who were in this 25,000-year period so that they could have the opportunity to grow?
 {{< /r >}}
 
-{{< l a="Ra" >}}The Confederation members which dwell in inner-plane existence within the planetary complex of vibratory densities worked with these entities. 
+{{< l a="Ra" >}}
+The Confederation members which dwell in inner-plane existence within the planetary complex of vibratory densities worked with these entities. 
 
 There was also the aid of one of the Confederation which worked with those of Mars in making the transition.
 
@@ -215,53 +254,84 @@ Rather, the entities themselves are able to work themselves towards the appropri
 {{< /l >}}
 
 
-{{< r a="Don Elkins" >}}I will make this assumption, then: if maximum efficiency had been achieved in this 25,000-year period the entities would have polarized either toward service toward self or service to others, one or the other. 
+{{< r a="Don Elkins" >}}
+If maximum efficiency had been achieved in this 25,000-year period, the entities would have polarized either toward service toward self or service to others, one or the other. 
 
 This would have then made them harvestable at the end of that 25,000-year period to either service-to-self or service-to-others type of fourth density, in which case they would have had to move to another planet because this one would have been in third density for fifty more thousand years. Is this correct?{{< /r >}}
 
 {{< l a="Ra" >}}
 It is partly correct.
 
-The original desire is that entities seek and become one. If entities can do this in a moment, they may go forward in a moment, and, thus, were this to occur in a major cycle, indeed, the third density planet would be vacated at the end of that cycle.
+The original desire is that entities seek and become one. If entities can do this in a moment, they may go forward in a moment, and, thus, were this to occur in a major cycle the 3rd density planet would be vacated at the end of that cycle.
 
 It is, however, more toward the median or mean, shall we say, of third density developments throughout the one infinite universe that there be a small harvest after the first cycle; the remainder having significantly polarized, the second cycle having a much larger harvest; 
 
 The remainder being even more significantly polarized, the third cycle culminating the process and the harvest being completed.{{< /l >}}
 
 
-{{< r a="Don Elkins" >}}Very good. Then, was the Confederation, shall we say, watching to see and expecting to see a harvest at the end of the 25,000-year period in which a percentage would be harvestable fourth-density positive and a percentage harvestable fourth-density negative?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Was the Confederation watching to see and expecting to see a harvest at the end of the 25,000-year period in which a percentage would be harvestable 4th-density positive and a percentage harvestable 4th-density negative?{{< /r >}}
 
-{{< l a="Ra" >}}This is correct. You may see our role in the first major cycle as that of the gardener who, knowing the season, is content to wait for the spring. When the springtime does not occur, the seeds do not sprout; then it is that the gardener must work in the garden.{{< /l >}}
+{{< l a="Ra" >}}
+Yes. You may see our role in the first major cycle as that of the gardener who, knowing the season, is content to wait for the spring. 
+
+When the springtime does not occur, the seeds do not sprout. Then it the gardener must work in the garden.{{< /l >}}
 
 {{< r a="Don Elkins" >}}
 So there was neither a harvestable entities of positive or negative polarity at the end of that 25,000 years?{{< /r >}}
 
 {{< l a="Ra" >}}
-Yes. 
-
-Those whom you call the Orion group made one attempt to offer information to those of third density during that cycle. However, the information did not fall upon the ears of any who were concerned to follow this path to polarity.{{< /l >}}
+Yes. The Orion group made one attempt to offer information to those of 3rd density during that cycle. However, the information did not fall on the ears of any who were concerned to follow this path to polarity.{{< /l >}}
 
 
-{{< r a="Don Elkins" >}}What technique did the Orion group use to give this information?{{< /r >}}
+{{< r a="Don Elkins" >}}
+What technique did the Orion group use to give this information?{{< /r >}}
 
 
-{{< l a="Ra" >}}The technique used was of two kinds: one, the thought transfer or what you may call “telepathy”; two, the arrangement of certain stones in order to suggest strong influences of power, this being those of statues and of rock formations in your Pacific areas, as you now call them, and to an extent in your Central American regions, as you now understand them.{{< /l >}}
+{{< l a="Ra" >}}
+The technique used was of 2 kinds:
 
-{{< r a="Don Elkins" >}}Are you speaking in part of the stone heads of Easter Island?{{< /r >}}
+1. Thought transfer or “telepathy”
+2. The arrangement of certain stones in order to suggest strong influences of power
 
-{{< l a="Ra" >}}This is correct.{{< /l >}}
+This was those of statues and of rock formations in your:
+- Pacific areas
+- Central American
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}}
+Are you speaking in part of the stone heads of Easter Island?{{< /r >}}
+
+{{< l a="Ra" >}}
+Yes.
+{{< /l >}}
 
 {{< r a="Don Elkins" >}}How would such stone heads influence a people to take the path of service to self?{{< /r >}}
 
-{{< l a="Ra" >}}Picture, if you will, the entities living in such a way that their mind/body/spirit complexes are at what seems to be the mercy of forces which they cannot control. Given a charged entity such as a statue or a rock formation charged with nothing but power, it is possible for the free will of those viewing this particular structure or formation to ascribe to this power, power over those things which cannot be controlled. This, then, has the potential for the further distortion to power over other-selves.{{< /l >}}
+{{< l a="Ra" >}}
+Picture the entities living in such a way that their mind/body/spirit complexes are at the mercy of forces which they cannot control. 
 
-{{< r a="Don Elkins" >}}How were these stone heads constructed?{{< /r >}}
+Given a charged entity such as a statue or a rock formation charged with nothing but power, it is possible for the free will of those viewing this statue or formation to ascribe to this power, power over those things which cannot be controlled. 
 
-{{< l a="Ra" >}}These were constructed by thought after a scanning of the deep mind, the trunk of mind tree, looking at the images most likely to cause the experience of awe in the viewer.{{< /l >}}
+This, then, has the potential for the further distortion to power over other-selves.
+{{< /l >}}
 
-{{< r a="Don Elkins" >}}Well, then, did Orion entities do this themselves? Did they land in physical, or did they do it from mental planes, or did they use one of the incarnate entities to construct these by thought?{{< /r >}}
+{{< r a="Don Elkins" >}}
+How were these stone heads constructed?{{< /r >}}
 
-{{< l a="Ra" >}}Nearly all of these structures and formations were constructed at a distance by thought. A very few were created in later times in imitation of original constructs by entities upon your Earth plane/density.{{< /l >}}
+{{< l a="Ra" >}}
+These were constructed by thought after a scanning of the deep mind, the trunk of mind tree, looking at the images most likely to cause the experience of awe in the viewer.
+{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+Did Orion entities do this themselves? Did they land in physical, or did they do it from mental planes, or did they use one of the incarnate entities to construct these by thought?
+{{< /r >}}
+
+{{< l a="Ra" >}}
+Nearly all of these structures and formations were constructed at a distance by thought.
+
+A very few were created in later times in imitation of original constructs by entities upon your Earth plane/density.{{< /l >}}
 
 {{< r a="Don Elkins" >}}What density Orion entity did the creation of these heads?{{< /r >}}
 

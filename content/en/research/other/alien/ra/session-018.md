@@ -6,7 +6,7 @@ c: "indigo"
 image: /covers/ra.jpg
 weight: 44
 date: 1981-02-03
-tags: ['lsd', 'Aleister Crowley', 'anunnaki']
+tags: ['lsd', 'Aleister Crowley', 'anunnaki', 'holy war', 'anak']
 ---
 
 
@@ -135,79 +135,100 @@ A full forgiveness is thus impossible without the inclusion of self.{{< /l >}}
 
 {{< r a="Don Elkins" >}}You mentioned that there were a number of Confederations. Do all serve the Infinite Creator in basically the same way, or do some specialize in some particular types of service?{{< /r >}}
 
-{{< l a="Ra" >}}All serve the One Creator. There is nothing else to serve, for the Creator is all that there is. It is impossible not to serve the Creator. There are simply various distortions of this service.
+{{< l a="Ra" >}}
+All serve the One Creator. There is nothing else to serve, for the Creator is all that there is. It is impossible not to serve the Creator. There are simply various distortions of this service.
 
 As in the Confederation which works with your peoples, each Confederation is a group of specialized individual social memory complexes, each doing that which it expresses to bring into manifestation.{{< /l >}}
 
-{{< r a="Don Elkins" >}}How did Yahweh communicate to Earth’s people?{{< /r >}}
+{{< r a="Don Elkins" >}}
+How did Yahweh communicate to Earth’s people?{{< /r >}}
 
-{{< l a="Ra" >}}The first communication was genetic.
+{{< l a="Ra" >}}
+1. The first communication was genetic.
+2. The second communication was the walking among your peoples to produce further genetic changes in consciousness.
+3. The third was a series of dialogues with chosen channels.
+{{< /l >}}
 
-The second communication was the walking among your peoples to produce further genetic changes in consciousness.
+{{< r a="Don Elkins" >}}
+What were those genetic changes?{{< /r >}}
 
-The third was a series of dialogues with chosen channels.{{< /l >}}
+{{< l a="Ra" >}}
+Some of these genetic changes were through cloning. Thus, entities incarnated in the image of the Yahweh entities.
 
-{{< r a="Don Elkins" >}}What were those genetic changes?{{< /r >}}
+The second was a contact of the nature you know as sexual, changing the mind/body/spirit complex through the natural means of the patterns of reproduction devised by the intelligent energy of your physical complex.
+{{< /l >}}
 
-{{< l a="Ra" >}}Some of these genetic changes were through cloning. Thus, entities incarnated in the image of the Yahweh entities.
+{{< r a="Don Elkins" >}}
+What is the difference between the sexual programming prior to Yahweh’s intervention and after intervention?{{< /r >}}
 
-The second was a contact of the nature you know as sexual, changing the mind/body/spirit complex through the natural means of the patterns of reproduction devised by the intelligent energy of your physical complex.{{< /l >}}
+{{< l a="Ra" >}}
+Intervention by genetic means is the same no matter what the source.{{< /l >}}
 
-{{< r a="Don Elkins" >}}What is the difference between the sexual programming prior to Yahweh’s intervention and after intervention?{{< /r >}}
+{{< r a="Don Elkins" >}}
+What was Yahweh’s purpose in making the genetic sexual changes?{{< /r >}}
 
-{{< l a="Ra" >}}Intervention by genetic means is the same no matter what the source.{{< /l >}}
+{{< l a="Ra" >}}
+The purpose 75,000 years ago and the changes afterwards were of one purpose only: to express in the mind/body complex those characteristics which would lead to further and more speedy development of the spiritual complex.
 
-{{< r a="Don Elkins" >}}What was Yahweh’s purpose in making the genetic sexual changes?{{< /r >}}
-
-{{< l a="Ra" >}}The purpose 75,000 years ago and the changes afterwards were of one purpose only: to express in the mind/body complex those characteristics which would lead to further and more speedy development of the spiritual complex.
-
-The characteristics which were encouraged included sensitivity of all the physical senses to sharpen the experiences, and the strengthening of the mind complex in order to promote the ability to analyze these experiences.{{< /l >}}
+The characteristics which were encouraged included sensitivity of all the physical senses to sharpen the experiences, and the strengthening of the mind complex in order to promote the ability to analyze these experiences.
+{{< /l >}}
 
 {{< r a="Don Elkins" >}}When did Yahweh act to perform the genetic changes?{{< /r >}}
 
-{{< l a="Ra" >}}The Yahweh group worked with those of Mars 75,000 years ago in the cloning process.
+{{< l a="Ra" >}}
+The Yahweh group worked with those of Mars 75,000 years ago in the cloning process.
 
 There are differences, but they lie in the future of your time/space continuum and we cannot break the free will Law of Confusion.
 
 3,600 years ago approximately was the second time. This was from the Orion group.
 
-This was a series of encounters where Anak were impregnated with the new genetic coding by your physical complex means so that the organisms would be larger and stronger.{{< /l >}}
+This was a series of encounters where Anak were impregnated with the new genetic coding by your physical complex means so that the organisms would be larger and stronger.
+{{< /l >}}
 
 {{< r a="Don Elkins" >}}Why did they want larger and stronger organisms?{{< /r >}}
 
-{{< l a="Ra" >}}The ones of Yahweh were attempting to create an understanding of the Law of One by creating mind/body complexes capable of grasping the Law of One.
+{{< l a="Ra" >}}
+The ones of Yahweh were attempting to create an understanding of the Law of One by creating mind/body complexes capable of grasping the Law of One.
 
 The experiment was a decided failure from the view of the desired distortions.
 
 This was because rather than assimilating the Law of One, they wanted to create an elite social complex different and better than other-selves, this one of the techniques of service to self.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then the Orion group produced this larger body complex to create an elite so that the Law of One could be applied in what we call the negative sense?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Then the Orion group produced this larger body complex to create an elite so that the Law of One could be applied in the negative sense?
+{{< /r >}}
 
-{{< l a="Ra" >}}This is incorrect. The entities of Yahweh were responsible for this procedure in isolated cases as experiments in combating the Orion group.
+{{< l a="Ra" >}}
+No. The entities of Yahweh were responsible for this procedure in isolated cases as experiments in combating the Orion group.
 
 However, the Orion group were able to use this distortion of mind/body complex to inculcate the thoughts of the elite rather than concentrations upon the learning/teaching of oneness.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Was Yahweh then of the Confederation?{{< /r >}}
+{{< n n="For example, Moses under Orion influence tried to invade Canaan which was defended by Anak" >}}
 
-{{< l a="Ra" >}}Yahweh was of the Confederation but was mistaken in its attempts to aid.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Then Yahweh’s communications did not help or did not create what Yahweh wished for them to create.{{< /r >}}
+{{< r a="Don Elkins" >}}
+Was Yahweh then of the Confederation?{{< /r >}}
 
-{{< l a="Ra" >}}The results of this interaction were mixed.
+{{< l a="Ra" >}}
+Yes. Yahweh was of the Confederation but was mistaken in its attempts to aid.
+{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+Then Yahweh’s communications did not help or did not create what Yahweh wished for them to create.{{< /r >}}
+
+{{< l a="Ra" >}}
+The results of this interaction were mixed.
 
 Where the entities were of a vibrational sum characteristic which embraced oneness, the manipulations of Yahweh were very useful.
 
-Where the entities of free will had chosen a less positively oriented configuration of sum total vibratory complex, those of the Orion group were able for the first time to make serious inroads on the consciousness of the planetary complex.{{< /l >}}
+Where the entities of free will had chosen a less positively oriented configuration of sum total vibratory complex, those of the Orion group were able for the first time to make serious inroads on the consciousness of the planetary complex.
+{{< /l >}}
 
-{{< r a="Don Elkins" >}}Can you tell me specifically what allowed the most serious of these inroads to be made by the Orion group?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Can you tell me specifically what allowed the most serious of these inroads to be made by the Orion group?{{< /r >}}
 
-{{< l a="Ra" >}}Specifically those who are strong, intelligent, etc., have a temptation to feel different from those who are less intelligent and less strong.
-
-This is a distorted perception of oneness with other-selves.
-
-It allowed the Orion group to form the concept of the holy war.{{< /l >}}
-
-
+{{< l a="Ra" >}}
+Specifically those who are strong, intelligent, etc., have a temptation to feel different from those who are less intelligent and less strong. This is a distorted perception of oneness with other-selves. It allowed the Orion group to form the concept of the holy war.{{< /l >}}
 
 
 

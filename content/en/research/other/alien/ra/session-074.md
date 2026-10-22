@@ -95,11 +95,15 @@ We may only say that you correctly surmise the paramount import of the magical p
 
 At this time we have enough transferred energy for one full query.{{< /l >}}
 
-{{< r a="Don Elkins" >}}How did the users of these sounds, Sanskrit and Hebrew, determine what these sounds were?{{< /r >}}
+{{< r a="Don Elkins" >}}
+How did the users of these sounds, Sanskrit and Hebrew, determine what these sounds were?{{< /r >}}
 
-{{< l a="Ra" >}}In the case of the Hebrew that entity known as Yahweh aided this knowledge through impression upon the material of genetic coding which became language, as you call it.
+{{< l a="Ra" >}}
+In the case of the Hebrew, Yahweh aided this knowledge through impression on the material of genetic coding which became language.
 
-In the case of Sanskrit the sound vibrations are pure due to the lack of previous what you call alphabet or letter-naming. Thus the sound vibration complexes seemed to fall into place as from the Logos. This was a more, shall we say, natural or unaided situation or process.
+In the case of Sanskrit, the sound vibrations are pure due to the lack of previous what you call alphabet or letter-naming. Thus the sound vibration complexes seemed to fall into place as from the Logos. This was a more, shall we say, natural or unaided situation or process.
 
-We would at this time make note of the incident in the previous working where our contact was incorrectly placed for a short period and was then corrected. In the exercise of the fire you may see the initial spiral clockwise from the green-ray energy center, through the shoulders and head, then through the elbows, then to the left hand. The channel had been corrected before the remainder of this answer was completed.{{< /l >}}
+We would at this time make note of the incident in the previous working where our contact was incorrectly placed for a short period and was then corrected. 
+
+In the exercise of the fire you may see the initial spiral clockwise from the green-ray energy center, through the shoulders and head, then through the elbows, then to the left hand. The channel had been corrected before the remainder of this answer was completed.{{< /l >}}
 
