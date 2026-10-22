@@ -10,6 +10,8 @@ icon: Juan
 ---
 
 
+## Pistis Sophia
+
 In the Gnostic text [Pistis Sophia](https://www.gnosis.org/library/pistis-sophia/index.htm), Jesus talks about his grandfather Yahweh who fought the Archons. This makes the title "Son of God" logical.
 
 **Ra**, in the [Law of One](/research/other/alien/ra/session-016), explained that Yahweh was a group of aliens sent by another group from Orion, which are called Archons in the Gnostic texts.
@@ -31,6 +33,9 @@ The Sassani say that both the Pleiadeans and Orions came from Lyra, that the Ple
 Numbers 13:33 says the Nephilim were based in Canaan.
 
 Ramesses III writes that the Sea Peoples coalition that caused the Bronze Age Collapse were Canaanites and Greeks.
+
+
+### The Orion Group
 
 India's equivalent to Zeus is Indra, who used UFOs called vimanas and fought with Krishna. This led to cow worship.
 
