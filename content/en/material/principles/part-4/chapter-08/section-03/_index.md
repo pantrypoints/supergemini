@@ -1,6 +1,7 @@
 ---
 heading: "Section 3"
-title: "Intramolecular Relationalities"
+linkTitle: Intra-aetherspace
+title: "Intra-aetherspace Relationalities"
 date: 2024-11-17
 image: /graphics/physics/intra.jpg
 description: ""

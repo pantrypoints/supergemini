@@ -1,19 +1,27 @@
 ---
-heading: Unit 1
-title: "Beta Minus Decay"
+heading: Unit 1 Micro Displacement
+title: "Nucleophilic Substitution"
 linkTitle: ""
-date: 2026-01-07
+date: 2026-10-17
 c: black
-# image: /graphics/physics/ionic.jpg
-description: "We call the Weak Force as Intro-Aetherspace"
+image: /photos/stuff/soap.jpg
+description: ""
 icon: "Juan"
-weight: 6
+weight: 3
 ---
 
 
-The Downward Intro-Aetherspace is the W- Boson of Physics.
+
+- **IMFs involved:** Ion–dipole, hydrogen bonding, hydrophobic
+- **Why common:** One of the most widespread organic reaction classes. The **solvent** determines mechanism (S_N1 vs. S_N2), rate (polar protic vs. aprotic), and stereochemistry. The leaving group is solvated by H-bonding/ion–dipole; the nucleophile is caged by solvent.
 
 
-This facilitates beta decay.
+**Examples:**
+- CH₃Br + OH⁻ → CH₃OH + Br⁻ (S_N2, aqueous)
+- (CH₃)₃CBr → (CH₃)₃C⁺ + Br⁻ → (CH₃)₃COH (S_N1, aqueous)
+- SNAr reactions (nucleophilic aromatic substitution)
+- Glycosidic bond hydrolysis (enzymatic S_N1-like)
 
-<!-- β⁻)**: A neutron converts to a proton, emitting an electron and an electron antineutrino (n → p + e⁻ + ν̄ₑ). Mediated by the W⁻ boson. -->
+**Role of IMFs:** Solvent H-bonding stabilizes the leaving group and carbocation; ion–dipole solvation cages the nucleophile; hydrophobic effects can accelerate reactions in water.
+
+

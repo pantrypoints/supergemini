@@ -2,7 +2,7 @@
 heading: "Unit 1"
 title: "Contraction and Expansion"
 date: 2025-03-14
-image: /photos/objects/rust.jpg
+image: /photos/stuff/rust.jpg
 description: ""
 writer:
   name: Juan

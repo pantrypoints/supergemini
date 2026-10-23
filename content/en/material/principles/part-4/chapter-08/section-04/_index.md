@@ -1,8 +1,9 @@
 ---
 heading: "Section 4"
+linkTitle: "Intra-aetherspace"
 title: "Intro-Aetherspace Relationalities"
 date: 2024-11-17
-image: /graphics/physics/feynman.jpg
+image: /photos/physics/geiger.jpg
 description: ""
 writer:
   name: Juan

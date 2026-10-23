@@ -1,51 +1,22 @@
 ---
 heading: "Unit 1 Micro Displacement"
-title: "Beta Decay"
+title: "Neutrino-nucleon coherent elastic scattering"
 date: 2024-11-17
-image: /graphics/physics/feynman.jpg
+image: /photos/physics/icecube.jpg
 description: ""
-# . Here, we explain how reality reflects our feelings through the Physics concept of particle-spin
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 3
 icon: "Juan"
 toc: false
-draft: true
 ---
 
 
+This the most prevalent neutrino-nucleus weak scattering
 
-## Beta - Decay 
+- ν + N → ν + N (neutral current, whole nucleus recoils)
+- Enhanced cross section ∝ N² (coherence)
+- Dominant for neutrinos below ~50 MeV on nuclei
+- Huge rates in supernovae, stellar cores, detectors
 
-A neutron downgrades to a proton, emitting:
-- an electron
-- an electron antineutrino 
-
-(n → p + e⁻ + ν̄ₑ)
-
-## Beta + Decay
-
-A proton upgrades to a neutron, emitting an antielectron and an electron neutrino 
-
-(p → n + e⁺ + νₑ).
-
-
-
-## Electron capture 
-
-A proton captures an orbital electron and upgrades into a neutron, emitting a neutrino (p + e⁻ → n + νₑ).
-
-
-
-## Inverse beta decay
-
-An antineutrino interacts with a proton to produce a neutron and anti-electron. This is important in neutrino detection.
-
-ν̄ₑ -2 + p 1 → n 2 + e⁺ -3
-
-
-
-
-<!-- W- = downgrade
-W+ = upgrade -->

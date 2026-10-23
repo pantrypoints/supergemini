@@ -56,7 +56,7 @@ This is also true for any phenomena:
 3. You put the material ingredients (Earth Element), such as flour, together through intermolecular forces (Water Element)
 4. You put bake them using heat (Fire Element)
 
-{{< i s="/photos/objects/cake.jpg" a="Cake" >}}
+{{< i s="/photos/stuff/cake.jpg" a="Cake" >}}
 
 The whole process of making the cake begins with the idea and feeling to bake cake. The whole process stops it the desire to finish the process also stops. 
 

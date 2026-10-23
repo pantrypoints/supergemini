@@ -67,10 +67,25 @@ The same Cartesian principle is harnessed in everday technology such as diesel e
 - Fire Piston is a handheld tube in which rapid compression of air (ejecting space particles quickly) heats the air enough to ignite tinder.
 - Diesel Engines compresses and ignites fuel ignites because air is compressed so rapidly that space particles are expelled, allowing heat particles to activate combustion spontaneously.
 
-Both operate on the key variable: SPEED of ejection. Too slow, and nothing happens.
-
+Both operate on the key variable: **SPEED** of ejection. Too slow, and nothing happens.
 
 The same rapid ejection is done in pyrokinesis as the man emphasizing the RAPID movement of chi.
+
+
+A more common example of fast-space-ejection-causing-fire is matchsticks or flint fire starters. The rapid friction drives out space particles to expose only the 1st and 3rd Element (fire and matter).
+
+![Flint](/photos/physics/flint.jpg)
+
+
+## Killing Fire
+
+Since fire is begun by RAPIDLY removing space particles, then fire is extinguished by rapidly adding space particles. This is done through water which is full of space particles (the liquidity of water is caused by the space particles that flow within it).
+
+This is also the basis of our suggestion to make nuclear meltdowns and nuclear war obsolete through the use of space particles. 
+
+
+
+
 
 
 <!-- Chi: The Subtle Bridge Between Mind and Matter

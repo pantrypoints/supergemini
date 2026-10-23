@@ -1,6 +1,6 @@
 ---
 heading: "Section 2"
-# linkTitle: Relationalities
+linkTitle: Inter-Aetherspace
 title: "Inter-Aetherspace Relationalities"
 date: 2024-11-17
 image: /graphics/physics/intra.jpg
@@ -12,4 +12,5 @@ weight: 6
 icon: "Juan"
 toc: false
 ---
+
 
