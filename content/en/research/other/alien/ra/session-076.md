@@ -6,7 +6,7 @@ c: "indigo"
 image: /covers/ra.jpg
 weight: 211
 date: 1981-01-24
-tags: ['', '']
+tags: ['tarot', '']
 ---
 
 
@@ -16,19 +16,31 @@ tags: ['', '']
 {{< l a="Ra" >}}
 We answer in two modes.
 
-1. if Carla were thusly dedicated to this use with no transfer of energy of physical complex nature it would begin to call upon the vital energy itself and this, done in any substantive measure, is actively deleterious to a mind/body/spirit complex if that complex wishes further experience in the illusion which it now distorts. Secondly, if care is taken, firstly, to monitor the outer parameters of Carla, then to transfer physical energy by sexual transfer, by magical protection, and, lastly, by the energetic displacements of thought-forms energizing Carla during contact there is no difficulty in that there is no worsening of Carla’s mind/body/spirit complex distortions of strength/weakness. It is to be noted that Carla, by dedicating itself to this service, attracts greetings of which you are aware. These are inconvenient but, with care taken, need not be lastingly deleterious either to Carla or the contact.{{< /l >}}
+1. if Carla were thusly dedicated to this use with no transfer of energy of physical complex nature it would begin to call upon the vital energy itself and this, done in any substantive measure, is actively deleterious to a mind/body/spirit complex if that complex wishes further experience in the illusion which it now distorts. 
+
+2. if care is taken to monitor her outer parameters, then to transfer physical energy by sexual transfer, by magical protection, and, lastly, by the energetic displacements of thought-forms energizing Carla during contact then there is no difficulty in that there is no worsening of Carla’s mind/body/spirit complex distortions of strength/weakness. 
+
+Carla, by dedicating itself to this service, attracts greetings of which you are aware. These are inconvenient but, with care taken, need not be lastingly deleterious either to Carla or the contact.
+{{< /l >}}
 
 
-{{< r a="Don Elkins" >}}Of the three things you mentioned that we could do for Carla’s benefit, would you clarify the last one?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Of the 3 things you mentioned that we could do for Carla’s benefit, would you clarify the last one?{{< /r >}}
 
 {{< l a="Ra" >}}
 As the entity which you are allows its being to empathize with another being, so then it may choose to share with the other-self those energies which may be salubrious to the other-self. The mechanism of these energy transfers is the thought or, more precisely, the thought-form for any thought is a form or symbol or thing that is an object seen in time/space reference.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Has our use of the Banishing Ritual of the Lesser Pentagram been of any value and what is its effect?{{< /r >}}
 
-{{< l a="Ra" >}}This group’s use of the Banishing Ritual of the Lesser Pentagram has been increasingly efficacious. Its effect is purification, cleansing, and protection of the place of working. The efficacy of this ritual is only beginning to be, shall we say, at the lower limits of the truly magical. In doing the working those aspiring to adepthood have done the equivalent of beginning the schoolwork, many grades ahead. For the intelligent student this is not to be discouraged; rather to be encouraged is the homework, the reading, the writing, the arithmetic, as you might metaphorically call the elementary steps towards the study of being. It is the being that informs the working, not the working that informs the being. Therefore, we may leave you to the work you have begun.{{< /l >}}
+{{< r a="Don Elkins" >}}
+Has our use of the Banishing Ritual of the Lesser Pentagram been of any value and what is its effect?{{< /r >}}
+
+{{< l a="Ra" >}}
+This group’s use of the Banishing Ritual of the Lesser Pentagram has been increasingly efficacious. Its effect is purification, cleansing, and protection of the place of working. 
+
+The efficacy of this ritual is only beginning to be, shall we say, at the lower limits of the truly magical. In doing the working those aspiring to adepthood have done the equivalent of beginning the schoolwork, many grades ahead. For the intelligent student this is not to be discouraged; rather to be encouraged is the homework, the reading, the writing, the arithmetic, as you might metaphorically call the elementary steps towards the study of being. It is the being that informs the working, not the working that informs the being. Therefore, we may leave you to the work you have begun.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Would it be beneficial for us to perform [the] banishing ritual more in this room?{{< /r >}}
+
 {{< l a="Ra" >}}It is beneficial to regularly work in this place.{{< /l >}}
 
 {{< r a="Don Elkins" >}}
@@ -193,7 +205,7 @@ Thus more and more opportunities have been offered, as your density has progress
 
 
 {{< r a="Don Elkins" >}}
-there is a crystal skull in the possession of a woman near Toronto that may be of some value in investigating these communications with Ra since I think possibly this had some origin from Ra. 
+There is a crystal skull in the possession of a woman near Toronto that may be of some value in investigating these communications with Ra since I think possibly this had some origin from Ra. 
 {{< /r >}}
 
 {{< l a="Ra" >}}

@@ -11,6 +11,5 @@ writer:
 weight: 13
 icon: "Juan"
 toc: false
-draft: true
 ---
 
