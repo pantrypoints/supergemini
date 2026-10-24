@@ -10,6 +10,7 @@ writer:
 weight: 44
 icon: "Juan"
 toc: false
+draft: true
 aliases:
   /material/spin
 ---

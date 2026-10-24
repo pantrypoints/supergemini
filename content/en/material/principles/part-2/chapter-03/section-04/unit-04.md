@@ -4,7 +4,7 @@ title: "Macro Displacement Gravity: Cosmic Web"
 # date: 2023-03-10
 weight: 10
 image: /photos/objects/sponge.jpg 
-description: "Everything is expanding, even the space of your own atoms."
+description: ""
 icon: "Juan"
 tags: [ "Dark Energy" ]
 writer:
@@ -14,5 +14,7 @@ writer:
 
 
 
-This is the space between clusters that makes up the cosmic web.
+This is the space between clusters that makes up the cosmic web or the sponge universe.
+
+
 
