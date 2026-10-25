@@ -13,7 +13,7 @@ Republic | Democracy
 Kamala Harris | Donald Trump
 Bahai | Osho
 Atlanteans | Negative Orion
-Ra, Seth | Scientology, Keylontic Science, Ruth Montogmery (an egotistic Ruth Montgomery-follower woman got angry at Bashar)
+Ra, Seth | Scientology, Keylontic Science, Ruth Montogmery (an egotistic Ruth Montgomery-follower woman got angry at Bashar), Arnold Patent, Alice Bailey, Erhard Seminars Training
 Crypto | AI (The true AI path)
 Chromium | Fluoride
 panspermia | primordial soup theory

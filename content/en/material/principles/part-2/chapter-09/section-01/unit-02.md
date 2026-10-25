@@ -2,7 +2,8 @@
 heading: "Section 1"
 title: "Levitation Technology"
 # date: 2020-01-31
-image: "/photos/physics/phoenix.jpg"
+date: 2026-10-25
+image: "/photos/physics/antigravity.jpg"
 description: "The practical use of qos' is to enable levitation and teleportation technologies"
 writer:
   name: Juan
@@ -13,9 +14,25 @@ icon: "Juan"
 
 
 
-Spacetime technologies are those that use the Spacetime Layer as its main mechanism. That mechanism uses invisible spacetime particles caled 'qosts' or **q**uanta **o**f **s**pace-**t**ime.
+Spacetime technologies are those that use the Spacetime Layer as its main mechanism. That mechanism uses invisible spacetime particles called aether in Classical Physics (by Huygens, Maxwell) which we call space particles.
 
-The practical use of qosts is to enable levitation and teleportation technologies that do not rely on lower layers such as the Radiant layer as electromagnetism (EM) or the Materal Layer as material combustion. This will lead to cheaper and faster spacetravel that is impossible with the current combustion-based technology as used by SpaceX and the Atlas rocket.
+ <!-- 'qosts' or **q**uanta **o**f **s**pace-**t**ime. -->
+
+Space particles enable levitation and teleportation technologies that do not rely on:
+- striated particles of the 1st Element (virtual photons in Modern Physics)
+- moving material particles of the 3rd Element
+
+This makes it tap the aether directly instead of:
+- going through virtual photons i.e. magnetism
+- using compressed air as done by Tesla's roadster
+
+
+{{< i s="/photos/physics/antigravity.jpg" a="not antigravity" c="Technically, antigravity uses the 2nd Element" >}}
+
+
+ <!-- lower layers such as the Radiant layer as electromagnetism (EM) or the Materal Layer as material combustion.  -->
+
+This will lead to cheaper and faster spacetravel that is impossible with the current combustion-based technology as used by SpaceX and the Atlas rocket.
 
  <!-- which is based on the material and transformative layers. -->
 

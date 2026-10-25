@@ -92,7 +92,8 @@ They are, if in any doubt, able to contact the 24 who then offer consensus/judgm
 
 In one case, the channel became the scribe. In the other, the channel was not the scribe. However, without the aid of the scribe, the energy would not have come to the channel.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I am interested in the application of the Law of One as it pertains to free will and what I would call the advertising done by UFO contact with the planet. The Council has allowed the quarantine to be lifted many times over the past 30 years. This seems to me to be a form of advertising for what we are doing right now, so that more people will be awakened.{{< /r >}}
+{{< r a="Don Elkins" >}}
+I am interested in the application of the Law of One as it pertains to free will and what I would call the advertising done by UFO contact with the planet. The Council has allowed the quarantine to be lifted many times over the past 30 years. This seems to me to be a form of advertising for what we are doing right now, so that more people will be awakened.{{< /r >}}
 
 {{< l a="Ra" >}}1. The Council of Saturn has not allowed the breaking of quarantine in the past 30 years.
 
@@ -130,9 +131,9 @@ This caused them to be vulnerable just as the distortions amongst their own memb
 
 {{< l a="Ra" >}}Like the Confederation, the densities of the mass consciousnesses which comprise that group are varied.
 
-There are a very few third density, a larger number of fourth density, a similarly large number of fifth density, and very few sixth-density entities comprising this organization.
+There are a very few 3rd density, a larger number of 4th and 5th density, and very few 6th-density entities comprising this organization.
 
-Their numbers are perhaps one-tenth of ours at any point in the space/time continuum as the problem of spiritual entropy causes them to experience constant disintegration of their social memory complexes.
+Their numbers are perhaps 1/10 of ours at any point in the space/time continuum as the problem of spiritual entropy causes them to experience constant disintegration of their social memory complexes.
 
 Their power is the same as ours.
 

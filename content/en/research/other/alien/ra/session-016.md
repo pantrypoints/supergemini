@@ -430,22 +430,30 @@ If the daydream is one which attracts to self, this then becomes reality to self
 
 {{< r a="Don Elkins" >}}Does the Orion group use this principle to create conditions brought about to suit their purpose?{{< /r >}}
 
-{{< l a="Ra" >}}The Orion group uses daydreams of hostile or other negative vibratory natures to feed back or strengthen these thought-forms.{{< /l >}}
+{{< l a="Ra" >}}
+The Orion group uses daydreams of hostile or other negative vibratory natures to feed back or strengthen these thought-forms.{{< /l >}}
 
 {{< r a="Don Elkins" >}}Do they ever use any gratifications of the physical body to amplify such daydreams?{{< /r >}}
 
-{{< l a="Ra" >}}They are able to do this only when there is a strong ability on the part of the receiving mind/body/spirit complex towards the perception of thought-forms. This could be termed an unusual characteristic but has indeed been a method used by Orion entities.{{< /l >}}
+{{< l a="Ra" >}}
+They are able to do this only when there is a strong ability on the part of the receiving mind/body/spirit complex towards the perception of thought-forms. This could be termed an unusual characteristic but has indeed been a method used by Orion entities.{{< /l >}}
 
-{{< r a="Don Elkins" >}}The many Wanderers coming to this planet now and in the recent past— are they subject to Orion thoughts?{{< /r >}}
+{{< r a="Don Elkins" >}}
+The many Wanderers coming to this planet now and in the recent past— are they subject to Orion thoughts?{{< /r >}}
 
-{{< l a="Ra" >}}Wanderers become completely the creature of third density in mind/body complex. There is just as much chance of such influence to a Wanderer entity as to a mind/body/spirit complex of Earth. The only difference occurs in the spirit complex which, if it wishes, has an armor of light, if you will, which enables it to recognize more clearly that which is not as it would appropriately be desired by the mind/body/spirit complex. This is not more than a bias and cannot be called an understanding.
+{{< l a="Ra" >}}
+Wanderers become completely the creature of 3rd density in mind/body complex. There is just as much chance of such influence to a Wanderer entity as to a mind/body/spirit complex of Earth. The only difference occurs in the spirit complex which, if it wishes, has an armor of light, if you will, which enables it to recognize more clearly that which is not as it would appropriately be desired by the mind/body/spirit complex. This is not more than a bias and cannot be called an understanding.
 
 The Wanderer is, in its own mind/body/spirit complex, less distorted towards the deviousness of third density positive/negative confusions. Thus, it often does not recognize as easily as a more negative individual the negative nature of thoughts or beings.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Would then the Wanderers, as they incarnate here, be high-priority targets of the Orion group?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Would then the Wanderers, as they incarnate here, be high-priority targets of the Orion group?{{< /r >}}
 
 {{< l a="Ra" >}}Yes.{{< /l >}}
 
-{{< r a="Don Elkins" >}}And if a Wanderer were to be successfully infringed upon, shall I say, by the Orion group, what would happen to this Wanderer at the harvest?{{< /r >}}
+{{< r a="Don Elkins" >}}
+If a Wanderer were to be successfully infringed upon by the Orion group, what would happen to this Wanderer at the harvest?{{< /r >}}
 
-{{< l a="Ra" >}}If the Wanderer entity demonstrated through action a negative orientation towards other-selves it would be as we have said before, caught into the planetary vibration and, when harvested, possibly repeat again the master cycle of third density as a planetary entity.{{< /l >}}
+{{< l a="Ra" >}}
+If the Wanderer entity demonstrated through action a negative orientation towards other-selves it would be caught into the planetary vibration. When harvested, it might  repeat again the master cycle of 3rd density as a planetary entity.{{< /l >}}
+

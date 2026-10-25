@@ -437,15 +437,15 @@ weight: 1
 | 02/02/1996 | [Being The Experience](/research/other/alien/essassani/transmissions/1996/1996-02-02/) | 718/719 |
 | 02/09/1996 | [Organizing Perspectives](/research/other/alien/essassani/transmissions/1996/1996-02-09/) | 720/721 |
 | 02/17/1996 | [Changing Your Life](/research/other/alien/essassani/transmissions/1996/1996-02-17/) | — |
-| 02/23/1996 | [Isolation Bubble](/research/other/alien/essassani/transmissions/1996/1996-02-23/) | 724/725 |
-| 03/01/1996 | [Time Reversed Phenomenon](/research/other/alien/essassani/transmissions/1996/1996-03-01/) | 726/727 |
+| 02/23/1996 | [Isolation Bubble](/research/other/alien/essassani/transmissions/1996/1996-02-23/) |  |
+| 03/01/1996 | [Time Reversed Phenomenon](/research/other/alien/essassani/transmissions/1996/1996-03-01/) |  |
 | 03/02/1996 | [Being the Experience](/research/other/alien/essassani/transmissions/1996/1996-03-02/) | — |
-| 03/09/1996 | [Playing With Negativity](/research/other/alien/essassani/transmissions/1996/1996-03-09/) | 728/729 |
-| 03/15/1996 | [Seeing What You Already Have](/research/other/alien/essassani/transmissions/1996/1996-03-15/) | 730/731 |
+| 03/09/1996 | [Playing With Negativity](/research/other/alien/essassani/transmissions/1996/1996-03-09/) |  |
+| 03/15/1996 | [Seeing What You Already Have](/research/other/alien/essassani/transmissions/1996/1996-03-15/) |  |
 | 03/16/1996 | [Ides of March](/research/other/alien/essassani/transmissions/1996/1996-03-16/) | — |
 | 03/16/1996 | [Las Vegas](/research/other/alien/essassani/transmissions/1996/1996-03-16-2/) | — |
-| 03/22/1996 | [Remote Viewing / Itching](/research/other/alien/essassani/transmissions/1996/1996-03-22/) | 734/735 |
-| 03/29/1996 | [Bones of God](/research/other/alien/essassani/transmissions/1996/1996-03-29/) | 736/737 |
+| 03/22/1996 | [Remote Viewing / Itching](/research/other/alien/essassani/transmissions/1996/1996-03-22/) |  |
+| 03/29/1996 | [Bones of God](/research/other/alien/essassani/transmissions/1996/1996-03-29/) |  |
 | 04/02/1996 | [Ancient Stories & Life Lessons](/research/other/alien/essassani/transmissions/1996/1996-04-02/) | — |
 | 05/18/1996 | [Remembering Who You Are¶](/research/other/alien/essassani/transmissions/1996/1996-05-18/) | — |
 | 06/08/1996 | [Life is but a Dream](/research/other/alien/essassani/transmissions/1996/1996-06-08/) | — |
@@ -478,9 +478,9 @@ weight: 1
 | 01/24/1997 | [Sirius Energy" from "Re-creating Yourself¶](/research/other/alien/essassani/transmissions/1997/1997-01-24-2/) | — |
 | 01/24/1997 | [Re-creating Yourself¶](/research/other/alien/essassani/transmissions/1997/1997-01-24-3/) | — |
 | 01/24/1997 | [Arcturus Gateway¶](/research/other/alien/essassani/transmissions/1997/1997-01-24-4/) | Bodhi Tree |
-| 01/25/1997 | [GREYS' HOME¶](/research/other/alien/essassani/transmissions/1997/1997-01-25/) | CANOGA PARK, CA |
+| 01/25/1997 | [GREYS' HOME¶](/research/other/alien/essassani/transmissions/1997/1997-01-25/) |  |
 | 01/31/1997 | [Opening the Floodgates of Creativity¶](/research/other/alien/essassani/transmissions/1997/1997-01-31/) | — |
-| 01/31/1997 | [CONTACT¶](/research/other/alien/essassani/transmissions/1997/1997-01-31-2/) | CANOGA PARK, CA |
+| 01/31/1997 | [CONTACT¶](/research/other/alien/essassani/transmissions/1997/1997-01-31-2/) | |
 | 02/07/1997 | [The Preparer of the Way¶](/research/other/alien/essassani/transmissions/1997/1997-02-07/) | — |
 | 02/14/1997 | [Valentine's Day & Love](/research/other/alien/essassani/transmissions/1997/1997-02-14/) | — |
 | 02/15/1997 | [The Men in Black](/research/other/alien/essassani/transmissions/1997/1997-02-15/) | — |
@@ -554,7 +554,7 @@ weight: 1
 | 03/20/1998 | [Anunnaki Counterpart¶](/research/other/alien/essassani/transmissions/1998/1998-03-20-2/) | Canoga Park, CA |
 | 03/30/1998 | [Beyond Belief](/research/other/alien/essassani/transmissions/1998/1998-03-30/) | — |
 | 04/03/1998 | [Unlimited Possibilities](/research/other/alien/essassani/transmissions/1998/1998-04-03/) | — |
-| 04/10/1998 | [William¶](/research/other/alien/essassani/transmissions/1998/1998-04-10/) | — |
+| 04/10/1998 | [William](/research/other/alien/essassani/transmissions/1998/1998-04-10/) | — |
 | 04/10/1998 | [SURRENDER¶](/research/other/alien/essassani/transmissions/1998/1998-04-10-2/) | Thousand Oaks, CA |
 | 04/17/1998 | [Surrender to Peace¶](/research/other/alien/essassani/transmissions/1998/1998-04-17/) | Canoga Park, CA |
 | 05/01/1998 | [ASSOCIATION BUSINESS¶](/research/other/alien/essassani/transmissions/1998/1998-05-01/) | Canoga Park, CA |

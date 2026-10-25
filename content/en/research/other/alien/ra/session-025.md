@@ -82,15 +82,18 @@ Picture your mind in total unity with all other minds of your society.
 
 You are then single-minded and that which is a weak electrical charge in your physical illusion is now an enormously powerful machine whereby thoughts may be projected as things.
 
-In this endeavor the Orion group charges or attacks the Confederation arms with light. 
+In this endeavor, the Orion group charges or attacks the Confederation arms with light. 
 
-The result, a stand-off, as you would call it, both energies being somewhat depleted by this and needing to regroup; the negative depleted through failure to manipulate, the positive depleted through failure to accept that which is given.{{< /l >}}
+The result is a stand-off. Both energies are somewhat depleted by this and needing to regroup. 
+- The negative depleted through failure to manipulate
+- The positive depleted through failure to accept that which is given.{{< /l >}}
 
 
-{{< r a="Don Elkins" >}}Could you amplify the meaning of what you said by “failure to accept that which is given?”{{< /r >}}
+{{< r a="Don Elkins" >}}
+What do you mean “failure to accept that which is given?”{{< /r >}}
 
 
-{{< l a="Ra" >}}At the level of time/space at which this takes place in the form of what you may call thought-war, the most accepting and loving energy would be to so love those who wished to manipulate that those entities were surrounded, engulfed, and transformed by positive energies.
+{{< l a="Ra" >}}At the level of time/space at which this takes place in the form of what you may call thought-war, the most accepting and loving energy would be to love those who wished to manipulate that those entities were surrounded, engulfed, and transformed by positive energies.
 
 This, however, being a battle of equals, the Confederation is aware that it cannot, on equal footing, allow itself to be manipulated in order to remain purely positive.
 
@@ -109,18 +112,22 @@ The only consequence which has been helpful is a balancing of the energies avail
 Does a portion of the Confederation then engage in this thought battle? What percentage engages?{{< /r >}}
 
 
-{{< l a="Ra" >}}This is the most difficult work of the Confederation. 
+{{< l a="Ra" >}}
+This is the most difficult work of the Confederation. 
 
 Only 4 planetary entities at any one time are asked to partake in this conflict.{{< /l >}}
 
 
-{{< r a="Don Elkins" >}}What density are these four planetary entities?{{< /r >}}
+{{< r a="Don Elkins" >}}
+What density are these 4 planetary entities?{{< /r >}}
 
 
-{{< l a="Ra" >}}These entities are of the density of love, numbering four.{{< /l >}}
+{{< l a="Ra" >}}
+These entities are of the density of love, numbering four.{{< /l >}}
 
 
-{{< r a="Don Elkins" >}}Then I am assuming this is the most effective density for this work. Would this density— an entity of this density— be more effective for this type of work than, say, an entity of density five or six?{{< /r >}}
+{{< r a="Don Elkins" >}}Then I am assuming this is the most effective density for this work. Would this density— an entity of this density— be more effective for this type of work than, say, an entity of density five or six?
+{{< /r >}}
 
 
 {{< l a="Ra" >}}The 4th density is the only density besides your own which, lacking the wisdom to refrain from battle, sees the necessity of the battle. 
@@ -128,11 +135,14 @@ Only 4 planetary entities at any one time are asked to partake in this conflict.
 Thus it is necessary that fourth-density social memory complexes be used.{{< /l >}}
 
 
-{{< r a="Don Elkins" >}}Am I correct in assuming, then, that fourth density on both sides of the, of both the Orion and the Confederation sides are in this battle, and that the densities fifth and sixth on the Orion side do not engage in this? Is this correct?{{< /r >}}
+{{< r a="Don Elkins" >}}
+So the 4th density on both sides of the Orion and the Confederation sides are in this battle. The 5th and 6th densities on the Orion side do not engage in this? Is this 
+{{< /r >}}
 
-{{< l a="Ra" >}}This will be the last full question as this entity’s energies are low.
+{{< l a="Ra" >}}
+It is partially correct. Fifth- and sixth-density entities positive would not take part in this battle.
 
-It is partially correct. Fifth- and sixth-density entities positive would not take part in this battle. Fifth-density negative would not take part in this battle. Thus, the fourth density of both orientations join in this conflict.{{< /l >}}
+Fifth-density negative would not take part in this battle. Thus, the 4th density of both orientations join in this conflict.{{< /l >}}
 
 
 {{< r a="Don Elkins" >}}I really would like to know of the orientation of fifth-density negative for not participating in this battle.{{< /r >}}

@@ -1,6 +1,6 @@
 ---
 heading: "Unit 3"
-linkTitle: 
+linkTitle: Convection
 title: "Heat Convection"
 # date: 2023-03-01
 date: 2024-12-29
@@ -9,8 +9,6 @@ description: ""
 image: /photos/physics/boil.jpg
 icon: "Juan"
 ---
-
-
 
 **Heat convection** is the transfer of heat particles through liquid or gas.
 
@@ -25,8 +23,6 @@ icon: "Juan"
 - **A** = surface area in contact with the fluid 
 - **T_surface** = temperature of the solid surface
 - **T_fluid** = temperature of the fluid away from the surface -- this is the density of heat particles to be emitted
-
-
 
 
  <!-- the movement of a fluid (liquid or gas). It occurs when warmer, less dense fluid rises and cooler, denser fluid sinks, creating a **convection current**. -->

@@ -6,7 +6,7 @@ title: "Heat Conduction"
 date: 2024-12-29
 weight: 14
 description: ""
-image: /photos/physics/boil.jpg
+image: /photos/physics/flint.jpg
 icon: "Juan"
 ---
 
