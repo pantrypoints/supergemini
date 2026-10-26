@@ -137,7 +137,7 @@ weight: 1
 | 12/10/1986 | [The Awakening #2](/research/other/alien/essassani/transmissions/1986/1986-12-10/) |  |
 | 12/17/1986 | [The Awakening #3](/research/other/alien/essassani/transmissions/1986/1986-12-17/) |  |
 | 12/19/1986 | [Why the Universe Exists](/research/other/alien/essassani/transmissions/1986/1986-12-19/) |  |
-| 12/24/1986 | [The Awakening #4](/research/other/alien/essassani/transmissions/1986/1986-12-24/) |  |
+| 12/24/1986 | [The Awakening #4](/research/other/alien/essassani/transmissions/1986/1986-12-24/) | Counting to 33 then cutting |
 | 12/29/1986 | [Hawaii the Heart (Maui #1)](/research/other/alien/essassani/transmissions/1986/1986-12-29/) |  |
 | 01/01/1987 | [Dolphin's Gift (Maui #2)](/research/other/alien/essassani/transmissions/1987/1987-01-01/) |  |
 | 01/04/1987 | [Om Circle (Maui #3)](/research/other/alien/essassani/transmissions/1987/1987-01-04/) |  |
@@ -210,11 +210,11 @@ weight: 1
 | 11/19/1987 | [Let's Get Sirius](/research/other/alien/essassani/transmissions/1987/1987-11-19/) | Sirius Densities |
 | 11/24/1987 | [Synchronicity & Meaning (Las Vegas/6)](/research/other/alien/essassani/transmissions/1987/1987-11-24/) |  |
 | 12/01/1987 | [Our Motto (Sacramento #2)](/research/other/alien/essassani/transmissions/1987/1987-12-01/) |  |
-| 12/03/1987 | [The Peace Clock](/research/other/alien/essassani/transmissions/1987/1987-12-03/) |  |
+| 12/03/1987 | [The Peace Clock](/research/other/alien/essassani/transmissions/1987/1987-12-03/) | Peace Clock |
 | 12/10/1987 | [Unfoldment of Persona](/research/other/alien/essassani/transmissions/1987/1987-12-10/) | Personality |
-| 12/11/1987 | [Bay Area Avatar Group #1](/research/other/alien/essassani/transmissions/1987/1987-12-11/) |  |
+| 12/11/1987 | [Bay Area Avatar Group #1](/research/other/alien/essassani/transmissions/1987/1987-12-11/) | Peace Clock  |
 | 12/17/1987 | [The Neighborhood (Area E.T.'s)](/research/other/alien/essassani/transmissions/1987/1987-12-17/) | Solar System History |
-| 12/24/1987 | [Christmas Bells](/research/other/alien/essassani/transmissions/1987/1987-12-24/) |  |
+| 12/24/1987 | [Christmas Bells](/research/other/alien/essassani/transmissions/1987/1987-12-24/) | Shakana  |
 | 01/07/1988 | [Self Awareness](/research/other/alien/essassani/transmissions/1988/1988-01-07/) |  |
 | 01/09/1988 | [4th Meeting In San Mateo](/research/other/alien/essassani/transmissions/1988/1988-01-09/) | ET Civilizations	 |
 | 01/14/1988 | [Grounding](/research/other/alien/essassani/transmissions/1988/1988-01-14/) |  |
