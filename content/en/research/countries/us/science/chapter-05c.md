@@ -58,16 +58,7 @@ career paths for staff scientists, engineers, and technicians, roles critical to
 
 ## NOVEL PERFORMERS
 
-Between the atomized work of the individual investigator and billion-dollar megaprojects like particle colliders lies a vast middle ground of mid-scale
-science. These are scientific problems requiring tens of millions of dollars, coordinated teams of ten to a hundred people, and timelines of half a decade. They range from the development of minimally invasive brain-computer interfaces that help
-people with Parkinson’s to the building of new platforms that decode immune
-memory. Such projects, which are often infrastructure-heavy, engineeringintensive, and cross-disciplinary, are challenging to perform in principal
-investigator-led academic labs. They are rarely pursued in industry either. Pharmaceutical companies face much stronger incentives to chase the next drug breakthrough than to build platform technologies for decoding basic biology.62
-The ARPA model has proven so effective because it fills precisely this gap in
-mid-scale technology development. By offering grants in the tens of millions of
-dollars, these agencies can assemble new research teams and help startups tackle
-ambitious engineering challenges, from robotic satellite servicing to AI-equipped
-fighter jets.
+Between the atomized work of the individual investigator and billion-dollar megaprojects like particle colliders lies a vast middle ground of mid-scale science. These are scientific problems requiring tens of millions of dollars, coordinated teams of ten to a hundred people, and timelines of half a decade. They range from the development of minimally invasive brain-computer interfaces that help people with Parkinson’s to the building of new platforms that decode immune memory. Such projects, which are often infrastructure-heavy, engineeringintensive, and cross-disciplinary, are challenging to perform in principal investigator-led academic labs. They are rarely pursued in industry either. Pharmaceutical companies face much stronger incentives to chase the next drug breakthrough than to build platform technologies for decoding basic biology.62 The ARPA model has proven so effective because it fills precisely this gap in mid-scale technology development. By offering grants in the tens of millions of dollars, these agencies can assemble new research teams and help startups tackle ambitious engineering challenges, from robotic satellite servicing to AI-equipped fighter jets.
 
 Funding at this scale, which has worked well in incubating new technological capabilities, could be extended to basic science as well, where the government
 is not merely procuring a weapons system, but pursuing scientific advancement

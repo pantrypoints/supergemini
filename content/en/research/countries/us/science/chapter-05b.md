@@ -9,18 +9,9 @@ s: "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/
 ---
 
 
-These rapid changes demand that our institutions adapt. As will be addressed in
-Chapter II, significant portions of our federal funding apparatus remain
-anchored to outdated assumptions. This is not an indictment of the talented scientists and grantmakers who staff these bureaucracies, but a product of institutional inertia, born from the lack of market selection pressure that drives
-constant experimentation.
+These rapid changes demand that our institutions adapt. As will be addressed in Chapter II, significant portions of our federal funding apparatus remain anchored to outdated assumptions. This is not an indictment of the talented scientists and grantmakers who staff these bureaucracies, but a product of institutional inertia, born from the lack of market selection pressure that drives constant experimentation.
 
-NSF, for instance, still organizes itself primarily around academic disciplines,
-much as it did in the 1950s, and channels resources overwhelmingly to a single
-type of performer, the university-based, principal investigator-led research group.
-Many federal programs are still built around the linear model, making the assumption that basic research happens in academia while development happens in industry. Academic incentives often penalize rather than reward partnerships
-that cross institutional boundaries. Agencies face little external pressure to adapt,
-even as the scientific landscape transforms around them, preserving processes
-essentially unchanged for decades.
+NSF, for instance, still organizes itself primarily around academic disciplines, much as it did in the 1950s, and channels resources overwhelmingly to a single type of performer, the university-based, principal investigator-led research group. Many federal programs are still built around the linear model, making the assumption that basic research happens in academia while development happens in industry. Academic incentives often penalize rather than reward partnerships that cross institutional boundaries. Agencies face little external pressure to adapt, even as the scientific landscape transforms around them, preserving processes essentially unchanged for decades.
 
 Within academia itself, well-documented inefficiencies compound these
 structural problems. Administrative burdens on researchers have grown over
@@ -38,7 +29,7 @@ Administrations have had the will and mandate to pursue transformative change.
 
 
 
-### A TIME OF URGENT SCIENTIFIC NEED
+### A Time Of Urgent Scientific Need
 
 On the global stage, America no longer stands alone as the unchallenged leader in
 science and technology. The United States risks losing its first position to competitors that are quicker to update their models of research funding, maintain
@@ -102,32 +93,9 @@ when foreign governments recruit them to build up their own technological
 enterprises. The interest of vast scores of Americans in using taxpayer dollars to
 invest in our STEM pipeline has, consequently, eroded.
 
-America’s over-reliance on foreign students also creates a security challenge
-our institutions are ill-equipped to address. While our R&D ecosystem is now
-less vulnerable to exploitation due to Presidential actions taken in the first
-Trump Administration, there is an urgent need for a comprehensive approach to
-research security.23 Our competitors have learned to exploit a deep asymmetry
-between open and closed scientific systems, using our education system as an
-entry point into our innovation base while building domestic programs that undermine global scientific norms.
-The United States conducts research openly, publishes freely, and shares
-methods transparently. These values are central to scientific progress. However,
-there is a critical difference between sharing information on one’s own terms and
-being exploited; the parts of a scientific enterprise that are not shared are often
-its comparative advantages. These are precisely what our competitors work hardest to extract, leveraging human capital educated in our universities, harvesting
-data from our papers while restricting access to their own, and scaling breakthroughs first achieved in our laboratories on their factory floors.
-For too long, the United States has believed that technological leadership
-can be secured solely by the discoveries made in America, regardless of whether
-those discoveries are then translated into products, capabilities, and industries
-here or on foreign soil. The consequences of this unguarded openness, in  laboratories and in markets, have been severe. The United States pioneered many
-key enabling technologies for Extreme Ultraviolet (EUV) lithography,24 yet the
-only company capable of manufacturing EUV lithography machines today is
-headquartered in Europe. We pioneered lithium-ion batteries, yet Asian firms
-dominate global supply chains, and by extension, battery chemistry research. We
-developed advanced manufacturing techniques that now underpin factories
-abroad. Discovery without domestic manufacturing leaves America paying the
-research bill while rivals develop the process improvements and capture the economic, strategic, and knowledge returns.
+America’s over-reliance on foreign students also creates a security challenge our institutions are ill-equipped to address. While our R&D ecosystem is now less vulnerable to exploitation due to Presidential actions taken in the first Trump Administration, there is an urgent need for a comprehensive approach to research security.23 Our competitors have learned to exploit a deep asymmetry between open and closed scientific systems, using our education system as an entry point into our innovation base while building domestic programs that undermine global scientific norms. The United States conducts research openly, publishes freely, and shares methods transparently. These values are central to scientific progress. However, there is a critical difference between sharing information on one’s own terms and being exploited; the parts of a scientific enterprise that are not shared are often its comparative advantages. These are precisely what our competitors work hardest to extract, leveraging human capital educated in our universities, harvesting data from our papers while restricting access to their own, and scaling breakthroughs first achieved in our laboratories on their factory floors. For too long, the United States has believed that technological leadership can be secured solely by the discoveries made in America, regardless of whether those discoveries are then translated into products, capabilities, and industries here or on foreign soil. The consequences of this unguarded openness, in  laboratories and in markets, have been severe. The United States pioneered many key enabling technologies for Extreme Ultraviolet (EUV) lithography,24 yet the only company capable of manufacturing EUV lithography machines today is headquartered in Europe. We pioneered lithium-ion batteries, yet Asian firms dominate global supply chains, and by extension, battery chemistry research. We developed advanced manufacturing techniques that now underpin factories abroad. Discovery without domestic manufacturing leaves America paying the research bill while rivals develop the process improvements and capture the economic, strategic, and knowledge returns.
 
-THE PRESIDENT’S CHARGE
+### The President’S Charge
 
 As our competitors copy and adapt our scientific machine for themselves, sustained leadership requires us to keep innovating. Standing still while the world
 changes is not stability. The Manhattan Project succeeded not only because of
@@ -136,7 +104,7 @@ the activity of thousands across the basic science and immense engineering chall
 Figure 3: The share of U.S. doctorates awarded to temporary visa holders with definite postgraduation
 commitments has doubled over four decades, rising from roughly 20% to 40% in natural sciences and engineering, and from 10% to 20% in social, behavioral, and health sciences.25
 
-PROPORTION OF DOCTORATES AWARDED TO TEMPORARY VISA HOLDERS
+<!-- PROPORTION OF DOCTORATES AWARDED TO TEMPORARY VISA HOLDERS
 1980
 1984
 1988
@@ -157,7 +125,7 @@ PROPORTION OF DOCTORATES AWARDED TO TEMPORARY VISA HOLDERS
 0%
 Proportion of Temporary Visa Holders
 Natural Sciences & Engineering
-Social and Applied Life Sciences
+Social and Applied Life Sciences -->
 
 NASA could marshal resources and talent in ways no university or company
 could match. Each represented not merely new funding, but fundamentally new
@@ -271,7 +239,8 @@ our scientist runs a small lab and has no one to delegate to. She writes grant a
 costs the nation dearly in foregone breakthroughs. These burdens also create a
 perverse incentive structure, in which scientists who excel at research administration leapfrog those who excel at research performance. The weight falls heaviest on the scientists America needs most.
 
-THE INCUMBENCY TAX
+
+### The Incumbency Tax
 
 The academy is a long and difficult road, leading to few stable positions. We
 should encourage early-career scientists at every step of the academic crucible,
@@ -295,7 +264,7 @@ At the system level, researchers find that as disciplinary fields grow large, at
 Figure 4: The average age of first-time NIH investigators has increased consistently over the past four
 decades, from mid-thirties in 1980 to the early forties today, across all degree types.39
 
-AVERAGE AGE OF R01–EQUIVELENT FIRST-TIME INVESTIGATORS
+<!-- AVERAGE AGE OF R01–EQUIVELENT FIRST-TIME INVESTIGATORS
 1980
 1984
 1988
@@ -314,7 +283,7 @@ AVERAGE AGE OF R01–EQUIVELENT FIRST-TIME INVESTIGATORS
 36
 34
 Average Age
-MD–PhD PhD only MD only
+MD–PhD PhD only MD only -->
 
 central ideas, and even highly cited ones tend to receive citations in a burst rather
 than through steady accumulation.42
@@ -373,7 +342,8 @@ though failed experiments often teach more than successes. Competitive environme
 paper, it under-invests in public goods like datasets, open-source code, and
 shared engineering infrastructure. The team science now required at the technological frontier gets abandoned for work that generates individual credit.
 
-THE REPRODUCIBILITY CRISIS
+
+### The Reproducibility Crisis
 
 As many leaders in American science agree, the research enterprise must learn to
 value and incentivize reproducibility studies and to hold its members responsible

@@ -15,7 +15,7 @@ Dilla | plasticky, thin, malleable, flexible aliens that can stretch and change 
 Grays | Genetically modified future humans, from Zeta Reticuli
 Grays Zeta | Genetically modified by Anunnaki and planted into Zeta Reticuli, overseen by Mantis Beings
 Humans | Genetically manipulated homo erectus by the Anunnaki
-Lyrian | (Vega) The Anunnaki was an offshoot of Lyrans
+Lyrian | (Vega?) The Anunnaki was an offshoot of Lyrans as part of the Lyran exodus since the Lyran star blew up
 Mantis Beings | Manages the hybridization agenda
 Marbles | 10 feet spheres 12 tentacles that roll around in the inside-out universe
 Onatayu | DNA experts

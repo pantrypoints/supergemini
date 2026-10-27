@@ -6,7 +6,7 @@ c: "indigo"
 weight: 245
 image: /covers/ra.jpg
 date: 1981-01-24
-tags: ['']
+tags: ['orgasm']
 ---
 
 
@@ -14,7 +14,9 @@ tags: ['']
 May 12, 1982
 
 
-87.2 Questioner: Thank you. In considering what was mentioned in the last session about the censer I have thought about the fact that the position of the origin of the smoke changes approximately six inches horizontally. Would it be better to have a censer in a single, horizontal smoking position?
+{{< r a="Don Elkins" >}}
+2: In considering what was mentioned in the last session about the censer I have thought about the fact that the position of the origin of the smoke changes approximately six inches horizontally. Would it be better to have a censer in a single, horizontal smoking position?
+{{< /r >}}
 
 
 {{< l a="Ra" >}}
@@ -28,7 +30,6 @@ What would be the optimum geometrical arrangement of censer, chalice, and candle
 {{< l a="Ra" >}}
 Both chalice and candle occupy the optimal configuration with respect to the book most closely aligned with the Law of One in the distortion complexes of Carla. It is optimal to have the censer to the rear of this book and centered at the spine of its open configuration.
 {{< /l >}}
-
 
 
 {{< r a="Don Elkins" >}}
@@ -298,6 +299,4 @@ Why is the male and the female nature different?
 {{< l a="Ra" >}}
 When the veiling process was accomplished, to the male polarity was attracted the Matrix of the Mind and to the female, the Potentiator of the Mind; to the male the Potentiator of the Body, to the female the Matrix of the Body.
 {{< /l >}}
-
-
 
