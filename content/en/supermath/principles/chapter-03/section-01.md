@@ -4,16 +4,17 @@ title: "Waves and Relationality"
 date: 2026-02-06
 image: "/graphics/meta/ideas.jpg"
 description: ""
+tags: ['Relationality']
 weight: 4
 ---
 
 
 
-Mathematics deals with particles. 
+Mathematics deals with particles as numbers or quantities such as -1, 0, 1, 2. 
 
-Qualimath deails with waves. 
+Qualimath deails with waves as qualiities such as ugly, soso, beautiful, gorgeous. 
 
-Supermath is the bridge between both. 
+Supermath is the bridge between both, as (ugly :: -1) : (soso :: 0) : (beautiful :: 1) : (gorgeous :: 2). 
 
 
 ## Relationality as Ratio Sign `:`
@@ -36,6 +37,13 @@ This infiniteness is an effect of:
 - the subjectivity of existence
 
 
+{{< q a="Bashar" c="The Hour of Power, September 29, 2018" >}}
+Pi represents the empty space, the crack, the overlap between dimensions. That's why it is an irrational infinite number, because you can't pin it down to any one dimension because it represents the connection to them all.
+{{< /q >}}
+
+
+
 ## Equality as the Rigid Ratio Sign `::`
 
 We convert equality into the rigid ratio, as a snapshot of a specific space and time. 
+
