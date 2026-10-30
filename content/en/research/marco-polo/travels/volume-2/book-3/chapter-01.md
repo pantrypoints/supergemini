@@ -1,6 +1,6 @@
 ---
 heading: Chapter 1
-title: "The Merchant Ships of Manzi that sail the Indian Seas."
+title: "The Merchant Ships of Manzi that sail the Indian Seas"
 description: ""
 a: "Marco Polo"
 c: "darkslategray"
@@ -138,3 +138,4 @@ They cut off the heads of all the garrison except eight; on these eight they fou
 The charm and virtue of these stones was such that those who wore them could never perish by steel. So when the Barons learned this they ordered the men to be beaten to death with clubs. And after their death the stones were extracted from the bodies of all, and were greatly prized.{3}
 
 Now the story of the discomfiture of the Great Kaan’s folk came to pass as I have told you. But let us have done with that matter, and return to our subject.
+

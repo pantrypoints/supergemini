@@ -146,3 +146,8 @@ We fix:
 - the fallacy of the constant lightspeed by using the aether and aethereal vortices
 
 This is explained [here](/material/solutions/relativity)
+
+In a nutshell:
+- time is mental but can be measured either mentally or physically
+  - for example, close your eyes for a few seconds then open them then guess how many seconds elapsed then compare that with an actual stopwatch. This creates 2 times: a mental guess time and a physical stopwatch time
+  - the mental time is superior

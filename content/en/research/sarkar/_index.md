@@ -1,7 +1,7 @@
 ---
 title: "Sarkar, PR"
 heading: "Enlightened but Cultish"
-description: "PR Sarkar was an Indian Philosopher who established a yoga cult"
+description: "To us, PR Sarkar is a 4th density who was Ram Chandra Upadhyaya in a past life. He is different from Ananadamurti which is a 7th density world consciousness. The collapse of Ananda Marga is simply from the common 3rd density mistake of worshippping 4th density Sarkar simply because that is cruder and closer in vibration"
 weight: 750
 c: "indigo"
 a: "PR Sarkar"
@@ -9,6 +9,7 @@ a: "PR Sarkar"
 ---
 
 
+-
 <!-- “Those kśatriya- or vipra-minded shúdras who are the pioneers of revolution will have to learn to be disciplined, take proper revolutionary training, build their character, be moralists; in a word, they will have to become what I call sadvipras. A sadvipra will not launch a movement against honest people, even if he or she does not like them. But a sadvipra will definitely take action against dishonest people, even if he or she likes them. In such matters it will not do to indulge any kind of mental weakness.
 Such strict, ideological sadvipras will be the messengers of the revolution. They will carry the message of revolution to every home in the world, to every vein and capillary of human existence. The banner of victorious revolution will be carried by them alone.
 

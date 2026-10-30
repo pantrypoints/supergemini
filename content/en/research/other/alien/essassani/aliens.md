@@ -2,8 +2,8 @@
 title: "Alien and Hybrid races"
 weight: 4
 c: "darkslategray"
-image: "/photos/objects/ufo.jpg"
-description: "Bashar answers Questions about Aliens"
+image: "/photos/alien/aliens.jpg"
+description: ""
 ---
 
 
@@ -17,17 +17,19 @@ Grays Zeta | Genetically modified by Anunnaki and planted into Zeta Reticuli, ov
 Humans | Genetically manipulated homo erectus by the Anunnaki
 Lyrian | (Vega?) The Anunnaki was an offshoot of Lyrans as part of the Lyran exodus since the Lyran star blew up
 Mantis Beings | Manages the hybridization agenda
-Marbles | 10 feet spheres 12 tentacles that roll around in the inside-out universe
 Onatayu | DNA experts
 Orion | From Hoova in the star system of Mintaka, these controlled humans
+Ovma | 10 feet spheres 12 tentacles that roll around in the inside-out universe
 Plaedians | Direct offshoot Orion diaspora, also evolved from Anunnaki
 Precursors | Creators of reptilians and dinosaurs 
 Reptilians | Genetically manipulated dinosaurs
 Rigel |  had a hand in the control of humans along with Orion
+Rphrkthrm | inhabits multiple dimensions at the same time. They can extract information from a black hole or pass through a neutron star. They look like blue neurons
 Sassani | Hybrid of humans and grays, from Orion
 Sirians | These are the good aquatic aliens and source of RH negative blood type and dolphins
 Tall Whites | Nordics
-Thuk | Has the ability to remove memory or disconnect entities from akashic (aethereal) memory
+Thook | tall, slender with milky-blue skin. Has the ability to remove memory or disconnect entities from akashic (aethereal) memory
+Veequa-pani | 3 foot worm that can connect to other Veequa-panis
 Virgo | Bashar is not allowed to discuss them
 Wanderers | Helps with the hybridization agenda
 
@@ -40,6 +42,11 @@ Non-Physical Aliens | Description
 Consciousness at Center of Milky Way | Creator of Precursors
 Light Beings | More advanced than Sassani
 Blue men | Compassionate race of energy beings 
+
+
+
+<!-- ### Thook  -->
+
 
 
 ### The Onatayu

@@ -2,9 +2,10 @@
 title: "Pakistan's Energy Resource Potential"
 weight: 81
 description: "Beyond the 'Crisis State'"
-heading: Chapter 11f
 c: darkgreen
 author: Ziad Alahdad
+heading: Chapter 12b
+s: "<svg width='900' height='600' viewBox='-75 -40 120 80' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg'> <rect x='-75' y='-40' width='120' height='80' fill='white'/> <rect x='-45' y='-40' width='90' height='80' fill='#006600'/> <circle r='24' fill='white'/> <circle r='22' cx='-7' cy='-40' fill='#006600' transform='rotate(-41.63353933657,45,-40)'/> <comment>rotation angles = -arctan(8/9)</comment> <g id='star' transform='rotate(-41.63353933657) translate(16,0)' fill='white'> <g id='cone'> <polygon id='triangle' points='0,0 -8,0 -8,4' transform='translate(8,0) rotate(18)'/> <use xlink:href='#triangle' transform='scale(1,-1)' /> </g> <use xlink:href='#cone' transform='rotate(72)' /> <use xlink:href='#cone' transform='rotate(-72)' /> <use xlink:href='#cone' transform='rotate(144)' /> <use xlink:href='#cone' transform='rotate(-144)' /> </g> </svg>"
 ---
 
 
@@ -32,14 +33,7 @@ security deters any significant exploration—more so as such activity is
 usually carried out by international oil companies with their own
 manpower and risk capital.
 
-Pakistan's indigenous coal reserves are huge, estimated at 186 billion
-tons, of which the Thar deposit of 175 billion tons is the fifth largest in
-the world. Proven reserves stand at 1,980 million tons and at the present
-249production level the reserves-to-production ratio is well over 400. This
-signals the need to enhance production significantly. However, most of this
-coal is of low quality (high sulphur and ash content) and is located in
-remote areas. Its exploitation therefore requires expensive excavation,
-treatment and transport infrastructure, in areas where security is a concern.
+Pakistan's indigenous coal reserves are huge, estimated at 186 billion tons, of which the Thar deposit of 175 billion tons is the fifth largest in the world. Proven reserves stand at 1,980 million tons and at the present 249production level the reserves-to-production ratio is well over 400. This signals the need to enhance production significantly. However, most of this coal is of low quality (high sulphur and ash content) and is located in remote areas. Its exploitation therefore requires expensive excavation, treatment and transport infrastructure, in areas where security is a concern.
 
 Renewable energy sources are also significant.
 
@@ -86,50 +80,27 @@ other, underscore the fragility of the energy sector, implying a long-term
 dependence on external sources. This is neither a viable nor affordable
 scenario.
 
-Three characteristics of Pakistan's energy sector take on special
-significance. First, the indigenous resource potential is substantial, not-
-withstanding some critical exploitation issues. Two, the energy deficit is
-prohibitively large and expanding. Three, nearly half the population,
-mainly the rural poor, is not connected to the commercial grids and relies
-on non-commercial energy. This combination often tempts policymakers to
-promote the harnessing of all forms of energy available. This is a common
-trap, particularly in a severely cash-strapped environment such as
-Pakistan. In this approach, for example, undue priority is given to
-renewable forms such as solar and wind, since they are considered free and
-able to reach poor, remote localities. Such forms of energy are indeed 'free'
-since they are constantly renewable, but they are not necessarily cheap.
-Moreover, they do little to close large deficits. Even compared with
-nuclear power generation, itself an expensive option, wind power is
-around 60 percent more expensive and solar about 30%.
-Nevertheless, to support poverty alleviation objectives under severe
-budgetary constraints, all options should be on the table but a mechanism
-needs to be in place to strike an affordable balance. The degree of
-departure from the optimum can make the difference between success and
-failure of energy policy.
+Three characteristics of Pakistan's energy sector take on special significance. 
 
-How did we get here? How this dire state of affairs came about is
-analysed in a noteworthy work, which traces the history of the downward
-spiral and milestones along the way. The path is characterised by 'stop-go'
-reforms, policy reversals, bureaucratic delays and missed opportunities
-and, over the last decade or so, a growing security crisis. Through all this,
-there were some sound and well-intentioned policy initiatives and
-concerted efforts towards implementation. However, these efforts could
-not yield the desired results in a policy environment, which lacked the
-necessary fundamentals.
+1. The indigenous resource potential is substantial, notwithstanding some critical exploitation issues.
 
-251A few examples illustrate the dilemma. In the early 1980s, there
-were four international oil companies, which had been granted concessions
-for exploration in Pakistan. Such companies commonly deploy their own
-capital for exploration, relying on satisfactory profit sharing or
-production-sharing agreements with the government to recoup their
-expenditures once commercial production begins. Drilling conditions
-were difficult and expensive with deep wells in high-pressure areas but
-discovery prospects were good. However, a major oil company, on the verge
-of a significant discovery, decided to suspend drilling operations and leave the
-country. The net effect was to discourage further exploration at a time when
-at least ten companies were considering the possibility of exploring in
-Pakistan with their own capital for the first time—a possibility that could have
-turned around the country's energy future.
+2. The energy deficit is prohibitively large and expanding. 
+
+3. Nearly half the population, mainly the rural poor, is not connected to the commercial grids and relies on non-commercial energy.
+
+This combination often tempts policymakers to promote the harnessing of all forms of energy available. This is a common trap, particularly in a severely cash-strapped environment such as Pakistan. In this approach, for example, undue priority is given to renewable forms such as solar and wind, since they are considered free and able to reach poor, remote localities. Such forms of energy are indeed 'free' since they are constantly renewable, but they are not necessarily cheap. Moreover, they do little to close large deficits. 
+
+Even compared with nuclear power generation, itself an expensive option, wind power is around 60 percent more expensive and solar about 30%. Nevertheless, to support poverty alleviation objectives under severe budgetary constraints, all options should be on the table but a mechanism needs to be in place to strike an affordable balance. The degree of departure from the optimum can make the difference between success and failure of energy policy.
+
+How did we get here?
+
+How this dire state of affairs came about is analysed in a noteworthy work, which traces the history of the downward spiral and milestones along the way. The path is characterised by 'stop-go' reforms, policy reversals, bureaucratic delays and missed opportunities and, over the last decade or so, a growing security crisis. Through all this, there were some sound and well-intentioned policy initiatives and concerted efforts towards implementation. However, these efforts could not yield the desired results in a policy environment, which lacked the necessary fundamentals.
+
+251A few examples illustrate the dilemma. In the early 1980s, there were four international oil companies, which had been granted concessions for exploration in Pakistan. 
+
+Such companies commonly deploy their own capital for exploration, relying on satisfactory profit sharing or production-sharing agreements with the government to recoup their expenditures once commercial production begins. Drilling conditions were difficult and expensive with deep wells in high-pressure areas but discovery prospects were good. 
+
+However, a major oil company, on the verge of a significant discovery, decided to suspend drilling operations and leave the country. The net effect was to discourage further exploration at a time when at least ten companies were considering the possibility of exploring in Pakistan with their own capital for the first time—a possibility that could have turned around the country's energy future.
 
 A combination of factors led to the oil company's departure. Among them was the inflexibility of the bureaucracy to address glaring anomalies in the tax structure, which severely eroded the cash flow of the company especially in areas with high exploration costs. 
 

@@ -2,9 +2,11 @@
 title: "Turning Energy Around"
 weight: 80
 description: "Beyond the 'Crisis State'"
-heading: Chapter 11f
+# heading: Chapter 11f
 c: darkgreen
 author: Ziad Alahdad
+heading: Chapter 12
+s: "<svg width='900' height='600' viewBox='-75 -40 120 80' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg'> <rect x='-75' y='-40' width='120' height='80' fill='white'/> <rect x='-45' y='-40' width='90' height='80' fill='#006600'/> <circle r='24' fill='white'/> <circle r='22' cx='-7' cy='-40' fill='#006600' transform='rotate(-41.63353933657,45,-40)'/> <comment>rotation angles = -arctan(8/9)</comment> <g id='star' transform='rotate(-41.63353933657) translate(16,0)' fill='white'> <g id='cone'> <polygon id='triangle' points='0,0 -8,0 -8,4' transform='translate(8,0) rotate(18)'/> <use xlink:href='#triangle' transform='scale(1,-1)' /> </g> <use xlink:href='#cone' transform='rotate(72)' /> <use xlink:href='#cone' transform='rotate(-72)' /> <use xlink:href='#cone' transform='rotate(144)' /> <use xlink:href='#cone' transform='rotate(-144)' /> </g> </svg>"
 ---
 
 
@@ -59,7 +61,7 @@ Total primary energy supply in Pakistan is 63 MTOE (Million Tons of Oil Equivale
 - oil 32%
 - hydroelectricity 11%
 - coal around 7%
-- Nuclea1 LPG and imported electricity make 2%
+- Nuclear LPG and imported electricity make 2%
 
 Pakistan imports 1/3 of its energy requirements as oil and coal, despite huge proven reserves of coal and a significant exploration potential of oil.
 
@@ -127,4 +129,5 @@ The third is Pakistan's energy consumption per dollar of GDP growth, which is ar
 The above figures are based on commercial energy but if non- commercial energy is included, the comparisons are likely to be even more pronounced. Moreover, the household sector, which is the largest consumer and where waste is greatest, would become the focus of improving energy efficiency. 
 
 By excluding non-commercial energy, the industrial sector appears as the largest consumer and therefore the focus of attention. This does not imply that the industrial sector should be overlooked. There are many low-cost and no-cost initiatives that can be implemented here. But it is important to strike the right balance between available financial resources and the concentration of effort.
+
 

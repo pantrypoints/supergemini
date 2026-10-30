@@ -107,18 +107,17 @@ Note that a very different formula was first given by Bashar on May 1990 as the 
 
 The earliest recorded interaction of humans with Sassani was the Sassanid empire. 
 
-The founder of the Sassanid Empire met or encountered a Sassani alien whom the Persians called a god. So he named his child [Sassan](https://en.wikipedia.org/wiki/Sasan) after that Sassani god or alien. 
+The founder of the Sassanid Empire was [Sassan](https://en.wikipedia.org/wiki/Sasan) who was named by his father after a Sassani whom the Persians called a god.
 
-Historically, Sassan reintroduced the divine (alien) right of rule by introducing the Shah system of rule, since Shah is the star of the Sassani.
+Sassan reintroduced the divine (alien) right of rule by introducing the Shah system of rule, since Shah is the star of the Sassani.
+
+His grandson Ardashir I then used this to declare himself King of Kings and expanded the Sassanid Empire.
 
 <!-- , as opposed to system of Cyrus that caused the invasion of Greece.  -->
 
 <!-- the khshayathiya -->
 
 Bashar does the general work of introducing 4th and 5th density concepts. The other Sassani give the details. 
-
-
-<!-- For example, Elan is  -->
 
 
 ## Common Effects of Sassani Teachings

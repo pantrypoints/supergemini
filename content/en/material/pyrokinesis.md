@@ -55,12 +55,11 @@ The practitioner uses focused will and breath control to accelerate space partic
 {{< youtube OSO21RCLu0c >}}
 
 
-The practitioner does not create energy from nothing, but rather ** the energy that is already in the material.
+The practitioner does not create energy from nothing, but rather merely releases the energy that is already in the material.
 
 
 
 ## Fire Pistons and Diesel Engines
-
 
 The same Cartesian principle is harnessed in everday technology such as diesel engines, which is really a Fire Piston.
 
@@ -83,6 +82,19 @@ Since fire is begun by RAPIDLY removing space particles, then fire is extinguish
 
 This is also the basis of our suggestion to make nuclear meltdowns and nuclear war obsolete through the use of space particles. 
 
+This is evident in Pleiadian technology that nullifies nuclear warheads in action:
+
+
+{{< l a="Semjase" >}}
+[From Billy Meier Contact Report 31] Look there, father has already located the projectile himself and will destroy it. On the right is an energy emitter. **High-grade energy is being emitted there, compressed into a block by another form of energy** and directed at the atomic projectile.
+{{< /l >}}
+
+{{< r a="Billy Meier" >}}
+I was able to get a photo of the launch... the energy is actually **balling up into a block**.
+{{< /r >}}
+
+
+We assume that 1st energy is a type of neutron or atomic space confined by a 2nd energy as artificial chi gravity. This prevents a large explosion by adding space between atoms and cancelling chain reactions.
 
 
 

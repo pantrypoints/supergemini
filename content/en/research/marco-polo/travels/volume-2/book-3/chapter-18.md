@@ -1,16 +1,16 @@
 ---
 heading: Chapter 18
-title: "The Place where lieth the Body of St. Thomas the Apostle; and of the Miracles thereof."
+title: "Where the Body of St. Thomas the Apostle lies and its Miracles"
 description: ""
 a: "Marco Polo"
 c: "darkslategray"
 weight: 24
+tags: ['St. Thomas', 'Jains']
 # date: 2022-05-01
 ---
 
 
-
-The Body of Messer St. Thomas the Apostle lies in this province of Maabar at a little town with a small population.
+The Body of St. Thomas the Apostle lies in this province of Maabar at a little town with a small population.
 
 ’Tis a place where few traders go, because there is very little merchandize to be got there, and it is a place not very accessible.
 
@@ -62,15 +62,21 @@ And so this hair bears a high price, since without it nobody goes to the wars in
 
 
 
-## CHAPTER 19. The Kingdom of Mutfili.
+## CHAPTER 19. The Kingdom of Mutfili [Andhra Pradesh]
 
 When you leave Maabar and go about 1,000 miles in a northerly direction you come to the kingdom of Mutfili. This was formerly under the rule of a King, and since his death, some forty years past, it has been under his Queen, a lady of much discretion, who for the great love she bore him never would marry another husband.
 
 During all that space of forty years she had administered her realm as well as ever her husband did, or better; and as she was a lover of justice, of equity, and of peace, she was more beloved by those of her kingdom than ever was Lady or Lord of theirs before. The people are Idolaters, and are tributary to nobody. They live on flesh, and rice, and milk.{1}
 
-It is in this kingdom that diamonds are got; and I will tell you how. There are certain lofty mountains in those parts; and when the winter rains fall, which are very heavy, the waters come roaring down the mountains in great torrents. When the rains are over, and the waters from the mountains have ceased to flow, they search the beds of the torrents and find plenty of diamonds.
+Diamonds are obtained here. 
 
-In summer also there are plenty to be found in the mountains, but the heat of the sun is so great that it is scarcely possible to go thither, nor is there then a drop of water to be found. Moreover in those mountains great serpents are rife to a marvellous degree, besides other vermin, and this owing to the great heat. The serpents are also the most venomous in existence, insomuch that any one going to that region runs fearful peril; for many have been destroyed by these evil reptiles.
+When the winter rains fall on its lofty mountains, the waters come roaring down the mountains in great torrents.
+
+When the rains are over, and the waters from the mountains have ceased to flow, they search the beds of the torrents and find plenty of diamonds.
+
+In summer also, there are plenty to be found in the mountains, but the heat of the sun is so great that it is scarcely possible to go thither, nor is there then a drop of water to be found. 
+
+Moreover in those mountains great serpents are rife to a marvellous degree, besides other vermin, and this owing to the great heat. The serpents are also the most venomous in existence, insomuch that any one going to that region runs fearful peril; for many have been destroyed by these evil reptiles.
 
 Now among these mountains there are certain great and deep valleys, to the bottom of which there is no access. Wherefore the men who go in search of the diamonds take with them pieces of flesh, as lean as they can get, and these they cast into the bottom of a valley. Now there are numbers of white eagles that haunt those mountains and feed upon the serpents. When the eagles see the meat thrown down they pounce upon it and carry it up to some rocky hill-top where they begin to rend it.
 
@@ -78,25 +84,51 @@ But there are men on the watch, and as soon as they see that the eagles have set
 
 There is also another way of getting the diamonds. The people go to the nests of those white eagles, of which there are many, and in their droppings they find plenty of diamonds which the birds have swallowed in devouring the meat that was cast into the valleys. And, when the eagles themselves are taken, diamonds are found in their stomachs.
 
-So now I have told you three different ways in which these stones are found. No other country but this kingdom of Mutfili produces them, but there they are found both abundantly and of large size. Those that are brought to our part of the world are only the refuse, as it were, of the finer and larger stones. For the flower of the diamonds and other large gems, as well as the largest pearls, are all carried to the Great Kaan and other Kings and Princes of those regions; in truth they possess all the great treasures of the world.{2}
+So now I have told you three different ways in which these stones are found.
 
-In this kingdom also are made the best and most delicate buckrams, and those of highest price; in sooth they look like tissue of spider’s web! There is no King nor Queen in the world but might be glad to wear them.{3} The people have also the largest sheep in the world, and great abundance of all the necessaries of life.
+Only Mutfili produces them. But there they are found both abundantly and of large size. Those that are brought to our part of the world are only the refuse, as it were, of the finer and larger stones. For the flower of the diamonds and other large gems, as well as the largest pearls, are all carried to the Great Kaan and other Kings and Princes of those regions; in truth they possess all the great treasures of the world.{2}
 
-There is now no more to say; so I will next tell you about a province called Lar from which the Abraiaman come.
+In this kingdom also are made the best and most delicate buckrams, and those of highest price. In sooth they look like tissue of spider’s web! There is no King nor Queen in the world but might be glad to wear them.{3} The people have also the largest sheep in the world, and great abundance of all the necessaries of life.
 
-
-## CHAPTER 20. The Province of Lar Whence the Brahmins Come.
-
-Lar is a Province lying towards the west when you quit the place where the Body of St. Thomas lies; and all the Abraiaman in the world come from that province.{1}
-
-You must know that these Abraiaman are the best merchants in the world, and the most truthful, for they would not tell a lie for anything on earth. [If a foreign merchant who does not know the ways of the country applies to them and entrusts his goods to them, they will take charge of these, and sell them in the most loyal manner, seeking zealously the profit of the foreigner and asking no commission except what he pleases to bestow.] They eat no flesh, and drink no wine, and live a life of great chastity, having intercourse with no women except with their wives; nor would they on any account take what belongs to another; so their law commands. And they are all distinguished by wearing a thread of cotton over one shoulder and tied under the other arm, so that it crosses the breast and the back.
+<!-- There is now no more to say; so I will next tell you about a province called Lar from which the Abraiaman come. -->
 
 
-They have a rich and powerful King who is eager to purchase precious stones and large pearls; and he sends these Abraiaman merchants into the kingdom of Maabar called Soli, which is the best and noblest Province of India, and where the best pearls are found, to fetch him as many of these as they can get, and he pays them double the cost price for all. So in this way he has a vast treasure of such valuables.{2}
+## CHAPTER 20. The Province of Lar [Bihar?] Whence the Brahmins [Jains?] Come.
 
-These Abraiaman are Idolaters; and they pay greater heed to signs and omens than any people that exists. I will mention as an example one of their customs. To every day of the week they assign an augury of this sort. Suppose that there is some purchase in hand, he who proposes to buy, when he gets up in the morning takes note of his own shadow in the sun, which he says ought to be on that day of such and such a length; and if his shadow be of the proper length for the day he completes his purchase; if not, he will on no account do so, but waits till his shadow corresponds with that prescribed. For there is a length established for the shadow for every individual day of the week; and the merchant will complete no business unless he finds his shadow of the length set down for that particular day. [Also to each day in the week they assign one unlucky hour, which they term Choiach. For example, on Monday the hour of Half-tierce, on Tuesday that of Tierce, on Wednesday Nones, and so on.{3}]
+**Lar** is a Province lying towards the west when you quit the place where the Body of St. Thomas lies; and all the Abraiaman in the world come from that province.{1}
 
-Again, if one of them is in the house, and is meditating a purchase, should he see a tarantula (such as are very common in that country) on the wall, provided it advances from a quarter that he deems lucky, he will complete his purchase at once; but if it comes from a quarter that he considers unlucky he will not do so on any inducement. Moreover, if in going out, he hears any one sneeze, if it seems to him a good omen he will go on, but if the reverse 365he will sit down on the spot where he is, as long as he thinks that he ought to tarry before going on again. Or, if in travelling along the road he sees a swallow fly by, should its direction be lucky he will proceed, but if not he will turn back again; in fact they are worse (in these whims) than so many Patarins!{4}
+These Abraiaman [Jain merchants?] are the best merchants in the world, and the most truthful.
+
+They would not tell a lie for anything on earth. [If a foreign merchant who does not know the ways of the country applies to them and entrusts his goods to them, they will take charge of these, and sell them in the most loyal manner, seeking zealously the profit of the foreigner and asking no commission except what he pleases to bestow.] 
+
+They eat no flesh, and drink no wine, and live a life of great chastity, having intercourse with no women except with their wives.
+
+They will not take on any account what belongs to another; so their law commands.
+
+They are all distinguished by wearing a thread of cotton over one shoulder and tied under the other arm, so that it crosses the breast and the back.
+
+
+They have a rich and powerful King who is eager to purchase precious stones and large pearls. He sends these Abraiaman merchants into the kingdom of Maabar called Soli, which is the best and noblest Province of India, and where the best pearls are found, to fetch him as many of these as they can get, and he pays them double the cost price for all. 
+
+So in this way he has a vast treasure of such valuables.{2}
+
+These Abraiaman are Idolaters.
+
+They pay greater heed to signs and omens than any people that exists.
+
+I will mention as an example one of their customs.
+
+To every day of the week they assign an augury of this sort.
+
+Suppose that there is some purchase in hand, he who proposes to buy, when he gets up in the morning takes note of his own shadow in the sun, which he says ought to be on that day of such and such a length; and if his shadow be of the proper length for the day he completes his purchase; if not, he will on no account do so, but waits till his shadow corresponds with that prescribed.
+
+For there is a length established for the shadow for every individual day of the week; and the merchant will complete no business unless he finds his shadow of the length set down for that particular day.
+
+[Also to each day in the week they assign one unlucky hour, which they term Choiach. For example, on Monday the hour of Half-tierce, on Tuesday that of Tierce, on Wednesday Nones, and so on.{3}]
+
+If one of them is in the house, and is meditating a purchase, should he see a tarantula (such as are very common in that country) on the wall, provided it advances from a quarter that he deems lucky, he will complete his purchase at once; but if it comes from a quarter that he considers unlucky he will not do so on any inducement.
+
+Moreover, if in going out, he hears any one sneeze, if it seems to him a good omen he will go on, but if the reverse 365he will sit down on the spot where he is, as long as he thinks that he ought to tarry before going on again. Or, if in travelling along the road he sees a swallow fly by, should its direction be lucky he will proceed, but if not he will turn back again; in fact they are worse (in these whims) than so many Patarins!{4}
 
 These Abraiaman are very long-lived, owing to their extreme abstinence in eating. And they never allow themselves to be let blood in any part of the body. They have capital teeth, which is owing to a certain herb they chew, which greatly improves their appearance, and is also very good for the health.
 
@@ -106,7 +138,17 @@ There are certain members of this Order who lead the most ascetic life in the wo
 
 They eat not from bowls or trenchers, but put their victuals on leaves of the Apple of Paradise and other big leaves; these, however, they use dry, never green. For 366they say the green leaves have a soul in them, and so it would be a sin. And they would rather die than do what they deem their Law pronounces to be sin. If any one asks how it comes that they are not ashamed to go stark naked as they do, they say, “We go naked because naked we came into the world, and we desire to have nothing about us that is of this world. Moreover, we have no sin of the flesh to be conscious of, and therefore we are not ashamed of our nakedness, any more than you are to show your hand or your face. You who are conscious of the sins of the flesh do well to have shame, and to cover your nakedness.”
 
-They would not kill an animal on any account, not even a fly, or a flea, or a louse,{7} or anything in fact that has life; for they say these have all souls, and it would be sin to do so. They eat no vegetable in a green state, only such as are dry. And they sleep on the ground stark naked, without a scrap of clothing on them or under them, so that it is a marvel they don’t all die, in place of living so long as I have told you. They fast every day in the year, and drink nought but water. And when a novice has to be received among them they keep him awhile in their convent, and make him follow their rule of life. And then, when they desire to put him to the test, they send for some of those girls who are devoted to the Idols, and make them try the continence of the novice with their blandishments. If he remains indifferent they retain him, but if he shows any emotion they expel him from their society. For they say they will have no man of loose desires among them.
+They would not kill an animal on any account, not even a fly, or a flea, or a louse,{7} or anything alive.
+
+For they say these have all souls, and it would be sin to do so.
+
+They eat no vegetable in a green state, only such as are dry.
+
+They sleep on the ground stark naked, without a scrap of clothing on them or under them, so that it is a marvel they don’t all die, in place of living so long as I have told you. 
+
+They fast every day in the year, and drink nought but water.
+
+When a novice has to be received among them they keep him awhile in their convent, and make him follow their rule of life. And then, when they desire to put him to the test, they send for some of those girls who are devoted to the Idols, and make them try the continence of the novice with their blandishments. If he remains indifferent they retain him, but if he shows any emotion they expel him from their society. For they say they will have no man of loose desires among them.
 
 They are such cruel and perfidious Idolaters that it is very devilry! 
 
