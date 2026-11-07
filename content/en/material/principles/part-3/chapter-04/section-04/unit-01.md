@@ -16,9 +16,15 @@ sitemap:
 
 
 
-Maxwell's Treatise on Electricity starts with the description of static electricity which is caused by friction. 
+Electricity is the crude substance of Radiance.
 
-A common example of this is lightning. 
+The natural phenomena of electricity is lightning. 
+
+In Descartes' Physics, 
+
+<!-- Maxwell's Treatise on Electricity starts with the description of static electricity which is caused by friction. 
+
+A common example of this is lightning.  -->
 
 In Cartesian Physics, Lightning is caused by the rubbing of the clouds when one cloud drops relative to another which stays put or goes up. 
 - This causes minutiae (electrons) to be released and form channels.

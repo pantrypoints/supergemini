@@ -1,6 +1,6 @@
 ---
-# heading: "Section 1"
-title: "Introduction"
+heading: "Introduction"
+title: "The Nature of Motion"
 # date: 2023-11-26
 date: 2025-12-05
 image: "/photos/physics/warp.jpg"
@@ -11,5 +11,3 @@ writer:
 weight: 3
 icon: "Juan"
 ---
-
-

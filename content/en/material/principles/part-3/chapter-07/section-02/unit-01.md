@@ -14,7 +14,19 @@ toc: false
 
 
 
-The Radiant Particles are the smallest of all the 5 Layers. This allows it to be quantized, serving as the measuring tool for the other 4 Layers. 
+The Radiant Particles are the smallest of all the 5 Layers. This allows it to be quantized more easily than the other layers. This lets it serve as the measuring tool for the other 4 Layers. 
+
+Electricity is naturally quantized as electrons because of the "Higgs Field" that gives electrons mass. In constrast, heat and light particles are above the Higgs Field and so they are not quantized naturally. 
+
+![MSQ](/graphics/physics/msq.svg)
+
+
+For example:
+- light has to be frozen to be quantized as frozen light (i.e. removing heat quantizes light)
+- heat has to be ejected by lasers to be quantized (i.e. light stopping spatial motion quantizes heat)
+
+
+Quantization is therefore the negation of flow or displacement. 
 
 
 <!-- Formation through Action: These particles are formed by the constant motion and friction of the larger 2nd and 3rd elements. They are not indivisible atoms, but they represent the smallest functional units of matter that can fit into any space (Slowik, 2005).
