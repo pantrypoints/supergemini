@@ -9,6 +9,8 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 7
 icon: "Juan"
-draft: true
 ---
 
+
+
+We define light as the effect of the aetherspace. 

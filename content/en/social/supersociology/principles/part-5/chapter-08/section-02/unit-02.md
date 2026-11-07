@@ -10,7 +10,7 @@ image: "/photos/econ/monopoly.jpg"
 
 ## The Symbiosis of Capitalism, Liberalism, and Neoclassical Economics 
 
-We defined Capitalism as an economic system that uses outside ownership to amass private profits.
+We defined Capitalism as an economic system that trades stocks to amass private profits.
 
 This requires:
 - private ownership

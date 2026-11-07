@@ -3,8 +3,8 @@ heading: "Unit 3"
 title: "Electric Current"
 # title: "Electric Potential"
 # date: 2023-11-10
-draft: true
-weight: 6
+# draft: true
+weight: 8
 image: /photos/physics/hall.jpg
 description: ""
 icon: "Juan"
@@ -38,6 +38,7 @@ The flow is either facilitated by conductors or prevented by insulators.
 - Insulators have a small intra-aetherspace 
 
 
+### Electrical Power
 
 The main mechanism for electricity, magnetism, and light transparency are the flowing virtual photons which act like spinning corkscrews.
 

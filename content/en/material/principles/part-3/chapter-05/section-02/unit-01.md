@@ -15,6 +15,16 @@ sitemap:
 ---
 
 
+
+### Electrons as Bolt-Wrappers
+
+We visualize electrons are bolt-wrappers for virtual photons. This allows medium-force to be cross over into substances.
+
+As such, electrons spin anticlockwise in the same way as virtual photons and opposite of protons. 
+
+![Threads](/photos/stuff/thread.jpg)
+
+
 Electrons flow as they are displaced and spin as they flow. 
 
 - The flow volume is called **amps**
@@ -24,4 +34,7 @@ Electrons flow as they are displaced and spin as they flow.
 The combination of both leads to power as **watts** as it creates channels for virtual photons
 
 `P = V × I`
+
+
+Note that the polarities of electrons will be discussed in Polarity.
 

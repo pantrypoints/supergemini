@@ -67,6 +67,7 @@ Karma | Action and Reaction, or Cause and Effect. Technically, the 7th kind of p
 Knowledge | the actual integration of idea-nodes; the assimilation of perceptions with, or into, the abstract mind via ideas. Also, jiṋána as the subjectivization of objects (Sarkar)
 Length Contraction | Decrease of distance within space
 Life | The state where a mind has the ability to express independently of the physical aspects of the universe, by having more subtle waves 
+Light | The visual effect of the aetherspace and micro-aetherspace within the aether
 Locality | object or movement is relative to or influenced by its immediate surroundings (Quantum mechanics violates local causality) 
 Matter | A node made up of crude waves (from the Existence-expression point of view)
 Metaphysics | The study of the Supreme and Absolute Entities in non-physical forms 
@@ -233,7 +234,7 @@ Socratic Neoliberal | the Oligarch caste made up of merchants and businessmen. T
 
 ## Supereconomics
 
-<!-- Commerce | the exchange using money -->
+<!-- Commerce | the exchange using money uses outside ownership to amass  -->
 
 Word | Meaning
 --- | ---
@@ -241,7 +242,7 @@ Barter Trading | a regular barter-exchange activity
 Barter | a purchase done by exchanging goods or services. A barter transaction thus has 2 purchasers or traders
 Buyer | The giver of the money in a buying transaction. Since he receives goods and services, he is also called a purchaser.
 Buying | a purchase that offers money
-Capitalism | an economic system that uses outside ownership to amass private profits
+Capitalism | an economic system that trades stocks for private profits, as opposed to Mercantilism which trades commodities via national corporations
 Commerce | a regular buying-selling activity
 Commercialization | the shifting of an economy or trade into objective money-based transactions, as opposed to barter to arbitrary exchanges
 Commodity | a raw material or not-so-processed good for sale 
