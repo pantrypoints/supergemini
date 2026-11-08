@@ -9,10 +9,8 @@ description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-comments:
-  - name: asdf
-    body: asdfasdf
 weight: 14
+youtube: "21qb2MEM5GA"
 icon: "Juan"
 toc: false
 ---
@@ -21,12 +19,12 @@ toc: false
 
 Refrigeration removes heat through pressure differences in air or liquids.
 
-Liquids have more space particles surrounding each molecule than air particles.
+Liquids have more *cohesive* space particles surrounding each molecule than air particles.
 
 This is why water cools better than air.
 
 
-## Fluorine
+## Fluorine Spin
 
 Refrigerants use Fluoride turn to vapor easily which means they absorb heat very easily. 
 
@@ -37,13 +35,15 @@ The basic purpose of fluoride is to lubricate and allow certain other kinds of m
 {{< /q >}}
 
 
-When bonded to carbon, fluorine forms a highly polar bond with a vibrational frequency that matches the infrared wavelengths Earth radiates to space — so the molecule absorbs that outgoing heat efficiently, causing high heat absorption.
+We interpret the lubricating property of fluorine as fast spin of its intra aetherspace. 
 
-When combined with carbon, this 
+This, combined with the strong stable spin of carbon, lets it chloro-fluoro-carbons stay a long time in the air while absorbing a lot of fast spinning (small wavelength) heat particles or 'hot' heat as opposed to cooler heat (with longer wavelength). 
 
-Vaporization  
 
-Air or vapor has more space particles and 
+
+<!-- When bonded to carbon, fluorine forms a highly polar bond with a vibrational frequency that matches the infrared wavelengths Earth radiates to space — so the molecule absorbs that outgoing heat efficiently, causing high heat absorption.
+
+
 
 This is done through 4 steps:
 
@@ -96,4 +96,5 @@ So the heat rejected to the room = heat removed from the food **plus** the work 
 
 **Bottom line:** refrigeration is a **heat-pump cycle** — heat is absorbed at the evaporator (mostly by boiling refrigerant), carried by the refrigerant, and rejected at the condenser (by condensing), with a compressor providing the work to move heat "uphill" against the temperature gradient. Conduction, convection, and latent phase change are the transfer mechanisms; radiation is usually minor.
 
-Want me to go deeper on any part — e.g., the thermodynamics (T–s / P–h diagrams), TXV vs. capillary control, or industrial cold-storage heat transfer?
+Want me to go deeper on any part — e.g., the thermodynamics (T–s / P–h diagrams), TXV vs. capillary control, or industrial cold-storage heat transfer? -->
+

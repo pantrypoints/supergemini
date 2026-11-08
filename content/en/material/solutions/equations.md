@@ -40,7 +40,15 @@ $$F = D(G_l) + R(G_l) = \frac{G_l}{G_{ratio} \cdot r^n} + \frac{G_l \cdot \Omega
 
 ### Gravity (Alternative to Newton's Universal Law of Gravitation and General Relativity)
 
-$$\frac{GMm}{r^{2}}+\frac{3GmML^{2}}{c^{2}r^{4}}$$
+<!-- $$\frac{GMm}{r^{2}}+\frac{3GmML^{2}}{c^{2}r^{4}}$$ -->
+
+
+$$\boxed{F = \frac{GMm}{r^2}\cdot\frac{c_0^2}{c(r)^2} + \kappa\,\frac{GmM L^2}{c(r)^2\,r^4}}$$
+
+<!-- with:
+
+$$\boxed{F = \frac{GMm}{r^2}\cdot\frac{c_0^2}{c(r)^2} - \frac{3GmM\,L^2}{c(r)^2\,r^4}}$$ -->
+
 
 Relativity is replaced with the Eagle which uses Descartes' 4 rules of motions
 
