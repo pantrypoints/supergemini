@@ -4,8 +4,8 @@ heading: "Chapter 8"
 date: 2025-10-16
 weight: 85
 description: ""
+tags: ['diet']
 ---
-
 
 
 The awakening of kundalini is a very important, pleasant and historical experience in the life of man. 
@@ -21,7 +21,7 @@ When the body in totality is purified by the practices of shatkarmas and hatha y
 But with those who are in a hurry to awaken kundalini and who take to any practice in a haphazard manner without going through the preliminaries, and who do not take care of their diet, there will be some problems because they do not know how to control and utilize the fantastic energy they are unleashing.
 
 
-## The question of risk
+## The Question of Risk
 
 There are so many whispers about the dangers of awakening and dark hints about people going crazy or developing disturbing powers. But everything in life is risky and there are far more dangers in ordinary daily life than you will encounter on the path of kundalini.
 
@@ -46,24 +46,12 @@ Unless you are an extremely introverted person, you can proceed along the path o
 
 ### Fear of mistakes
 
-Some people worry about kundalini ascending through the wrong nadi, but there is no
-danger here, because if kundalini enters through any other nadi, the whole circuit will
-fuse. If kundalini has awakened but a chakra is blocked, say swadhisthana, then kundalini
-will only roam about in mooladhara and all the instincts of that chakra will develop. You
-will become a high class animal for a while and may develop some siddhis. If there is any
-obstruction in the chakras beyond that, the energy will be blocked for a long time,
-affecting the psychological constitution. And if kundalini enters into the pranic nadi,
-pingala, it could set the whole brain into turmoil. However, this doesn't usually happen.
-Nature intervenes, and unless sushumna is clear, the chakra will not open and the energy
-will not be able to move further.
+Some people worry about kundalini ascending through the wrong nadi, but there is no danger here, because if kundalini enters through any other nadi, the whole circuit will fuse. If kundalini has awakened but a chakra is blocked, say swadhisthana, then kundalini will only roam about in mooladhara and all the instincts of that chakra will develop. You will become a high class animal for a while and may develop some siddhis. 
 
-Mistakes do occur, but not in average individuals, because they are scared of
-something wrong happening somewhere. If they are practising and suddenly they feel
-they're going crazy, they will discontinue their practices immediately. So, every
-individual possesses a sort of fear. Before anything wrong can happen totally, man takes
-care of himself. However, there are some blockheads and very stuffy people who plod on
-no matter what happens. They don't care about the consequences and these are the people
-who generally get themselves into trouble.
+If there is any obstruction in the chakras beyond that, the energy will be blocked for a long time, affecting the psychological constitution. And if kundalini enters into the pranic nadi, pingala, it could set the whole brain into turmoil. However, this doesn't usually happen. Nature intervenes, and unless sushumna is clear, the chakra will not open and the energy will not be able to move further.
+
+Mistakes do occur, but not in average individuals, because they are scared of something wrong happening somewhere. If they are practising and suddenly they feel they're going crazy, they will discontinue their practices immediately. So, every individual possesses a sort of fear. Before anything wrong can happen totally, man takes care of himself. However, there are some blockheads and very stuffy people who plod on no matter what happens. They don't care about the consequences and these are the people who generally get themselves into trouble.
+
 
 ### Kundalini awakening and illness
 
@@ -73,32 +61,13 @@ make it overnight, quickly, and the same psychology is transferred into spiritua
 quick money and quick realization. With this impatience, sometimes we overstep the
 necessary prerequisites.
 
-Some people develop weakness of the lower limbs because they have not trained their
-body through hatha yoga. Some people develop digestive disorders because they have not
-understood the relationship between food and the temperature of the body. Therefore, the
-prerequisites have to be observed. Those who suffer do so not because of the kundalini
-awakening, but because they have not harmonized the nervous system.
-Through hatha yoga you must create a balance between the two forces in the physical
-body, the pranic and the mental. Even in modern times we say that a balance between the
-sympathetic and parasympathetic nervous systems is absolutely essential to develop the
-higher faculties of the brain. When there is an imbalance between these two forces, that
-is, if one is predominant, the other is subservient, then you are supplying one energy in
-excess and the other energy is deficient. This inevitably leads to sickness.
-Airing the unconscious
+Some people develop weakness of the lower limbs because they have not trained their body through hatha yoga. Some people develop digestive disorders because they have not understood the relationship between food and the temperature of the body. Therefore, the prerequisites have to be observed. Those who suffer do so not because of the kundalini awakening, but because they have not harmonized the nervous system. Through hatha yoga you must create a balance between the two forces in the physical body, the pranic and the mental.
 
-In the course of your practices there may be isolated awakenings in ajna chakra, in
-which the awareness enters the realms of the unconscious mind and you see figures,
-symbols and even monsters or benevolent beings. You may hear or experience many
-inexplicable things, but they are all simply products of your own unconscious mind and
-should be regarded as nothing more. With the awakening of psychic consciousness, the
-symbols belonging to your own personality come out. When this happens you may have a
-problem understanding, but just remember, these kinds of expressions are simply parts of
-your being which have been lying in reserve and they have to 'come out for airing'.
-You should not be afraid of kundalini awakening but you must be prepared for the
-events that may occur. Otherwise, if you have a weak mind and are confronted by fear, it
-could lead to mental derangement. So, before you attempt kundalini awakening you
-should undergo a process of thought purification and develop understanding of your way
-of thinking.
+Even in modern times we say that a balance between the sympathetic and parasympathetic nervous systems is absolutely essential to develop the higher faculties of the brain. When there is an imbalance between these two forces, that is, if one is predominant, the other is subservient, then you are supplying one energy in excess and the other energy is deficient. This inevitably leads to sickness. Airing the unconscious
+
+In the course of your practices there may be isolated awakenings in ajna chakra, in which the awareness enters the realms of the unconscious mind and you see figures, symbols and even monsters or benevolent beings. You may hear or experience many inexplicable things, but they are all simply products of your own unconscious mind and should be regarded as nothing more. 
+
+With the awakening of psychic consciousness, the symbols belonging to your own personality come out. When this happens you may have a problem understanding, but just remember, these kinds of expressions are simply parts of your being which have been lying in reserve and they have to 'come out for airing'. You should not be afraid of kundalini awakening but you must be prepared for the events that may occur. Otherwise, if you have a weak mind and are confronted by fear, it could lead to mental derangement. So, before you attempt kundalini awakening you should undergo a process of thought purification and develop understanding of your way of thinking.
 
 When the prerequisites for kundalini awakening are followed properly, psychological
 and psycho-emotional symptoms do not occur. In fact, all these things happen before the
@@ -107,39 +76,23 @@ the aspirant is not maintaining the proper discipline that is required, he is bo
 into some psychological cobwebs.
 
 The awakening of kundaiini should never be equated with obsessions or neurosis.
-When an explosion takes place it brings out whatever was in you. If you have a
-personality full of obsessions and mental blocks, that's going to explode. Therefore,
-before one attempts awakening of kundalini, he must have arrived at a point of purity of
-consciousness or clarity of mind, chitta shuddhi.
-Purity of consciousness is not a religious terminology. You may have pure thoughts
-in your mind but you may not be pure at all. You may be thinking about purity, chastity,
-compassion, charity and generosity, but in the subterranean plane of your personality
-there may be conflicts or other unresolved mental problems. When the mind enters into
-meditation or samadhi, this subterranean level comes up to the surface. You begin to see
-all the debris and you feel it and enact it. This can happen at any time, when you're
-dreaming, when you are in a state of craziness and when kundalini is waking.
-That is why a relentless effort should be made to render the mind free from all the
-disturbing archetypes or samskaras before you try to handle this project. An integration of
-karma, bhakti and raja yoga, tempered with hatha and gyana yoga, must be adopted first.
 
-### Purity and impurity
+When an explosion takes place it brings out whatever was in you. If you have a personality full of obsessions and mental blocks, that's going to explode. Therefore, before one attempts awakening of kundalini, he must have arrived at a point of purity of
+consciousness or clarity of mind, **chitta shuddhi**.
 
-Although I recommend chitta shuddhi, I know that many people have an obsession
-about purity and impurity. They keep thinking they are impure and therefore they
-shouldn't try to awaken kundalini. But when the sun rises, what happens to the darkness?
-Purity and impurity are ethical and moral concepts created by society and religion.
-Awakening of kundalini is awakening of the great light in man. It rises like the sun, and
-when it can be seen on the horizon there will be no darkness, no pain, suffering,
-disappointment or impurity.
+Purity of consciousness is not a religious terminology. You may have pure thoughts in your mind but you may not be pure at all. You may be thinking about purity, chastity, compassion, charity and generosity, but in the subterranean plane of your personality there may be conflicts or other unresolved mental problems. When the mind enters into meditation or samadhi, this subterranean level comes up to the surface. 
 
-### Siddhis and the ego factor
+You begin to see all the debris and you feel it and enact it. This can happen at any time, when you're dreaming, when you are in a state of craziness and when kundalini is waking. That is why a relentless effort should be made to render the mind free from all the disturbing archetypes or samskaras before you try to handle this project. An integration of karma, bhakti and raja yoga, tempered with hatha and gyana yoga, must be adopted first.
 
-When one has been practising kundalini yoga for a couple of years and suddenly he
-starts having beautiful experiences, he tends to think he is superior to everybody else and
-may even consider himself as godly. To protect yourself from this, you must place
-yourself in the caliber of chela or disciple. A disciple remains a disciple, there is no
-promotion for him. Many people think that after twelve years of discipleship they will be
-promoted to guruhood, but this is not so.
+
+### Purity and Impurity
+
+Although I recommend chitta shuddhi, I know that many people have an obsession about purity and impurity. They keep thinking they are impure and therefore they shouldn't try to awaken kundalini. But when the sun rises, what happens to the darkness? Purity and impurity are ethical and moral concepts created by society and religion. Awakening of kundalini is awakening of the great light in man. It rises like the sun, and when it can be seen on the horizon there will be no darkness, no pain, suffering, disappointment or impurity.
+
+
+### Siddhis and the Ego factor
+
+When one has been practising kundalini yoga for a couple of years and suddenly he starts having beautiful experiences, he tends to think he is superior to everybody else and may even consider himself as godly. To protect yourself from this, you must place yourself in the caliber of chela or disciple. A disciple remains a disciple, there is no promotion for him. Many people think that after twelve years of discipleship they will be promoted to guruhood, but this is not so.
 
 In the path of kundalini yoga it is very important that you live the life of a disciple
 even after the awakening of kundalini, and not only after that, but even when Shiva and

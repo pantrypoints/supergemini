@@ -4,6 +4,7 @@ heading: "Chapter 5"
 date: 2025-10-16
 weight: 55
 description: ""
+tags: ['Mantra', 'Tapasya']
 ---
 
 

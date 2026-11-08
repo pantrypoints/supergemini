@@ -3,7 +3,8 @@ title: "Vama Marga and Kundalini Awakening"
 heading: "Chapter 14"
 date: 2025-10-16
 weight: 145
-description: "All that we perceive is in the universe which is a matrix of the ideas of the Creator of existence"
+description: ""
+tags: ['tantra']
 ---
 
 
@@ -15,7 +16,9 @@ his most powerful urges.
 
 In the context of yoga and tantra the common definition of sexual life has no
 relevance. It is absolutely unscientific and incorrect. This definition has created a society
-and a nation of hypocrites. It has led thousands of young people into mental asylums.
+and a nation of hypocrites. 
+
+It has led thousands of young people into mental asylums.
 When you want something which you think is bad, all kinds of guilt complexes arise.
 This is the beginning of schizophrenia, and all of us are schizophrenic to some extent.
 Therefore, the yogis have tried to give a correct direction to the sexual urge. Yoga
@@ -26,29 +29,36 @@ Of course, if you lead a celibate life, that is spiritual too.
 
 ### Left hand tantra
 
-The science of tantra has two main branches, which are known as vama marga and
-dakshina marga. Varna marga is the left path which combines sexual life with yoga
-practices in order to explode the dormant energy centers. Dakshina marga is the right
-path of yoga practices without sexual enactment. Previously, due to the barriers in sexual
-life, the path most widely followed was dakshina marga. Today, however, these barriers
-are rapidly being broken, and the path most sought after by the people everywhere is
-vama marga, which utilizes sexual life for spiritual development.
-According to tantra, sexual life has a threefold purpose. Some practise it for
-procreation, others for pleasure, but the tantric yogi practises it for samadhi. He does not
-hold any negative views about it. He does it as a part of his sadhana. But, at the same
-time, he realizes that for spiritual purposes, the experience must be maintained.
-Ordinarily this experience is lost before one is able to deepen it. By mastering certain
-techniques, however, this experience can become continuous even throughout daily life.
-Then the silent centers of the brain are awakened and they start to function all the time.
+The science of tantra has 2 main branches:
+
+1. Vama marga
+
+This is the left path which combines sexual life with yoga practices in order to explode the dormant energy centers. 
+
+2. Dakshina marga
+
+This is the right path of yoga practices without sexual enactment.
+
+Previously, due to the barriers in sexual life, the path most widely followed was dakshina marga. Today, however, these barriers are rapidly being broken, and the path most sought after by the people everywhere is vama marga, which utilizes sexual life for spiritual development.
+
+According to tantra, sexual life has a threefold purpose. Some practise it for procreation, others for pleasure, but the tantric yogi practises it for samadhi.
+
+He does not hold any negative views about it. He does it as a part of his sadhana. But, at the same time, he realizes that for spiritual purposes, the experience must be maintained. Ordinarily this experience is lost before one is able to deepen it. 
+
+By mastering certain techniques, however, this experience can become continuous even throughout daily life. Then the silent centers of the brain are awakened and they start to function all the time.
 
 
-### The energy principle
+### The Energy Principle
 
 The contention of vama marga is that the awakening of kundalini is possible through
-the sexual interaction between man and woman. The concept behind this follows the
+the sexual interaction between man and woman. 
+
+The concept behind this follows the
 same lines as the process of fission and fusion described in modern physics.
 Man and woman represent positive and negative energy. On a mental level they
-represent time and space. Ordinarily, these two forces stand at opposite poles. During
+represent time and space. 
+
+Ordinarily, these two forces stand at opposite poles. During
 sexual interaction, however, they move out of their position of polarity, towards the
 center. When they come together at the nucleus or central point, an explosion occurs and
 matter becomes manifest. This is the basic theme of tantric initiation.

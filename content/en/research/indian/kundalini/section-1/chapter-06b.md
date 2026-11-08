@@ -4,6 +4,7 @@ heading: "Chapter 6b"
 date: 2025-10-16
 weight: 67
 description: ""
+tags: ['Ashram']
 ---
 
 
@@ -41,13 +42,7 @@ mental crisis occurs, you are free to experience whatever happens. If you don't 
 eat, it's o'key; if you can't sleep and you just want to sit, it's alright; if you have emotional
 problems or no emotions at all, people will understand and leave you alone.
 
-If you stay with your family during the crisis period, they may send you off to a
-mental hospital. If you don't feel like eating they'll say, 'Not eating today?' And when
-they see you haven't eaten for a few days, they'll say, 'Something is wrong with him', and
-they'll try to get you to see a doctor. Or of you are married, when your behaviour seems a
-little strange, your partner might be ready to divorce you. So it is much better to get out
-of these places. That is why there are so many monasteries and ashrams all over the
-world.
+If you stay with your family during the crisis period, they may send you off to a mental hospital. If you don't feel like eating they'll say, 'Not eating today?' And when they see you haven't eaten for a few days, they'll say, 'Something is wrong with him', and they'll try to get you to see a doctor. Or of you are married, when your behaviour seems a little strange, your partner might be ready to divorce you. So it is much better to get out of these places. That is why there are so many monasteries and ashrams all over the world.
 
 
 ### What to practise in the ashram
@@ -137,19 +132,16 @@ Except in tantric initiation, the sexual obligations have to be kept at bay. Foo
 be minimum, light and pure. One must have a guru and seek his guidance. Isolation from
 people is also very important.
 
-Often when kundalini awakens in a person, he develops some sort of power. Some
-aspirants can materialize things, see clairvoyantly, hear clairaudiently Or read the minds
-of others. And when you are amongst many people, it becomes a great temptation to
-exercise these powers. This can be dangerous. Whereas some people will not care if you
-can read their mind, others will feel it is a great impingement on their privacy and they
-may even want to shoot you. You see, people get scared at the exhibition of siddhis, so if
-you are facing any psychic manifestations, you will have to control them by force.
-You know the great Tibeten yogi, Milarepa? He learned certain forms of magic and
-when he developed powers, he took revenge on his uncle and relatives. He created
-hailstorms that destroyed crops, huts and even lives, because he was then an ordinary
-man with love and hatred, friends and enemies. As long as you have likes and dislikes,
-you must not know what psychic powers you have. Milarepa had to perform penance for
-his misdeeds and suffer a lot at the hands of his guru.
+Often when kundalini awakens in a person, he develops some sort of power. Some aspirants can materialize things, see clairvoyantly, hear clairaudiently Or read the minds of others. And when you are amongst many people, it becomes a great temptation to exercise these powers. 
+
+This can be dangerous. Whereas some people will not care if you can read their mind, others will feel it is a great impingement on their privacy and they may even want to shoot you.
+
+People get scared at the exhibition of siddhis, so if you are facing any psychic manifestations, you will have to control them by force.
+
+The great Tibeten yogi, Milarepa learned certain forms of magic and when he developed powers, he took revenge on his uncle and relatives. He created hailstorms that destroyed crops, huts and even lives, because he was then an ordinary man with love and hatred, friends and enemies. 
+
+As long as you have likes and dislikes, you must not know what psychic powers you have. Milarepa had to perform penance for his misdeeds and suffer a lot at the hands of his guru.
+
 
 ### Awakening by mantra and the need for seclusion
 

@@ -1,9 +1,10 @@
 ---
-title: "Kundalini Physiology"
-heading: "Chapter 3"
+heading: "Chapter 3b"
+title: "The Nadis"
 date: 2025-10-16
 weight: 26
 description: ""
+tags: ['nadis', 'Sushumna nadi', 'pingala nadi', 'Ida nadi']
 ---
 
 
@@ -46,27 +47,14 @@ on.
 
 Finally, ida, pingala and sushumna meet in the pineal gland - ajna chakra.
 
-Ida and pingala function in the body alternately and not simultaneously. If you
-observe your nostrils, you will find that generally one is flowing freely and the other is
-blocked. When the left nostril is open, it is the lunar energy or ida nadi which is flowing.
-When the right nostril is free, the solar energy or pingala nadi is flowing.
-Investigations have shown that when the right nostril is flowing, the left hemisphere
-of the brain is activated. When the left nostril is flowing, the right hemisphere is
-activated. This is how the nadis or energy channels control the brain and the events of life
-and consciousness.
+Ida and pingala function in the body alternately and not simultaneously. If you observe your nostrils, you will find that generally one is flowing freely and the other is blocked. When the left nostril is open, it is the lunar energy or ida nadi which is flowing. When the right nostril is free, the solar energy or pingala nadi is flowing. Investigations have shown that when the right nostril is flowing, the left hemisphere of the brain is activated. When the left nostril is flowing, the right hemisphere is activated. This is how the nadis or energy channels control the brain and the events of life and consciousness.
 
-If these two energies - prana and chitta, pingala and ida, life and consciousness,
-can be made to function simultaneously, then both hemispheres of the brain can be made
-to function simultaneously and to participate together in the thinking, living, intuitive and
+If these 2 energies - prana and chitta, pingala and ida, life and consciousness, can be made to function simultaneously, then both hemispheres of the brain can be made to function simultaneously and to participate together in the thinking, living, intuitive and
 regulating processes.
 
-In ordinary life this does not happen because the simultaneous awakening and
-functioning of life force and consciousness can take place only if the central canal -
-sushumna, is connected with kundalini, the source of energy. If sushumna can be
-connected in the physical body, it can reactivate the brain cells and create a new physical
-structure.
+In ordinary life this does not happen because the simultaneous awakening and functioning of life force and consciousness can take place only if the central canal - sushumna, is connected with kundalini, the source of energy. If sushumna can be connected in the physical body, it can reactivate the brain cells and create a new physical structure.
 
-### The importance of awakening sushumna
+### The Importance of awakening sushumna
 
 Sushumna nadi is regarded as a hollow tube in which there are three more concentric
 tubes, each being progressively more subtle than the previous one. The tubes or nadis are

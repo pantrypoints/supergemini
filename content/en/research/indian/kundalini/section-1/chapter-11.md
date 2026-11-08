@@ -3,9 +3,9 @@ title: "The Descent of Kundalini"
 heading: "Chapter 11"
 date: 2025-10-16
 weight: 115
+tags: ['Shiva', 'Shakti', '']
 description: ""
 ---
-
 
 
 Everybody talks about the ascent of kundalini, but few ever discuss the descent.
@@ -15,21 +15,14 @@ This higher form of consciousness rules the body, mind and senses and directs yo
 thoughts and emotions. Kundalini is henceforth the ruler of your life. That is the concept
 of descent.
 
-The whole process after union
 
-When Shiva and Shakti unite in sahasrara, one experiences samadhi, illumination
-occurs in the brain and the silent areas begin to function. Shiva and Shakti remain merged
-together for some time, and during this period there is a total loss of consciousness
-pertaining to each other. At that time a bindu evolves. Bindu means a point, a drop, and
-that bindu is the substratum of the whole cosmos. Within that bindu is the seat of human
-intelligence and the seat of the total creation. Then the bindu splits into two and Shiva
-and Shakti manifest again in duality. When ascension took place it was only the ascent of
-Shakti, but now, when descension takes place, Shiva and Shakti both descend to the gross
-plane and there is again knowledge of duality.
+### The Whole process after union
 
-Those who have studied quantum physics will have a better understanding of this as
-it is difficult for everyone to understand from the philosophical point of view. After total
-union there is a process of corning down the same pathway you ascended. The gross
+When Shiva and Shakti unite in sahasrara, one experiences samadhi, illumination occurs in the brain and the silent areas begin to function. Shiva and Shakti remain merged together for some time, and during this period there is a total loss of consciousness pertaining to each other. At that time a bindu evolves. Bindu means a point, a drop, and that bindu is the substratum of the whole cosmos. Within that bindu is the seat of human intelligence and the seat of the total creation. Then the bindu splits into two and Shiva and Shakti manifest again in duality. When ascension took place it was only the ascent of Shakti, but now, when descension takes place, Shiva and Shakti both descend to the gross plane and there is again knowledge of duality.
+
+Those who have studied quantum physics will have a better understanding of this as it is difficult for everyone to understand from the philosophical point of view. 
+
+After total union there is a process of corning down the same pathway you ascended. The gross
 consciousness which became fine, again becomes gross. That is the concept of divine
 incarnation or avatara.
 
@@ -44,6 +37,7 @@ aware of that. Whether he is talking to a man or a woman he does not know, he se
 difference. He may even be associating with spiritual or divine people without being
 aware of that, because at this point of time his consciousness is reduced to a level of
 innocence just like a baby.
+
 So, in the state of samadhi you are a baby. A baby can't tell the difference between a
 man and a woman because he has no physical or sexual distinction. He can't distinguish a
 scholar from an idiot and he may not even see any difference between a snake and a rope.
@@ -104,22 +98,27 @@ That is why the self-realized man is able to understand pain and all the mundane
 of life. He understands the whole drama of duality, multiplicity and diversity. Sometimes
 we ordinary mortals are at a fix to understand how this man with the highest attainment is
 able to cope with the hopeless dualities of life.
-When I was about thirteen, I was also puzzled by this. There was a great lady saint
-who was supposed to have attained the very highest state and I used to visit her with my
-elders. I used to hear her discussing all the mundane and ordinary things of life - "How
-are you? How is your child? Is he sick? Are you giving him medicines ? Why do you
-fight with your wife?" I used to think, "If she is an enlightened lady she shouldn't talk
-about duality. How can she understand duality if she is in unity?"
 
-I never got an answer, but every man has his moments of experience in life and I
-have not been an exception to that. I came to understand that Shiva and Shakti live on
-both planes and this gross plane of duality is an expression and manifestation of the
-correlation of Shiva and Shakti. This is precisely the reason why the great saints and
+When I was 13, I was also puzzled by this.
+
+There was a great lady saint who was supposed to have attained the very highest state.
+
+I used to visit her with my elders. I used to hear her discussing all the mundane and ordinary things of life:
+
+"How are you? How is your child? Is he sick? Are you giving him medicines ? Why do you fight with your wife?" 
+
+I used to think, "If she is an enlightened lady she shouldn't talk about duality. How can she understand duality if she is in unity?"
+
+I never got an answer, but every man has his moments of experience in life and I have not been an exception to that. I came to understand that Shiva and Shakti live on both planes and this gross plane of duality is an expression and manifestation of the
+correlation of Shiva and Shakti. 
+
+This is precisely the reason why the great saints and
 mahatmas talk about charity, compassion, love, etc. However, there is a period when they
 don't understand these things and they don't care what happens to the world. They don't
 even know what is going on, who is happy and who is suffering. But finally there is a
-great transformation. Shakti rules the matter and Shiva rules the consciousness, and when
-they descend to the gross plane, Shakti continues to rule the matter and Shiva, being
-consciousness, gives an understanding to the whole world.
+great transformation. 
+
+Shakti rules the matter and Shiva rules the consciousness, and when they descend to the gross plane, Shakti continues to rule the matter and Shiva, being consciousness, gives an understanding to the whole world.
+
 Therefore, if ever we see a self-realized person discussing the trivialities of life and
 dealing with the issues of reality, we should not be surprised.

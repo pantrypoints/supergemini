@@ -1,16 +1,21 @@
 ---
-title: "The female experience"
+title: "The Female Experience"
 heading: "Chapter 14b"
 date: 2025-10-16
 weight: 155
-description: "All that we perceive is in the universe which is a matrix of the ideas of the Creator of existence"
+description: ""
+tags: ['tantra', 'maithuna']
 ---
 
 
 
-In the female body, the point of concentration is at mooladhara chakra, which is situated at the cervix, just behind the opening of the uterus. This is the point where space and time unite and explode in the form of an experience. That experience is known as orgasm in ordinary language, but in the language of tantra it is called an awakening. 
+In the female body, the point of concentration is at mooladhara chakra, which is situated at the cervix, just behind the opening of the uterus. 
 
-In order to maintain the continuity of that experience, it is necessary for a buildup of energy to take place at that particular bindu or point. Usually this does not happen, because the explosion of energy dissipates throughout the body through the sexual medium. In order to avoid this, the woman must be able to hold her mind in absolute concentration on that particular point. For this, the practice is known as sahajoli.
+This is the point where space and time unite and explode in the form of an experience. That experience is known as orgasm in ordinary language, but in the language of tantra it is called an awakening. 
+
+In order to maintain the continuity of that experience, it is necessary for a buildup of energy to take place at that particular bindu or point.
+
+Usually this does not happen, because the explosion of energy dissipates throughout the body through the sexual medium. In order to avoid this, the woman must be able to hold her mind in absolute concentration on that particular point. For this, the practice is known as sahajoli.
 
 Actually, sahajoli is concentration on the bindu, but this is very difficult. Therefore,
 the practice of sahajoli, which is the contraction of the vaginal as well as the uterine
@@ -20,10 +25,8 @@ If girls are taught uddiyana bandha at an early age, they will perfect sahajoli 
 naturally with time. Uddiyana bandha is always practised with external retention. It is
 important to be able to perform this in any position. 
 
-Usually it is practised in siddhayoni
-asana, but one should be able to do it in vajrasana or the crow posture as well. When you
-practise uddiyana bandha, the other two bandhas - jalandhara and moola bandha occur
-spontaneously.
+Usually it is practised in siddhayoni asana, but one should be able to do it in vajrasana or the crow posture as well. When you
+practise uddiyana bandha, the other two bandhas - jalandhara and moola bandha occur spontaneously.
 
 Years of this practice will create a keen sense of concentration on the correct point in
 the body. This concentration is more mental in nature, but at the same time, since it is not
@@ -87,7 +90,7 @@ spheres of life.
 What we are discussing here is not patriarchal society versus matriarchal society, but tantra, particularly left hand tantra.
 
 
-### Path of yogis not bhogis
+### Path of Yogis not bhogis
 
 In tantra, the practice of maithuna the easiest way to awaken sushumna, because it involves an act which most people are already accustomed to. 
 

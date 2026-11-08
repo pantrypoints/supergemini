@@ -4,6 +4,7 @@ heading: "Chapter 3"
 date: 2025-10-16
 weight: 25
 description: ""
+tags: ['Kundalini', 'chakras']
 ---
 
 
@@ -55,15 +56,12 @@ This psychic, suprasensory or
 transcendental power in man is the ultimate point of human evolution.
 
 
-### The chakras
-
+## The Chakras
 
 The literal meaning of the word chakra is 'wheel or circle', but in the yogic context a
 better translation of the Sanskrit word is 'vortex or whirlpool'. 
 
-The chakras are vortices of
-psychic energy and they are visualized and experienced as circular movements of energy
-at particular rates of vibration.
+The chakras are vortices of psychic energy and they are visualized and experienced as circular movements of energy at particular rates of vibration.
 
 In each person there are myriads of chakras, but in the practices of tantra and yoga,
 only a few principal ones are utilized. These chakras span the full spectrum of man's
@@ -89,9 +87,14 @@ flow of alternating current in electrical wires. The outgoing communication and 
 incoming reaction enter and leave the chakra in the form of this pranic flow in the
 corresponding nadis.
 
-There are six chakras in the human body which are directly connected with the higher
-unillumined centers of the brain. The first chakra is mooladhara. It is situated in the
-pelvic floor and corresponds to the coccygeal plexus of nerves. In the masculine body it
+There are 6 chakras in the human body which are directly connected with the higher unillumined centers of the brain. 
+
+
+### Muladhara
+
+The 1st chakra is mooladhara. 
+
+It is situated in the pelvic floor and corresponds to the coccygeal plexus of nerves. In the masculine body it
 lies between the urinary and excretory openings, in the form of a small dormant gland
 termed the perineal body. In the feminine body it is situated inside the posterior surface
 of the cervix.
@@ -102,29 +105,35 @@ in the completion of animal evolution. It is said that from mooladhara chakra ri
 to the heels there are other lower chakras which are responsible for the development of
 the animal and human qualities of instinct and intellect. From mooladhara chakra
 upwards lie the chakras which are concerned with illumination and evolution of the
-higher man or super man. Mooladhara chakra has control over the entire range of
-excretory and sexual functions in man.
-The second chakra is swadhisthana, located at the lowest point or termination of the
-spinal cord. It corresponds to the sacral plexus of nerves and controls the unconscious in
+higher man or super man.
+
+Mooladhara chakra has control over the entire range of excretory and sexual functions in man.
+
+### Swadhisthana
+
+The second chakra is swadhisthana, located at the lowest point or termination of the spinal cord. It corresponds to the sacral plexus of nerves and controls the unconscious in
 man.
 
-The third chakra is manipura, situated in the spinal column exactly at the level of the
-navel. It corresponds to the solar plexus and controls the entire processes of digestion,
-assimilation and temperature regulation in the body.
 
-The fourth chakra is anahata, and it lies in the vertebral column behind the base of
-the heart, at the level of the depression in the sternum. It corresponds to the cardiac
-plexus of nerves, and controls the functions of the heart, the lungs, the diaphragm and
+### Manipura
+
+The third chakra is manipura, situated in the spinal column exactly at the level of the navel. It corresponds to the solar plexus and controls the entire processes of digestion, assimilation and temperature regulation in the body.
+
+### Anahata
+
+The fourth chakra is anahata, and it lies in the vertebral column behind the base of the heart, at the level of the depression in the sternum. It corresponds to the cardiac plexus of nerves, and controls the functions of the heart, the lungs, the diaphragm and
 other organs in this region of the body.
 
-The fifth chakra is vishuddhi, which lies at the level of the throat pit in the vertebral
-column. This chakra corresponds to the cervical plexus of nerves and controls the thyroid
-complex and also some systems of articulation, the upper palate and the epiglottis.
-Ajna, the sixth and most important chakra, corresponds to the pineal gland, lying in
-the midline of the brain directly above the spinal column. This chakra controls the
-muscles and the onset of sexual activity in man. Tantra and yoga maintain that ajna
-chakra, the command center, has complete control over all the functions of the disciple's
-life.
+
+### Vishuddha
+
+The fifth chakra is vishuddhi, which lies at the level of the throat pit in the vertebral column. This chakra corresponds to the cervical plexus of nerves and controls the thyroid complex and also some systems of articulation, the upper palate and the epiglottis. 
+
+
+### Ajna
+
+Ajna, the sixth and most important chakra, corresponds to the pineal gland, lying in the midline of the brain directly above the spinal column. This chakra controls the muscles and the onset of sexual activity in man. Tantra and yoga maintain that ajna chakra, the command center, has complete control over all the functions of the disciple's life.
+
 
 These six chakras serve as switches for turning on different parts of the brain. The
 awakening which is brought about in the chakras is conducted to the higher centers in the
@@ -134,6 +143,8 @@ There are also two higher centers in the brain which are commonly referred to in
 kundalini yoga: bindu and sahasrara. Bindu is located at the top back of the head, where
 Hindu brahmins keep a tuft of hair. This is the point where oneness first divides itself into
 many. Bindu feeds the whole optic system and is also the seat of nectar or amrit.
+
+### Sahasrara
 
 Sahasrara is supreme; it is the final culmination of kundalini shakti. It is the seat of
 higher awareness. Sahasrara is situated at the top of the head and is physically correlated

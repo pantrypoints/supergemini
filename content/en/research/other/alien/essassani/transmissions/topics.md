@@ -640,7 +640,7 @@ weight: 1
 | 09/19/2009 | [The Timeless Now](/research/other/alien/essassani/transmissions/2009/2009-09-19-2/) | — |
 | 11/11/2009 | [Blogtalk Radio Show Messages from The Alien known as Bashar](/research/other/alien/essassani/transmissions/2009/2009-11-11/) | — |
 | 11/13/2009 | [Blogtalk Radio Show Fear vs No Fear](/research/other/alien/essassani/transmissions/2009/2009-11-13/) | — |
-| 11/14/2009 | [15 Minutes & Counting](/research/other/alien/essassani/transmissions/2009/2009-11-14/) | — |
+| 11/14/2009 | [15 Minutes & Counting](/research/other/alien/essassani/transmissions/2009/2009-11-14/) | 15 Minute Principle |
 | 11/15/2009 | [Brick Walls & Beliefs](/research/other/alien/essassani/transmissions/2009/2009-11-15/) | — |
 | 11/15/2009 | [The Holotope Experience](/research/other/alien/essassani/transmissions/2009/2009-11-15-2/) | — |
 | 02/25/2010 | [Blogtalk Radio Show Messages from The Alien known as Bashar](/research/other/alien/essassani/transmissions/2010/2010-02-25/) | — |

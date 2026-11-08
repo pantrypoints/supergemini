@@ -4,6 +4,7 @@ heading: "Chapter 2"
 date: 2025-10-16
 weight: 15
 description: ""
+tags: ['Kundalini']
 ---
 
 
@@ -124,4 +125,3 @@ shakti awakens, man is no longer a gross physical body operating with a lower mi
 low voltage prana. Instead, every cell of his body is charged with the high voltage prana
 of kundalini. And when total awakening occurs, man becomes a junior god, an
 embodiment of divinity.
-

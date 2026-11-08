@@ -4,6 +4,7 @@ heading: "Chapter 2"
 date: 2025-10-16
 weight: 11
 description: ""
+tags: ['Kundalini']
 ---
 
 

@@ -4,6 +4,7 @@ heading: "Chapter 5"
 date: 2025-10-16
 weight: 95
 description: ""
+tags: ['diet']
 ---
 
 
@@ -13,27 +14,19 @@ They may see auras and visions, feel peculiar in the body, hear strange sounds a
 
 That is why the actions and words of those people who are undergoing kundalini awakening appear so nonsensical, deviant and oftentimes mad to the ordinary man.
 
-During kundalini awakening and madness, people may manifest the same symptoms,
-but on closer examination a difference can be detected. Similarly, if you film a man
-laughing out of madness and a man laughing with his friends, they will look almost the
-same, but they are different. Most of us have probably read stories about the avadhoots
-and fakirs of India and the Sufi and Christian mystics. Externally, these God-intoxicated
-ones looked crazy, but if you were with them, they would have appeared and proved to be
-very clear. The inner consciousness of such people is absolutely lucid, organized and
-disciplined.
+During kundalini awakening and madness, people may manifest the same symptoms, but on closer examination a difference can be detected. 
+
+Similarly, if you film a man laughing out of madness and a man laughing with his friends, they will look almost the same, but they are different. Most of us have probably read stories about the avadhoots and fakirs of India and the Sufi and Christian mystics. 
+
+Externally, these God-intoxicated ones looked crazy, but if you were with them, they would have appeared and proved to be very clear. The inner consciousness of such people is absolutely lucid, organized and disciplined.
 
 
-### A great misunderstanding
+### A Great Misunderstanding
 
-Mystics throughout the ages have been persecuted for their experiences, which to the
-normal mundane consciousness are insanity, yet to the sage are ecstasy. Socrates was
-poisoned because he did not behave normally. 
+Mystics throughout the ages have been persecuted for their experiences, which to the normal mundane consciousness are insanity, yet to the sage are ecstasy. Socrates was poisoned because he did not behave normally. 
 
-Christ was crucified on the cross because
-his teachings were not understood. Al-Hallaj, the Sufi saint, was skinned alive because he
-spoke the truth without fear of the society, Joan of Arc and the witches of Salem were
-burned at the stake, as were many others. All have been persecuted and harassed by the
-mundane populace for their vision, which arose as a result of inner work. Due to this lack
+Christ was crucified on the cross because his teachings were not understood. Al-Hallaj, the Sufi saint, was skinned alive because he
+spoke the truth without fear of the society, Joan of Arc and the witches of Salem were burned at the stake, as were many others. All have been persecuted and harassed by the mundane populace for their vision, which arose as a result of inner work. Due to this lack
 of understanding, many of the esoteric doctrines were hidden from the majority of
 people.
 

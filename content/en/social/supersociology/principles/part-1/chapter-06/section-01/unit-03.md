@@ -58,3 +58,9 @@ It is one of the many factors that make up the social cycle theory of my propose
 
 Social Topographic Behavior is one of the weights that we use, in our social cycles model, to predict the outcomes for a society, or make hypotheses for its missing past. 
 
+
+## Update November 2026
+
+The concept of vortices or Earth-chakras are a major support for Social Topographic Behavior. These vortices are in line with Descartes Physics and Asian Physics. The Sassani assert that deserts attract Orion energy, and some mountains are vortices.
+
+

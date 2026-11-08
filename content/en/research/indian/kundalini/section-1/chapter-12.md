@@ -4,6 +4,7 @@ heading: "Chapter 12"
 date: 2025-10-16
 weight: 125
 description: ""
+tags: ['']
 ---
 
 
@@ -112,6 +113,8 @@ Experiencing the threefold awakenings
 Each of the three forms of awakening - nadis, chakras and sushurnna is accompanied
 by its own set of experiences. Many aspirants have psychic experiences and they think
 they indicate the awakening of kundalini, but this is not so.
+
+
 When the chakras are awakening, the experiences one has are not so frightening and
 critical. They are usually of a fantastic nature, very pleasant, hallucinating and
 comfortable. Even if you have an experience of fear or terror, it does not shake your
@@ -120,10 +123,13 @@ experience in meditation or during kirtan, and it feels very nice, that represen
 awakening and not kundalini awakening. When you experience a chakra awakening it is
 rather beautiful and leaves a comfortable or blissful feeling. That is to encourage you to
 go further.
+
 When awakening takes place in sushumna, you may feel or see a rod of light, or your
 spinal cord may seem to be fully illumined from within. Such experiences are described
 by the saints of different religions in their poems, songs and stories, which are
 unfortunately understood by very few people today.
+
+
 The awakening of sushumna can also bring some mind exploding experiences which
 are sometimes very confusing. You can smell pleasant and unpleasant odors, you will
 hear shrieks and screams as if the ghosts are crying, and there is a feeling of heat,
