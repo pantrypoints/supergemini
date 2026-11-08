@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 1b"
 title: Does the spreading of light take time?
-description: Dr. Tillotson argues against the real presence of miracles. His argument is the most concise, elegant, and strong against miracles
+description: ""
 c: "darkgoldenrod"
 weight: 5
 author: "Christiaan Huygens"

@@ -4,6 +4,9 @@ heading: "Chapter 7"
 date: 2025-10-16
 weight: 75
 description: ""
+comments:
+  - name: Mandla
+    body: This was very helpful. I'm new to Kundalini fasting and I just got everything I needed to know by reading this chapter. 🙏👏
 ---
 
 

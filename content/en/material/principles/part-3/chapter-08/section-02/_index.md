@@ -1,14 +1,14 @@
 ---
 heading: "Section 2"
-title: "Spectral Relationalities"
+title: "Light Relationalities"
 linkTitle: Relationalities
 date: 2024-12-28
-image: /photos/physics/pulsar.jpg
-description: "Particle spin is the orientation direction of a particle."
+image: /photos/physics/sparks.jpg
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 4
+weight: 6
 icon: "Juan"
 toc: false
 ---

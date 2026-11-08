@@ -25,8 +25,8 @@ Traditional Name | Water, Jala, 土
 Descartes' Name | included in the 1st Element
 Domain | Physical
 Force | Change
-Medium | W and z bosons, intramolecular and intermolecular forces
-Substance | Neutron, High energy Neutrinos
+Medium | W and z bosons (intro aetherspace), intramolecular (intra aetherspace) and intermolecular (inter aetherspace) forces
+Substance | Neutron, High energy Neutrinos, Acids and Bases
 Quanta | Neutrino (qoc1)
 Aether Content | 2
 Movement | Mostly Kinetic
@@ -34,7 +34,9 @@ Movement | Mostly Kinetic
 <!-- Quality | Rare -->
 
 
-It manifests as radioactivity, chemical change, flavor changing, and is governed by the 'Weak Force' and graphically through Feynman diagrams.
+It manifests as radioactivity, chemical change, flavor changing, and is governed by 'Weak Force' and chemical reactions.
+
+ <!-- graphically through Feynman diagrams. -->
 
 {{< i s="/graphics/physics/feynman.jpg" a="A Feynman diagram" c="A Feynman diagram converted to Material Superphysics" >}}
 

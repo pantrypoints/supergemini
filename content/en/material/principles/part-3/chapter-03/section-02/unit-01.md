@@ -2,7 +2,7 @@
 heading: "Unit 1"
 title: "What is Light?"
 date: 2024-12-28
-image: /graphics/physics/spectrum.jpg
+image: /photos/physics/light.jpg
 description: "Colors are part of the spectrum."
 writer:
   name: Juan

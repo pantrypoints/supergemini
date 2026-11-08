@@ -1,13 +1,15 @@
 ---
 heading: "Chapter 3"
 title: Refraction
-description: Dr. Tillotson argues against the real presence of miracles. His argument is the most concise, elegant, and strong against miracles
+description: ""
 c: "darkgoldenrod"
 weight: 12
 author: "Christiaan Huygens"
 icon: "Christiaan Huygens"
+comments:
+  - name: Wes (PhantomX) Moxley
+    body: Luminiferous Aether is the 5th Element. The space between all Matter. The connection that allows you to see color & Hear sound, receive sound, & cellular signals of Frequency when tuned to certain levels create Cymatic Patterns that are the geometrical light language of the Cosmos & beyond.
 ---
-
 
 
 The effects of Reflexion have been explained by waves of light reflected at the surface of polished bodies.

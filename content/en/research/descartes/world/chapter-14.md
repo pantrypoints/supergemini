@@ -55,11 +55,11 @@ Thus, the lines of light are exactly straight even though its air-aether medium 
 
 This is similar to hand `A` pushing the body `E` along the straight line `AE` even though it pushes it with a twisted stick `BCD`. 
 
-{{< img src="/graphics/physics/world-14a.gif" alt="World" >}}
+{{< img src="/graphics/d/world-14a.gif" alt="World" >}}
 
 In the same way, `Ball 1` pushes `Ball 7` through `Balls 5`, as directly as through the other balls.
 
-{{< img src="/graphics/physics/world-14b.gif" alt="World" >}}
+{{< img src="/graphics/d/world-14b.gif" alt="World" >}}
 
 
 

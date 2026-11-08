@@ -1,5 +1,5 @@
 ---
-title: "Light and the Movement of Spacetime Particles"
+title: "Light and the Movement of Space Particles"
 heading: Articles 55-59
 weight: 32
 description: "Understanding the effort towards motion in inanimate objects"

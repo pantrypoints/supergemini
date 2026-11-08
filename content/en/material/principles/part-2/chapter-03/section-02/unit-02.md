@@ -1,5 +1,5 @@
 ---
-heading: "Unit 2"
+heading: "Unit 2: Displacement"
 title: "Time Dilation"
 # date: 2024-07-22
 weight: 12

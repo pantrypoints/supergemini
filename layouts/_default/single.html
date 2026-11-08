@@ -287,7 +287,11 @@
                     <div class="hidden sm:block"></div>
                     {{ end }}
                 </nav>
+                {{ partial "commentlist.html" . }}
+                
                 {{ partial "comments.html" . }}
+
+                
             </article>
             
             {{/* 3. RIGHT SIDEBAR: Move TOC to the right if in Doc mode */}}
@@ -319,7 +323,12 @@ details[open] .details-arrow { transform: rotate(180deg); }
 .scrollbar-none {-ms-overflow-style: none; scrollbar-width: none; }
 .scrollbar-none::-webkit-scrollbar {display: none; }
 </style>
+
 {{ end }}
+
+
+
+
 
 {{ define "doc-menu-tree" }}
     {{ $currentPage := .currentPage }}

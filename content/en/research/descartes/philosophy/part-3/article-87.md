@@ -46,7 +46,7 @@ Therefore:
 <!-- at `G`. -->
 For example, let there be 3 globules `ABC`. `A` and `B` mutually touch and rotate only around their own centers.
 
-{{< i s="/graphics/physics/globules.jpg" a="Globules" >}}
+{{< i s="/graphics/d/globules.jpg" a="Globules" >}}
 
 <!-- `C` touches the first at `E` rolls over it from E to I until it touches the second at point F. -->
 

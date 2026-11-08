@@ -17,17 +17,42 @@ toc: false
 Radiant Relationalities implement the 4 Rules of Motion, manifesting as displacement and cohesion, and are divided into the 3 Radiant Media:
 
 
-1. Spectral Relationalities 
+1. Light Relationalities 
 
-This uses Displacement.
+Motion | Phenomena
+--- | ---
+Micro Displacement | Photo electric effect
+Displacement | Blackbody Radiation
+Macro Displacement | 
+Micro Cohesion | 
+Cohesion | 
+Macro Cohesion |  
+
 
 2. Heat Relationalities
 
-This uses Displacement.
+Motion | Phenomena
+--- | ---
+Micro Displacement | 
+Displacement | Blackbody Radiation
+Macro Displacement | 
+Micro Cohesion | 
+Cohesion | 
+Macro Cohesion |  
+
+
+<!-- This uses Displacement. -->
 
 3. Virtual Photon Relationalities
 
-This uses Cohesion.
-
+Motion | Phenomena
+--- | ---
+Micro Displacement | Divergence
+Displacement | 
+Macro Displacement | 
+Micro Cohesion | Curl
+Cohesion | 
+Macro Cohesion |  
 
 <!-- expose the displacement action of the Spatial Layer.  -->
+

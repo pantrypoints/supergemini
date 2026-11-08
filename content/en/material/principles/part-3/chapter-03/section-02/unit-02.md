@@ -1,113 +1,86 @@
 ---
-heading: "Unit 2"
-title: "Colors: Prisms and LEDs"
-date: 2024-12-28
-image: /graphics/physics/spectrum.jpg
-description: "Colors are part of the spectrum."
+heading: Unit 2 Micro Displacement
+title: "Entanglement"
+# linkTitle: Entanglement
+# date: 2020-01-29
+image: /photos/physics/entanglement.jpg
+description: "The wave nature of the Radiant Layer is exposed as Entanglement"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 9
+weight: 7
 icon: "Juan"
 ---
 
 
 
-<!-- potential vs kinetitc... Colors are produced by the variations in wavelength relative to others. 
-
-White light has many wavelengths of ranging from  -->
-
-Colors are from the anticlockwise spin of photons. 
-- A vortex-less or spin-less light-wave or group of photons is called 'white'.
-- A lightwave or bunch that is absorbed instead of being reflected is called black.
-
-A lightwave or photon group becomes colored by adding an anticlockwise vortex or spin to it. 
-- A fast photon spin is called red. It travels at 700 nanometers per time unit. We say it is fast going to matter
-- A slow photon spin is called blue. It travels at 450 nanometers per time unit. We say it is slow going to matter
+<!-- Cartesian Physics not only unites Classical and Quantum Mechanics through its 5 Elements model, but also all sciences, even biology with data science (via neurons and neural neworks) -->
 
 
-This spin can be imparted in 2 ways, based on origin:
+Physics wrongly thinks that entanglement is caused by wave-particle duality. 
 
-1. Colors from matter activity
+This is because Einstein enshrined energy quanta instead of spin or frequency.
 
-This is from stars and flames where the sources are protons. 
+<!-- The previous unit blasted away Einstein's photoelectric effect and quantization in order to separate the wave and particle nature of the Radiant Layer. -->
 
-<!-- This is known as spectral lines.   -->
+But Material Superphysics focuses on qualities instead of quantities. 
 
-2. Colors from spatial activity 
+This means that:
 
-This is from LEDs, prisms, and rainbows. These are from refraction of light through:
+- Light stays as waves
+- Electrons stay as particles
+- UV light is able to push electrons because they have the same high frequency
 
-- angled surfaces such as prisms and LEDs
-- curved surfaces such as droplets which show colors as rainbows
+<!-- Einstein's error leads to the wave-particle duality confusion of Physics, and is best seen in entangled photons. -->
 
+### Double Slit Experiment
 
-### Prisms
+This shows photons emitted through slits as exhibiting a wave pattern even if the Einstein theory expects it to be a non-wave pattern.
 
-A prism creates colors by adding a vortex or spin to mors by slowing it down. 
+But in Cartesian Physics and Material Superphysics, the wave pattern is totally consistent with light being a wave. 
 
-In the image below, the light wave enters through the prism flat. However, the wave exists the prism at different lengths. 
+Instead of any entanglement, the real mechanism behind the double slit and quantum eraser experiments are reflection. 
 
-{{< i s="/graphics/physics/prism.jpg" a="Prism" >}}
+A prism splits light into separate beams that are components of each other. 
 
+- These components make up the total light beam.
 
-The right side goes through more prism which makes it slower relative to the light waves on the left which passes through less prism. 
-- This makes the left side red and the right side blue.
+A double slit also does the same thing, but also blocks some parts. 
 
+- The blocked parts show as the dark areas in the interference pattern.
 
-### Light-Emitting Diode or LED 
+ <!-- A reflection is the exact opposite of the original light. -->
 
+This is why quantum eraser experiments show that the interference pattern is not a result of a particle 'choosing' a path, but rather shows the components that make up the light beam.
 
-An LED is a metal that converts virtual photons in to colored photons. 
+- This is similar to a rainbow showing the components of white light passing through water dropets
+- The main different is that a rainbow show bending (refraction) instead of bouncing (reflection)
 
-This is done by creating channels for electrons ('minutiae' in Cartesian Physics) to flow while spinning since electrons and photons are vortices. 
-
-An n-type semiconductor has an oversupply of electrons. This goes to a p-type which has a hole for that electron. 
-
-Within a semiconductor is a band gap where electrons can switch lanes as they flow from n to p. 
-
-The virtual photons ('striated particles' in Cartesian Physics) in the band gap go through the spinning electrons as they switch lanes.
-
-If the electrons flow as tight channels, the virtual photons would become dense. This creates magnetism that would push space particles.  
-
-But since the electrons that cross the band gap are not tight, the virtual photons are less compressed. And so they become photons instead of causing magnetism.
-
-A red LED has a small band gap that acts as a spatial prism. This lets the photon pass quickly, causing red light. 
-
-A blue LED has a large band gap. This lets the photon pass slowly, causing blue light. 
-
-{{< i s="/graphics/physics/spectrum.jpg" a="Colors" >}}
-
-In theory, an electron that changes lanes in a 90 degree angle would give off white light just as a light that passes through a flat glass will come out the same white. 
-
-So in theory, Superphysics can lead to real-definition LEDs that exactly match real life visual crispness. 
-
-That 90 degree sudden shift is like a car switching lanes instantly. That can only be done by application of the aether, as in all cases that require violations of spacetime.
+Entanglement is associated with the seeming particle nature of light because particles cannot bend except in lensing and orbits.
 
 
+<!-- 
+The wave nature of the Radiant Layer is exposed as Entanglement i.e. all light is "entangled" in Nature. 
 
-### Star Colors
+The main cause of the confusion is the wave-particle duality of the scammer Einsten. 
 
-The colors that come from stars are sourced from the relation of their proton and the heat energy in their aetherspace. 
+He based the nature of electromagnetism on energy instead of frequency. 
+- This energy was put inn packets which gave light its wave properties. 
 
-A hot star will have more radiant energy and subsequently less matter or heavy protons. This will create a white or blue color.
-
-A cooler star will have less radiant energy and more matter as heavy protons. This will create an orange or red color.
-
-<!-- The colors are are combination of rotational and linear speed. 
-
-Passing through dense space makes the light corpuscles move forward at different linear speeds. These differences make them rotate relative to each other. 
-
-The rotation is seen as wavelengths. 
-
-Energy is related to brightness, not color. Energy is 1st Element. Color is 2nd Element (space).  -->
+But in reality:
+- light is a wave
+- electrons are particles -->
 
 
-The space around Earth has variations. But space around stars has no variations.
+<!-- 
 
-This is why:
-- there is green and UV LED but no green or violet star
-- there is no white LED but there are white stars
+ is revealed when they are split by prisms. 
 
+These turn into particles whenever they hit anything, whether as sunlight shining on a ball, or a laser being split by a prism.
+- We can call this as "particlization". This is from i
+- "Wavization" therefore is the conversion of particles into waves, such as the Bose condensate -->
 
-Since red stars are fast going to matter, then it has less energy and less heat. Blue stars are slow going to matter and so have more energy and heat. 
+  <!-- detect light but not the other particles.  -->
+
+<!-- True motion or potential motion.  -->
+

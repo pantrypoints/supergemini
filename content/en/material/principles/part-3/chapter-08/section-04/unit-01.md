@@ -3,7 +3,7 @@ heading: "Unit 1"
 title: "Virtual Photon Relationalities"
 date: 2026-05-21
 weight: 4
-image: /photos/physics/maxwell.jpg
+image: /graphics/physics/vphoton.jpg
 description: ""
 icon: Juan
 writer:

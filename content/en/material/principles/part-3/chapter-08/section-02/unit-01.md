@@ -2,7 +2,7 @@
 heading: "Unit 1"
 title: "Photo Electric Effect"
 date: 2026-05-21
-image: /photos/physics/pulsar.jpg
+image: /graphics/physics/vphoton.jpg
 description: ""
 writer:
   name: Juan
@@ -23,26 +23,10 @@ toc: false
  -->
 
 
-Spectral Relationalities expose the displacement action of the Spatial Layer. 
-
-
-1. Micro Displacement
-
-Examples are Photo electric effect
-
-2. Displacement
-
-3. Macro Displacement
-
-Examples are Blackbody Radiation
-
-
 
 The photoelectric effect is the emission of electrons from a material when illuminated by electromagnetic radiation (light) of a sufficiently high frequency. 
 
 This happens when light assumes the short wavelength of electrons. 
-
-
 
 
 
@@ -120,3 +104,5 @@ But in reality:
 - light is a wave
 - electrons are particles
  -->
+
+ 

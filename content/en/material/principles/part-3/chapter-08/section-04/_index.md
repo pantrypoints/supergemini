@@ -3,7 +3,7 @@ heading: "Section 4"
 title: "Virtual Photon Relationalities"
 linkTitle: Virtual Photon
 date: 2024-12-28
-image: /photos/physics/lightning.jpg
+image: /graphics/physics/vphoton.jpg
 description: ""
 writer:
   name: Juan
@@ -12,5 +12,3 @@ weight: 24
 icon: "Juan"
 toc: false
 ---
-
-

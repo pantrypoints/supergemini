@@ -56,7 +56,7 @@ For example, 2 spheres encountering a bottleneck cannot continue unless one goes
 
 <!-- between points `A` and `B` cannot pass between two closer points `C` and `D` unless one precedes the other. -->
 
-{{< i s="/graphics/physics/bottleneck.png" a="Bottleneck" >}}
+{{< i s="/graphics/d/bottleneck.png" a="Bottleneck" >}}
 
 
 All particles of the first gravitational territory try with all their might to move away from the center `S`.

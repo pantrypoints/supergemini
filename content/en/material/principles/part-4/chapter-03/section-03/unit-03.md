@@ -10,21 +10,33 @@ weight: 8
 ---
 
 
+In Physics, covalent bonding occurs when 2 atoms **share** one or more pairs of valence electrons through "electronegativity" which is the tendency of an atom to attract shared electrons.
 
-Covalent bonding occurs when two atoms **share** one or more pairs of valence electrons through their inter-aetherspace.
+But in Material Superphysics, the mechanism is in the atomic space, not the electrons.
 
-This type of bond typically forms between nonmetal atoms with similar electronegativities. Unlike ionic bonds, covalent bonds create discrete molecules with definite shapes and sizes.
+Covalent bonds forms when atoms have holes or female charges, and plena or male charges. 
+
+These fit each other to combine atoms.
+
+ <!-- through their inter-aetherspace. -->
+
+### Polar and Non polar
+
+- Polar bonds are when one atom has more holes than the other. (e.g., H₂O, NH₃)
+- Non polar bonds have the same holes. (e.g., H₂, O₂, CH₄) 
 
 
-### Key Characteristics
+<!-- This type of bond typically forms between nonmetal atoms with similar electronegativities. Unlike ionic bonds, covalent bonds create discrete molecules with definite shapes and sizes. -->
+
+
+<!-- ### Key Characteristics
 
 - **Electron behavior:** Sharing of electron pairs
 - **Bond strength:** Moderate to very strong (1–10 eV per bond)
 - **Melting point:** Low to moderate (many are gases or liquids at room temperature)
 - **Electrical conductivity:** Poor (no free electrons or ions)
 - **Solubility:** Often soluble in nonpolar solvents
-- **Structure:** Distinct molecules
-
+- **Structure:** Distinct molecules -->
 
 
 ![Covalent](/graphics/physics/covalent.jpg)
@@ -53,10 +65,3 @@ $$
 | Carbon dioxide | CO₂ | Two C=O double bonds | Soda bubbles, respiration |
 | Glucose | C₆H₁₂O₆ | Multiple single/double bonds | Blood sugar |
 | DNA | C, H, O, N, P | Covalent backbone | Genetic material |
-
-
-### Polar vs. Nonpolar Covalent Bonds
-
-- **Nonpolar:** Electrons shared equally (e.g., H₂, O₂, CH₄)
-- **Polar:** Electrons shared unequally due to electronegativity difference (e.g., H₂O, NH₃)
-
