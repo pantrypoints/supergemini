@@ -13,4 +13,5 @@ icon: "Juan"
 
 
 
-We define light as the effect of the aetherspace. 
+We define light as the visual effect of the aetherspace and micro-aetherspace within the aether. 
+

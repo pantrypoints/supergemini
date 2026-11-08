@@ -12,7 +12,7 @@ icon: "Juan"
 ---
 
 
-make a time dilation equation that matches that of special relativity, but is based on the 3 components of timespan, aetherspace (observer or object), spacespan of Superphysics:
+<!-- make a time dilation equation that matches that of special relativity, but is based on the 3 components of timespan, aetherspace (observer or object), spacespan of Superphysics: -->
 
 
 The Spatial Layer is made up of 3 sublayers, which has the macro-aetherspace as the referee or mediator between timespace and spacespan.
