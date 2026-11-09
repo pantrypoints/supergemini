@@ -2,6 +2,7 @@
 title: "The Formation of the Earth"
 heading: Articles 1-5
 weight: 2
+image: "/graphics/physics/earth.png"
 description: "This Earth we inhabit was once formed solely from the fire-aether, like the Sun, although much smaller"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)

@@ -83,11 +83,21 @@ Since the Milky Way is spinning clockwise which is a negative direction, aside f
 
 So quasars are "white" holes. 
 
-This is consistent with Sassani descriptions of white and black holes in the "Inside out universe" where stars are alternating black and white holes. 
-- We explain it as the difference between space particles (2nd Element) and the pure aether vortices (5th Element), a difference that is not used in our universe.
+This is consistent with Sassani equating quasars with white holes:
+
+<!-- descriptions of white and black holes in the "Inside out universe" where stars are alternating black and white holes. 
+- We explain it as the difference between space particles (2nd Element) and the pure aether vortices (5th Element), a difference that is not used in our universe. -->
+
+
+{{< q a="Bashar" c="April 14, 1985" >}}
+That compression point you call the singularity is all probable universes at one point. The energy that can issue from the other side of that doorway which you perceive as a white hole or the quasar.
+{{< /q >}}
 
 
 {{< i s="/photos/physics/quasar.jpg" a="Quasars" c="The centers of quasars are really bright just as the center of galaxies are really dark" >}}
+
+
+So white holes are quasars, in line with Cartesian and Sassani physics.
 
 
 

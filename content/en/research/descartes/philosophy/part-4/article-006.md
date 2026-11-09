@@ -2,6 +2,7 @@
 title: "The 3 Regions of the Earth"
 heading: Articles 6-9
 weight: 3
+image: "/graphics/physics/earth.png"
 description: "The particles of the earth-aether in Region 3 are quite large"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)

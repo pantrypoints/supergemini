@@ -3,6 +3,7 @@ title: "Second Effect: Liquid Properties and Surface Tension"
 # Celestial
 heading: Articles 18-19
 weight: 6
+image: "/graphics/physics/droplet.jpg"
 description: "The Second Effect of Air-Aether Motion: Separate One Body From Another And Purge Liquids"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
@@ -10,6 +11,7 @@ writer:
 c: "darkgoldenrod"
 icon: "Rene Descartes"
 ---
+
 
 
 ## 18. The second effect of air-aether motion: separate one body from another and purge liquids
@@ -88,3 +90,4 @@ A straight line is most uniformly inflected in each of its points when it degene
 And since the angle of contact, the only one that deviates from a straight line, is always smaller than any rectilinear angle, and in no curved line except a circular one is equal everywhere: 
 
 it is certain that a straight line can never be more equally, and less deviate in each of its points than when it degenerates into a circular line. -->
+

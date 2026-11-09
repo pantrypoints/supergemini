@@ -3,6 +3,7 @@ title: "The Motion Of the Air-Aether Globules"
 # Celestial
 heading: Articles 15-19
 weight: 5
+image: "/graphics/physics/earth.png"
 description: "The production of material bodies on Earth depends on 4 principal actions: The general motion of air-aether globules, Gravity, Light, and Heat"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)

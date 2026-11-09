@@ -2,6 +2,7 @@
 title: "The Matter of the Earth"
 heading: Articles 10-14
 weight: 4
+image: "/graphics/physics/earth.png"
 description: "How were the various bodies in Region 3 formed?"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)

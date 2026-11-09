@@ -20,28 +20,25 @@ Unlike turbulence (rotational/chaotic), diffusion is **directional and linear** 
 
 ### Fick's First Law (Steady-State)
 
-\[
-J = -D \frac{dC}{dx}
-\]
+$$J = -D \frac{dC}{dx}$$
+
 
 Where:
 
 | Symbol | Meaning | Unit |
 |---|---|---|
-| \( J \) | Diffusion flux (amount flowing per area per time) | \( \text{mol}/(\text{m}^2 \cdot \text{s}) \) |
-| \( D \) | Diffusion coefficient (depends on gas, temperature, pressure) | \( \text{m}^2/\text{s} \) |
-| \( \frac{dC}{dx} \) | Concentration gradient (change in concentration over distance) | \( \text{mol}/\text{m}^4 \) |
-| \( - \) | Negative sign = flow is **down** the gradient (high → low) | — |
+| J | Diffusion flux (amount flowing per area per time) | \( \text{mol}/(\text{m}^2 \cdot \text{s}) \) |
+| D | Diffusion coefficient (depends on gas, temperature, pressure) | \( \text{m}^2/\text{s} \) |
+| $$\frac{dC}{dx}$$ | Concentration gradient (change in concentration over distance) | \( \text{mol}/\text{m}^4 \) |
+| - | Negative sign = flow is **down** the gradient (high → low) | — |
 
 ### Fick's Second Law (Time-Dependent)
 
-\[
-\frac{\partial C}{\partial t} = D \frac{\partial^2 C}{\partial x^2}
-\]
+$$\frac{\partial C}{\partial t} = D \frac{\partial^2 C}{\partial x^2}$$
+
 
 This predicts **how concentration changes over time** as diffusion proceeds.
 
----
 
 ## Key Properties of Gas Diffusion
 
@@ -56,12 +53,9 @@ This predicts **how concentration changes over time** as diffusion proceeds.
 
 ### Graham's Law of Effusion/Diffusion
 
-\[
-\frac{r_1}{r_2} = \sqrt{\frac{M_2}{M_1}}
-\]
+$$\frac{r_1}{r_2} = \sqrt{\frac{M_2}{M_1}}$$
 
-Lighter gas diffuses faster. Example: helium \( (M = 4) \) diffuses ~2.6× faster than oxygen \( (M = 32) \).
-
+Lighter gas diffuses faster. Example: helium (M = 4) diffuses ~2.6× faster than oxygen (M = 32).
 
 
 ## Real-Life Examples
@@ -79,7 +73,7 @@ Lighter gas diffuses faster. Example: helium \( (M = 4) \) diffuses ~2.6× faste
 | **9. Smell of cooking** | Aroma molecules diffuse from kitchen to other rooms |
 | **10. Landfill methane** | Methane diffuses through soil and into the atmosphere |
 
----
+
 
 ## Diffusion vs. Other Gas Forces
 
@@ -92,8 +86,6 @@ Lighter gas diffuses faster. Example: helium \( (M = 4) \) diffuses ~2.6× faste
 | **Air Pressure** | Displacement (linear) | High → low pressure | Macro |
 | **Coriolis** | Cohesion (rotational) | Deflecting, wrapping | Macro |
 
----
-
 ## Summary
 
 | Question | Answer |
@@ -105,7 +97,7 @@ Lighter gas diffuses faster. Example: helium \( (M = 4) \) diffuses ~2.6× faste
 | Real examples? | Perfume spreading, \( O_2 \) into blood, gas leaks, cooking smells |
 | What's its rotational counterpart? | **Turbulence** (Micro Cohesion) |
 
----
+
 
 **Bottom line:** Gas diffusion is the **linear, invisible marching** of molecules from dense to sparse — the Micro Displacement force that pairs with turbulence's rotational chaos in Superphysics' Gas Relationalities.
 
