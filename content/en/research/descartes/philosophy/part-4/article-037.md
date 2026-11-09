@@ -2,6 +2,7 @@
 title: "The Formation of the Earth"
 heading: Articles 37-39
 weight: 12
+image: "/graphics/physics/mountain.jpg"
 description: "How the lower body C was divided into several others"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)

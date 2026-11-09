@@ -3,6 +3,7 @@ title: The Mountains, Seas, and the Air
 # title: "How were these bodies on Earth generated?"
 heading: Articles 40-47
 weight: 14
+image: "/graphics/physics/mountain.jpg"
 description: "During the daytime and summer, the Sun decompresses half of Body D with its light and heat"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)

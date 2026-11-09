@@ -3,6 +3,7 @@ title: "The Second Action of Air-Aether: Gravity"
 heading: Articles 20-23
 weight: 7
 description: "The motion of the air-aether that makes droplets round also makes planets round"
+image: "/photos/physics/zerog.jpg"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -182,4 +183,5 @@ Therefore, it has fewer or narrower pores that has air-aether. If `Body B` desce
 
 <!-- mass of air -->
 <!-- More air-aether is in that space than in the body. And so that air-aether will exert a force in that body to depress that body. -->
+
 

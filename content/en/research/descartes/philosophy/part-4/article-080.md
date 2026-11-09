@@ -2,6 +2,7 @@
 title: "The Nature of Fire"
 heading: Article 80-86
 weight: 24
+image: "/graphics/physics/friction.jpg"
 description: "How can flame be ignited in these cavities? What is the nature of fire?"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
@@ -163,3 +164,5 @@ The action of these sunbeams has globules of the air-aether as their substrate. 
 Since it originates from the fire-aether of the Sun, it has sufficient speed to ignite fire.
 
 Additionally, so many rays can be focused at the same time that they have enough force to agitate terrestrial particles with the same speed.
+
+

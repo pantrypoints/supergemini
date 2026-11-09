@@ -2,6 +2,7 @@
 title: "How Does Light Move Air Particles?"
 heading: Articles 28-31
 weight: 10
+image: "/graphics/d/fig_58.jpg"
 description: "Heat and Light as facilitated by the air-aether"
 writer:
   name: Rene Descartes
@@ -34,7 +35,7 @@ This creates various motions in these particles.
 
 For example, if `AB` is an earth-aether particle in the upper region of the Earth, leaning towards another particle `C`, with many other particles like `D, E, F` interspersed between them.
 
-{{< img src="/graphics/physics/fig_58.jpg" alt="Solar Wind" >}}
+{{< img src="/graphics/d/fig_58.jpg" alt="Solar Wind" >}}
 
 
 These intervening particles may hinder the Sun's rays `G`, `G` from pressing on the extremity `B` but not on `A`. 
