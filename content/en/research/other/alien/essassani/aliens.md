@@ -17,6 +17,7 @@ Grays Zeta | Genetically modified by Anunnaki and planted into Zeta Reticuli, ov
 Humans | Genetically manipulated homo erectus by the Anunnaki
 Lyrian | (Vega?) The Anunnaki was an offshoot of Lyrans as part of the Lyran exodus since the Lyran star blew up
 Mantis Beings | Manages the hybridization agenda
+Neutrals | 6-8 feet tall members of the Association
 Onatayu | DNA experts
 Orion | From Hoova in the star system of Mintaka, these controlled humans
 Ovma | 10 feet spheres 12 tentacles that roll around in the inside-out universe
