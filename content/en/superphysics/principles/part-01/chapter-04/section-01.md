@@ -7,6 +7,8 @@ image: /photos/meta/adam.jpg
 description: "The current prevailing belief among humans is that material phenomena is the cause of mental phenomena"
 icon: "Juan"
 toc: false
+aliases:
+  /superphysics/principles/chapter-01/section-02/
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
