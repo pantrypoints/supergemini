@@ -246,6 +246,9 @@ How did Taras Bulba, Genghis Khan, and Rasputin get harvested prior to the harve
 {{< l a="Ra" >}}
 It is the right/privilege/duty of those opening consciously the gate to intelligent infinity to choose the manner of their leaving of the density. Those of negative orientation who so achieve this right/duty most often choose to move forward in their learn/teaching of service to self.{{< /l >}}
 
+
+### Spontaneous Human Combustion 
+
 {{< r a="Don Elkins" >}}
 Is this the reason for what we call spontaneous combustion?{{< /r >}}
 
