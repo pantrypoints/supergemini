@@ -15,9 +15,82 @@ toc: false
 
 
 
-The aetherspace manifests as atomic space. 
+In Descartes' Physics, a proton (which we call a micro-aetherspace) is a held by 3 low density space particles (which we call the nano-aetherspace).
 
-This leads to the fine any hyperfine structure of the atom. 
+This is opposed by high density space particles called the aether or empty space outside of the proton or atom. 
+
+When a proton gets an electron, the nano-aetherspaces becomes the aetherspace collectively as atomic space. 
+
+These nano-aetherspaces rotate clockwise around the nucleus which Physics interprets as "nuclear spin".
+
+This gives us a table:
+
+Proton | Nano-aetherspaces | Physics Interpretation
+--- | --- | ---
+1 | 3 | n, l, m
+2 | 6 | n1, l1, m1, n2, l2, m2
+3 | 9 | n1, l1, m1, n2, l2, m2, n3, l3, m3
+4 | 12 | .. 
+5 | 15 | ..
+
+
+
+This leads to the "fine" and "hyperfine" structure of the atom which is based on spins
+
+Structure | Physics Cause | Superphysics Cause
+--- | --- | ---
+Fine | Electron spin + orbit | Electron spin + aetherspace revolution and layers 
+Hyperfine | Electron spin + nucleus spin | Electron spin + aetherspace revolution and layers 
+
+
+
+## Change of Color ~~Spectral Lines~~
+
+The main confusion in understanding the Fine Structure is the fact that Physics bases it on the splitting of "spectral lines" when the gas or element is bombarded with electrons as in a vacuum tube. 
+
+When in fact, it just means that colors are emitted with slight variation. 
+
+So we stick to "change in color" to explain the fine structure. 
+
+We explain that this change in color is from the differences in the spheres. For example, with a hydrogen atom jumping down from sphere 3 to sphere 1. This causes a change in color. 
+
+
+## The Fine Structure Constant is based on √3
+
+Physics derived the "Fine Structure Constant" of 1/137 from this change in color in the Hydrogen atom. 
+
+This constant is:
+- applied in all color changes in all Elements
+- really the ratio between the speed of the aether or 2nd Element (called speed of light in Physics) and the speed of the aetherspace or atomic space or 3rd Element
+
+This constant is based on √3
+- 3 represents 3 dimensions like a sphere
+- 2 represents 2 dimensions like linear motion of an electron
+
+This creates 1.732 as the ratio of 3D space of the nano-aetherspace sphere to the 2D motion of the electron through the sphere/s.
+
+The electron revolves clockwise around the proton through the spheres while spinning anticlockwise. 
+
+However, the spheres also rotate clockwise. This reduces the speed of the electron to 1/140 or (1/√3)^9. 
+
+
+## Leads to Intra-Aetherspace
+
+As the protons increase, the spheres increase:
+- The inner spheres revolve slower
+- The outer spheres revolve faster
+
+Metals have thick outer spheres that carry over to other metal atoms, creating a liquid space which we call the intra-aetherspace that lets electrons flow out, creating a "sea of electrons". 
+
+
+
+
+<!-- The valley of stability is caused by 3 for 2, 9 for 8, 18 for 20, 27 for 28, 54 for 50, 81 for 82, and 126 for 126), multiples of 9
+
+The outer electrons move slowest because the outer spheres are moving fastest. This leads to outer spheres going across atoms called sea of electrons. The inner spheres moves slowest. 
+
+
+
 
 Bohr's Quantum Theory Of Line-Spectra Part 2 Section 3 explains the "fine structure" which is based on Sommerfield.
 
@@ -38,7 +111,6 @@ We call the nucleus of the atom as the micro-aetherspace which has 3 quantum par
 
 These are shaped as dumbbells projecting from the center of the atom. 
 
-<!-- Unlike Newton's system which is based on mass, Bohr's system is based on energy states and levels. -->
 
 
 ### The Fine Structure Constant
@@ -59,11 +131,11 @@ This is why the electron around a nucleus follows different dynamics from planet
 
 So 1/137 is an indication that a thing is probabilistic just as 3.14 indicates a circle.
 
-<!-- The quantum states are consistent with Descartes' First Law of Motion which is based on the state of the body, which is different from Newton's First Law which is based on inertia from rest mass.
+ The quantum states are consistent with Descartes' First Law of Motion which is based on the state of the body, which is different from Newton's First Law which is based on inertia from rest mass.
 
 This whole concept of rest mass is one of the illusions of Nature which Rene Descartes debunked over and over with his explanation of the true nature of motion, rest, and space, which occupies nearly half of Part 2 of Principia Philosophia. -->
 
-<!-- Unlike the solar system, electrons do not follow a sequential orbit around the nucleus. This is because the space inside an atom is the aetherspace.    -->
+<!-- Unlike the solar system, electrons do not follow a sequential orbit around the nucleus. This is because the space inside an atom is the aetherspace.  
 
 
 ### The Aetherspace Versus Spacetime
@@ -101,7 +173,7 @@ Lastly, the emission of hydrogen lines as radiowaves or light is a consequence o
 - The less energy, the more it becomes solid grapes staying together.
 
 These then dictate how the electron will jump its shells. 
-
+ -->
 
 
 
