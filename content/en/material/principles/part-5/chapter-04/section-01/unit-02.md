@@ -30,18 +30,34 @@ That model was based on Newtonian gravity creating orbits by centripetal forces.
 
 {{< i s="/graphics/physics/hyperfine.jpg" a="Atom model" >}}
 
-Material Superphysics, which is derived from Descartes' Physics, explains that the splitting of spectral lines is from the property of the aetherspace to separate identities. 
+Material Superphysics, which is derived from Descartes' Physics, explains that the splitting of spectral lines is from the property of the aetherspace, called atomic space, to separate identites. 
+
+We call the nucleus of the atom as the micro-aetherspace which has 3 quantum particles for every proton called quarks by Physics which we call nano-aetherspace. 
+- 2 protons means 6 nano-aetherspace or quarks
+- 3 protons means 9 nano-aetherspace or quarks
+
+These are shaped as dumbbells projecting from the center of the atom. 
 
 <!-- Unlike Newton's system which is based on mass, Bohr's system is based on energy states and levels. -->
 
-The different energy levels changes the states of the aetherspace. 
 
-These states follow the 1st Law of Descartes which we call the No Void Rule. 
+### The Fine Structure Constant
+
+The different energy levels are from the sets of nano-aetherspace interacting with each other. 
+
+This scales in multiples of 3. 
+
+The fine structure constant is 1/137 because the static value is 1/138. The difference of 1 is from the micro-aetherspace.
+
+The missing 1 creates a void which trigger the 1st Law of Descartes which we call the No Void Rule. 
+
+This makes the atomic space dynamic and probabilistic instead of sequential or linear. 
 
 This is why the electron around a nucleus follows different dynamics from planets around a star. 
-- the planets follow the dynamics of virtual space particles
+- the planets follow the dynamics of the aether or space particles
 - electrons follow the dynamics of the aetherspace
 
+So 1/137 is an indication that a thing is probabilistic just as 3.14 indicates a circle.
 
 <!-- The quantum states are consistent with Descartes' First Law of Motion which is based on the state of the body, which is different from Newton's First Law which is based on inertia from rest mass.
 
