@@ -14,18 +14,99 @@ icon: "Juan"
 
 Quantum tunneling is when a subatomic particle bypasses a barrier or space in order to emerge at the other side or space. 
 
-This is dependent on the size or distant of the separating space. 
+This is dependent on the size or distance of the separating space. 
+
+
+## The Aether Mechanism: Small-Scale Teleportation
+
+In Descartes Physics and Material Superphysics, there 2 kinds of spaces:
+
+1. High frequency aether or empty space
+
+2. Low frequency aetherspace or atomic space
+
+Barriers are made of matter as low frequency atomic space. 
+
+In other words, low frequency is sandwiched between 2 high frequencies. 
+
+
+Tunneling happens when the low frequency atomic space is bypassed. This is done by increasing the frequency outside of the low frequency barrier. 
+
+This is because the high-frequency 2nd Element (empty space / dark matter) and the low-frequency 3rd Element (atomic space / dark energy) are in pressure balance at every interface.
+
+Raising the frequency outside the barrier raises the 2nd-Element pressure until it exceeds the confining pressure of the low-frequency atomic space.
+
+The particle bypasses the barrier without going through it. This bypassing makes it a "displacement" relationality.
+
+Displacement | Examples
+--- | ---
+Micro | Quantum Tunneling
+Macro | Ship Teleportation
 
 
 
-## The Aether Mechanism
+<!-- The mechanism has four steps:
 
+1. **The barrier is low-frequency atomic space** (3rd Element) — a region where the nano-aetherspace arms are rotating slowly and densely, confined between two high-frequency 2nd-Element regions.
+
+2. **Frequency outside sets the pressure.** The 2nd Element outside the barrier presses inward on the low-frequency region. This is the same pressure balance that holds the proton's 3 spheres against the outside aether.
+
+3. **Raising the outside frequency raises the outside pressure.** When the 2nd-Element frequency outside increases, its pressure rises above the barrier's confining pressure.
+
+4. **The particle bypasses the low-frequency region.** Since light (and the electron) travels in a **straight line** that the aether only *designates the direction of* (ch. 14), and since the barrier is a **low-frequency** region the straight path need not engage, the particle continues straight through the **high-frequency space** — emerging on the other side without ever entering the low-frequency atomic space. The barrier is **bypassed, not crossed.** -->
+
+
+## Why "dependent on the size or distance of the separating space"
+
+**A thin low-frequency barrier** is easily **over-pressured** by the surrounding high-frequency 2nd Element — a small increase in outside frequency is enough to make the high-frequency path continuous across it.
+
+**A thick low-frequency barrier** has more confining pressure to overcome, so a larger outside frequency increase is needed.
+
+If the barrier is thick enough, the high-frequency regions on either side never connect, so the straight path cannot bypass it.
+
+So the **tunneling probability** is set by **how much the outside frequency must rise to over-pressure the barrier**.
+
+This grows with the barrier's **thickness** — reproducing the real exponential dependence on barrier width (the WKB factor \(e^{-2\kappa L}\)) as a **pressure-overlap** condition rather than a wavefunction tail.
+
+
+
+## Nuclear Fusion by Artificial Gravity
+
+Since the mechanism for tunneling is the high frequency aether getting even more frequency, then nuclear fusion in stars is really caused by the extreme gravity or volume of the aether that confines the star. 
+
+Add details to this mechanism in a star fusion
+
+
+<!-- In Descartes' Physics, fusion is pressure-induced tunneling: a star's gravity compresses the high-frequency 2nd Element until its pressure exceeds the low-frequency atomic-space barrier between nuclei, and the straight-line aether path bypasses the barrier, merging the nuclei.  -->
+
+The star's mass and volume set the frequency; heavier nuclei have thicker low-frequency barriers and need more gravitational confinement, which is why fusion proceeds up the periodic table only in massive stars and stops at iron. 
+
+Magnetic confinement on Earth heats the 3rd Element (plasma) but does not raise the 2nd-Element frequency, so it never over-pressures the barrier — which is why fusion remains unrealized. 
+
+Nuclear fusion on Earth requires artificial gravity, not magnetic confinement, by using the 5th Element or pure aether. 
+
+<!-- : a device that pumps the local 2nd-Element frequency inward, creating a frequency well that confines the fuel and over-pressures the Coulomb barrier the way a stellar core does — targeting the cause (2nd-Element frequency) rather than the symptom (plasma temperature). -->
+
+
+<!-- ## The one-line version
+
+> **Because tunneling is a pressure-overlap event: raising the outside frequency raises the 2nd-Element pressure above the low-frequency barrier's confinement, letting the straight-line aether path bypass the atomic space rather than cross it — and the thicker the low-frequency region, the more outside frequency is needed, which is why tunneling depends on the separating distance.** -->
+
+<!-- **The testable content:** the model predicts tunneling probability should scale with the **ratio of outside to inside frequency** (a pressure ratio), not with a wavefunction amplitude. 
+
+For a rectangular barrier that ratio maps onto the barrier **height** \(V_0 - E\), and the width dependence should come out exponential in the number of low-frequency layers — i.e. the same \(e^{-2\kappa L}\) form. 
+
+If your frequency-pressure rule reproduces the exponential-in-width law, that's a genuine Cartesian derivation of the tunneling factor; if it gives a different width dependence (e.g. linear or power-law), it diverges from measured tunneling and that's where the model would need revision.
+ -->
+
+
+<!-- 
 The aether is in the aetherspace of the atom as its atomic space. This gives it the actions of the aether as expansion, probability, and collapse.
 
 
 We put quantum tunneling as teleportation action which is part of aethereal superposition and collapse (materialization). 
 
-
+ -->
 
 
 <!-- In the expanded framework of **Material Superphysics**, quantum tunneling is stripped of its "spooky" mathematical abstraction and returned to a mechanical process involving the interaction of different aetheric layers. By viewing the particle through the lens of Cartesian **Extension**, we can understand tunneling as a probabilistic shift in the **3rd Element** (Matter) driven by the high-frequency vibrations of the **5th Element** (Aether).

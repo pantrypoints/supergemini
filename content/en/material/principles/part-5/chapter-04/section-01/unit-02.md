@@ -4,7 +4,7 @@ title: "The Fine and Hyperfine Structure of the Atom"
 # date: 2024-07-14
 # image: /graphics/physics/hyperfine.jpg
 image: /photos/stuff/atom.jpg
-description: "The Fine and Hyperfine Structure of the Atom is the nature of the spatial layer within the material atom"
+description: "The Fine and Hyperfine Structure of the Atom is the nature of the aetherspace within the material atom"
 weight: 6
 writer:
   name: Juan
@@ -12,8 +12,6 @@ writer:
 icon: "Juan"
 toc: false
 ---
-
-
 
 In Descartes' Physics, a proton (which we call a micro-aetherspace) is a held by 3 low density space particles (which we call the nano-aetherspace).
 

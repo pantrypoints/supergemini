@@ -1,7 +1,9 @@
 ---
 heading: "Unit 2 Micro Displacement"
-title: "Bob Lazar's Gravity-A Waves as Dark Energy"
+title: "Nuclear Fusion Quantum Tunneling"
+# title: "Bob Lazar's Gravity-A Waves as Dark Energy"
 # date: 2024-07-22
+draft: true
 weight: 5
 image: /photos/objects/ufo.jpg
 description: "Bob Lazar gave his descriptions of the Gravity-A waves that power the Gray UFO in Area 51"
@@ -12,12 +14,12 @@ icon: "Juan"
 ---
 
 
-The aetherspace, when increased in density, will eventually match the macro-aetherspace. This will cause teleportation. 
+<!-- The aetherspace, when increased in density, will eventually match the macro-aetherspace. This will cause teleportation. 
 
 
 Bob Lazar called the macro-aetherspace as Gravity-A waves that power the Gray UFO found in Area 51. 
 
-{{< youtube 02T4dpYyytU >}}
+{{< youtube 02T4dpYyytU >}} -->
 
 <!-- In Material Superphysics, this is the same as the aetherspace which surrounds the quarks in a proton. 
 
