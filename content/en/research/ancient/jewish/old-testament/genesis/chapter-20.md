@@ -1,10 +1,10 @@
 ---
 heading: Genesis 20
 title: "Abimelech; Ishmael"
-description: "We replace God with Anu of the Anunnaki who created humans from Homo Erectus, so that the Bible story actually makes sense" 
+description: "We replace God with Saklas of the Saklasnnaki who created humans from Homo Erectus, so that the Bible story actually makes sense" 
 weight: 38
 c: "firebrick"
-a: "Anu"
+a: "Saklas"
 ---
 
 
@@ -17,21 +17,26 @@ She is my sister. Abimelech king of Gerar sent, and took Sarah.
 {{< /r >}} 
 
 
-<sup>3</sup> Anu came to Abimelech in a dream by night, and said to him:
+<sup>3</sup> Saklas came to Abimelech in a dream by night, and said to him:
 
 You are a dead man because the woman which you have taken is another man’s wife. 
 
 <sup>4</sup> But Abimelech had not come near her. He said:
 
-Anu, will you slay also a righteous nation?
+Saklas, will you slay also a righteous nation?
 
 <sup>5</sup> Said he not unto me, She [is] my sister? and she, even she herself said, He [is] my brother: in the integrity of my heart and innocency of my hands have I done this.
 
-<sup>6</sup> Anu said to him in a dream:
+<sup>6</sup> Saklas said to him in a dream:
 
+
+{{< l a="Saklas" >}}
 I know that you did this in the integrity of your heart. For I also withheld you from sinning against me: therefore suffered I you not to touch her. 
 
 <sup>7</sup> So restore the man his wife; for he [is] a prophet, and he shall pray for you, and you shalt live. If you restore [her] not, know you that you shalt surely die, thou, and all that [are] thine.
+{{< /l >}}
+
+
 
 <sup>8</sup> Abimelech rose early in the morning, and called all his servants, and told all these things in their ears: and the men were sore afraid. 
 
@@ -46,12 +51,12 @@ What have you done to us? What have I offended you, that you have brought on me 
 
 {{< l a="Abraham" >}}
 <sup>11</sup> I thought that:
-- the fear of Anu is not in this place 
+- the fear of Saklas is not in this place 
 - they will slay me for my wife’s sake.
 
 <sup>12</sup> She is my sister. She is the daughter of my father, but not the daughter of my mother. She became my wife.
 
-<sup>13</sup> Anu caused me to wander from my father’s house, that I said to her:
+<sup>13</sup> Saklas caused me to wander from my father’s house, that I said to her:
 
 This is your kindness which you shall show to me. Everywhere we go, tell people that I am your brother.
 {{< /l >}}
@@ -69,8 +74,8 @@ This is your kindness which you shall show to me. Everywhere we go, tell people 
 Thus she was reproved.
 
 
-<sup>17</sup> So Abraham prayed to Anu.
+<sup>17</sup> So Abraham prayed to Saklas.
 
-Anu healed Abimelech, his wife, and his maidservants. They bare children.
+Saklas healed Abimelech, his wife, and his maidservants. They bare children.
 
-<sup>18</sup> Anu had fast closed up all the wombs of the house of Abimelech, because of Sarah wife.
+<sup>18</sup> Saklas had fast closed up all the wombs of the house of Abimelech, because of Sarah wife.

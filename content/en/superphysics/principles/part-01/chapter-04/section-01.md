@@ -177,13 +177,13 @@ The more negative or hostile they react to these natural concepts, the more mate
 <!-- Soul is a 
 Mind is a -->
 
-A materialist is a mind that operates on the Crude and Material Layers.
+A **materialist** is a mind that operates on the Crude and Material Layers. In metaphysics, this can be called '3rd Density' Mentality.
 
-An aetherealist is a mind that operates on the Aethereal Layers.
+An **aetherealist** is a mind that operates on the Aethereal Layers. In metaphysics, this can be called '4th Density' Mentality.
 
-A spiritualist is a mind that operates on the Subtle and Astral Layers
+A **spiritualist** is a mind that operates on the Subtle and Astral Layers. In metaphysics, this can be called '5th Density' Mentality.
 
-A englightened mind operates in the Subtle, Astral, Causal, and Essential Layers.
+A **englightened mind** operates in the Subtle, Astral, Causal, and Essential Layers. In metaphysics, this is from '4th to 7th Density' Mentality.
 
 
 ## So What's the Use of Exposing the Materialist View?
@@ -210,4 +210,3 @@ For example:
 
 
 Identifying materialism in the sciences lets people think outside the box for better and more natural solutions which we will discuss in the next section as the natural view.
-

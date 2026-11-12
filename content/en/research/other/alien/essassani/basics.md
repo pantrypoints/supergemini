@@ -165,7 +165,7 @@ I realized it's because the Sassani are already unified and based on 4th density
 This is whatever is most exciting to you at the moment, in the highest* sense.  Do this every moment that you can.
 
 
-{{< n n="Highest here means dharmic. Unfortunately, the channel Darryl does not know Sanskrit and so the best English word is 'highest'. However, 'highest' does not automatically imply spirituality. This is why Bashar has to clarify that 'highest' will automatically be integrative and self-supporting." >}}
+<!-- {{< n n="Highest here means dharmic. Unfortunately, the channel Darryl does not know Sanskrit and so the best English word is 'highest'. However, 'highest' does not automatically imply spirituality. This is why Bashar has to clarify that 'highest' will automatically be integrative and self-supporting." >}} -->
 
 
 2. Do this to the best of your ability. 
