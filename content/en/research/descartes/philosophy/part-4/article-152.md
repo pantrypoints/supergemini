@@ -2,6 +2,7 @@
 title: "Why do 2 Magnets Attract Each Other?"
 heading: Articles 152-154
 weight: 44
+image: /graphics/physics/magnetrepel.jpg
 description: "Enumeration of properties of magnetic properties"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)

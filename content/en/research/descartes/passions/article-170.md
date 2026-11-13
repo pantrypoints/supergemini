@@ -4,6 +4,7 @@ title: Indecision
 weight: 72
 description: We must reject the common notion that there exists outside of us a Fortune which causes things to happen according to its pleasure
 c: "#DE3163"
+image: "/graphics/physics/fig_83-4.jpg"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -57,3 +58,5 @@ However, one must still hope—or even be assured—that the intended outcome wi
 ne cannot be assured and despair of the same thing simultaneously. 
 
 For instance, Roman Decii rushing into enemy lines embraced certain death, despairing of their survival yet hoping to inspire their soldiers to victory or secure posthumous glory.
+
+

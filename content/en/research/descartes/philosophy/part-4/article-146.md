@@ -2,6 +2,7 @@
 title: "How the virtual photons flow through the Earth"
 heading: Article 146-149
 weight: 42
+image: /graphics/physics/magnetearth.jpg
 description: "The virtual photons coming from the southern part of the sky `E` are twisted in a completely different way than those coming from the north `F`"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
@@ -119,5 +120,3 @@ On the other hand, the Northern particles, coming from all around through the ai
 However, the Southern particles entering the magnet `M`, ascending from the entire region of the Earth between `B` and `M`, have the force to depress its pole (a) obliquely. 
 
 They are not hindered by the Northern particles, which approach the other pole `B` of the magnet from the region `AC` of the Earth, whether it is elevated or depressed.
-
-

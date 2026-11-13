@@ -2,6 +2,7 @@
 title: "Why do the parts of the magnet, which were united before, also repel each other?"
 heading: Article 155-162
 weight: 46
+image: /graphics/physics/fig_82-4.jpg
 description: "Why are 2 points, which were formerly contiguous in one magnet, in its fragments poles of different virtues?"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)

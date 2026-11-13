@@ -2,6 +2,7 @@
 title: "The force of attraction in amber, wax, resin, and similar substances"
 heading: Article 184-188
 weight: 54
+image: /graphics/physics/glass.jpg
 description: "Amber, jet, wax, resin, glass, and similar substances also have the ability to attract small objects"
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
