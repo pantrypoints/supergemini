@@ -66,7 +66,6 @@ Their fierce conflict does not seek balance but resolves into a higher Synthesis
 
 ## The 2 Forces Create Waves and Layers 
 
-
 The 2 Forces Create:
 
 - the 5 Layers or 5 Elements from a static perspective
@@ -101,33 +100,6 @@ It follows that a vortex is formed from energy imbalance, when one particle is s
 
 This means not all phenoena has vortices. The Positive and Negative thus express themselves differently when there is a vortex or no vortex.
 
-<!-- This is described by the 4th Rule of Cartesian Motion which is about the presence of absence of vortices. 
-
-This allows us an easier way to classify the polarities in phenomena so that all phenomena happen:
-
-1. Independently
-
-This is when the identity is alone. This leads to vortex-less phenoemena. This is Negative.
-
-2. Dependently
-
-This is when the identity is not alone. This leads to vortex phenoemena. This is Positive. -->
-
-
-<!-- Layer | Positive | Negative
---- | --- | ---
-Probability | Existing | Non-Existing
-Aethereal Vortex | Dharmic | Adharmic
-Aethereal Vortexless | Dynamic | Static 
-Spatial Vortex |  Anticlockwise Rotation | Clockwise Rotation
-Spatial Vortexless | High Pressure | Low Pressure
-Radiant Vortex | Male Charge | Female Charge
-Radiant Vortexless | Particle Spin 1/2 | Particle Spin 1 or 0 
-Convertible Vortex | Left-Handed | Right-Handed
-Convertible Vortexless | Reaction | Non-Reaction
-Material Vortex | Matter | Antimatter
-Material Vortexless | Gas | Solid -->
-
 
 {{< i s="/graphics/physics/neutralcharge.gif" a="Positive and Negative" >}}
 
@@ -153,8 +125,6 @@ In the Spatial Layer, this manifests as:
 
 In the Radiant Layer, this manifests as:
 - a male charge for the negative charge in Physics, and female charge for the positive charge
-- particle spin 0 and 1, versus 1/2, 3/2, 5/2
-
 
 <!-- > e.g. "Like charges (male and male, female and female) repel." -->
 
@@ -178,5 +148,3 @@ In the Material Layer, this manifests as:
 
 
 The details of each duality will be explained in each Part. 
-
-

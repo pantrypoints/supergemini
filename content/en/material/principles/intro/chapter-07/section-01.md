@@ -104,6 +104,18 @@ But this material force is not so relevant to radiant objects such as light whic
 
 
 
+### The Spin of Quantum Mechanics is Different
+
+The Spin of Quantum Mechanics is just the speed of the particle relative to the speed of space particles:
+
+- 0 means space speed is irrelevant
+- 1/2 means it travels slower than space
+- 1 is same speed as space. This is why light is spin 1
+- 3/2 means it is not moving in space
+
+These are not the same as the spin in Material Superphysics
+
+
 {{< d t="Update: Sept 11, 2025" >}}
 Overhauled action to connect to relationality, impact, and force
 {{< /d >}}
