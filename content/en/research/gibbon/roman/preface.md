@@ -10,10 +10,7 @@ c: "green"
 
 <!-- 1782 (Written), 1845 (Revised) -->
 
-
-Chapter I: The Extent Of The Empire In The Age Of The Antonines—Part I.
-
-The Extent And Military Force Of The Empire In The Age Of The Antonines.
+<!-- Chapter I: The Extent Of The Empire In The Age Of The Antonines—Part I.
 
 Chapter I: The Extent Of The Empire In The Age Of The Antonines.—Part II.
 
@@ -722,28 +719,10 @@ Chapter LXX: Final Settlement Of The Ecclesiastical State.—Part IV.
 
 Chapter LXXI: Prospect Of The Ruins Of Rome In The Fifteenth Century.—Part I.
 
-Chapter LXXI: Prospect Of The Ruins Of Rome In The Fifteenth Century.—Part II.
-
-HISTORY OF THE DECLINE AND FALL OF THE ROMAN EMPIRE
-Edward Gibbon, Esq.
-With notes by the Rev. H. H. Milman
-Vol. 1
-1782 (Written), 1845 (Revised)
-Introduction
-Preface By The Editor.
-The great work of Gibbon is indispensable to the student of history. The literature of Europe offers no substitute for “The Decline and Fall of the Roman Empire.” It has obtained undisputed possession, as rightful occupant, of the vast period which it comprehends. However some subjects, which it embraces, may have undergone more complete investigation, on the general view of the whole period, this history is the sole undisputed authority to which all defer, and from which few appeal to the original writers, or to more modern compilers. The inherent interest of the subject, the inexhaustible labor employed upon it; the immense condensation of matter; the luminous arrangement; the general accuracy; the style, which, however monotonous from its uniform stateliness, and sometimes wearisome from its elaborate ar., is throughout vigorous, animated, often picturesque, always commands attention, always conveys its meaning with emphatic energy, describes with singular breadth and fidelity, and generalizes with unrivalled felicity of expression; all these high qualifications have secured, and seem likely to secure, its permanent place in historic literature.
-
-This vast design of Gibbon, the magnificent whole into which he has cast the decay and ruin of the ancient civilization, the formation and birth of the new order of things, will of itself, independent of the laborious execution of his immense plan, render “The Decline and Fall of the Roman Empire” an unapproachable subject to the future historian: 101 in the eloquent language of his recent French editor, M. Guizot:—
+Chapter LXXI: Prospect Of The Ruins Of Rome In The Fifteenth Century.—Part II. -->
 
 
-101 (return)
-[ A considerable portion of this preface has already appeared before us public in the Quarterly Review.]
-
-“The gradual decline of the most extraordinary dominion which has ever invaded and oppressed the world; the fall of that immense empire, erected on the ruins of so many kingdoms, republics, and states both barbarous and civilized; and forming in its turn, by its dismemberment, a multitude of states, republics, and kingdoms; the annihilation of the religion of Greece and Rome; the birth and the progress of the two new religions which have shared the most beautiful regions of the earth; the decrepitude of the ancient world, the spectacle of its expiring glory and degenerate manners; the infancy of the modern world, the picture of its first progress, of the new direction given to the mind and character of man—such a subject must necessarily fix the attention and excite the interest of men, who cannot behold with indifference those memorable epochs, during which, in the fine language of Corneille—
-
-‘Un grand destin commence, un grand destin s’achève.’”
-
-This extent and harmony of design is unquestionably that which distinguishes the work of Gibbon from all other great historical compositions. He has first bridged the abyss between ancient and modern times, and connected together the two great worlds of history. The great advantage which the classical historians possess over those of modern times is in unity of plan, of course greatly facilitated by the narrower sphere to which their researches were confined. Except Herodotus, the great historians of Greece—we exclude the more modern compilers, like Diodorus Siculus—limited themselves to a single period, or at ‘east to the contracted sphere of Grecian affairs. As far as the Barbarians trespassed within the Grecian boundary, or were necessarily mingled up with Grecian politics, they were admitted into the pale of Grecian history; but to Thucydides and to Xenophon, excepting in the Persian inroad of the latter, Greece was the world. Natural unity confined their narrative almost to chronological order, the episodes were of rare occurrence and extremely brief. To the Roman historians the course was equally clear and defined. Rome was their centre of unity; and the uniformity with which the circle of the Roman dominion spread around, the regularity with which their civil polity expanded, forced, as it were, upon the Roman historian that plan which Polybius announces as the subject of his history, the means and the manner by which the whole world became subject to the Roman sway. How different the complicated politics of the European kingdoms! Every national history, to be complete, must, in a certain sense, be the history of Europe; there is no knowing to how remote a quarter it may be necessary to trace our most domestic events; from a country, how apparently disconnected, may originate the impulse which gives its direction to the whole course of affairs.
+<!-- This extent and harmony of design is unquestionably that which distinguishes the work of Gibbon from all other great historical compositions. He has first bridged the abyss between ancient and modern times, and connected together the two great worlds of history. The great advantage which the classical historians possess over those of modern times is in unity of plan, of course greatly facilitated by the narrower sphere to which their researches were confined. Except Herodotus, the great historians of Greece—we exclude the more modern compilers, like Diodorus Siculus—limited themselves to a single period, or at ‘east to the contracted sphere of Grecian affairs. As far as the Barbarians trespassed within the Grecian boundary, or were necessarily mingled up with Grecian politics, they were admitted into the pale of Grecian history; but to Thucydides and to Xenophon, excepting in the Persian inroad of the latter, Greece was the world. Natural unity confined their narrative almost to chronological order, the episodes were of rare occurrence and extremely brief. To the Roman historians the course was equally clear and defined. Rome was their centre of unity; and the uniformity with which the circle of the Roman dominion spread around, the regularity with which their civil polity expanded, forced, as it were, upon the Roman historian that plan which Polybius announces as the subject of his history, the means and the manner by which the whole world became subject to the Roman sway. How different the complicated politics of the European kingdoms! Every national history, to be complete, must, in a certain sense, be the history of Europe; there is no knowing to how remote a quarter it may be necessary to trace our most domestic events; from a country, how apparently disconnected, may originate the impulse which gives its direction to the whole course of affairs.
 
 In imitation of his classical models, Gibbon places Rome as the cardinal point from which his inquiries diverge, and to which they bear constant reference; yet how immeasurable the space over which those inquiries range! how complicated, how confused, how apparently inextricable the causes which tend to the decline of the Roman empire! how countless the nations which swarm forth, in mingling and indistinct hordes, constantly changing the geographical limits—incessantly confounding the natural boundaries! At first sight, the whole period, the whole state of the world, seems to offer no more secure footing to an historical adventurer than the chaos of Milton—to be in a state of irreclaimable disorder, best described in the language of the poet:—
 
@@ -808,17 +787,12 @@ The editor’s notes are marked M.
 A considerable part of the quotations (some of which in the later editions had fallen into great confusion) have been verified, and have been corrected by the latest and best editions of the authors.
 
 June, 1845.
+ -->
 
-In this new edition, the text and the notes have been carefully revised, the latter by the editor.
 
-Some additional notes have been subjoined, distinguished by the signature M. 1845.
+## Preface Of The Author
 
-Preface Of The Author.
 It is not my intention to detain the reader by expatiating on the variety or the importance of the subject, which I have undertaken to treat; since the merit of the choice would serve to render the weakness of the execution still more apparent, and still less excusable. But as I have presumed to lay before the public a first volume only 1 of the History of the Decline and Fall of the Roman Empire, it will, perhaps, be expected that I should explain, in a few words, the nature and limits of my general plan.
-
-
-1 (return)
-[ The first volume of the quarto, which contained the sixteen first chapters.]
 
 The memorable series of revolutions, which in the course of about thirteen centuries gradually undermined, and at length destroyed, the solid fabric of human greatness, may, with some propriety, be divided into the three following periods:
 
@@ -830,23 +804,8 @@ III. The last and longest of these periods includes about six centuries and a ha
 
 As I have ventured, perhaps too hastily, to commit to the press a work which in every sense of the word, deserves the epithet of imperfect. I consider myself as contracting an engagement to finish, most probably in a second volume, 2a the first of these memorable periods; and to deliver to the Public the complete History of the Decline and Fall of Rome, from the age of the Antonines to the subversion of the Western Empire. With regard to the subsequent periods, though I may entertain some hopes, I dare not presume to give any assurances. The execution of the extensive plan which I have described, would connect the ancient and modern history of the world; but it would require many years of health, of leisure, and of perseverance.
 
-
-2a (return)
-[ The Author, as it frequently happens, took an inadequate measure of his growing work. The remainder of the first period has filled two volumes in quarto, being the third, fourth, fifth, and sixth volumes of the octavo edition.]
-
 BENTINCK STREET, February 1, 1776.
 
-P. S. The entire History, which is now published, of the Decline and Fall of the Roman Empire in the West, abundantly discharges my engagements with the Public. Perhaps their favorable opinion may encourage me to prosecute a work, which, however laborious it may seem, is the most agreeable occupation of my leisure hours.
-
-BENTINCK STREET, March 1, 1781.
-
-An Author easily persuades himself that the public opinion is still favorable to his labors; and I have now embraced the serious resolution of proceeding to the last period of my original design, and of the Roman Empire, the taking of Constantinople by the Turks, in the year one thousand four hundred and fifty-three. The most patient Reader, who computes that three ponderous 3 volumes have been already employed on the events of four centuries, may, perhaps, be alarmed at the long prospect of nine hundred years. But it is not my intention to expatiate with the same minuteness on the whole series of the Byzantine history. At our entrance into this period, the reign of Justinian, and the conquests of the Mahometans, will deserve and detain our attention, and the last age of Constantinople (the Crusades and the Turks) is connected with the revolutions of Modern Europe. From the seventh to the eleventh century, the obscure interval will be supplied by a concise narrative of such facts as may still appear either interesting or important.
-
-BENTINCK STREET, March 1, 1782.
-
-
-3 (return)
-[ The first six volumes of the octavo edition.]
 
 Preface To The First Volume.
 Diligence and accuracy are the only merits which an historical writer may ascribe to himself; if any merit, indeed, can be assumed from the performance of an indispensable duty. I may therefore be allowed to say, that I have carefully examined all the original materials that could illustrate the subject which I had undertaken to treat. Should I ever complete the extensive design which has been sketched out in the Preface, I might perhaps conclude it with a critical account of the authors consulted during the progress of the whole work; and however such an attempt might incur the censure of ostentation, I am persuaded that it would be susceptible of entertainment, as well as information.
@@ -860,9 +819,6 @@ I now discharge my promise, and complete my design, of writing the History of th
 
 It was my first intention to have collected, under one view, the numerous authors, of every age and language, from whom I have derived the materials of this history; and I am still convinced that the apparent ostentation would be more than compensated by real use. If I have renounced this idea, if I have declined an undertaking which had obtained the approbation of a master-artist,4 my excuse may be found in the extreme difficulty of assigning a proper measure to such a catalogue. A naked list of names and editions would not be satisfactory either to myself or my readers: the characters of the principal Authors of the Roman and Byzantine History have been occasionally connected with the events which they describe; a more copious and critical inquiry might indeed deserve, but it would demand, an elaborate volume, which might swell by degrees into a general library of historical writers. For the present, I shall content myself with renewing my serious protestation, that I have always endeavored to draw from the fountain-head; that my curiosity, as well as a sense of duty, has always urged me to study the originals; and that, if they have sometimes eluded my search, I have carefully marked the secondary evidence, on whose faith a passage or a fact were reduced to depend.
 
-
-4 (return)
-[ See Dr. Robertson’s Preface to his History of America.]
 
 I shall soon revisit the banks of the Lake of Lausanne, a country which I have known and loved from my early youth. Under a mild government, amidst a beauteous landscape, in a life of leisure and independence, and among a people of easy and elegant manners, I have enjoyed, and may again hope to enjoy, the varied pleasures of retirement and society. But I shall ever glory in the name and character of an Englishman: I am proud of my birth in a free and enlightened country; and the approbation of that country is the best and most honorable reward of my labors. Were I ambitious of any other Patron than the Public, I would inscribe this work to a Statesman, who, in a long, a stormy, and at length an unfortunate administration, had many political opponents, almost without a personal enemy; who has retained, in his fall from power, many faithful and disinterested friends; and who, under the pressure of severe infirmity, enjoys the lively vigor of his mind, and the felicity of his incomparable temper. Lord North will permit me to express the feelings of friendship in the language of truth: but even truth and friendship should be silent, if he still dispensed the favors of the crown.
 
@@ -882,106 +838,26 @@ In the second century of the Christian Æra, the empire of Rome comprehended the
 
 The principal conquests of the Romans were achieved under the republic; and the emperors, for the most part, were satisfied with preserving those dominions which had been acquired by the policy of the senate, the active emulations of the consuls, and the martial enthusiasm of the people. The seven first centuries were filled with a rapid succession of triumphs; but it was reserved for Augustus to relinquish the ambitious design of subduing the whole earth, and to introduce a spirit of moderation into the public councils. Inclined to peace by his temper and situation, it was easy for him to discover that Rome, in her present exalted situation, had much less to hope than to fear from the chance of arms; and that, in the prosecution of remote wars, the undertaking became every day more difficult, the event more doubtful, and the possession more precarious, and less beneficial. The experience of Augustus added weight to these salutary reflections, and effectually convinced him that, by the prudent vigor of his counsels, it would be easy to secure every concession which the safety or the dignity of Rome might require from the most formidable barbarians. Instead of exposing his person and his legions to the arrows of the Parthians, he obtained, by an honorable treaty, the restitution of the standards and prisoners which had been taken in the defeat of Crassus. 1a
 
-
-1 (return)
-[ Dion Cassius, (l. liv. p. 736,) with the annotations of Reimar, who has collected all that Roman vanity has left upon the subject. The marble of Ancyra, on which Augustus recorded his own exploits, asserted that he compelled the Parthians to restore the ensigns of Crassus.]
-
 His generals, in the early part of his reign, attempted the reduction of Ethiopia and Arabia Felix. They marched near a thousand miles to the south of the tropic; but the heat of the climate soon repelled the invaders, and protected the un-warlike natives of those sequestered regions. 2c The northern countries of Europe scarcely deserved the expense and labor of conquest. The forests and morasses of Germany were filled with a hardy race of barbarians, who despised life when it was separated from freedom; and though, on the first attack, they seemed to yield to the weight of the Roman power, they soon, by a signal act of despair, regained their independence, and reminded Augustus of the vicissitude of fortune. 3a On the death of that emperor, his testament was publicly read in the senate. He bequeathed, as a valuable legacy to his successors, the advice of confining the empire within those limits which nature seemed to have placed as its permanent bulwarks and boundaries: on the west, the Atlantic Ocean; the Rhine and Danube on the north; the Euphrates on the east; and towards the south, the sandy deserts of Arabia and Africa. 4a
 
 
-2c (return)
-[ Strabo, (l. xvi. p. 780,) Pliny the elder, (Hist. Natur. l. vi. c. 32, 35, [28, 29,]) and Dion Cassius, (l. liii. p. 723, and l. liv. p. 734,) have left us very curious details concerning these wars. The Romans made themselves masters of Mariaba, or Merab, a city of Arabia Felix, well known to the Orientals. (See Abulfeda and the Nubian geography, p. 52) They were arrived within three days’ journey of the spice country, the rich object of their invasion.
-
-Note: It is this city of Merab that the Arabs say was the residence of Belkis, queen of Saba, who desired to see Solomon. A dam, by which the waters collected in its neighborhood were kept back, having been swept away, the sudden inundation destroyed this city, of which, nevertheless, vestiges remain. It bordered on a country called Adramout, where a particular aromatic plant grows: it is for this reason that we real in the history of the Roman expedition, that they were arrived within three days’ journey of the spice country.—G. Compare Malte-Brun, Geogr. Eng. trans. vol. ii. p. 215. The period of this flood has been copiously discussed by Reiske, (Program. de vetustâ Epochâ Arabum, rupturâ cataractæ Merabensis.) Add. Johannsen, Hist. Yemanæ, p. 282. Bonn, 1828; and see Gibbon, note 16. to Chap. L.—M.
-
-Note: Two, according to Strabo. The detailed account of Strabo makes the invaders fail before Marsuabæ this cannot be the same place as Mariaba. Ukert observes, that Ælius Gallus would not have failed for want of water before Mariaba. (See M. Guizot’s note above.) “Either, therefore, they were different places, or Strabo is mistaken.” (Ukert, Geographie der Griechen und Römer, vol. i. p. 181.) Strabo, indeed, mentions Mariaba distinct from Marsuabæ. Gibbon has followed Pliny in reckoning Mariaba among the conquests of Gallus. There can be little doubt that he is wrong, as Gallus did not approach the capital of Sabæa. Compare the note of the Oxford editor of Strabo.—M.]
-
-
-3a (return)
-[ By the slaughter of Varus and his three legions. See the first book of the Annals of Tacitus. Sueton. in August. c. 23, and Velleius Paterculus, l. ii. c. 117, &c. Augustus did not receive the melancholy news with all the temper and firmness that might have been expected from his character.]
-
-
-4a (return)
-[ Tacit. Annal. l. ii. Dion Cassius, l. lvi. p. 833, and the speech of Augustus himself, in Julian’s Cæsars. It receives great light from the learned notes of his French translator, M. Spanheim.]
-
 Happily for the repose of mankind, the moderate system recommended by the wisdom of Augustus, was adopted by the fears and vices of his immediate successors. Engaged in the pursuit of pleasure, or in the exercise of tyranny, the first Cæsars seldom showed themselves to the armies, or to the provinces; nor were they disposed to suffer, that those triumphs which their indolence neglected, should be usurped by the conduct and valor of their lieutenants. The military fame of a subject was considered as an insolent invasion of the Imperial prerogative; and it became the duty, as well as interest, of every Roman general, to guard the frontiers intrusted to his care, without aspiring to conquests which might have proved no less fatal to himself than to the vanquished barbarians. 5
-
-
-5 (return)
-[ Germanicus, Suetonius Paulinus, and Agricola were checked and recalled in the course of their victories. Corbulo was put to death. Military merit, as it is admirably expressed by Tacitus, was, in the strictest sense of the word, imperatoria virtus.]
 
 The only accession which the Roman empire received, during the first century of the Christian Æra, was the province of Britain. In this single instance, the successors of Cæsar and Augustus were persuaded to follow the example of the former, rather than the precept of the latter. The proximity of its situation to the coast of Gaul seemed to invite their arms; the pleasing though doubtful intelligence of a pearl fishery attracted their avarice; 6 and as Britain was viewed in the light of a distinct and insulated world, the conquest scarcely formed any exception to the general system of continental measures. After a war of about forty years, undertaken by the most stupid, 7 maintained by the most dissolute, and terminated by the most timid of all the emperors, the far greater part of the island submitted to the Roman yoke. 8 The various tribes of Britain possessed valor without conduct, and the love of freedom without the spirit of union. They took up arms with savage fierceness; they laid them down, or turned them against each other, with wild inconsistency; and while they fought singly, they were successively subdued. Neither the fortitude of Caractacus, nor the despair of Boadicea, nor the fanaticism of the Druids, could avert the slavery of their country, or resist the steady progress of the Imperial generals, who maintained the national glory, when the throne was disgraced by the weakest, or the most vicious of mankind. At the very time when Domitian, confined to his palace, felt the terrors which he inspired, his legions, under the command of the virtuous Agricola, defeated the collected force of the Caledonians, at the foot of the Grampian Hills; and his fleets, venturing to explore an unknown and dangerous navigation, displayed the Roman arms round every part of the island. The conquest of Britain was considered as already achieved; and it was the design of Agricola to complete and insure his success, by the easy reduction of Ireland, for which, in his opinion, one legion and a few auxiliaries were sufficient. 9 The western isle might be improved into a valuable possession, and the Britons would wear their chains with the less reluctance, if the prospect and example of freedom were on every side removed from before their eyes.
 
 
-6 (return)
-[ Cæsar himself conceals that ignoble motive; but it is mentioned by Suetonius, c. 47. The British pearls proved, however, of little value, on account of their dark and livid color. Tacitus observes, with reason, (in Agricola, c. 12,) that it was an inherent defect. “Ego facilius crediderim, naturam margaritis deesse quam nobis avaritiam.”]
-
-
-7 (return)
-[ Claudius, Nero, and Domitian. A hope is expressed by Pomponius Mela, l. iii. c. 6, (he wrote under Claudius,) that, by the success of the Roman arms, the island and its savage inhabitants would soon be better known. It is amusing enough to peruse such passages in the midst of London.]
-
-
-8 (return)
-[ See the admirable abridgment given by Tacitus, in the life of Agricola, and copiously, though perhaps not completely, illustrated by our own antiquarians, Camden and Horsley.]
-
-
-9 (return)
-[ The Irish writers, jealous of their national honor, are extremely provoked on this occasion, both with Tacitus and with Agricola.]
 
 But the superior merit of Agricola soon occasioned his removal from the government of Britain; and forever disappointed this rational, though extensive scheme of conquest. Before his departure, the prudent general had provided for security as well as for dominion. He had observed, that the island is almost divided into two unequal parts by the opposite gulfs, or, as they are now called, the Friths of Scotland. Across the narrow interval of about forty miles, he had drawn a line of military stations, which was afterwards fortified, in the reign of Antoninus Pius, by a turf rampart, erected on foundations of stone. 10 This wall of Antoninus, at a small distance beyond the modern cities of Edinburgh and Glasgow, was fixed as the limit of the Roman province. The native Caledonians preserved, in the northern extremity of the island, their wild independence, for which they were not less indebted to their poverty than to their valor. Their incursions were frequently repelled and chastised; but their country was never subdued. 11 The masters of the fairest and most wealthy climates of the globe turned with contempt from gloomy hills, assailed by the winter tempest, from lakes concealed in a blue mist, and from cold and lonely heaths, over which the deer of the forest were chased by a troop of naked barbarians. 12
 
 
-10 (return)
-[ See Horsley’s Britannia Romana, l. i. c. 10. Note: Agricola fortified the line from Dumbarton to Edinburgh, consequently within Scotland. The emperor Hadrian, during his residence in Britain, about the year 121, caused a rampart of earth to be raised between Newcastle and Carlisle. Antoninus Pius, having gained new victories over the Caledonians, by the ability of his general, Lollius, Urbicus, caused a new rampart of earth to be constructed between Edinburgh and Dumbarton. Lastly, Septimius Severus caused a wall of stone to be built parallel to the rampart of Hadrian, and on the same locality. See John Warburton’s Vallum Romanum, or the History and Antiquities of the Roman Wall. London, 1754, 4to.—W. See likewise a good note on the Roman wall in Lingard’s History of England, vol. i. p. 40, 4to edit—M.]
-
-
-11 (return)
-[ The poet Buchanan celebrates with elegance and spirit (see his Sylvæ, v.) the unviolated independence of his native country. But, if the single testimony of Richard of Cirencester was sufficient to create a Roman province of Vespasiana to the north of the wall, that independence would be reduced within very narrow limits.]
-
-
-12 (return)
-[ See Appian (in Proœm.) and the uniform imagery of Ossian’s Poems, which, according to every hypothesis, were composed by a native Caledonian.]
-
 Such was the state of the Roman frontiers, and such the maxims of Imperial policy, from the death of Augustus to the accession of Trajan. That virtuous and active prince had received the education of a soldier, and possessed the talents of a general. 13 The peaceful system of his predecessors was interrupted by scenes of war and conquest; and the legions, after a long interval, beheld a military emperor at their head. The first exploits of Trajan were against the Dacians, the most warlike of men, who dwelt beyond the Danube, and who, during the reign of Domitian, had insulted, with impunity, the Majesty of Rome. 14 To the strength and fierceness of barbarians they added a contempt for life, which was derived from a warm persuasion of the immortality and transmigration of the soul. 15 Decebalus, the Dacian king, approved himself a rival not unworthy of Trajan; nor did he despair of his own and the public fortune, till, by the confession of his enemies, he had exhausted every resource both of valor and policy. 16 This memorable war, with a very short suspension of hostilities, lasted five years; and as the emperor could exert, without control, the whole force of the state, it was terminated by an absolute submission of the barbarians. 17 The new province of Dacia, which formed a second exception to the precept of Augustus, was about thirteen hundred miles in circumference. Its natural boundaries were the Niester, the Teyss or Tibiscus, the Lower Danube, and the Euxine Sea. The vestiges of a military road may still be traced from the banks of the Danube to the neighborhood of Bender, a place famous in modern history, and the actual frontier of the Turkish and Russian empires. 18
-
-
-13 (return)
-[ See Pliny’s Panegyric, which seems founded on facts.]
-
-
-14 (return)
-[ Dion Cassius, l. lxvii.]
-
-
-15 (return)
-[ Herodotus, l. iv. c. 94. Julian in the Cæsars, with Spanheims observations.]
-
-
-16 (return)
-[ Plin. Epist. viii. 9.]
-
-
-17 (return)
-[ Dion Cassius, l. lxviii. p. 1123, 1131. Julian in Cæsaribus Eutropius, viii. 2, 6. Aurelius Victor in Epitome.]
-
-
-18 (return)
-[ See a Memoir of M. d’Anville, on the Province of Dacia, in the Academie des Inscriptions, tom. xxviii. p. 444—468.]
 
 Trajan was ambitious of fame; and as long as mankind shall continue to bestow more liberal applause on their destroyers than on their benefactors, the thirst of military glory will ever be the vice of the most exalted characters. The praises of Alexander, transmitted by a succession of poets and historians, had kindled a dangerous emulation in the mind of Trajan. Like him, the Roman emperor undertook an expedition against the nations of the East; but he lamented with a sigh, that his advanced age scarcely left him any hopes of equalling the renown of the son of Philip. 19 Yet the success of Trajan, however transient, was rapid and specious. The degenerate Parthians, broken by intestine discord, fled before his arms. He descended the River Tigris in triumph, from the mountains of Armenia to the Persian Gulf. He enjoyed the honor of being the first, as he was the last, of the Roman generals, who ever navigated that remote sea. His fleets ravaged the coast of Arabia; and Trajan vainly flattered himself that he was approaching towards the confines of India. 20 Every day the astonished senate received the intelligence of new names and new nations, that acknowledged his sway. They were informed that the kings of Bosphorus, Colchos, Iberia, Albania, Osrhoene, and even the Parthian monarch himself, had accepted their diadems from the hands of the emperor; that the independent tribes of the Median and Carduchian hills had implored his protection; and that the rich countries of Armenia, Mesopotamia, and Assyria, were reduced into the state of provinces. 21 But the death of Trajan soon clouded the splendid prospect; and it was justly to be dreaded, that so many distant nations would throw off the unaccustomed yoke, when they were no longer restrained by the powerful hand which had imposed it.
 
 
-19 (return)
-[ Trajan’s sentiments are represented in a very just and lively manner in the Cæsars of Julian.]
-
-
-20 (return)
-[ Eutropius and Sextus Rufus have endeavored to perpetuate the illusion. See a very sensible dissertation of M. Freret in the Académie des Inscriptions, tom. xxi. p. 55.]
-
-21 (return)
-[Dion Cassius, l. lxviii.; and the Abbreviators.]
-
 Chapter I: The Extent Of The Empire In The Age Of The Antonines.—Part II.
+
+
 It was an ancient tradition, that when the Capitol was founded by one of the Roman kings, the god Terminus (who presided over boundaries, and was represented, according to the fashion of that age, by a large stone) alone, among all the inferior deities, refused to yield his place to Jupiter himself. A favorable inference was drawn from his obstinacy, which was interpreted by the augurs as a sure presage that the boundaries of the Roman power would never recede. 22 During many ages, the prediction, as it is usual, contributed to its own accomplishment. But though Terminus had resisted the Majesty of Jupiter, he submitted to the authority of the emperor Hadrian. 23 The resignation of all the eastern conquests of Trajan was the first measure of his reign. He restored to the Parthians the election of an independent sovereign; withdrew the Roman garrisons from the provinces of Armenia, Mesopotamia, and Assyria; and, in compliance with the precept of Augustus, once more established the Euphrates as the frontier of the empire. 24 Censure, which arraigns the public actions and the private motives of princes, has ascribed to envy, a conduct which might be attributed to the prudence and moderation of Hadrian. The various character of that emperor, capable, by turns, of the meanest and the most generous sentiments, may afford some color to the suspicion. It was, however, scarcely in his power to place the superiority of his predecessor in a more conspicuous light, than by thus confessing himself unequal to the task of defending the conquests of Trajan.
 
 
