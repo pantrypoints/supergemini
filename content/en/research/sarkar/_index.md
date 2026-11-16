@@ -1,7 +1,7 @@
 ---
 title: "Sarkar, PR"
 heading: "Enlightened but Cultish"
-description: "To us, PR Sarkar is a 4th density who was Ram Chandra Upadhyaya in a past life. He is different from Ananadamurti which is a 7th density world consciousness. The collapse of Ananda Marga is simply from the common 3rd density mistake of worshippping 4th density Sarkar simply because that is cruder and closer in vibration"
+description: "To us, PR Sarkar is a 4th density human who was Ram Chandra Upadhyaya in a past life. He is different from Anandamurti which is a 7th density world consciousness. The collapse of Ananda Marga is simply from the common 3rd density mistake of worshipping 4th density Sarkar simply because that is cruder and closer in vibration to 3rd density"
 weight: 750
 c: "indigo"
 a: "PR Sarkar"
