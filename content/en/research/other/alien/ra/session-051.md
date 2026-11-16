@@ -99,17 +99,38 @@ Your statement is substantially correct. To use the term “mental configuration
 
 The mind complex has a relationship to the spirit and body complexes which is not fixed. Thus blockages may occur betwixt spirit and mind, or body and mind, upon many different levels. We reiterate that each energy center has seven sub-colors, let us say, for convenience. Thus spiritual/mental blockages combined with mental/bodily blockages may affect each of the energy centers in several differing ways. Thus you may see the subtle nature of the balancing and evolutionary process.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I am unsure as to whether this will provide an avenue of questioning or not that will be fruitful, however I will ask this question since it seemed to me that there is possibly a connection here. On the back of the book, Secrets of The Great Pyramid, there are several reproductions of Egyptian drawings or works, some showing birds flying over horizontal entities. Could you tell me what this is and if it has any relationship to Ra?{{< /r >}}
+{{< r a="Don Elkins" >}}
+On the back of the book, Secrets of The Great Pyramid, there are several reproductions of Egyptian drawings or works. Some show birds flying over horizontal entities. Could you tell me what this is and if it has any relationship to Ra?{{< /r >}}
 
-{{< l a="Ra" >}}These drawings of which you speak are some of many which distort the teaching of our perception of death as the gateway to further experience. The distortions concern those considerations of specific nature as to processes of the so-called “dead” mind/body/spirit complex. This may be termed, in your philosophy, the distortion of Gnosticism: that is, the belief that one may achieve knowledge and a proper position by means of carefully perceived and accentuated movements, concepts, and symbols. In fact, the process of the physical death is as we have described before: one in which there is aid available and the only need at death is the releasing of that entity from its body by those around it and the praising of the process by those who grieve. By these means may the mind/body/spirit which has experienced physical death be aided, not by the various perceptions of careful and repeated rituals.{{< /l >}}
 
-{{< r a="Don Elkins" >}}You spoke an earlier time of rotational speeds of energy centers. Am I correct in assuming that this is a function of the blockage of the energy center and the less blocked it is, the higher speed of rotation, then indicating greater energy instreaming?{{< /r >}}
+{{< l a="Ra" >}}
+Some of these drawings distort the teaching of death as the gateway to further experience.
 
-{{< l a="Ra" >}}You are partially correct. In the first three energy centers a full unblocking of this energy will create speeds of rotation. As the entity develops the higher energy centers, however, these centers will then begin to express their nature by forming crystal structures. This is the higher or more balanced form of activation of energy centers as the space/time nature of this energy is transmuted to the time/space nature of regularization and balancing.{{< /l >}}
+The distortions concern those considerations of specific nature as to processes of the so-called “dead” mind/body/spirit complex. 
+
+This is the distortion of Gnosticism: that is, the belief that one may achieve knowledge and a proper position by means of carefully perceived and accentuated movements, concepts, and symbols. 
+
+In fact, the process of the physical death is as we have described before: one in which there is aid available and the only need at death is the releasing of that entity from its body by those around it and the praising of the process by those who grieve.
+
+By these means, the mind/body/spirit which has experienced physical death may be aided, not by the various perceptions of careful and repeated rituals.{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+You spoke of rotational speeds of energy centers.
+
+Is this is a function of the blockage of the energy center? The less blocked it is, the higher speed of rotation, then indicating greater energy instreaming?{{< /r >}}
+
+{{< l a="Ra" >}}
+You are partially correct. In the first three energy centers a full unblocking of this energy will create speeds of rotation. 
+
+As the entity develops the higher energy centers, however, these centers will then begin to express their nature by forming crystal structures. This is the higher or more balanced form of activation of energy centers as the space/time nature of this energy is transmuted to the time/space nature of regularization and balancing.{{< /l >}}
+
 
 {{< r a="Don Elkins" >}}What do you mean by crystal structures?{{< /r >}}
 
-{{< l a="Ra" >}}Each of the energy centers of the physical complex may be seen to have a distinctive crystalline structure in the more developed entity. Each will be somewhat different just as in your world no two snowflakes are alike. However, each is regular. The red energy center often is in the shape of the spoked wheel. The orange energy center in the flower shape containing three petals.
+{{< l a="Ra" >}}
+Each of the energy centers of the physical complex may be seen to have a distinctive crystalline structure in the more developed entity. Each will be somewhat different just as in your world no two snowflakes are alike. However, each is regular.
+
+The red energy center often is in the shape of the spoked wheel. The orange energy center in the flower shape containing three petals.
 
 The yellow center again in a rounded shape, many faceted, as a star.
 
@@ -123,15 +144,28 @@ The violet energy center is the least variable and is sometimes described in you
 
 {{< r a="Don Elkins" >}}Right now I feel a feeling at the indigo center. If this center were totally activated and not blocked at all, would I then feel nothing there?{{< /r >}}
 
-{{< l a="Ra" >}}This query, if answered, would infringe upon the Law of Confusion.{{< /l >}}
+{{< l a="Ra" >}}
+The answer would infringe upon the Law of Confusion.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Immediately after the death of the physical body, you have stated that the, I believe I’m correct in saying that, primary activated body is the indigo, and you stated that it is the form-maker. Why is this so? Can you answer that?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Immediately after the death of the physical body, you have stated that the primary activated body is the indigo.
 
-{{< l a="Ra" >}}This will be the last full query of this session of working.
+You stated that it is the form-maker. Why is this so?
+{{< /r >}}
 
-The indigo body may be seen to be an analog for intelligent energy. It is, in microcosm, the Logos. The intelligent energy of the mind/body/spirit complex totality draws its existence from intelligent infinity or the Creator. This Creator is to be understood, both in macrocosm and microcosm, to have, as we have said, two natures: the unpotentiated infinity which is intelligent; this is all that there is.
+
+{{< l a="Ra" >}}
+The indigo body may be seen as an analog for intelligent energy. It is, in microcosm, the Logos.
+
+The intelligent energy of the mind/body/spirit complex totality draws its existence from intelligent infinity or the Creator. 
+
+This Creator has 2 natures, both in macrocosm and microcosm:
+
+1. The unpotentiated infinity which is intelligent; this is All-There-Is.
+2. [The self]
 
 Free will has potentiated both the Creator of us all and our selves as co-Creators with intelligent infinity which has will. 
 
-This will may be drawn upon by the indigo, or form-making, body, and its wisdom used to then choose the appropriate locus and type of experience which this co-Creator or sub-sub-Logos you call so carelessly a person will take.{{< /l >}}
+This will may be drawn upon by the indigo, or form-making, body, and its wisdom used to then choose the appropriate locus and type of experience which this co-Creator or sub-sub-Logos you call so carelessly a person will take.
+{{< /l >}}
 

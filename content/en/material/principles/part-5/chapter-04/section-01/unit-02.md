@@ -33,13 +33,12 @@ Proton | Nano-aetherspaces | Physics Interpretation
 
 
 
-This leads to the "fine" and "hyperfine" structure of the atom which is based on spins
+This leads to the "fine" and "hyperfine" structure of the atom which is based on spins. The fine is for the smallness of the energy splitting in atomic 'spectral lines'.
 
 Structure | Physics Cause | Superphysics Cause
 --- | --- | ---
 Fine | Electron spin + orbit | Electron spin + aetherspace revolution and layers 
 Hyperfine | Electron spin + nucleus spin | Electron spin + aetherspace revolution and layers 
-
 
 
 ## Change of Color ~~Spectral Lines~~

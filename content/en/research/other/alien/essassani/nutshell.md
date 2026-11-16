@@ -157,12 +157,15 @@ The most commmon effect is for people to liberate themselves, which they do by q
 There are some low vibration high ego people who get attracted by the liberation idea and so they follow Sassani teachings only to get themselves into trouble and even ask about suicide. 
 
 We only recommend Sassani Teachings to high vibration people who:
-- already have inherent psychic ability or occult powers
-- are practicing Buddhists, Hindus, Taoists as a way to step up faster while being grounded on tried-and-tested systems
+- already **have inherent psychic ability or occult powers**
+- are practicing **Buddhists, Hindus, Taoists** as a way to step up faster while being grounded on tried-and-tested systems
+- have made a **clear decision** to upgrade to 4th density and abandon the material safety of 3rd density
 
-This is because we classify the synchronicity that comes from following the formula as an **occult power** that separates 4th density beings from 3rd density i.e. 3rd density only has reason, but 4th density has subtler reason that leads to power and therefore liberation. 
+This is because we classify the synchronicity that comes from following the formula as an **occult power** that separates 4th density beings from 3rd density i.e. 3rd density only has **reason**, but 4th density has **subtler reason** that leads to power and therefore liberation. 
 
 4th density people are **rare** and so another common effect is isolation, loneliness, and being seen as crazy (which the Sassani regard as a good thing as crazy-good). 
+
+<!-- So there should be a **clear decision** to upgrade to 4th density. -->
 
 <!-- There are many cases of Western New Age people going crazy or committing suicide or dying of terrible diseases becuse they went for spirituality or the higher densities by themselves:
 - Don Elkins of the Law of One committed suicide

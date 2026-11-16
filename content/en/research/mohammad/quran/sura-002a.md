@@ -3,6 +3,7 @@ title: "The Cow (Al-Baqarah)"
 heading: "Sura 2a "
 weight: 4
 c: "maroon"
+icon: "Anu"
 description: "Superphysics Note -- Here we replace 'Allah' with the Anunnaki god or alien Anu, since the Middle East is Anunnaki territory"
 ---
 

@@ -2,15 +2,14 @@
 title: "The Covenant with Israel"
 heading: "Sura 2c "
 weight: 8
+icon: Saklas
 c: "maroon"
-description: "Superphysics Note -- We replace 'Allah' with the Anunnaki god or alien Enki, since the Middle East is Anunnaki territory"
+description: "Superphysics Note -- Here we replace 'Allah' with the Archon Saklas, in line with Ra and Gnostic texts"
 ---
-
-{{< n n="Here we replace 'Allah' with the Anunnaki god or alien 'Enki', since the Middle East was historically Anunnaki territory" >}}
 
 
 {{< s v="40-46">}} O Jews:
-- remember the blessings I, Enki, gave you
+- remember the blessings I, Saklas, gave you
 - fulfill your pledge to Me, and I will fulfill My pledge to you
 - fear Me
 - believe in what I revealed
@@ -46,17 +45,17 @@ We:
   - We pardoned you after that, so that you might be grateful. 
 - gave Moses the Scripture and the Criterion to guide you.
 
-{{< n n="The Egyptians were allied with Enlil and were defending themselves against the evil Enki-backed Atlanteans when the comet struck." >}}
+{{< n n="The Egyptians were allied with Enlil and were defending themselves against the Enki-backed Atlanteans when the comet struck." >}}
 
 
 Moses said: 
 
 {{< l a="Moses" >}}
-My people, you have done wrong to yourselves by worshiping the calf [that represents Enlil]. So repent to your Maker [Enki] and kill your egos.
+My people, you have done wrong to yourselves by worshiping the calf [that represents the Anunnaki]. So repent to Saklas and kill your egos.
 {{< /l >}}
 
 {{< r a="Jews" >}}
-Moses, we will not believe in you unless we see Enki plainly.
+Moses, we will not believe in you unless we see Saklas plainly.
 {{< /r >}}
 
 <!-- So He turned to you in repentance. He is the Accepter of Repentance, the Merciful. -->
@@ -66,7 +65,7 @@ Thereupon the thunderbolt struck you, as you looked on. Then We:
 - shaded you with clouds
 - sent down to you manna and quails:
 
-{{< l a="Enki" >}}
+{{< l a="Saklas" >}}
 Eat of the good things We have provided for you.
 {{< /l >}}
 
@@ -75,7 +74,7 @@ They did not wrong Us, but they used to wrong their own souls.
 
 We said:
 
-{{< l a="Enki" >}}
+{{< l a="Saklas" >}}
 Enter this town, and eat plentifully from it whatever you wish. But enter the gate humbly, and say, 'Pardon.' We will forgive your sins, and give increase to the virtuous.” 
 {{< /l >}}
 
@@ -85,7 +84,7 @@ But the wrongdoers among them substituted words other than those given to them, 
 
 When Moses prayed for water for his people, We said
 
-{{< l a="Enki" >}}
+{{< l a="Saklas" >}}
 Strike the rock with your staff.
 {{< /l >}}
 
@@ -93,7 +92,7 @@ Strike the rock with your staff.
 Thereupon 12 springs gushed out from it. Each tribe recognized its drinking-place. 
 
 {{< l a="Moses" >}}
-Eat and drink from Enki’s provision. Do not corrupt the earth with disobedience.
+Eat and drink from Saklas’s provision. Do not corrupt the earth with disobedience.
 {{< /l >}}
 
 {{< r a="Jews" >}}
@@ -108,9 +107,9 @@ Go back to Egypt where you will have such food.
 
 The Jews:
 - were struck with humiliation and poverty
-- incurred wrath from Enki 
+- incurred wrath from Saklas 
 
-This is because they rejected Enki’s revelations and wrongfully killed the prophets. 
+This is because they rejected Saklas’s revelations and wrongfully killed the prophets. 
 
 
 {{< s v="62" >}} The following will have their reward with their Lord:
@@ -118,24 +117,24 @@ This is because they rejected Enki’s revelations and wrongfully killed the pro
 - The Jewish
 - The Christians
 - The Sabeans 
-- those who act righteously and believe in Enki and the Last Day
+- those who act righteously and believe in Saklas and the Last Day
 
 {{< s v="63" >}} We received a pledge from you, and raised the Mount above you: 
 
-{{< l a="Enki" >}}
+{{< l a="Saklas" >}}
 Take what We have given you earnestly, and remember what is in it, that you may attain righteousness.
 {{< /l >}}
 
 
-{{< s v="64" >}} But after that you turned away. Were it not for Enki’s grace and mercy towards you, you would have been among the losers.
+{{< s v="64" >}} But after that you turned away. Were it not for Saklas’s grace and mercy towards you, you would have been among the losers.
 
 {{< s v="65" >}} We said to those of you who violated the Sabbath: 
 
-{{< l a="Enki" >}}
+{{< l a="Saklas" >}}
 Be despicable apes!*
 {{< /l >}}
 
-{{< n n="This is because, without Enki, humans would remain as Homo Erectus" >}}
+{{< n n="This is because, without the Anunnaki, humans would remain as Homo Erectus" >}}
 
 
 {{< s v="66" >}} Thus, We made it:
@@ -145,7 +144,7 @@ Be despicable apes!*
 {{< s v="67-71" >}} Recall when Moses said to his people:
 
 {{< l a="Moses" >}}
-Enki commands you to sacrifice a cow
+Saklas commands you to sacrifice a cow
 {{< /l >}}
  
 {{< r a="Jews">}}
@@ -179,15 +178,15 @@ He says she is a cow, neither yoked to plow the earth, nor to irrigate the field
 
 So they slaughtered the cow, though they almost did not.
 
-{{< s v="72-73" >}} Recall when you killed a man and disputed about it. But Enki was to expose what you were hiding. 
+{{< s v="72-73" >}} Recall when you killed a man and disputed about it. But Saklas was to expose what you were hiding. 
 
 We said:
 
-{{< l a="Enki" >}}
+{{< l a="Saklas" >}}
 Strike him with part of the cow. [And the murdered man came back to life]
 {{< /l >}}
 
-Thus, Enki brings the dead to life.
+Thus, Saklas brings the dead to life.
 
 <!-- ; and He shows you His signs, that you may understand. -->
 
@@ -198,7 +197,7 @@ Thus, Enki brings the dead to life.
   - other rocks that splinter and water comes out from them
   - other rocks that sink in awe of .
 
-<sup>75.</sup> Do you hope that they will believe in you, when some of them used to hear the Word of Enki, and then deliberately distort it, even after understanding it?
+<sup>75.</sup> Do you hope that they will believe in you, when some of them used to hear the Word of Saklas, and then deliberately distort it, even after understanding it?
 
 <sup>76.</sup> When they come across those who believe, they say
 
@@ -209,14 +208,14 @@ We believe
 But when they come together privately, they say:
 
 {{< r a="Jews" >}}
-What did Enki tell you? So that we can dispute it with our Lord Enlil.
+What did Saklas tell you? So that we can dispute it with our Lord Anu.
 {{< /r >}}
 
-<sup>77.</sup> Do they not know that Enki knows what they conceal and what they reveal?
+<sup>77.</sup> Do they not know that Saklas knows what they conceal and what they reveal?
 
 <sup>78.</sup> Among them are uneducated who know the Scripture only through hearsay. They only speculate.
 
-<sup>79.</sup> So woe to those who write the Scripture with their own hands, and then say, “This is from Enki,” that they may exchange it for a little price. 
+<sup>79.</sup> So woe to those who write the Scripture with their own hands, and then say, “This is from Saklas,” that they may exchange it for a little price. 
 
 Woe to them for what their hands have written, and woe to them for what they earn.
 
@@ -230,7 +229,7 @@ The Fire will not touch us except for a number of days.
 Say:
 
 {{< l a="Muslims" >}}
-Have you received a promise from Enki? Enki never breaks His promise. Or are you saying about Enki what you do not know?”
+Have you received a promise from Saklas? Saklas never breaks His promise. Or are you saying about Saklas what you do not know?”
 {{< /l >}}
 
 

@@ -11,7 +11,7 @@ Pro or Supportive | Anti or Not Supportive
 --- | ---
 Republic | Democracy
 Kamala Harris | Donald Trump
-Bahai | Osho
+Bahai | Osho, Monroe Institute
 Atlanteans | Negative Orion
 Ra, Seth | Scientology, Keylontic Science, Ruth Montogmery (an egotistic Ruth Montgomery-follower woman got angry at Bashar), Arnold Patent, Alice Bailey, Erhard Seminars Training
 Crypto | AI (The true AI path)
