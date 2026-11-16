@@ -9,6 +9,6 @@ description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 3
+weight: 4
 icon: "Juan"
 ---

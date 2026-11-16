@@ -51,7 +51,7 @@ In a nutshell, they created a Cartesian vortex that followed Cartesian mechanics
 - This breaking down manifests in the aether of space as the teleportation of UFOs (same principle, different element or standard model force)
 
 
-### The Open AI vortex is abstract just as Descarts vortices are abstract
+### The Open AI vortex is abstract just as Descartes' vortices are abstract
 
 The Open AI vortex adds a lot of unnatural things to the liquid dynamics just to make it blow up such as:
 - The external force is a smooth designer force, not physical.

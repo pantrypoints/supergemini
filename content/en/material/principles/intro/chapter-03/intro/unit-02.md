@@ -95,31 +95,44 @@ Every reaction must release Radiant energy.
 
 
 
-## Material Layer: The 4 Rules of Stoichiometry
+## Material Layer: The 4 Quantum Numbers
 
-This implements the Law of Conservation of Mass to be discussed in Chapter 5f.
+The 4 Rules, when applied to low frequency atomic space, leads to Quantum mechanics and the 4 quantum numbers:
+
+
+1. **Principal (n)** – the electron's main energy level or shell (n = 1, 2, 3…). Determines size and energy. This is consistent with the No Void Rule. This is also the mechanism behind the Pauli Exclusion Principle which is really from the Law of Conservation of Idea.
+
+2. **Angular Momentum (l)** – the shape of the orbital (s, p, d, f). Ranges from 0 to n−1. This is consistent with spin or density.
+
+3. **Magnetic (mₗ)** – the orbital's orientation in space. Ranges from −l to +l. This is consistent with balance
+
+4. **Spin (mₛ)** – the electron's spin direction, either +½ or −½. This is consistent with directional spread as the electron going with or against the revolving atomic space.
+
+
+
+<!-- This implements the Law of Conservation of Mass to be discussed in Chapter 5f.
 
 1. Definite Proportions
 
-A specific chemical compound always contains its component elements in fixed ratios by mass, regardless of the compound's source or method of preparation.
+A specific chemical compound always contains its component elements in fixed ratios by mass, regardless of the compound's source or method of preparation. -->
 
 <!-- Example: Table salt (NaCl) is always 39.34% sodium and 60.66% chlorine by mass. -->
 
-2. Multiple Proportions
+<!-- 2. Multiple Proportions
 
-When 2 elements combine to form more than 1 compound, the masses of 1 element that combine with a fixed mass of the other element are in a ratio of small whole numbers.
+When 2 elements combine to form more than 1 compound, the masses of 1 element that combine with a fixed mass of the other element are in a ratio of small whole numbers. -->
 
 <!-- Example: The ratio of oxygen masses in CO2  compared to CO for a fixed mass of carbon is 2:1. -->
 
-3. Reciprocal Proportions
+<!-- 3. Reciprocal Proportions
 
-This is when 3 different elements combine.
+This is when 3 different elements combine. -->
 
 <!-- Avogadro's Law
 Equal volumes of all gases, when measured at the same temperature and pressure, contain the same number of molecules (or moles). This law provides the direct link between the volume ratios (from Law 4) and the fixed mole ratios observed in the chemical equation. -->
 
-4. Gay-Lussac's Law of Gaseous Volumes)
+<!-- 4. Gay-Lussac's Law of Gaseous Volumes)
 
-When gases react, the ratio of the volumes of the gaseous reactants and products (measured at the same temperature and pressure) are in a ratio of small whole numbers.
+When gases react, the ratio of the volumes of the gaseous reactants and products (measured at the same temperature and pressure) are in a ratio of small whole numbers. -->
 
 <!-- Example: 1 volume of nitrogen gas reacts with 3 volumes of hydrogen gas to produce exactly 2 volumes of ammonia gas -->

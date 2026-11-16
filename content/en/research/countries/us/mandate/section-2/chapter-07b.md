@@ -1,33 +1,32 @@
 ---
-title: "Central Intelligence Agency (cia)"
+title: "Central Intelligence Agenca"
 date: 2024-11-01
 description: ""
 c: "firebrick"
 icon: "Heritage Foundation"
+tags: ['CIA']
 ---
-
 
 
 The CIA is a foreign intelligence collection service tasked with collecting human intelligence (HUMINT), providing all-source intelligence analysis and reporting, and conducting covert action when required to do so by the President. 
 
 The CIA has its roots in the Office of Strategic Services (OSS), which the United States established during World War II as a paramilitary and intelligence collection orga- nization. After World War II, President Harry Truman disbanded the OSS, and the CIA was established in law by the National Security Act of 1947.
 
-As with every agency in government, the President's election sets a new agenda
-for the country. Public servants must be mindful that they are required to help
+As with every agency in government, the President's election sets a new agenda. Public servants must be mindful that they are required to help
 the President implement that agenda while remaining apolitical, upholding the
-Constitution and laws of the United States, and earning the public trust. The Pres-
-ident requires a CIA that provides unbiased and apolitical foreign intelligence
-information and, when necessary, can act capably and effectively on any covert
+Constitution and laws of the United States, and earning the public trust. The President requires a CIA that provides unbiased and apolitical foreign intelligence information and, when necessary, can act capably and effectively on any covert
 action findings.
 
-Executing the Mission. The CIA’s success depends on firm direction from the
-President and solid internal CIA Director–appointed leadership. Decisive senior
+### Executing the Mission
+
+The CIA’s success depends on firm direction from the President and solid internal CIA Director–appointed leadership. Decisive senior
 leaders must commit to carrying out the President’s agenda and be willing to take
 calculated risks. Therefore:
 
 The next President-Elect and incoming Presidential Personnel Office
 should identify a Director nominee who can foster a mission-driven culture
 by making necessary personnel and structural changes.
+
 The President-Elect should choose a Deputy Director who, without
 needing Senate confirmation, can immediately begin to implement the
 President’s agenda. This includes halting all current hiring to prevent
@@ -38,6 +37,7 @@ supervising its functioning.
 The Director and Deputy Director should request briefings on all CIA
 activities and presence overseas, as well as any CIA-controlled access
 programs and existing covert action findings, without exception.
+
 The Director and Deputy Director should meet with all directorates and
 mission centers, prioritizing those that are aligned most closely with the
 President’s priorities and calibrating collection and operations based on
@@ -52,6 +52,7 @@ the Directorate of Operations, Directorate of Analysis, Directorate of Science a
 Technology, Directorate of Support, and Directorate of Digital Innovation. If senior
 leadership finds any program or operation to be inconsistent with the President’s
 agenda, the Director should immediately halt that program or operation.
+
 Reining in Bureaucracy. The CIA’s bureaucracy continues to grow. Because
 mid-level managers lack accountability, there are areas in which personnel are not
 responsive to any authority, including the President. The President should instruct
@@ -72,7 +73,9 @@ various directorates, such as Support and Science and Technology, out of Virgini
 and possibly open campuses outside of D.C. where analysts and other experts could
 contribute virtually.
 
-Redirecting Resources. Certain CIA employees and offices have focused on
+### Redirecting Resources
+
+Certain CIA employees and offices have focused on
 promoting divisive ideological or cultural agendas and fostering a damaging cul-
 ture of risk aversion and complacency. As soon as possible, the Director should
 divert resources from any activities that promote unnecessary and distracting
@@ -89,7 +92,7 @@ condition of securing senior (GS-14+) rank, additional or enhanced language skil
 technical or cyber expertise, or field training or serve in overseas assignments.
 
 
-### COVERT ACTION
+## Covert Action
 
 Covert action can be a valuable tool in helping further the President’s foreign
 policy agenda if implemented in concert with other forms of government power.
@@ -146,7 +149,7 @@ resources and to guard against the possibility of covert action’s being used w
 little scrutiny in ways that are inconsistent with overt foreign policy goals.
 
 
-### ODNI AND CIA ORGANIZATIONAL RECOMMENDATIONS
+### ODNI and CIA Organizational Recommendations
 
 The ODNI and CIA operate under authority provided by the Central Intelli-
 gence Agency Act of 1949,20 which means they have greater latitude than the rest
@@ -196,7 +199,7 @@ to no more than 180 days, degradation in other areas of the process has limited 
 IC’s capacity to attract qualified and needed expertise.
 
 
-### PREVENTING THE ABUSE OF INTELLIGENCE FOR PARTISAN PURPOSES
+### Preventing The Abuse Of Intelligence For Partisan Purposes
 
 The intelligence function must be protected from bottom-up and top-down
 politicization if it is to play its proper role in our national security decision-mak-
@@ -247,7 +250,12 @@ The President should immediately revoke the security clearances of any
 former Directors, Deputy Directors, or other senior intelligence officials
 who discuss their work in the press or on social media without prior
 clearance from the current Director. IC agencies, including the CIA, should
-minimize their public presence and vigorously investigate any and all leaks
+minimize their public presence and vigorously investigate any and all leaks of information, classified or otherwise. The ODNI and CIA should fire or
+refer for prosecution any employee who is suspected of leaking information,
+and penalties should include the removal of pension benefits for those who
+are found guilty. Additional tools are needed to prevent leaked intelligence
+from being used as a weapon in policy debates by IC leaders or decision-
+makers in the executive branch or Congress.
 
 The DNI and CIA Director should use their authority under the National
 Security Act of 1947 to expedite the clearance of personnel to meet mission
@@ -260,13 +268,6 @@ they can and will deal effectively with personnel that fail to live up to their
 oath to the Constitution, adhere to ethical and moral standards as expected
 by America’s taxpayers, and faithfully execute the law.
 
-
-of information, classified or otherwise. The ODNI and CIA should fire or
-refer for prosecution any employee who is suspected of leaking information,
-and penalties should include the removal of pension benefits for those who
-are found guilty. Additional tools are needed to prevent leaked intelligence
-from being used as a weapon in policy debates by IC leaders or decision-
-makers in the executive branch or Congress.
 
 Military and civilian IC training should include stronger emphasis
 on the norm of political neutrality, including a mandatory course on
@@ -313,5 +314,5 @@ IC leaders live by the norms of neutrality and thus are not seen as political
 actors, for whom political responses are deemed necessary.
 
 Intelligence leaders and professionals should never “cook the books” for
-Presidents or change or shape their analysis to preserve access or status.25
+Presidents or change or shape their analysis to preserve access or status.
 
