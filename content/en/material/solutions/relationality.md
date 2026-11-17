@@ -45,68 +45,95 @@ However, Newton was unable to break through the ethereal layer (1st rank) becaus
  -->
 
 
-To Socrates, the metaphysical dimension is superior to the physical dimension, just as to Descartes, the aether is superior to matter. The aether is the material of the mind, idea (e.g. information), and feelings. 
+To Socrates, the metaphysical domain is superior to the physical domain, just as to Descartes, the aether is superior to matter. The pure aether is the observable of the mind, idea (e.g. information), and feelings. 
 
 This is why the concept of "mind over matter" is possible with Descartes, and has been used by monks to levitate.
+
+Unlike "New Age" sources that put emphasis on consciousness, we put emphasis on **feelings**. 
+
+In the Cartesian mechanistic paradigm which we extend as Superphysics:
+- consciousness is just a hole of the mind
+- the mind is a compound wave of feelings which are constrained as an idea
+
+{{< i a="mind" s="/graphics/super/mind.jpg" c="We focus on feelings that create the dynamics of the mind, which Descartes wrote about as *Passions*, and Spinoza wrote in The Ethics" >}}
 
 
 ## Cartesian Relationality: Getting Rid of c
 
-To push "mind over matter", we get rid of the limitation imposed by the constant speed of light by assigning time as a mental object instead of a physical one. 
+To push "mind over matter", we get rid of the limitation imposed by the constant speed of light by assigning time as a mental object instead of a physical one.
+- The scammer Einstein makes electromagnetic **light** the measure of aethereal time. The natural mismatch of electromagnetism and aether is why theories based on Relativity always fail.
+- Superphysics uses aethereal **idea** as the measure of aethereal time. This is why we can extend Superphysics to Physics (Material Superphysics), Biology (Bio Suerphysics), Sociology (Social Superphysics), Economics (Economic Superphysics), Spirituality (Spiritual Superphysics), etc. 
 
-This makes c vary over time. For example, the speed of light in  and the speed of light in 1729 was different from that of 1983. Even nowadays, we often say that the speed of light is 300,000,000 meters per second instead of 299,792,458. 
+This makes c vary over time. For example, the speed of light in 1729 was different from the speed of light in 1983.
+
+Even nowadays, we often say that the speed of light is 300,000,000 meters per second instead of 299,792,458. 
 
 {{< i s="/graphics/physics/aether.jpg" a="aether drag" >}}
 
 This means that the speed of light is subjective, depending on the mind of the person you are talking to.
 
-We replace this with a subjective `s` as the spatial speed limit* of the universe so that E :: ms{{< s v="2" >}}. 
+We replace this with a subjective `s` as the spatial speed limit* of the universe so that <b>E :: ms<sup>2</sup></b>
 
 This means that:
-- spacetime is the one confining light to 300,000 kilometers per second
+- space is the one confining light to 300,000 kilometers per second
 - the aetherspace is the one confining spacetime
+- 300,000 kilometers per second is really the speed of space
 
-This will make gravitation subordinate to the aether instead of to light, in accordance with our 5-layer model.
 
-For the active version, we:
-- convert the stress-energy tensor into the Kepler Tensor `G1` following Kepler's laws (as well as those of Socrates, Hume, Adam Smith, Ibn-Khaldun, Spinoza)
-- convert the Einstein tensor as a ratio or relativity `:` of the identity in question to another identity 
-- convert the constants into the limiter `s` as the limits of physical space
-- remove light `c` which makes the cosmological constant `Λ` unnecessary 
-- put everthing inside a Cartesian view which imposes obervation and timespans, consequently the timeline
-
+This will make gravitation subordinate to the crude aether instead of to light, in accordance with our 5-layer model.
 
 {{< img alt="Cartesian Relationality" src="/graphics/physics/gr.jpg" cap="Material Superphysics converts Physics equations into ratios, since everything is relative and nothing, except the Absolute Entity, is absolute" >}}
 
-
 We call this "Cartesian Relationality".
-
 
 {{< i a="Cartesian Relationality" s="/graphics/physics/relationality.jpg" c="" >}}
 
+
+
+
+For the active version, we use Descartes 4 rules of motion as a displacer term and a rotater term.
+
+$$\boxed{F = \frac{GMm}{r^2}\cdot\frac{c_0^2}{c(r)^2} + \kappa\,\frac{GmM L^2}{c(r)^2\,r^4}}$$
+
+- The displacer is Newtonian Gravity
+- The rotater replaces the geodesic force of Relativity
+
+<!-- - convert the stress-energy tensor into the Kepler Tensor `G1` following Kepler's laws (as well as those of Socrates, Hume, Adam Smith, Ibn-Khaldun, Spinoza)
+- convert the Einstein tensor as a ratio or relativity `:` of the identity in question to another identity 
+- convert the constants into the limiter `s` as the limits of physical space
+- remove light `c` which makes the cosmological constant `Λ` unnecessary 
+- put everthing inside a Cartesian view which imposes obervation and timespans, consequently the timeline -->
+
+
+
+## Computer Program Instead of Fabric
 
 Superphysics sees the universe as a Matrix or huge computer program (or the Mind of Brahma). 
 
 Cartesian Relationality can be thought of as a [model-view-controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) paradigm:
 
-MVC | Component | Metaphysical Equivalent
---- | --- | ---
-**Model** | The gravitational signatures having a relation to other signatures | This is the idea for the thing
-**View** | The Cartesian View | This is physical existence of the thing as real data
-**Controller** | This is `s` or the limiter | This is how the thing interacts in reality
+MVC | Material Superphysics Medium |  Component | Metaphysical Equivalent
+--- | --- | --- | ---
+**Model** | Existence Space | The gravitational signatures having a relation to other signatures | This holds the idea for the thing
+**Controller** | Identity Space | This is `s` or the limiter | This is how the thing interacts in reality
+**View** | Perception Space | The Cartesian View | This is physical existence of the thing as real data
 
-We not only use the word 'relationality' to prevent Descartes' Relativity from getting mixed up with that of Einstein, but also because it uses the Tables of Francis Bacon which are similar to a relational database. 
+
+We use the word 'relationality' to prevent it from being associated with the scam Relativity of Einstein. 
+- This is also because it uses the Tables of Francis Bacon which are similar to a relational database. 
 
 
 ### Everything is Relational because There is no Void in Nature
 
-Everything is related because every signature interacts* obviously or non-obviously with each other. The metaphysical thing that causes stars and dust to gather or disperse is the same thing that causes:
+Everything is related because every signature interacts obviously or non-obviously with each other. This is from the Law of Conservation of Idea. 
+
+The metaphysical thing that causes stars and dust to gather or disperse is the same thing that causes:
 - people to form societies or leave society
 - ideas to coalesce into complex ideas or be analyzed into their basic idea. 
 
 This means that all forces are contact forces facilitated by the aether. This allows action-at-a-distance as seen in quantum mechanics because the aether is everywhere. 
 
-To the aether, there is zero distance between bodies. In fact, quantum teleportation negates distance. 
+To the pure aether, there is zero distance between bodies. In fact, quantum teleportation negates distance. 
 
 
 
@@ -117,7 +144,7 @@ Cartesian Relationality solves the following problems:
 Phenomena | Explanation
 --- | ---
 [Dark matter](https://www.universetoday.com/150964/one-idea-to-explain-dark-matter-ultralight-bosons-fails-the-test/) | This is replaced by spatial vortices i.e. the pull of the galaxy is from its vortex
-Dark Energy | This is replaced by the [splitting of qosts](/research/descartes/world/chapter-08) which manifests as the expansion of spacetime
+Dark Energy | This is replaced by low frequency atomic space wherein an atom is a universe, and protons are galaxies
 Gravitational lensing | This is caused by the refraction of light by spatial vortices
 Equivalence Principle | This is caused by vortex arms having the same speed a certain distances from the vortex
 
