@@ -47,9 +47,15 @@ The main confusion in understanding the Fine Structure is the fact that Physics 
 
 When in fact, it just means that colors are emitted with slight variation. 
 
-So we stick to "change in color" to explain the fine structure. 
+So we stick to "change in color" to explain the fine structure.
 
-We explain that this change in color is from the differences in the spheres. For example, with a hydrogen atom jumping down from sphere 3 to sphere 1. This causes a change in color. 
+This shift from  "change in color" to "spectral line distance" is part of the transition from quantities into qualities which leads to ***Qualimath***. 
+
+We explain that this change in color is from the differences in the spheres. For example, with a hydrogen atom jumping down from sphere 3 to sphere 1. 
+
+This:
+- causes a change in color
+- explains the 3 energy levels for the Hydrogen atom in some Physics textbooks
 
 
 ## The Fine Structure Constant is based on √3

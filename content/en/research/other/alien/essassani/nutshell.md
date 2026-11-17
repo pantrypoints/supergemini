@@ -42,11 +42,11 @@ Since 1983, they have been communicating with an American named Darryl Anka via 
 The internet and Youtube have allowed their communications to be known by more people.
 
 
-## Their Agenda: Anuhet and Hybrid Colonization 
+## Their Agenda: Anuhet and Hybrid Shalanaya Colonization 
 
 Their goal is to help humans advance mentally and spiritually by explaining how the universe works in order to create the new race called the **Anuhet** which will aid our quadrant of the galaxy as it merges with the higher vibration [Andromeda galaxy](https://en.wikipedia.org/wiki/Andromeda%E2%80%93Milky_Way_collision). 
 
-To achieve this long term goal, they have a short-medium term goal of positively colonizing Earth with hybrids. The Sassani Bashar does this by channeling a hybrid called Willa. 
+To achieve this long term goal, they have a short-medium term goal of positively colonizing Earth with hybrids called Shalanaya. The Sassani Bashar does this by channeling a hybrid called Willa. 
 
 Unlike European colonization which was destructive and negative, Hybrid colonization is positive similar to how the Indian Gupta empire colonized and bootstrapped Sri Lanka, Indonesia, Thailand, Cambodia, and the Philippines as proven by them being Hindu such as Bali, spreading Dharma in the process.
 
