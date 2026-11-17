@@ -1,7 +1,7 @@
 ---
 heading: Session 97
-title: "The Hawk"
-description: ""
+title: "Overthinking the Hawk"
+description: "Don overthinks seeing a hawk that confuses his judgement"
 c: "indigo"
 image: /covers/ra.jpg
 weight: 279
@@ -12,37 +12,92 @@ September 15, 1982
 
 
 
-{{< r a="Don Elkins" >}} What’s the situation with our fifth-density negative friend?{{< /r >}}
+{{< r a="Don Elkins" >}} 
+What’s the situation with our 5th density negative friend?{{< /r >}}
 
-{{< l a="Ra" >}} It is as previously stated.{{< /l >}}
+{{< l a="Ra" >}}
+It is as previously stated.{{< /l >}}
 
 {{< r a="Don Elkins" >}}
-I’ve been doing some consideration of the appearance of the hawk and have made this analysis of the bird in Card Three. 
+I’ve been thinking about the appearance of the hawk and have made this analysis of the bird in Card Three. 
 
-The bird is a message from the higher self, and the position of the wings in Card Three, one wing pointing toward the female, indicates that it is a message to the female acting as catalyst for the mind. The position of the downward wing indicates that the message is of a negative or of a nature indicating the inappropriateness of certain mental activity or plan. Would Ra comment on that?{{< /r >}}
+The bird is a message from the higher self. The position of the wings in Card Three, one wing pointing toward the female, indicates that it is a message to the female acting as catalyst for the mind.
 
-{{< l a="Ra" >}} No.{{< /l >}}
+The position of the downward wing indicates that the message is of a negative or of a nature indicating the inappropriateness of certain mental activity or plan. Would Ra comment on that?{{< /r >}}
+
+{{< l a="Ra" >}}
+No.{{< /l >}}
 
 {{< r a="Don Elkins" >}} Is the reason for this lack of comment the first distortion?{{< /r >}}
 
-{{< l a="Ra" >}} This is correct.{{< /l >}}
+{{< l a="Ra" >}}
+Yes.
+{{< /l >}}
 
 {{< r a="Don Elkins" >}}
-I have analyzed the hawk that I saw immediately after returning from the house in Atlanta as a message, most probably from my higher self, indicating that the plan of moving was not the best; was not too appropriate since, without the hawk, everything would have continued as planned with no added catalyst. This single catalyst of a remarkable nature then, logically, from my point of view, could only mean that there was a message as to the inappropriateness of the plan for some reason yet to be discovered. Would Ra comment on that?{{< /r >}}
+I have analyzed the hawk that I saw immediately after returning from the house in Atlanta as a message, most probably from my higher self. It indicates that the plan of moving was not the best. It was not too appropriate since, without the hawk, everything would have continued as planned with no added catalyst. 
 
-{{< l a="Ra" >}} We tread as close as possible to the Law of Confusion in suggesting that not all wingèd creatures have an archetypical meaning. We might suggest that the noticing of shared subjectively notable phenomena is common when, in another incarnational experience, work significant to the service of increased polarity has been shared. These subjectively interesting shared phenomena then act as a means of communication, the nature of which cannot be discussed by those outside of the shared incarnational experience without the interference with the free will of each entity involved in the complex of subjectively meaningful events.{{< /l >}}
+This single catalyst of a remarkable nature then, logically, from my point of view, could only mean that there was a message as to the inappropriateness of the plan for some reason yet to be discovered. 
 
-{{< r a="Don Elkins" >}} Can Ra please tell us the source of the unusual odor in this room this morning?{{< /r >}}
+Would Ra comment on that?{{< /r >}}
 
-{{< l a="Ra" >}} There are two components to this odor. 1. The decomposing physical vehicle of one of your 2nd density Rodentia. 2. An elemental which is attempting to take up residence within the putrefying remains of this small creature. The cleansing of the room and the burning of the incense has discouraged the elemental. The process of decomposition shall, in a short period of your space/time, remove the less than harmonious sensations provided for the nose.{{< /l >}}
+<!-- We tread as close as possible to the Law of Confusion in suggesting that  -->
 
-{{< r a="Don Elkins" >}} I find myself presently in a difficult position of decision, primarily because of the appearance of the aforementioned hawk after our return from Atlanta. The only objective of any value at all is the work that we are doing which includes not only the contact but communication and dissemination of information to those who might request it. Since the move was connected with that, and since the hawk was, to me, obviously a function of that process, I am at present in a quandary with respect to the optimal situation since I have not yet decided definitely on the significance of the hawk or the advantages or efficaciousness of the move and do not want to create a process which is basically irreversible if it is going to result in a lack of our ability to be of service to those who would seek that which we are able to manifest through our efforts here. Would Ra comment on that situation?{{< /r >}}
+{{< l a="Ra" >}} 
+Not all wingèd creatures have an archetypical meaning. We might suggest that the noticing of shared subjectively notable phenomena is common when, in another incarnational experience, work significant to the service of increased polarity has been shared. 
 
-{{< l a="Ra" >}} The questioner presumes much, and to comment is an infringement upon its free will. We may suggest the pondering of our previous comments regarding the wingèd creatures of which you speak. We repeat that any place of working, properly prepared by this group, is acceptable to Ra. The discrimination of choice is yours.{{< /l >}}
+These subjectively interesting shared phenomena then act as a means of communication, the nature of which cannot be discussed by those outside of the shared incarnational experience without the interference with the free will of each entity involved in the complex of subjectively meaningful events.{{< /l >}}
 
-{{< r a="Don Elkins" >}} Are there any items in the first four cards not of Ra’s intention that we could remove to present a less confusing card as we make our new drawings? We already have determined the items that should be removed from the first four cards. The question was: have I missed anything that should be removed which were not of Ra’s original intention in the last few sessions of determining what should be removed?{{< /r >}}
 
-{{< l a="Ra" >}} We shall repeat our opinion that there are several concepts which, in each image, are astrologically based. However, these concepts are not without merit within the concept complex intended by Ra, given the perception by the student of these concepts in an appropriate manner. We wish not to form that which may be considered by any mind/body/spirit complex to be a complete and infallible series of images. There is a substantial point to be made in this regard. We have been, with the questioner’s aid, investigating the concept complexes of the great architecture of the archetypical mind. To more clearly grasp the nature, the process, and the purpose of archetypes, Ra provided a series of concept complexes. In no way whatsoever should we, as humble messengers of the One Infinite Creator, wish to place before the consideration of any mind/body/spirit complex which seeks its evolution the palest tint of the idea that these images are anything but a resource for working in the area of the development of the faith and the will. To put this into perspective we must gaze then at the stunning mystery of the One Infinite Creator. The archetypical mind does not resolve any paradox or bring all into unity. This is not the property of any resource which is of the third density. Therefore, may we ask the student to look up from inward working and behold the glory, the might, the majesty, the mystery, and the peace of oneness. Let no consideration of bird or beast, darkness or light, shape or shadow keep any which seeks from the central consideration of unity. We are not messengers of the complex. We bring the message of unity. In this perspective only may we affirm the value to the seeker of adepthood of the grasping, articulating, and use of this resource of the deep mind exemplified by the concept complexes of the archetypes.{{< /l >}}
+### Dead Rat
+
+{{< r a="Don Elkins" >}} 
+Can Ra please tell us the source of the unusual odor in this room this morning?
+{{< /r >}}
+
+{{< l a="Ra" >}} 
+There are 2 components to this odor:
+
+1. The decomposing physical vehicle of one of your 2nd density Rodentia
+2. An elemental [bacteria/virus] which is attempting to take up residence within the putrefying remains of this small creature.
+
+The cleansing of the room and the burning of the incense has discouraged the elemental. 
+
+The process of decomposition shall, in a short period of your space/time, remove the less than harmonious sensations provided for the nose.
+{{< /l >}}
+
+
+{{< r a="Don Elkins" >}} 
+I can't decide because of the hawk after our return from Atlanta. The only objective of any value at all is the work that we are doing which includes not only the contact but communication and dissemination of information to those who might request it. 
+
+Since the move was connected with that, and since the hawk was, to me, obviously a function of that process, I am at present in a quandary with respect to the optimal situation since I have not yet decided definitely on the significance of the hawk or the advantages or efficaciousness of the move and do not want to create a process which is basically irreversible if it is going to result in a lack of our ability to be of service to those who would seek that which we are able to manifest through our efforts here. 
+
+Would Ra comment on that situation?
+{{< /r >}}
+
+{{< l a="Ra" >}}
+<!-- The questioner presumes much, and to comment is an infringement upon its free will. We may suggest the  -->
+Ponder our previous comments regarding hawks. Any place of working, properly prepared by this group, is acceptable to Ra.
+{{< /l >}}	
+
+{{< r a="Don Elkins" >}}
+Are there any items in the first four cards not of Ra’s intention that we could remove to present a less confusing card as we make our new drawings? 
+
+We already have determined the items that should be removed from the first four cards. The question was: have I missed anything that should be removed which were not of Ra’s original intention in the last few sessions of determining what should be removed?{{< /r >}}
+
+{{< l a="Ra" >}} 
+There are several concepts which, in each image, are astrologically based.
+
+However, these concepts are not without merit within the concept complex intended by Ra, given the perception by the student of these concepts in an appropriate manner. 
+
+We wish not to form that which may be considered by any mind/body/spirit complex to be a complete and infallible series of images. 
+
+There is a substantial point to be made in this regard. We have been, with the questioner’s aid, investigating the concept complexes of the great architecture of the archetypical mind. To more clearly grasp the nature, the process, and the purpose of archetypes, Ra provided a series of concept complexes. In no way whatsoever should we, as humble messengers of the One Infinite Creator, wish to place before the consideration of any mind/body/spirit complex which seeks its evolution the palest tint of the idea that these images are anything but a resource for working in the area of the development of the faith and the will. To put this into perspective we must gaze then at the stunning mystery of the One Infinite Creator. The archetypical mind does not resolve any paradox or bring all into unity. 
+
+This is not the property of any resource which is of the third density. Therefore, may we ask the student to look up from inward working and behold the glory, the might, the majesty, the mystery, and the peace of oneness.
+
+Let no consideration of bird or beast, darkness or light, shape or shadow keep any which seeks from the central consideration of unity. We are not messengers of the complex. We bring the message of unity. In this perspective only may we affirm the value to the seeker of adepthood of the grasping, articulating, and use of this resource of the deep mind exemplified by the concept complexes of the archetypes.
+{{< /l >}}
 
 {{< r a="Don Elkins" >}} Thank you. Card Number Five, the Significator of the Mind, indicates, firstly, as I see it, simply a male within a rectangularly structured form. This suggests to me that the Significator of the Mind in third density is well-bounded within the illusion, as is also suggested by the fact that the base of the male is a rectangular form showing no ability for movement. Would Ra comment on that?{{< /r >}}
 
