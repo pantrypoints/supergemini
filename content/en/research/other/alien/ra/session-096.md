@@ -96,21 +96,36 @@ Any sequence which results in the cleansings is acceptable. It is to be noted th
 
 {{< l a="Ra" >}}This is so.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Sorry to ask the unimportant question. I was thinking of the future readers, and that they would be totally mystified as to how much…
+{{< r a="Don Elkins" >}}
+I was thinking of the future readers, and that they would be totally mystified as to how much…
 
-Was there a significance with respect to the hawk that landed the other day just outside of the kitchen window?{{< /r >}}
+Was there a significance with respect to the hawk that landed the other day just outside of the kitchen window?
+{{< /r >}}
 
-{{< l a="Ra" >}}This is correct. We may note that we find it interesting that queries offered to us are often already known. We assume that our confirmation is appreciated.{{< /l >}}
+{{< l a="Ra" >}}
+Yes. We may note that we find it interesting that queries offered to us are often already known. We assume that our confirmation is appreciated.
+{{< /l >}}
 
-{{< r a="Don Elkins" >}}This seems to be connected with the concept of the birds being messengers in the tarot and this is a demonstration of this concept in the tarot, and I was wondering about the mechanics, you might say, of this type of a message. I assume the hawk was a messenger, and I assume that as I thought of the possible meaning of this with respect to our activities I was, in the state of free will, getting a message through the appearance of this very unusual bird, unusual, I say, in that it came so close. I would be very interested to know the origin of the message. (Of course, the origin is the One Creator.) The mechanics of this are very mystifying to me. Would Ra comment on this, please?{{< /r >}}
+{{< r a="Don Elkins" >}}
+This seems to be connected with the concept of the birds being messengers in the tarot. This is a demonstration of this concept in the tarot.
+
+I was wondering about the mechanics of this type of a message.
+
+I assume the hawk was a messenger, and I assume that as I thought of the possible meaning of this with respect to our activities I was, in the state of free will, getting a message through the appearance of this very unusual bird, unusual, I say, in that it came so close.
+
+I would be very interested to know the origin of the message. (Of course, the origin is the One Creator.) The mechanics of this are very mystifying to me. Would Ra comment on this, please?{{< /r >}}
 
 {{< l a="Ra" >}}No.{{< /l >}}
 
-{{< r a="Don Elkins" >}}I was afraid that you would say that. Am I correct in assuming that this is the same type of communication as depicted in Card Number Three in the Catalyst of the Mind?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Am I correct in assuming that this is the same type of communication as depicted in Card Number Three in the Catalyst of the Mind?{{< /r >}}
 
-{{< l a="Ra" >}}We may not comment due to the Law of Confusion. There is an acceptable degree of confirmation of items known, but when the recognized subjective sigil is waived and the message not clear, then it is that we must remain silent.{{< /l >}}
+{{< l a="Ra" >}}
+We may not comment due to the Law of Confusion. There is an acceptable degree of confirmation of items known, but when the recognized subjective sigil is waived and the message not clear, then it is that we must remain silent.
+{{< /l >}}
 
-{{< r a="Don Elkins" >}}Would Ra comment on the technique of blessing the water we will use to sprinkle on the salt? I assume we just sprinkle the water directly off of our finger tips onto the line of salt. And also how much, in general, should be sprinkled on the salt? How wet we should get it? This is trivial, but I’d like to get it right.{{< /r >}}
+{{< r a="Don Elkins" >}}
+Would Ra comment on the technique of blessing the water we will use to sprinkle on the salt? I assume we just sprinkle the water directly off of our finger tips onto the line of salt. And also how much, in general, should be sprinkled on the salt? How wet we should get it? This is trivial, but I’d like to get it right.{{< /r >}}
 
 {{< l a="Ra" >}}The blessing of the water may be that one we have previously given, or it may be that one which is written within the liturgy of Carla’s distortion of the worship of the One Creator, or it may simply be obtained from what you call your Catholic Church in the form of holy water.
 

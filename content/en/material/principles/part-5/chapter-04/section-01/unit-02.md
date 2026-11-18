@@ -21,6 +21,10 @@ When a proton gets an electron, the nano-aetherspaces becomes the aetherspace co
 
 These nano-aetherspaces rotate clockwise around the nucleus which Physics interprets as "nuclear spin".
 
+{{< i s="/graphics/physics/decay.jpg" a="Proton" c="The mismatch in size of the nano-aetherspaces creates the dynamism in the proton. The qualitative differences between protons and neutrons is from the difference in gap between the 2 smalle nano-aetherspaces roughly analogous to the 2 up quarks in Physics" >}}
+ 
+
+ 
 This gives us a table:
 
 Proton | Nano-aetherspaces | Physics Interpretation

@@ -4,6 +4,7 @@ heading: Chapter 4b
 description: "A clever scheme had been prearranged by Ananta."
 c: "indigo"
 author: "Yogananda"
+icon: "Yogananda"
 weight: 16
 ---
 

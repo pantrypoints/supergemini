@@ -4,6 +4,7 @@ heading: Chapter 43b
 description: "There are many astral planets, teeming with astral beings"
 c: "indigo"
 author: "Yogananda"
+icon: "Yogananda"
 weight: 356
 ---
 

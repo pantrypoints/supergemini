@@ -4,6 +4,7 @@ heading: Chapter 37b
 description: ""
 c: "indigo"
 author: "Yogananda"
+icon: "Yogananda"
 weight: 332
 ---
 

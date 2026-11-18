@@ -4,6 +4,7 @@ heading: Chapter 36
 description: ""
 c: "indigo"
 author: "Yogananda"
+icon: "Yogananda"
 weight: 328
 ---
 

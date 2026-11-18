@@ -4,13 +4,18 @@ heading: Chapter 48
 description: ""
 c: "indigo"
 author: "Yogananda"
+icon: "Yogananda"
 weight: 400
 ---
 
 
 
+Sister Gyanamata smilingly led me through a gate and up a tree-shaded walk.
 
-“A surprise, sir! During your absence abroad we have had this Encinitas hermitage built; it is a ‘welcome-home’ gift!” Sister Gyanamata smilingly led me through a gate and up a tree-shaded walk.
+{{< r a="Sister Gyanamata" >}}
+A surprise, sir! During your absence abroad we have had this Encinitas hermitage built; it is a ‘welcome-home’ gift!” 
+{{< /r >}}
+
 
 I saw a building jutting out like a great white ocean liner toward the blue brine.
 

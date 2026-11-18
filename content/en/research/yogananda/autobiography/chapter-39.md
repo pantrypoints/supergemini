@@ -4,6 +4,7 @@ heading: Chapter 39
 description: "Yogananda visits the breatharian Therese Neumann"
 c: "indigo"
 author: "Yogananda"
+icon: "Yogananda"
 weight: 338
 ---
 

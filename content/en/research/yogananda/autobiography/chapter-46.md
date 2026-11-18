@@ -1,20 +1,34 @@
 ---
 title: "The Woman Yogi Who Never Eats"
 heading: Chapter 46
-description: ""
+description: "Yogananda interviews the breatharian Giri Bala"
 c: "indigo"
 author: "Yogananda"
+icon: "Yogananda"
 weight: 370
 ---
 
 
-“Sir, whither are we bound this morning?” Mr. Wright was driving the Ford; he took his eyes off the road long enough to gaze at me with a questioning twinkle. From day to day he seldom knew what part of Bengal he would be discovering next.
+{{< r a="Richard Wright" >}}
+“Sir, whither are we bound this morning?”
+{{< /r >}}
 
-“God willing,” I replied devoutly, “we are on our way to see an eighth wonder of the world-a woman saint whose diet is thin air!”
 
-“Repetition of wonders-after Therese Neumann.” But Mr. Wright laughed eagerly just the same; he even accelerated the speed of the car. More extraordinary grist for his travel diary! Not one of an average tourist, that!
+Mr. Wright was driving the Ford; he took his eyes off the road long enough to gaze at me with a questioning twinkle. From day to day he seldom knew what part of Bengal he would be discovering next.
+
+{{< l a="Yogananda" >}}
+God willing, we are on our way to see an eighth wonder of the world-a woman saint whose diet is thin air!
+{{< /l >}}
+
+{{< r a="Richard Wright" >}}
+Repetition of wonders-after Therese Neumann.
+{{< /r >}}
+
+
+But Mr. Wright laughed eagerly just the same; he even accelerated the speed of the car. More extraordinary grist for his travel diary! Not one of an average tourist, that!
 
 The Ranchi school had just been left behind us; we had risen before the sun. Besides my secretary and myself, three Bengali friends were in the party. We drank in the exhilarating air, the natural wine of the morning. Our driver guided the car warily among the early peasants and the two-wheeled carts, slowly drawn by yoked, hump-shouldered bullocks, inclined to dispute the road with a honking interloper.
+
 
 “Sir, we would like to know more of the fasting saint.”
 
@@ -32,13 +46,14 @@ As one voice our party pledged loyalty to the Pride of Detroit.
 
 “The Ford comes from America,” I told the lawyer. “It would be a shame to deprive it of an opportunity to get acquainted with the heart of Bengal!”
 
-“May Ganesh 46-4 go with you!” Lambadar Babu said, laughing. He added courteously, “If you ever get there, I am sure Giri Bala will be glad to see you. She is approaching her seventies, but continues in excellent health.”
+“May Ganesh go with you!” Lambadar Babu said, laughing. 
+
+He added courteously, “If you ever get there, I am sure Giri Bala will be glad to see you. She is approaching her seventies, but continues in excellent health.”
 
 “Please tell me, sir, if it is absolutely true that she eats nothing?” I looked directly into his eyes, those telltale windows of the mind.
 
-giribala
 
-GIRI BALA
+### Giri Bala
 
 This great woman yogi has not taken food or drink since 1880. I am pictured with her, in 1936, at her home in the isolated Bengal village of Biur. Her non-eating state has been rigorously investigated by the Maharaja of Burdwan. She employs a certain yoga technique to recharge her body with cosmic energy from the ether, sun, and air.
 
@@ -148,57 +163,93 @@ A strange pastime, I thought, for a non-eating saint!
 
 Giri Bala put aside her habitual reserve, relaxing into a conversational mood.
 
-“So be it.” Her voice was low and firm. “I was born in these forest regions. My childhood was unremarkable save that I was possessed by an insatiable appetite. I had been betrothed in early years.
+{{< r a="Giri Bala" >}}
+So be it. I was born in these forest regions. My childhood was unremarkable save that I was possessed by an insatiable appetite. I had been betrothed in early years.
 
-“‘Child,’ my mother often warned me, ‘try to control your greed. When the time comes for you to live among strangers in your husband’s family, what will they think of you if your days are spent in nothing but eating?’
+‘Child,’ my mother often warned me, ‘try to control your greed. When the time comes for you to live among strangers in your husband’s family, what will they think of you if your days are spent in nothing but eating?’
 
-“The calamity she had foreseen came to pass. I was only twelve when I joined my husband’s people in Nawabganj. My mother-in-law shamed me morning, noon, and night about my gluttonous habits. Her scoldings were a blessing in disguise, however; they roused my dormant spiritual tendencies. One morning her ridicule was merciless.
+The calamity she had foreseen came to pass. I was only 12 when I joined my husband’s people in Nawabganj. My mother-in-law shamed me morning, noon, and night about my gluttonous habits. Her scoldings were a blessing in disguise, however; they roused my dormant spiritual tendencies. One morning her ridicule was merciless.
 
-“‘I shall soon prove to you,’ I said, stung to the quick, ‘that I shall never touch food again as long as I live.’
+‘I shall soon prove to you,’ I said, stung to the quick, ‘that I shall never touch food again as long as I live.’
 
-“My mother-in-law laughed in derision. ‘So!’ she said, ‘how can you live without eating, when you cannot live without overeating?’
+My mother-in-law laughed in derision. ‘So!’ she said, ‘how can you live without eating, when you cannot live without overeating?’
 
-“This remark was unanswerable! Yet an iron resolution scaffolded my spirit. In a secluded spot I sought my Heavenly Father.
+This remark was unanswerable! Yet an iron resolution scaffolded my spirit. In a secluded spot I sought my Heavenly Father.
 
-“‘Lord,’ I prayed incessantly, ‘please send me a guru, one who can teach me to live by Thy light and not by food.’
+‘Lord,’ I prayed incessantly, ‘please send me a guru, one who can teach me to live by Thy light and not by food.’
 
-“A divine ecstasy fell over me. Led by a beatific spell, I set out for the Nawabganj ghat on the Ganges. On the way I encountered the priest of my husband’s family.
+A divine ecstasy fell over me. Led by a beatific spell, I set out for the Nawabganj ghat on the Ganges. On the way I encountered the priest of my husband’s family.
+{{< /r >}}
 
-“‘Venerable sir,’ I said trustingly, ‘kindly tell me how to live without eating.’
 
-“He stared at me without reply. Finally he spoke in a consoling manner. ‘Child,’ he said, ‘come to the temple this evening; I will conduct a special Vedic ceremony for you.’
+{{< l a="Vedic Priest" >}}
+Kindly tell me how to live without eating. ‘Child,’ he said, ‘come to the temple this evening; I will conduct a special Vedic ceremony for you.’
+{{< /l >}}
 
+
+{{< r a="Giri Bala" >}}
 “This vague answer was not the one I was seeking; I continued toward the ghat. The morning sun pierced the waters; I purified myself in the Ganges, as though for a sacred initiation. As I left the river bank, my wet cloth around me, in the broad glare of day my master materialized himself before me!
+{{< /r >}}
 
-“‘Dear little one,’ he said in a voice of loving compassion, ‘I am the guru sent here by God to fulfill your urgent prayer. He was deeply touched by its very unusual nature! From today you shall live by the astral light, your bodily atoms fed from the infinite current.’”
+
+{{< l a="Vedic Priest" >}}
+‘Dear little one I am the guru sent here by God to fulfill your urgent prayer. He was deeply touched by its very unusual nature! From today you shall live by the astral light, your bodily atoms fed from the infinite current.’”
+{{< /l >}}
+
 
 Giri Bala fell into silence. I took Mr. Wright’s pencil and pad and translated into English a few items for his information.
 
-The saint resumed the tale, her gentle voice barely audible. “The ghat was deserted, but my guru cast round us an aura of guarding light, that no stray bathers later disturb us. He initiated me into a kria technique which frees the body from dependence on the gross food of mortals. The technique includes the use of a certain mantra 46-8 and a breathing exercise more difficult than the average person could perform. No medicine or magic is involved; nothing beyond the kria.”
+The saint resumed the tale, her gentle voice barely audible. 
+
+{{< r a="Giri Bala" >}}
+The ghat was deserted, but my guru cast round us an aura of guarding light, that no stray bathers later disturb us. He initiated me into a kria technique which frees the body from dependence on the gross food of mortals. The technique includes the use of a certain mantra 46-8 and a breathing exercise more difficult than the average person could perform. No medicine or magic is involved; nothing beyond the kria.
+{{< /r >}}
+
 
 In the manner of the American newspaper reporter, who had unknowingly taught me his procedure, I questioned Giri Bala on many matters which I thought would be of interest to the world. She gave me, bit by bit, the following information:
 
-“I have never had any children; many years ago I became a widow. I sleep very little, as sleep and waking are the same to me. I meditate at night, attending to my domestic duties in the daytime. I slightly feel the change in climate from season to season. I have never been sick or experienced any disease. I feel only slight pain when accidentally injured. I have no bodily excretions. I can control my heart and breathing. I often see my guru as well as other great souls, in vision.”
 
-“Mother,” I asked, “why don’t you teach others the method of living without food?”
+{{< r a="Giri Bala" >}}
+I have never had any children; many years ago I became a widow. I sleep very little, as sleep and waking are the same to me. I meditate at night, attending to my domestic duties in the daytime. I slightly feel the change in climate from season to season. I have never been sick or experienced any disease. I feel only slight pain when accidentally injured. I have no bodily excretions. I can control my heart and breathing. I often see my guru as well as other great souls, in vision.
+{{< /r >}}
+
+
+{{< l a="Yogananda" >}}
+Mother, why don’t you teach others the method of living without food?
+{{< /l >}}
+
+
+
+{{< r a="Giri Bala" >}}
+No. I was strictly commanded by my guru not to divulge the secret. It is not his wish to tamper with God’s drama of creation. The farmers would not thank me if I taught many people to live without eating! The luscious fruits would lie uselessly on the ground. It appears that misery, starvation, and disease are whips of our karma which ultimately drive us to seek the true meaning of life.
+{{< /r >}}
 
 My ambitious hopes for the world’s starving millions were nipped in the bud.
 
-“No.” She shook her head. “I was strictly commanded by my guru not to divulge the secret. It is not his wish to tamper with God’s drama of creation. The farmers would not thank me if I taught many people to live without eating! The luscious fruits would lie uselessly on the ground. It appears that misery, starvation, and disease are whips of our karma which ultimately drive us to seek the true meaning of life.”
 
-“Mother,” I said slowly, “what is the use of your having been singled out to live without eating?”
+{{< l a="Yogananda" >}}
+Mother, what is the use of your having been singled out to live without eating?
+{{< /l >}}
 
-“To prove that man is Spirit.” Her face lit with wisdom. “To demonstrate that by divine advancement he can gradually learn to live by the Eternal Light and not by food.”
+{{< r a="Giri Bala" >}}
+To prove that man is Spirit. To demonstrate that by divine advancement he can gradually learn to live by the Eternal Light and not by food.
+{{< /r >}}
+
 
 The saint sank into a deep meditative state. Her gaze was directed inward; the gentle depths of her eyes became expressionless. She gave a certain sigh, the prelude to the ecstatic breathless trance. For a time she had fled to the questionless realm, the heaven of inner joy.
 
 The tropical darkness had fallen. The light of a small kerosene lamp flickered fitfully over the faces of a score of villagers squatting silently in the shadows. The darting glowworms and distant oil lanterns of the huts wove bright eerie patterns into the velvet night. It was the painful hour of parting; a slow, tedious journey lay before our little party.
 
-“Giri Bala,” I said as the saint opened her eyes, “please give me a keepsake-a strip of one of your saris.”
+{{< l a="Yogananda" >}}
+Giri Bala, please give me a keepsake-a strip of one of your saris.
+{{< /l >}}
 
 She soon returned with a piece of Benares silk, extending it in her hand as she suddenly prostrated herself on the ground.
 
-“Mother,” I said reverently, “rather let me touch your own blessed feet!”
+{{< l a="Yogananda" >}}
+Mother, rather let me touch your own blessed feet!
+{{< /l >}}
+
 
 
 ### Footnotes
@@ -220,4 +271,3 @@ She soon returned with a piece of Benares silk, extending it in her hand as she 
 Someday scientists will discover how man can live directly on solar energy. “Chlorophyll is the only substance known in nature that somehow possesses the power to act as a ‘sunlight trap,’” William L. Laurence writes in the New York Times. “It ‘catches’ the energy of sunlight and stores it in the plant. Without this no life could exist. We obtain the energy we need for living from the solar energy stored in the plant-food we eat or in the flesh of the animals that eat the plants. The energy we obtain from coal or oil is solar energy trapped by the chlorophyll in plant life millions of years ago. We live by the sun through the agency of chlorophyll.”
 
 46-8: Potent vibratory chant. The literal translation of Sanskrit mantra is “instrument of thought,” signifying the ideal, inaudible sounds which represent one aspect of creation; when vocalized as syllables, a mantra constitutes a universal terminology. The infinite powers of sound derive from AUM, the “Word” or creative hum of the Cosmic Motor.
-

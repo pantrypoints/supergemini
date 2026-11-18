@@ -4,6 +4,7 @@ heading: Chapter 1b
 description: ""
 c: "indigo"
 author: "Yogananda"
+icon: "Yogananda"
 weight: 5
 ---
 
@@ -32,11 +33,16 @@ While at our family estate in Ichapur, Bengal, I was stricken with Asiatic chole
 
 My life was despaired of; the doctors could do nothing. At my bedside, Mother frantically motioned me to look at Lahiri Mahasaya’s picture on the wall above my head.
 
-“Bow to him mentally!” 
+{{< r a="Mother" >}}
+Bow to him mentally!
+{{< /r >}}
 
 She knew I was too feeble even to lift my hands in salutation. 
 
-“If you really show your devotion and inwardly kneel before him, your life will be spared!”
+{{< r a="Mother" >}}
+If you really show your devotion and inwardly kneel before him, your life will be spared!
+{{< /r >}}
+
 
 I gazed at his photograph and saw there a blinding light, enveloping my body and the entire room. My nausea and other uncontrollable symptoms disappeared; I was well. 
 

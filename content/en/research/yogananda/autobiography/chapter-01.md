@@ -4,6 +4,7 @@ heading: Chapter 1
 description: ""
 c: "indigo"
 author: "Yogananda"
+icon: "Yogananda"
 weight: 4
 ---
 
@@ -78,20 +79,31 @@ Mother gave to the needy. Father was also kind to them, but his respect for law 
 
 One fortnight Mother spent more than Father’s monthly income in feeding the poor.
 
+{{< r a="Father" >}}
+Please keep your charities within a reasonable limit.
+{{< /r >}}
 
-“All I ask, please, is to keep your charities within a reasonable limit.” 
 
 Even a gentle rebuke from her husband was grievous to Mother. She ordered a hackney carriage, not hinting to the children at any disagreement.
 
-“Good-by; I am going away to my mother’s home.” Ancient ultimatum!
+{{< r a="Mother" >}}
+Good-by; I am going away to my mother’s home.
+{{< /r >}}
+
+
+
+Ancient ultimatum!
 
 We broke into astounded lamentations. Our maternal uncle arrived opportunely; he whispered to Father some sage counsel, garnered no doubt from the ages. After Father had made a few conciliatory remarks, Mother happily dismissed the cab. Thus ended the only trouble I ever noticed between my parents. But I recall a characteristic discussion.
+
 
 “Please give me ten rupees for a hapless woman who has just arrived at the house.” Mother’s smile had its own persuasion.
 
 “Why ten rupees? One is enough.” 
 
+
 Father added a justification: “When my father and grandparents died suddenly, I had my first taste of poverty. 
+
 
 My only breakfast, before walking miles to my school, was a small banana. Later, at the university, I was in such need that I applied to a wealthy judge for aid of one rupee per month. He declined, remarking that even a rupee is important.”
 
@@ -118,9 +130,9 @@ Several years after Father had retired on a pension, an English accountant arriv
 “Why be elated by material profit?” Father replied. “The one who pursues a goal of evenmindedness is neither jubilant with gain nor depressed by loss. He knows that man arrives penniless in this world, and departs without a single rupee.”
 
 
-FATHER
+<!-- FATHER
 Bhagabati Charan Ghosh
-A Disciple of Lahiri Mahasaya
+A Disciple of Lahiri Mahasaya -->
 
 Early in their married life, my parents became disciples of a great master, Lahiri Mahasaya of Benares. This contact strengthened Father’s naturally ascetical temperament. Mother made a remarkable admission to my eldest sister Roma: “Your father and myself live together as man and wife only once a year, for the purpose of having children.”
 

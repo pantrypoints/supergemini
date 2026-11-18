@@ -4,6 +4,7 @@ heading: Chapter 35b
 description: ""
 c: "indigo"
 author: "Yogananda"
+icon: "Yogananda"
 weight: 323
 ---
 

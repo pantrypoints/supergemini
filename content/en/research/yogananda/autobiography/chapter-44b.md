@@ -4,6 +4,7 @@ heading: Chapter 44b
 description: ""
 c: "indigo"
 author: "Yogananda"
+icon: "Yogananda"
 weight: 360
 ---
 
@@ -17,12 +18,16 @@ Laughing, Mr. Wright and I climbed aboard the car and sped back to Maganvadi ami
 
 Reentering the guest house I was struck anew by the stark simplicity and evidences of self-sacrifice which are everywhere present. 
 
+## Mahatma Ghandi
+
 The Gandhi vow of non-possession came early in his married life. Renouncing an extensive legal practice which had been yielding him an annual income of more than $20,000, the Mahatma dispersed all his wealth to the poor.
 
 Sri Yukteswar used to poke gentle fun at the commonly inadequate conceptions of renunciation.
 
+{{< q a="Sri Yukteswar" >}}
+A beggar cannot renounce wealth. If a man laments: ‘My business has failed; my wife has left me; I will renounce all and enter a monastery,’ to what worldly sacrifice is he referring? He did not renounce wealth and love; they renounced him!
+{{< q >}}
 
-“A beggar cannot renounce wealth,” Master would say. “If a man laments: ‘My business has failed; my wife has left me; I will renounce all and enter a monastery,’ to what worldly sacrifice is he referring? He did not renounce wealth and love; they renounced him!”
 
 
 Saints like Gandhi, on the other hand, have made not only tangible material sacrifices, but also the more difficult renunciation of selfish motive and private goal, merging their inmost being in the stream of humanity as a whole.
@@ -48,14 +53,19 @@ One day the public treasurer, Kasturabai, could not account for a disbursement o
 I had often told this story before classes of my American students. One evening a woman in the hall had given an outraged gasp.
 
 
-
-“Mahatma or no Mahatma, if he were my husband I would have given him a black eye for such an unnecessary public insult!”
+{{< r a="Woman" >}}
+Mahatma or no Mahatma, if he were my husband I would have given him a black eye for such an unnecessary public insult!
+{{< /r >}}
 
 After some good-humored banter had passed between us on the subject of American wives and Hindu wives, I had gone on to a fuller explanation.
 
-“Mrs. Gandhi considers the Mahatma not as her husband but as her guru, one who has the right to discipline her for even insignificant errors,” I had pointed out. 
+{{< l a="Yogananda" >}}
+Mrs. Gandhi considers the Mahatma not as her husband but as her guru, one who has the right to discipline her for even insignificant errors
+{{< /l >}}
 
-“Sometime after Kasturabai had been publicly rebuked, Gandhi was sentenced to prison on a political charge. As he was calmly bidding farewell to his wife, she fell at his feet. ‘Master,’ she said humbly, ‘if I have ever offended you, please forgive me.’”
+{{< r a="Woman" >}}
+Sometime after Kasturabai had been publicly rebuked, Gandhi was sentenced to prison on a political charge. As he was calmly bidding farewell to his wife, she fell at his feet. ‘Master, ‘if I have ever offended you, please forgive me.’
+{{< /r >}}
 
 At 3pm in Wardha, I went to the writing room of Ghandi.
 
@@ -64,7 +74,6 @@ At 3pm in Wardha, I went to the writing room of Ghandi.
 {{< l a="Yogananda" >}}
 Mahatmaji, please tell me your definition of ahimsa.
 {{< /l >}}
-
 
 {{< r a="Mahatma Ghandi" >}}
 The avoidance of harm to any living creature in thought or deed.

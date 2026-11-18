@@ -4,13 +4,14 @@ heading: Chapter 44
 description: ""
 c: "indigo"
 author: "Yogananda"
+icon: "Yogananda"
 weight: 360
 ---
 
 
+Mahadev Desai, secretary to Mahatma Gandhi, greeted Miss Bletch, Mr. Wright, and myself with these cordial words and the gift of wreaths of khaddar (homespun cotton). 
 
-
-“Welcome to Wardha!” Mahadev Desai, secretary to Mahatma Gandhi, greeted Miss Bletch, Mr. Wright, and myself with these cordial words and the gift of wreaths of khaddar (homespun cotton). 
+<!-- “Welcome to Wardha!”  -->
 
 Our little group had just dismounted at the Wardha station on an early morning in August, glad to leave the dust and heat of the train. Consigning our luggage to a bullock cart, we entered an open motor car with Mr. Desai and his companions, Babasaheb Deshmukh and Dr. Pingale. 
 

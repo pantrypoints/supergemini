@@ -4,11 +4,16 @@ heading: Chapter 43
 description: "Sitting on my bed in the Bombay hotel at 3PM of June 19, 1936-one week after the vision of Krishna-I was roused from my meditation by a beatific light"
 c: "indigo"
 author: "Yogananda"
+icon: "Yogananda"
 weight: 355
 ---
 
 
+{{< l a="Yogananda" >}}
 “Lord Krishna!” 
+{{< /l >}}
+
+
 
 Krishna appeared in a shimmering blaze outside the Regent Hotel in Bombay as I gazed out of my third-story window.
 
