@@ -814,7 +814,7 @@ weight: 1
 | 08/15/2020 | [Event](/research/other/alien/essassani/transmissions/2020/2020-08-15/) | — |
 | 09/12/2020 | ["The Relationship Between Fear and Power"](/research/other/alien/essassani/transmissions/2020/2020-09-12/) | — |
 | 10/02/2020 | [An Evening With Bashar - October 2020](/research/other/alien/essassani/transmissions/2020/2020-10-02/) | — |
-| 10/10/2020 | [Your ET Neighbors](/research/other/alien/essassani/transmissions/2020/2020-10-10/) | — |
+| 10/10/2020 | [Your ET Neighbors](/research/other/alien/essassani/transmissions/2020/2020-10-10/) | Blue Men |
 | 11/07/2020 | [State of Being, Circumstances and Synchronicity](/research/other/alien/essassani/transmissions/2020/2020-11-07/) | — |
 | 12/05/2020 | ['Tis The Season](/research/other/alien/essassani/transmissions/2020/2020-12-05/) | — |
 | 01/30/2021 | [Let's Get H.I.G.H.](/research/other/alien/essassani/transmissions/2021/2021-01-30/) | — |
