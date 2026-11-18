@@ -26,7 +26,7 @@ Sri Yukteswar used to poke gentle fun at the commonly inadequate conceptions of 
 
 {{< q a="Sri Yukteswar" >}}
 A beggar cannot renounce wealth. If a man laments: ‘My business has failed; my wife has left me; I will renounce all and enter a monastery,’ to what worldly sacrifice is he referring? He did not renounce wealth and love; they renounced him!
-{{< q >}}
+{{< /q >}}
 
 
 
