@@ -150,19 +150,16 @@ For example:
 
 This is why we use **idea** as the measure of space and time, instead of using light which was done by Einstein. 
 
-The idea of a triangle has variations such as scalene, equilateral, isoceles that are relative to each other or have a relation to each other, which we call relationalities in order to associate with a relational database.
+The ***idea*** of a triangle has variations such as scalene, equilateral, isoceles that are relative to each other or have a relation to each other, which we call *relationalities* in order to associate with a relational database.
 
 These variations then prove the subjectivity of the universe. 
 
 Note that invariance does not exist in the pure aether where everything is arbitrary.
 
 
-
-
 ## Einstein's Crime
 
 Einstein was correct to debunk the Fresnel Aether. However, his crime was to replace it with a worse matter-based thing called the fabric of spacetime. Einstein fixed a mess by creating a bigger, more fatal mess that has gradually killed Physics from the early 20th century to the point that Data Science, that has zero Einstein, overtook it. Notice how physicists talk about AI which is about logic and ideas. 😂
-
 
 {{< q a="Einstein" c="On the Electrodynamics of Moving Bodies" >}}
 These two postulates of Relativity suffice for a simple and consistent theory of the electrodynamics of moving bodies based on Maxwell’s theory for stationary bodies. The introduction of a “luminiferous ether” is superfluous. There is no need for an “absolutely stationary space” that has special properties. 
@@ -184,7 +181,7 @@ This would have allowed new technologies such as:
 
 
 
-## Our Solution: Restore the Aether
+## Our Solution: Restore the Huygens Aether
 
 Since the whole mess was created by Fresnel confusing empty space with atomic empty space, which Einstein "solved" with a bigger problem, we strike the root cause by renaming the Fresnel aether as the aetherspace (3rd Element) which is different from the crude aether (2nd Element) and the pure aether (5th Element). 
 
@@ -197,9 +194,7 @@ This removes the need for all of Einstein's theories from the Photo Electric Eff
 Instead, this rebuilds on Maxwell, using Descartes principles which we double check with Sassani (alien) technology. This is to connect not only past with future, but also East with West with alien or galactic in order to have truly universal principles.
 
 
-
 {{< d t="Update Sept 2026" >}}
 Overhauled the article to make it simpler.
 {{< /d >}}
-
 
