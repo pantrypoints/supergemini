@@ -29,7 +29,7 @@ Where:
 
 | Symbol | Meaning | Unit |
 |---|---|---|
-| \( \tau \) | Shear stress | \( \text{Pa} = \text{N}/\text{m}^2 \) |
+| $\tau$ | Shear stress | $\text{Pa} = \text{N}/\text{m}^2$ \$ |
 | \( F \) | Applied tangential force | \( \text{N} \) |
 | \( A \) | Area parallel to force | \( \text{m}^2 \) |
 

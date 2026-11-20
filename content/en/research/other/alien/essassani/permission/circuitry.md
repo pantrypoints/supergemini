@@ -3,16 +3,15 @@ title: "Sacred Circuitry"
 weight: 44
 image: /graphics/meta/sirius.jpg
 c: "darkslategray"
+tags: ['sacred circuitry']
 description: "This was given by Sirius"
 ---
 
-
+[Source](research/other/alien/essassani/transmissions/2010/2010-06-20)
 
 ![Sirius](/graphics/meta/sirius.jpg)
 
-
-
-Meditate three days in a row, one card at a time, one minute per card, in order 1 through 15, for fifteen minutes.
+Meditate 3 days in a row, one card at a time, one minute per card, in order 1 through 15, for fifteen minutes.
 
 As you gaze and ponder and allow your mind to drift and just absorb the idea of the shape, just absorb the idea of the attendant concept without thinking, without analyzing. 
 

@@ -1,10 +1,11 @@
 ---
 heading: "Section 2"
-title: "The Jig-Society and Collectivinduality"
+title: "Social Networkism (Socianism) and Jig-Society"
 date: 2025-10-07
 weight: 7
 image: /photos/objects/jigsaw.jpg
 description: ""
+tags: ['Jig-society', 'Social Networkism', 'Socianism']
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -17,29 +18,34 @@ Unit 1 explained that the society organism is an oversoul made up of individual 
 
 The oversoul does not absorb the indvidiual souls. Instead, the souls keep their individuality and work under the direction of the oversoul which then looks at the interest of each individual soul.
 
-This creates a concept which we call *collectivinduality* which then forms the *jig society*. 
+This creates a concept which we call *social networkism* which, when unified, forms the *jig society*. 
 
 
 
-## Collectivinduality
+## Social Networkism or Socianism
 
 Communist systems, such as in the former USSR, push for collectivism which kills individual initiative and ambition, whereas Liberal systems, such as in the US, push for individuality which kills concerted action. 
 
 Liberalism became dominant after the fall of the USSR in 1991, leading to the world of the 2020's which is filled with wars, global warming, mental health crises and political polarization.
 
-Collectivinduality address both problems by putting individuality under the guidance of collectivism. 
+Social Networkism address both problems by putting individuality under the guidance of collectivism. 
 
 This has been difficult in previous generations because of the natural conflict between the self and society.
 
 We fix this through classification -- we classify each person based on his interests, productivity, social class, culture, etc. 
 
+This reverses the Communist trend towards classless society.
+
 We then group like minds together. This maintains individuality yet increases impact through group action, as evident in economies of scale and network effects.
 
-Thus, collectivinduality:
+Thus, Social Networkism:
 - encourages individuality that supports the common interest such as developing innovative technologies, driving sustainable actions, going against immorality and crime, etc. 
 - maintains social cohesion by focusing on similarities instead of differences.
 
-We can say that Collectivinduality is of the Positive Force, while anarchy, apartheid, and segregation is of the Negative.
+We can say that Social Networkism is of the Positive Force, while anarchy, apartheid, and segregation is of the Negative.
+
+We shorten it to ***Socianism*** as an alternative to socialism which somehow is currently associated with Communism.
+
 
 <!-- Individualism and Collectivism are opposite. How does Supersociology harminize them?
 
@@ -49,7 +55,7 @@ We harmonize them by making collectivism the undercurrent of individual actions.
 ## Jig-Society
 
 
-The dynamics of collectivinduality then leads to a Jig-Society. 
+The dynamics of Social Networkism then leads to a Jig-Society when the network is confined by an overarching idea. This creates a new society-oversoul.
 
 This paradigm sees the society as a jigsaw picture-puzzle where each person is an essential piece that completes the whole picture. 
 - The big picture represents the oversoul
@@ -77,9 +83,6 @@ The job of making the pieces fit is done by the government as it has the moral a
 
 
 Currently, society is not cohesive because the mentality is limited to the self instead of expanding to others. 
-
-
-
 
 
 <!-- **Jig-Society: The Emergence of Collectivinduality**

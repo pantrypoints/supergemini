@@ -6,7 +6,7 @@ c: "indigo"
 image: /covers/ra.jpg
 weight: 174
 date: 1981-01-24
-tags: ['', '']
+tags: ['Allopathic Medicine', '']
 ---
 
 
@@ -14,31 +14,54 @@ tags: ['', '']
 July 26, 1981
 
 
-{{< r a="Don Elkins" >}}I would like to ask first about a mistake I believe that I might have made in the last session on the number of Wanderers on earth today. Did I make an error?{{< /r >}}
+{{< r a="Don Elkins" >}}
+I would like to ask first about a mistake I believe that I might have made in the last session on the number of Wanderers on earth today. Did I make an error?{{< /r >}}
 
-{{< l a="Ra" >}}You and Ra made an error. The appropriate number of your ciphers is one less than previously stated.{{< /l >}}
+{{< l a="Ra" >}}
+You and Ra made an error. The appropriate number of your ciphers is one less than previously stated.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Thank you. Could you explain the basic principles behind the ritual which we perform to initiate the contact and what I would call the basic white magical rituals— principles of protection and other principles? Could you please do this?{{< /r >}}
 
-{{< l a="Ra" >}}Due to your avenue of question we perceive the appropriateness of inclusion of the cause of Carla’s transitory vital energy distortion. The cause is a bias towards the yearning for expression of devotion to the One Creator in group worship.
+### Church Rituals for Protection
 
-This entity was yearning for this protection both consciously in that it responds to the accoutrements of this expression, the ritual, the colors and their meanings as given by the distortion system of what you call the church, the song of praise, and the combined prayers of thanksgiving and, most of all, that which may be seen to be most centrally magical, the intake of that food which is not of this dimension but has been transmuted into metaphysical nourishment in what this distortion of expression calls the holy communion.
+{{< r a="Don Elkins" >}}
+Could you explain the basic principles behind the ritual which we perform to initiate the contact and what I would call the basic white magical rituals— principles of protection and other principles?
+{{< /r >}}
 
-The subconscious reason, it being the stronger for this yearning was the awareness that such expression is, when appreciated by an entity as the transmutation into the presence of the One Creator, a great protection of the entity as it moves in the path of service to others.
+{{< l a="Ra" >}}
+We will include the cause of Carla’s transitory vital energy distortion -- a bias towards the yearning for expression of devotion to the One Creator in group worship.
 
-The principle behind any ritual of the white magical nature is to so configure the stimuli which reach down into the trunk of mind that this arrangement causes the generation of disciplined and purified emotion or love which then may be both protection and the key to the gateway to intelligent infinity.{{< /l >}}
+Carla was yearning for this protection both consciously and subconsciously. 
+- Consciously, she responds to the song of praise, the combined prayers of thanksgiving, the colors and meanings, rituals given by the church. The most centrally magical of these is the holy communion -- the intake of that food which is not of this dimension but has been transmuted into metaphysical nourishment.
+- Subconsciously, she more strongly yearns for the great protection given by the awareness of the transmutation into the presence of the One Creator as she moves in the path of service to others.
 
-{{< r a="Don Elkins" >}}Can you tell me why the slight error made in the ritual starting this communication two sessions ago allowed the intrusion of one Orion affiliated entity?{{< /r >}}
+<!--  the awareness that such expression is,
+when appreciated by an entity as ,  -->
 
-{{< l a="Ra" >}}This contact is narrow-band and its preconditions precise. The other-self offering its service in the negative path also is possessed of the skill of the swordsman. You deal in this contact with, shall we say, forces of great intensity poured into a vessel as delicate as a snowflake and as crystalline.
+Any ritual of the white magical nature reaches down into the trunk of mind. 
+
+The principle behind such rituals is to configure the stimuli so that this arrangement generates disciplined and purified emotion or love which then may be both protection and the key to the gateway to intelligent infinity.
+{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+Can you tell me why the slight error made in the ritual starting this communication two sessions ago allowed the intrusion of one Orion affiliated entity?{{< /r >}}
+
+{{< l a="Ra" >}}
+This contact is narrow-band and its preconditions precise. The other-self offering its service in the negative path also is possessed of the skill of the swordsman. 
+
+You deal in this contact with, shall we say, forces of great intensity poured into a vessel as delicate as a snowflake and as crystalline.
 
 The smallest of lapses may disturb the regularity of this pattern of energies which forms the channel for these transmissions.
 
-We may note for your information that our pause was due to the necessity of being quite sure that the mind/body/spirit complex of Carla was safely in the proper light configuration or density before we dealt with the situation. Far better would it be to allow the shell to become unviable than to allow the mind/body/spirit complex to be shall we say, misplaced.{{< /l >}}
+our pause was due to the necessity of being sure that the mind/body/spirit complex of Carla was safely in the proper light configuration or density before we dealt with the situation.
 
-{{< r a="Don Elkins" >}}Could you describe or tell me of rituals or technique used by Ra in seeking in the direction of service?{{< /r >}}
+Far better would it be to allow the shell to become unviable than to allow the mind/body/spirit complex to be shall we say, misplaced.
+{{< /l >}}
 
-{{< l a="Ra" >}}To speak of that which sixth-density social memory complexes labor within in order to advance is at best misprision of plain communication for much is lost in transmission of concept from density to density, and the discussion of sixth density is inevitably distorted greatly.
+{{< r a="Don Elkins" >}}
+Could you describe or tell me of rituals or technique used by Ra in seeking in the direction of service?{{< /r >}}
+
+{{< l a="Ra" >}}
+To speak of that which sixth-density social memory complexes labor within in order to advance is at best misprision of plain communication for much is lost in transmission of concept from density to density, and the discussion of sixth density is inevitably distorted greatly.
 
 However, we shall attempt to speak to your query for it is an helpful one in that it allows us to express once again the total unity of creation. We seek the Creator upon a level of shared experience to which you are not privy and rather than surrounding ourselves in light we have become light. Our understanding is that there is no other material except light. Our rituals, as you may call them, are an infinitely subtle continuation of the balancing processes which you are now beginning to experience.
 
@@ -50,7 +73,8 @@ Your rituals at your level of progress contain the concept of polarization and t
 
 We may answer further if you have specific queries.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Would it be helpful if Ra were to describe the techniques used while Ra was in third density to evolve in mind, body, and spirit?{{< /r >}}
+{{< r a="Don Elkins" >}}
+Would it be helpful if Ra were to describe the techniques used while Ra was in third density to evolve in mind, body, and spirit?{{< /r >}}
 
 {{< l a="Ra" >}}This query lies beyond the Law of Confusion.{{< /l >}}
 
@@ -80,23 +104,43 @@ The most interesting portion of this information, like that of each cycle, is th
 
 {{< r a="Don Elkins" >}}I have no ability to judge at what point, at what level of abilities the adept would reach this point of being, shall we say, independent of the cyclical action. Can you give me an indication of what level of “adeptness” that would be necessary to be so independent?{{< /r >}}
 
-{{< l a="Ra" >}}We are fettered from speaking specifically due to this group’s work, for to speak would seem to be to judge. However, we may say that you may consider this cycle in the same light as the so-called astrological balances within your group; that is, they are interesting but not critical.{{< /l >}}
+{{< l a="Ra" >}}
+We are fettered from speaking specifically due to this group’s work, for to speak would seem to be to judge. However, we may say that you may consider this cycle in the same light as the so-called astrological balances within your group; that is, they are interesting but not critical.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Thank you. I read that recent research has indicated that the normal sleep cycle for entities on this planet occurs one hour later each diurnal period so that we have a 25-hour cycle instead of a 24. Is this correct, and if so, why is this?{{< /r >}}
+{{< r a="Don Elkins" >}}
+I read that recent research has indicated that the normal sleep cycle for entities on this planet occurs one hour later each diurnal period so that we have a 25-hour cycle instead of a 24. Is this correct, and if so, why is this?{{< /r >}}
 
-{{< l a="Ra" >}}This is in some cases correct. The planetary influences from which those of Mars experience memory have some effect upon these third density physical bodily complexes. This race has given its genetic material to many bodies upon your plane.{{< /l >}}
+{{< l a="Ra" >}}
+This is in some cases correct. The planetary influences from which those of Mars experience memory have some effect upon these third density physical bodily complexes. This race has given its genetic material to many bodies upon your plane.{{< /l >}}
 
-{{< r a="Don Elkins" >}}Thank you. Ra mentioned the ones Stuart and Douglas in a recent session. These are members of what we call our medical profession. What is the value, overall value, shall I say, of modern medical techniques in alleviating bodily distortions with respect to the purpose for these distortions and what we might call karma and other effects?{{< /r >}}
 
-{{< l a="Ra" >}}This query is convoluted. However, we shall make some observations in lieu of attempting one coherent answer, for that which is allopathic among your healing practices is somewhat two-sided.
+### Allopathic Medicine
 
-Firstly, you must see the possibility/probability that each and every allopathic healer is in fact an healer. Within your cultural nexus this training is considered the appropriate means of perfecting the healing ability. In the most basic sense any allopathic healer may be seen to, perhaps, be one whose desire is service to others in alleviation of bodily complex and mental/emotional complex distortions so that the entity to be healed may experience further catalyst over a longer period of what you call the life. This is a great service to others when appropriate due to the accumulation of distortions toward wisdom and love which can be created through the use of the space/time continuum of your illusion.
+{{< r a="Don Elkins" >}}
+Ra mentioned the ones Stuart and Douglas in a recent session. These are members of our medical profession. What is the overall value of modern medical techniques in alleviating bodily distortions with respect to karma and other effects?
+{{< /r >}}
+
+{{< l a="Ra" >}}
+<!-- This query is convoluted. However, we shall make some observations in lieu of attempting one coherent answer, for that which is  -->
+Allopathic healing practice is somewhat two-sided.
+
+1. Each and every allopathic healer is in fact an healer.
+
+Within your cultural nexus this training is considered the appropriate means of perfecting the healing ability.
+
+Any allopathic healer may be seen to be one whose desire is service to others in alleviation of bodily complex and mental/emotional complex distortions so that the entity to be healed may experience further catalyst over a longer period of what you call the life.
+
+This is a great service to others when appropriate due to the accumulation of distortions toward wisdom and love which can be created through the use of the space/time continuum of your illusion.
 
 In observing the allopathic concept of the body complex as the machine we may note the symptomology of a societal complex seemingly dedicated to the most intransigent desire for the distortions of distraction, anonymity, and sleep. This is the result rather than the cause of societal thinking upon your plane.
 
-In turn this mechanical concept of the body complex has created the continuing proliferation of distortions towards what you would call ill-health due to the strong chemicals used to control and hide bodily distortions. There is a realization among many of your peoples that there are more efficacious systems of healing not excluding the allopathic but also including the many other avenues of healing.{{< /l >}}
+2. In turn this mechanical concept of the body complex has created the continuing proliferation of distortions towards what you would call ill-health due to the strong chemicals used to control and hide bodily distortions. 
 
-{{< r a="Don Elkins" >}}Let us assume that a bodily distortion occurs within a particular entity who then has a choice of seeking allopathic aid or experiencing the catalyst of the distortion and not seeking correction of the distortion. Can you comment on [the] two possibilities for this entity and his analysis of each path?{{< /r >}}
+There is a realization among many of your peoples that there are more efficacious systems of healing not excluding the allopathic but also including the many other avenues of healing.
+{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+Let us assume that a bodily distortion occurs within a particular entity who then has a choice of seeking allopathic aid or experiencing the catalyst of the distortion and not seeking correction of the distortion. Can you comment on [the] two possibilities for this entity and his analysis of each path?{{< /r >}}
 
 {{< l a="Ra" >}}If the entity is polarized towards service to others, analysis properly proceeds along the lines of consideration of which path offers the most opportunity for service to others.
 
@@ -112,7 +156,8 @@ For the unpolarized entity the considerations are random and most likely in the 
 
 {{< l a="Ra" >}}This entity was one of a small group of thought-forms.{{< /l >}}
 
-{{< r a="Don Elkins" >}}He also asked— and I know this is unimportant— why there were no Bigfoot remains found, that is after the Bigfoot entities had died on our surface. He had asked why there had never been any remains of these entities found. Could you answer this for him? It’s just of no importance but just as a service to him I ask it.{{< /r >}}
+{{< r a="Don Elkins" >}}
+He also asked— and I know this is unimportant— why there were no Bigfoot remains found, that is after the Bigfoot entities had died on our surface. He had asked why there had never been any remains of these entities found. Could you answer this for him? It’s just of no importance but just as a service to him I ask it.{{< /r >}}
 
 {{< l a="Ra" >}}You may suggest that exploration of the caves which underlie some of the western coastal mountain regions of your continent will one day offer such remains. They will not be generally understood if this culture survives in its present form long enough in your time measurement for this probability/possibility vortex to occur.
 
@@ -120,9 +165,21 @@ There is enough energy for one more full query at this time.{{< /l >}}
 
 {{< r a="Don Elkins" >}}In the healing exercises, when you say examine the sensations of the body, do you mean those sensations available to the body via the five senses or in relation to the natural functions of the body such as touching, loving, sexual sharing, and company, or are you speaking of something else altogether?{{< /r >}}
 
-{{< l a="Ra" >}}The questioner may perceive its body complex at this moment. It is experiencing sensations. Most of these sensations or in this case, nearly all of them, are transient and without interest. However, the body is the creature of the mind. Certain sensations carry importance due to the charge or power which is felt by the mind upon the experience of this sensation.
+{{< l a="Ra" >}}
+The questioner may perceive its body complex at this moment. It is experiencing sensations. Most of these sensations or in this case, nearly all of them, are transient and without interest.
 
-For instance, at this space/time nexus one sensation is carrying a powerful charge and may be examined. This is the sensation of what you call the distortion towards discomfort due to the cramped position of the body complex during this working. In balancing you would then explore this sensation. Why is this sensation powerful? Because it was chosen in order that the entity might be of service to others in energizing this contact.
+However, the body is the creature of the mind. Certain sensations carry importance due to the charge or power which is felt by the mind upon the experience of this sensation.
+
+For instance, at this space/time nexus one sensation is carrying a powerful charge and may be examined. This is the sensation of what you call the distortion towards discomfort due to the cramped position of the body complex during this working. In balancing you would then explore this sensation. 
+{{< /l >}}
+
+{{< r a="Don Elkins" >}}
+Why is this sensation powerful? 
+{{< /r >}}
+
+
+{{< l a="Ra" >}}
+Because it was chosen in order that the entity might be of service to others in energizing this contact.
 
 Each sensation that leaves the aftertaste of meaning upon the mind, that leaves the taste within the memory shall be examined. These are the sensations of which we speak.{{< /l >}}
 
