@@ -122,7 +122,8 @@ Bashar does the general work of introducing 4th and 5th density concepts. The ot
 
 ## Common Effects of Sassani Teachings
 
-The most commmon effect is for people to liberate themselves, which they do by quitting their jobs. This puts them into financial trouble and so many questions are about [Abundance](/tags/abundance/) 
+The most commmon effect is for people to liberate themselves, which they do by quitting their jobs. This puts them into financial trouble and so many questions are about [Abundance](/tags/abundance/). This is why [the Money Workshop](/research/other/alien/essassani/transmissions/1998/1998-03-13/) is essential for such 3rd density people.
+
 
 
 {{< b >}}
